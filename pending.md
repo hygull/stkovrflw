@@ -1,5 +1,5 @@
 https://stackoverflow.com/questions/32597209/python-not-working-in-the-command-line-of-git-bash
-................
+
 I am windows 10 user and I have installed **GIT** in my system by just accepting the defaults.
 
 After reading the above answers, I got 2 solutions for my own and these 2 solutions perfectly works on **GIT** bash and facilitates me to execute Python statements on **GIT** bash.

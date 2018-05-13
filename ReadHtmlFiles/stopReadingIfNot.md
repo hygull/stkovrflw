@@ -46,6 +46,7 @@ The below Python code shows how will you read files source1.html, source2.html, 
 
 		n += 1;
 
+
 ## Output:
 
 	H:\RishikeshAgrawani\Projects\Stk\ReadHtmlFiles>python stopReadingIfNot.py

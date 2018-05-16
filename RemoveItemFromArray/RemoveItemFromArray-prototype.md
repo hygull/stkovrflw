@@ -1,6 +1,6 @@
 Define a method name remove() on array objects using prototying feature of JavaScript.
 
-> Use **splice()** method to dulfill your requirement.
+> Use **splice()** method to fulfill your requirement.
 
 Please have a look at the below code.
 
@@ -44,7 +44,7 @@ Please have a look at the below code.
 	// Item 67 found at  2
 	// [ 11, 22, 45, 61, 89, 34, 12, 7, 8, 3, -1, -4 ]
 
-> **Node:** Below is the full example code executed using **Node.js REPL** which describes the use of push(), pop(), shift(), unshift() and splice() methods.
+> **Note:** Below is the full example code executed on **Node.js REPL** which describes the use of push(), pop(), shift(), unshift() and splice() methods.
 
 	> // Defining an array
 	undefined

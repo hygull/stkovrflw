@@ -24,6 +24,7 @@ These are the contents of my current working directory.
 
 The below Python code shows how will you read files source1.html, source2.html, source.3.html and stop if there is no more files of the form sourceX.html (where X is 1, 2, 3, 4, ... etc.).
 
+
 ## Sample code:
 
 	import os

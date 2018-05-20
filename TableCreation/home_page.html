@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<center>
+		<h1>All Users</h1>
+	</center>
+
+	<center>
+	<div id='table'>
+		No user(s) found.
+		<br>
+		<button onclick="createUsersTable()">Create now</button>
+	</div>
+	</center>
+
+<!-- js code -->
+<script type="text/javascript">
+	function createUsersTable() {
+		var n = prompt('Enter number of users that you want to create.');
+		var tableHtmlStart = "<table><tr><td>Users</td></tr>";
+		var users = ""
+		var tableHtmlEnd = "</table>"
+
+		console.log(n)
+
+		if(n === null) {
+			alert("You cancelled")
+			document.getElementById("table").innerHTML = "You cancelled"
+		} else {
+				if(n === '') {
+					alert("Don't leave blank, please enter an integer")
+					createUsersTable()
+				} else {
+					n = parseInt(n);
+					if(!Number.isInteger(n)){
+						alert("Input should be an integer, please enter an integer")
+						createUsersTable()
+					} else {
+						if(n < 0) {
+							alert("Please enter a +ve integer, you entered: "+ n)
+							createUsersTable()
+						} else {
+							for(var i = 0; i < n; ){
+								var user = prompt("Enter the name of USER " + i + ":")
+								if(user == null) {
+									alert("You cancelled, please enter correct name of USER" + i)
+								} else {
+									if(user == ''){
+										alert("Username can't be blank, please enter correct name of USER" + i)
+									} else {
+										users += '<tr><td>' + user + '</td></tr>'
+										i = i + 1;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+
+			document.getElementById("table").innerHTML = tableHtmlStart + users + tableHtmlEnd;
+		}
+</script>
+</body>
+</html>

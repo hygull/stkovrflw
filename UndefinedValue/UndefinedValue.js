@@ -1,6 +1,7 @@
 function getObj(attributes)
 {
 	const { one: newOne = '', two: newTwo = '', three: newThree = '' } = attributes;
+	// const { one: newOne = '', two: newTwo = '', three: newThree = '' } = attributes;
 
 	// var oneValue = one ? one : "";
 	// var twoValue = two ? two : "";

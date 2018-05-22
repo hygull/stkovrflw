@@ -1,0 +1,24 @@
+I'm trying to make a shop cart as an exercise, but some how i'm unable to add the price of the selected products together.
+
+JS:
+
+var productPrice = document.getElementById("productPrice");
+
+var totalPrice = document.getElementById("totalPrice");
+
+var addAlert = document.getElementById("addAlert");
+
+var arr = [];
+
+function addToCart() { // onclick Event to add and show the price
+ arr.push(productPrice.innerHTML);
+ function getSum(total, num) {
+ return total + num;
+}
+var tempTotal = arr.reduce(getSum);
+totalPrice.innerHTML = tempTotal;
+
+}
+So if the price is 2000, and adding it multiple times it should output 2000+2000+2000 = 6000, but now it just outputs 200020002000.
+
+How do I fix this?

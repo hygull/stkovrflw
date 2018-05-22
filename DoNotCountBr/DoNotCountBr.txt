@@ -1,0 +1,19 @@
+
+I have a string consist of "br" an "nbsp;" tags , what i need is that i need to have limit the character to 100, which means only 100 characters should show, since each "br" takes 4 characters instead of 100 i am getting 108, to getting below output i can do it in a single line
+
+data.substr(0,100) 
+output =>
+
+it to make a type specimen book. 
+
+It has survived not only five centuries, but also the leap
+
+but it includes br tag i dont want to remove br and nbsp; but don't count that
+
+expected output =>
+
+it to make a type specimen book. 
+
+It has survived not only five centuries, but also the leap into ele
+
+i have done some snippet, but it gives the count of 108

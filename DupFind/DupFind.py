@@ -100,7 +100,7 @@ def duplicate_finder5(word):
 	i = 1;
 
 	for ch, count in Counter(word).items():
-		print '(', i, ') Original character: \'', ch, '\'with', count - 1, 'more occurence(s)'
+		# print '(', i, ') Original character: \'', ch, '\'with', count - 1, 'more occurence(s)'
 		if count == 1:
 			word = word.replace(ch, '(')	
 		else:
@@ -109,19 +109,21 @@ def duplicate_finder5(word):
 			word = ''.join(l) 
 			word = word.replace(ch, ')')
 
-		print 1, 'occurence of \'', ch, '\' replaced with \'(\' and remaining ', count - 1, ' occurence(s) with \')\''
-		print 'Iteration ', i, ' gives: ', word, '\n'
+		# print 1, 'occurence of \'', ch, '\' replaced with \'(\' and remaining ', count - 1, ' occurence(s) with \')\''
+		# print 'Iteration ', i, ' gives: ', word, '\n'
 		i += 1
 	return word
 
-# Testing
+# # Testing
 
-s = '\nINPUT STRING : abaccccsgfsyetgdggdh' 
-s = s + "\nOUTPUT STRING: "
-print s + duplicate_finder5('abaccccsgfsyetgdggdh')
+# s = '\nINPUT STRING : abaccccsgfsyetgdggdh' 
+# s = s + "\nOUTPUT STRING: "
+print duplicate_finder5('abaccccsgfsyetgdggdh')
 
-# print s + duplicate_finder5('AAABBBCCC34519543absd67das1729')
+
+print duplicate_finder5('AAABBBCCC34519543absd67das1729')
 # AAABBBCCC34519543absd67das1729
+# ())())())((((()))))(((()))))()
 # ())())())((((()))))(((()))))()
 """
 %%

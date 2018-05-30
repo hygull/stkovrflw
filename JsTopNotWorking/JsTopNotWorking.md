@@ -1,0 +1,1 @@
+console.log(alert("<div style='position: absolute; left:" + top +"px; top:" + left + "px;'> <h1 style='font-size:10px; color:blue;'> HELLO WORLD </h1></div>"));

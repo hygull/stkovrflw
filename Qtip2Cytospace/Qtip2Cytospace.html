@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="http://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.min.css" rel="stylesheet" type="text/css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.12/cytoscape.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-qtip/2.7.0/cytoscape-qtip.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.min.js"></script>
+	<script src="graph.js"></script>
+</head>
+
+<style>
+body { 
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#cy {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 800px;
+  height: 500px;
+  border: 1px solid lightgray;
+}
+
+</style>
+
+<body>
+	<div id="cy"> </div>
+
+<script>
+
+    $(function(){ 
+
+        var cy = cytoscape({  
+        container: document.getElementById('cy'),
+      
+        style: [
+            {
+           selector: 'node',
+            style: {
+                'content': 'data(name)',
+               }
+            }
+        ],
+      
+
+      elements: [
+                {
+                "data": {
+                    "id": "a2345",
+                    "name" : "b1234",
+                    "type": "test", 
+                    }
+                },
+                {
+                "data": {
+                    "id": "a212",
+                    "name" : "c34",
+                    "description": "hellooo", 
+                    }
+                },
+         ],
+    });
+
+    // You have edited your code from this point
+        var i = 1;
+        cy.nodes().qtip({
+            content:function(){  
+              var string;
+              if(this._private["index"] == undefined){
+                this._private["index"] = i;
+                string = "Node" + i + " - " + "id: "+ this.data("id")+ ", name: " + this.data("name")
+                i += 1
+              } else {
+                string = "Node" + this._private["index"] + " - " + "id: "+ this.data("id")+ ", name: " + this.data("name")
+              }
+
+              // Deleting values with fixed keys
+              delete this.data("id")
+              delete this.data("name")
+
+              console.log(this.data)
+              console.log(this._private.data)
+              console.log(this)
+              for(var key in this._private.data) { // iterating over remaining keys
+                string += ", " + key + ": " + this.data(key)
+              }
+
+                    
+              return string
+            },
+          
+          style: {
+            classes: 'qtip-bootstrap',
+          }, 
+        });     
+    }); 
+</script>
+</body>
+
+</html>

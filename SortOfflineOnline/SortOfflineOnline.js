@@ -75,6 +75,9 @@ objs.map((item, index) => {
 	}
 	objs.splice(index, 1) // remove
 })
+
+/* Pretty printing objs array */
+console.log(JSON.stringify(objs, null, 4))  // After modification (sorting)
 /*
 [
     {
@@ -94,10 +97,6 @@ objs.map((item, index) => {
     }
 ]
 */
-
-
-/* Pretty printing objs array */
-console.log(JSON.stringify(objs, null, 4))  // After modification (sorting)
 
 /*
 unction [matchedSymbols, symbolsT] = matchSymbols( symbolsM, symbolsT )

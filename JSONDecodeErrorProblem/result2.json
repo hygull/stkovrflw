@@ -1,0 +1,52 @@
+[
+{
+  "host": "host1.com",
+  "ip": "x.x.x.x",
+  "port": 443,
+  "tlsVersions": [
+    "TLSv1_2"
+  ],
+  "cipherSuite": {
+    "supported": [
+      "ECDHE-RSA-AES256-GCM-SHA384"
+    ]
+  },
+  "x509ChainDepth": 2,
+  "verifyCertResult": true,
+  "verifyHostResult": true,
+  "ocspStapled": true,
+  "verifyOcspResult": true,
+  "certificateChain": [
+  {
+    "version": 3
+  },  {
+    "version": 3
+  } ]
+},
+
+{
+  "host": "host2.com",
+  "ip": "y.y.y.y",
+  "port": 443,
+  "tlsVersions": [
+    "TLSv1_2"
+  ],
+  "cipherSuite": {
+    "supported": [
+      "ECDHE-RSA-AES256-GCM-SHA384"
+    ]
+  },
+  "x509ChainDepth": 2,
+  "verifyCertResult": true,
+  "verifyHostResult": true,
+  "ocspStapled": true,
+  "verifyOcspResult": true,
+  "certificateChain": [
+  {
+    "version": 3
+  },  {
+    "version": 3
+  } ]
+}
+
+]

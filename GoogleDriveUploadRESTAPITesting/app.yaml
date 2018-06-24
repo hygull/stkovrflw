@@ -1,0 +1,21 @@
+libraries:
+- name: cachetools
+  version: "2.1.0"
+- name: google-api-python-client
+  version: "1.7.3"
+- name: google-auth
+  version: "1.5.0"
+- name: google-auth-httplib2
+  version: "0.0.3"
+- name: httplib2
+  version: "0.11.3"
+- name: pyasn1
+  version: "0.4.3"
+- name: pyasn1-modules
+  version: "0.2.1"
+- name: rsa
+  version: "3.4.2"
+- name: six
+  version: "1.11.0"
+- name: uritemplate
+  version: "3.0.0"

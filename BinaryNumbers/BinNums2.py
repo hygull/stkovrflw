@@ -1,21 +1,21 @@
 """
-INPUTS AND EXPECTED OUTPUTS:-
-
-	9     => "1001"
-	60    => "0011_1100"
-	100   => "0110_0100"
-	63000 => "1111_0110_0001_1000"
+9     => "1001"
+60    => "0011_1100"
+100   => "0110_0100"
+63000 => "1111_0110_0001_1000"
+		  1111 0110 0001 1000
 """
 def get_binary(n):
 	s = bin(n)[2:]; # Getting binary string
-
-	strs = [];
-
+	l = len(s);     # Finding lenght of binary string
+	
+	print (s)
+	strs = []
 	while s:
-		l = len(s);     # Finding lenght of binary string
-
+		l = len(s);
 		if l > 4:
-			strs.insert(0, s[l-4:]);
+			strs.append(s[l-4:]);
+			print(s[l-4:])
 			s = s[:l-4];
 		else:
 			l = len(s);
@@ -25,21 +25,21 @@ def get_binary(n):
 	
 	return "_".join(strs);
 
-# EXAMPLE 1
-a = 9;
-print(get_binary(a)); # 1001
+# # EXAMPLE 1
+# a = 9;
+# print(get_binary(a)); # 1001
 
-# EXAMPLE 2
-b = 60;
-print(get_binary(b)); # 0011_1100
+# # EXAMPLE 2
+# b = 60;
+# print(get_binary(b)); # 0011_1100
 
-# EXAMPLE 3
-c = 100;
-print(get_binary(c)); # 0110_0100
+# # EXAMPLE 3
+# c = 100;
+# print(get_binary(c)); # 0110_0100
 
 # EXAMPLE 4
 d = 63000;
-print(get_binary(d)); # 1111_0110_0001_1000
+print(get_binary(d)); # 1111_1000_0001_0110
 
 
 

@@ -1,0 +1,14 @@
+
+Microsoft DiskPart version 10.0.17134.1
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-95F8J5U
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     D   System Rese  NTFS   Partition    100 MB  Healthy            
+  Volume 1     C                NTFS   Partition    243 GB  Healthy    Boot    
+  Volume 2     F                NTFS   Partition    221 GB  Healthy            
+  Volume 3         System Rese  NTFS   Partition    100 MB  Healthy    System  
+  Volume 4     G                NTFS   Partition    244 GB  Healthy            
+  Volume 5     H   New Volume   NTFS   Partition    221 GB  Healthy            

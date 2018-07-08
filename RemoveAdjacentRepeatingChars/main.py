@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/51164448/remove-all-adjacent-duplicates-using-a-loop/51165745#51165745
+
 def remove_adjacent_duplicates(answer):
     new_answer = ""    # output string
     ch_last = ""       # current character of last iteration

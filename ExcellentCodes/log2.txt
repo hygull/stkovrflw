@@ -1,0 +1,8 @@
+
+Microsoft DiskPart version 10.0.17134.1
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-95F8J5U
+
+DiskPart was unable to open or read the script file.
+Make sure the file you specified exists.

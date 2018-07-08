@@ -42,7 +42,7 @@ def predict_prices(dates, proces, x):
     
     return svr_rbf.predict(x)[0], svr_lin.predict(x)[0], svr_poly.predict(x)[0]
 
-get_data('.\FL_insurance_sample.csv')
+get_data('.\\FL_insurance_sample.csv')
 
 # predicted_price = predict_pice[dates, prices, 29]
     

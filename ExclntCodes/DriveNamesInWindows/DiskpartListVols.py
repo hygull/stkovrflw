@@ -13,7 +13,6 @@ drives = []
 
 with open(file_name) as f:
 	lines = f.readlines()
-
 	while lines:
 		if '----------' in lines[0]:
 			lines.remove(lines[0])
@@ -34,7 +33,7 @@ else:
 
 print 'Dear ' + user + ','
 print 'You have the following drives in your system.'
-print '\n'.join([str(t[0] + 1) + ". " + t[1] for t in enumerate(drives)])
+print '\n'.join([str(t[0] + 1) + ". " + t[1] for t in enumerate(sorted(drives))])
 
 """
 ['', '', 'Volume', '0', '', '', '', '', 'D', '', '', 'System', 'Rese', '', 'NTFS', '', '', 'Partition', '', '', '', '100', 'MB', '', 'Healthy', '', '', '', '', '', '', '', '', '', '', '', '\n']

@@ -1,0 +1,10 @@
+('ikdkd', 'Okay\n')
+Okay
+
+('ikdkd', 'It\n')
+It
+
+('ikdkd', 'is just\n')
+is just
+
+('ikdkd', 'a simple problem')

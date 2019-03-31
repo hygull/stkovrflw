@@ -1,0 +1,23 @@
+######################################################################
+000003c80e06 - 000-00634-42438-177 - Thu Mar 28 13:17:42 GMT 2019
+######################################################################
+
+       Packet Time       |     Source     |  Destination   | Length |    Spid    |    Description     |                               Payload 
+-------------------------+----------------+----------------+--------+------------+--------------------+---------------------------------------------------------------------
+ 2019-03-24 13:36:34.445 | 10.11.0.24     | Charter Stable |     27 | FLUX rDVR  |                    | .X...B.......k..........-..
+ 2019-03-24 13:36:34.477 | Charter Stable | 10.11.0.24     |      3 | FLUX rDVR  |                    | .X.
+ 2019-03-24 13:38:55.956 | 10.11.0.24     | Charter Stable |     79 | 2Way Proxy | App.list DL        | POST.http://qsas:7070/mac-settings/app.list?..p:id=..70...uid=00000
+ 2019-03-24 13:38:58.678 | Charter Stable | 10.11.0.24     |    698 | 2Way Proxy | 200 Response       | 200.dd:1553434738.cl:659.p:id=..70...EBIF.......H..................
+ 2019-03-24 15:22:47.237 | 10.11.0.24     | Charter Stable |     16 | ESS        | Settings.cr        | .....GR7..&p=1C
+ 2019-03-24 15:22:47.268 | Charter Stable | 10.11.0.24     |     72 | ESS        | 304 Response       | 304.dd:1553440967.ex:1553527367.lm:1548892141.du:86400.au:1.p:id=71
+ 2019-03-24 15:23:08.84  | 10.11.0.24     | Charter Stable |     62 | Bin Req    | MacG Reg           | ....^HL5|mac000003c80e06|upt1552481982|ipa168493080|pid4|nid14
+ 2019-03-24 15:23:08.868 | Charter Stable | 10.11.0.24     |     16 | Bin Req    | 202 Response       | 202.p:id=72.....
+ 2019-03-24 15:25:24.31  | 10.11.0.24     | Charter Stable |     95 | 2Way Proxy | IU DR Download     | GET.http://webdav/dav/IU/iu/1.7/M6412-G345/iu_channelList_dr.dr..p:
+ 2019-03-24 15:25:24.4   | Charter Stable | 10.11.0.24     |     46 | 2Way Proxy | 304 Response       | 304.dd:1553441124.ex:1525371531.p:id=..73.....
+ 2019-03-24 19:36:34.749 | 10.11.0.24     | Charter Stable |     27 | FLUX rDVR  |                    | .Y...B.......k.............
+ 2019-03-24 19:36:34.781 | Charter Stable | 10.11.0.24     |      3 | FLUX rDVR  |                    | .Y.
+ 2019-03-25 01:36:35.165 | 10.11.0.24     | Charter Stable |     27 | FLUX rDVR  |                    | .Z...B.......k........../..
+ 2019-03-25 01:36:35.201 | Charter Stable | 10.11.0.24     |      3 | FLUX rDVR  |                    | .Z.
+ 2019-03-25 07:36:35.365 | 10.11.0.24     | Charter Stable |     27 | FLUX rDVR  |                    | .[...B.......k..........0..
+ 2019-03-25 07:36:35.399 | Charter Stable | 10.11.0.24     |      3 | FLUX rDVR  |                    | .[.
+ 2019-03-25 07:50:36.069 | 10.11.0.24     | Charter Stable |     64 | 2Way Proxy | ESC Post           | POST.http://esc/esc/..p:id=..74...p=AAADyA4GXJcPDQADpYgQDIA&v=95

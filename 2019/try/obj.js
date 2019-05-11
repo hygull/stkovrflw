@@ -15,7 +15,7 @@ function getNewArray(arr) {
 				if(newObj["time"] === undefined) {
 					newObj["time"] = key
 				}
-				newObj[obj["country"]] =obj[key]
+				newObj[obj["country"]] = obj[key]
 			}
 
 			return newObj

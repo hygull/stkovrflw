@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import json
 import pandas as pd
+import re
 
 url = "https://m.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2009"
 
@@ -94,13 +95,13 @@ while True and href and index:
 		else:
 			print("*---*", index, "Failed *---*")
 
-		with open(os.path.join(os.path.abspath("."), "xlsx_files4", file_name), "wb") as fw:
+		with open(os.path.join(os.path.abspath("."), "xlsx_files5", file_name), "wb") as fw:
 			fw.write(res.content)
 
-		print("DataFrame Excel Path =>" + os.path.join(os.path.abspath("."), "xlsx_files4", file_name))
-		df = pd.read_excel(os.path.join(os.path.abspath("."), "xlsx_files4", file_name))
+		print("DataFrame Excel Path =>" + os.path.join(os.path.abspath("."), "xlsx_files5", file_name))
+		df = pd.read_excel(os.path.join(os.path.abspath("."), "xlsx_files5", file_name))
 
-		csv_file_name = file_name.replace(".xlsx", ".csv")
+		csv_file_name = re.sub(r"\.xlsx?", ".csv", file_name)
 		print("CSV PATH =>" + csv_file_name)
 		df.to_csv(os.path.join(os.path.abspath("."), "csvs", csv_file_name))
 		# else:
@@ -121,6 +122,9 @@ while True and href and index:
 	except StopIteration as error:
 		print("*---* Done *---*")
 		break
+	# except XLRDError as error:
+	# 	with open("corrupt.txt", "a+") as fa:
+	# 		fa.write(str(index) + " - " + href)
 	except Exception as error:
 		print(index, error)
 		print("Failed")
@@ -129,4 +133,11 @@ while True and href and index:
 		exc_type, exc_value, exc_traceback = sys.exc_info()
 		traceback.print_tb(exc_traceback, limit=40, file=sys.stdout)
 
-		break
+		with open("corrupt.txt", "a+") as fa:
+			fa.write(str(error) + str(index) + " - " + href)
+
+
+		index, href = hrefs.__next__()
+		index += 1
+		# break
+

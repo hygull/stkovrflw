@@ -1,0 +1,692 @@
+[
+    {
+        "fields": {
+            "address": "A/P PETH,PETHNAKA,TALWALWA,DISTSANGLI,415407",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PETH",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000002",
+            "office": "PETH",
+            "phone": "252132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "ISLAMPUR,NEAR KRUSHI UTPANNA BAZAR SAMITI,M.Y.ISLAMPUR.TAL WALWA,DIST SANGLI 415409",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000003",
+            "office": "MARKET YARD ISLAMPUR",
+            "phone": "223220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SAKHARALE,NEAR PETROL PUMP,RAJARAMNAGAR,TAL WALWA,DIST SANGLI 415409",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SAKHRALE",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000004",
+            "office": "SAKHRALE",
+            "phone": "220420",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "A/P.BAVACHI,TAL WALWA,DIST SANGLI 415301",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BAVACHI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000005",
+            "office": "BAVACHI",
+            "phone": "279068",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "DASRAM KESHKAR MAHARAJ SANKUL,RAJWADA CHOWK,SANGLI,DIST SANGLI 416416",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000006",
+            "office": "RAJWADA CHOWK SANGLI",
+            "phone": "2372108",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "A/P.KASEGAON,NEARE MARKET,KASEGAON,TAL WALWA,DIST SANGLI 415404",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KASEGAON",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000007",
+            "office": "KASEGAON",
+            "phone": "239368",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "A/P.RETHRE HARNAKSH,TAL WALWA,DIST SANGLI,415302",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RETHAREHARNAKSH",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000008",
+            "office": "RETHAREHARNAKSH",
+            "phone": "266020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "A/P.TANDULWADI,TAL WALWA,DIST SANGLI,415411",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TANDULWADI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000009",
+            "office": "TANDULWADI",
+            "phone": "276480",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "A/P.RAMANADNAGAR,KAMGAR BHAVAN,(KIRLOSKARWADI),TAL PALUS,DIST SANGLI,415308",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAMANADNAGAR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000010",
+            "office": "RAMANADNAGAR",
+            "phone": "222604",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "A/P.SHIRALA,NEAR MARKET,SHIRALA,TAL SHIRALA,DIST SANGLI 415408",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIRALA",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000011",
+            "office": "SHIRALA",
+            "phone": "272120",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "A/P.ASHTA,NEAR ASHTALING NAGARI PATHSANSTHA,ASHTA,TAL WALWA,DIST SANGLI 416301",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ASHTA",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000012",
+            "office": "ASHTA",
+            "phone": "242367",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "A/P.TAKARI,ABOVE SIDDHANATH HARDWARE,TAKARI,TAL WALWA,DIST SANGLI 415313",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TAKARI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000013",
+            "office": "TAKARI",
+            "phone": "262514",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "BORGAON,BEHIND ST STAND,BORGAON,TAL WALWA,DIST SANGLI,415413",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BORGAON",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000014",
+            "office": "BORGAON",
+            "phone": "264088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "A/P.WALWA PETHBHAG,WALWA.TAL WALWA,DIST SANGLI,416313",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "WALWA",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000015",
+            "office": "WALWA",
+            "phone": "267708",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "A/P.BAGANI,CHANDRALATA BANGLOW,BAGNI,TAL WALWA,DIST SANGLI 416302",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BAGANI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000016",
+            "office": "BAGANI",
+            "phone": "247037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "A/P.KURLAP,TAL WALWA,DIST SANGLI 415417",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KURLAP",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000017",
+            "office": "KURLAP",
+            "phone": "255620",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "S.T.STAND ROAD.ISLAMPUR.TAL WALWA DIST SANGLI 415409",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000018",
+            "office": "STAND ROAD ISLAMPUR",
+            "phone": "224920",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "A/P.KOREGAON NEAR HANUMAN SOCIETY KOREGAON TAL WALWA DIST SANGLI 416302",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOREGAON",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000019",
+            "office": "KOREGAON",
+            "phone": "246143",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SANGLI,SHASTRI CHOUK,FRONT OF PRITAM HOTEL,GAONBHAG SANGLI,DIST SANGLI 416416",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000020",
+            "office": "GAONBHAG SANGLI",
+            "phone": "2331255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "KOLAHPUR,SHAHUPURI,1ST LANE,TRED CENTER 2ND FLOAR KOLHAPUR,DIST KOLHAPUR 416002",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000021",
+            "office": "SHAHUPURI KOLHAPUR",
+            "phone": "2654946",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "KARAD,SUPER MARKET,SHANIVAR PETH KARAD TAL KARAD,DIST SATARA 415110",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "RRBP0000022",
+            "office": "SHANIVAR PETH KARAD",
+            "phone": "225522",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "SANGLI,MARKET YARD GALLI NO.2,FRONT OF SEVA GRAH,SANGLI.DIST SANGLI 416416",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000023",
+            "office": "MARKET YARD SANGLI",
+            "phone": "2670992",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "A/P-KOKRUD,NEAR S.T STAND,KOKRUD TAL SHIRALA DIST SANGLI 415405",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOKRUD",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000024",
+            "office": "KOKRUD",
+            "phone": "224107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "PUNE,DNYANESHWAR PADUKA CHOUK,SHRINATH PLAZA,SHIVAJINAGAR PUNE 411005",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RRBP0000025",
+            "office": "SHIVAJINAGAR PUNE",
+            "phone": "25533407",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "A/P - KARANDWADI,SARVODAY SAH.KARKHANA,KARANDWADI,TAL WALWA,DIST SANGLI 416301",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARANDWADI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000026",
+            "office": "KARANDWADI",
+            "phone": "248520",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "A/P-KUNDAL,KRANTI SAH.SAKHAR KARKHANA,KUNDAL,TAL PALUS DIST SANGLI 416309",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KUNDAL",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000027",
+            "office": "KUNDAL",
+            "phone": "272151",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "KOLHAPUR MILK CORNER,8TH LANE,RAJARAMPURI KOLHAPUR,DIST KOLHAPUR 416008",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000028",
+            "office": "RAJARAMPURI KOLHAPUR",
+            "phone": "2521215",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "SATARA,SUSHRUT,504,A/1,SADAR BAZAR PAWAI NAKA,SATARA,DIST SATARA 415001",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "RRBP0000029",
+            "office": "SATARA",
+            "phone": "230316",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "PUNE,KALBHOR CARPORAT,TULJAI VASTI NEAR FORSE MOTORS AKURDI,DIST.PUNE 411035",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RRBP0000030",
+            "office": "AKURDI PUNE",
+            "phone": "27240407",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "MUMBAI,120,DEV CHAYA,KELUSKAR ROAD ( NORTH),SHIVAJIPARK DADAR ( W ) MUMBAI-400028",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RRBP0000031",
+            "office": "DADAR MUMBAI",
+            "phone": "24468693",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "KOLAHPUR,CS.NO.1432,B/1,KONDAOLE,LAXMIPURI,KOLHAPUR DIST KOLHAPUR 416002",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000032",
+            "office": "LAXMIPURI KOLHAPUR",
+            "phone": "2645831",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "PUNE,SHOP NO.101 TO 104,VISHVESHWAR BANK CHOWK,DHANKAWADI,PUNE.411043",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RRBP0000033",
+            "office": "DHANKAWADI PUNE",
+            "phone": "24374402",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "SANGLI,KARMVIR CHOWK,SANGLI416416",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000034",
+            "office": "KARMVEER CHOWK SANGLI",
+            "phone": "2377711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "MIRAJ,GANDHI CHOWK MIRAJ.416410",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MIRAJ",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000035",
+            "office": "MIRAJ",
+            "phone": "2229977",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "PALUS,MAIN ROAD PALUS TAL WALWA,DIST SANGLI 416310",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PALUS",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000036",
+            "office": "PALUS",
+            "phone": "226140",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "KOLHAPUR,NEAR KHASBAG MAIDAN,BALGOPAL TALIM MANDAL BUILDING,MANGALWAR PETH,416012",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000037",
+            "office": "MANGALWARPETH KOLHAPUR",
+            "phone": "2646300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "PUNE,GANDHI CHOWK,NEAR VIGITABLE MARKET,HADAPSAR PUNE 411028",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RRBP0000038",
+            "office": "HADAPSAR PUNE",
+            "phone": "26870109",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "SNO.249,BRAHMANPURI,ISLAMPUR,TALWALWA,DISTSANGLI-415409",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000039",
+            "office": "BRAHMANPURI ISLAMPUR",
+            "phone": "222220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "BHAWANI CHENMBERS,NAER GANPATI TEMPLE,VISHRAMBHAG SANGLI",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000040",
+            "office": "VISHRAMBAG SANGLI",
+            "phone": "2305711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "CS NO.3383B,GALA NO.3&4,MUNCIPAL SHOPPING CENTER,KACHERI ROAD,ISLAMPUR",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000041",
+            "office": "KACHERI ROAD ISLAMPUR",
+            "phone": "220320",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "CS NO-49, RIT COLLEGE,RAJARAMNAGAR",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000042",
+            "office": "RIT RAJARAMNAGAR",
+            "phone": "9096382220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "BAVDEKAR COMPLEX,PETH VADGAON,TAL - HATKANAGLE,DIST-KOLHAPUR-416112",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PETH VADGAON",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000043",
+            "office": "PETH VADGAON",
+            "phone": "2472858",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "22WAR-6HE-548PATILBILIGKLHAPRMAIRAIHALKARAJITAL-HATKAAGALEIT-KLHAPR465",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARNAJI",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000044",
+            "office": "ICHALKARNAJI",
+            "phone": "2421696",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "C.S.NO.1036,1037,1038,VYANKATESH BUILDING YASHWANTNAGAR,MAYANI ROAD,VITA,TAL - KHANAPUR,DIST - SANGLI - 415311",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VITA",
+            "district": "SANGLI",
+            "ifsc": "RRBP0000045",
+            "office": "VITA",
+            "phone": "272543",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "CS.NO-808,GALI NO-7,ZELE BUILDING,M.G.ROAD JAYSINGPUR TAL-SHIROL DIST-KOLHAPUR",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JAYSINGPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RRBP0000046",
+            "office": "JAYSINGPUR",
+            "phone": "227771",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.72,GROUND FLOOR,SHIV CENTER PRIMISES CHS LTD,SECTOR-17,VASHI,NAVI MUMBAI",
+            "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "RRBP0000047",
+            "office": "VASHI NAVI MUMBAI",
+            "phone": "27650009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "fields": {
+            "address": "SHASTRI CHOWK,RAJGURUNAGAR,TALUKA KHED,DISTRICT PUNE,410505",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAJGURUNAGAR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000002",
+            "office": "TILAK CHOWK",
+            "phone": "222058",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "PUNE NASHIK HIGHWAY,TALUKA KHED,DIST.PUNE 410505 MH",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAJGURUNAGAR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000003",
+            "office": "BAJARPETH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "AISWARYA ICON,AMBETHAN CHOWK,CHAKAN,TALUKA KHED,DISTRICT PUNE,410501",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "RSBL0000004",
+            "office": "CHAKAN",
+            "phone": "249213",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "GRAMPANCHAYAT BUILDING,KADUS,TALUKA KHED,DISTRICT PUNE,412404",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAJGURUNAGAR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000005",
+            "office": "KADUS",
+            "phone": "282244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "GRAMVAIBHAV COMPLEX,JUNNAR ROAD,NARAYANGAON,TALUKA AMBEGAON,DISTRICT PUNE,410504",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NARAYANGAON",
+            "district": "PUNE",
+            "ifsc": "RSBL0000006",
+            "office": "NARAYANGAON",
+            "phone": "242075",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "AGARWAL BUILDING,GAWALI NAGAR,BHOSARI,TALUKA HAWELI,DISTRICT PUNE,411039",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHOSARI",
+            "district": "PUNE",
+            "ifsc": "RSBL0000007",
+            "office": "BHOSARI",
+            "phone": "27110210",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "AGRASEN CHOWK,PUNE MUMBAI ROAD,DEHU ROAD,TALUKA HAWELI,DISTRICT PUNE,412101",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHU ROAD",
+            "district": "PUNE",
+            "ifsc": "RSBL0000008",
+            "office": "DEHU ROAD",
+            "phone": "27673011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "634,SHRI VIDYA BHAVAN,BUDHWAR PETH,DISTRICT PUNE,411002",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RSBL0000009",
+            "office": "BUDHWAR PETH",
+            "phone": "24463132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GRAM PANCHAYAT COMPLEX,SHIVALI CHOWK,MANCHAR,TALUKA AMBEGAON,DISTRICT PUNE,410503",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MANCHAR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000010",
+            "office": "MANCHAR",
+            "phone": "223716",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "MANIKCHAND PLAZA,SHOP NO 9 12,REVENUE COLONY,NEAR POST OFFICE,A BY P SHIRUR,DISTRICT PUNE,412210",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIRUR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000011",
+            "office": "SHIRUR",
+            "phone": "224800",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "CHAKAN TALEGAON ROAD,A BY P MAHALUNGE INGALE,TALUKA KHED,DISTRICT PUNE,410501",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MHALUNGE INGALE",
+            "district": "PUNE",
+            "ifsc": "RSBL0000012",
+            "office": "MHALUNGE INGALE",
+            "phone": "259059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "DR KAKADE PLAZA,ALEPHATA,TALUKA JUNNAR,412411",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ALEPHATA",
+            "district": "PUNE",
+            "ifsc": "RSBL0000013",
+            "office": "ALEPHATA",
+            "phone": "263085",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "ALANDI MARKAL ROAD,TALUKA KHED,DISTRICT PUNE,412105",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ALANDI",
+            "district": "PUNE",
+            "ifsc": "RSBL0000014",
+            "office": "ALANDI",
+            "phone": "233285",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "SR.NO.4105,GROUND FLOOR,PARDESHPURA BUS STOP,NARAYAN TEMPLE,JUNNAR,TAL.JUNNAR,DIST.PUNE",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JUNNAR",
+            "district": "PUNE",
+            "ifsc": "RSBL0000015",
+            "office": "JUNNAR",
+            "phone": "222275",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "AT.POST.PAIT,TAL.KHED,DIST.PUNE",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KHED",
+            "district": "PUNE",
+            "ifsc": "RSBL0000016",
+            "office": "PAIT",
+            "phone": "8149022441",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "AT POST PABAL, NEAR JADHAV HOSPITAL,TAL.SHIRUR,DIST.PUNE,412403.",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PABAL",
+            "district": "PUNE",
+            "ifsc": "RSBL0000017",
+            "office": "PABAL",
+            "phone": "9766875307",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SR.NO.4210,1ST FLOOR,JADHAV CHEMBERS,OLD PUNE MUMBAI HIGHWAY,AKURDI,PIMPRI CHINCHWAD,PUNE.411035",
+            "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PCMC",
+            "district": "PUNE",
+            "ifsc": "RSBL0000018",
+            "office": "BRANCH",
+            "phone": "9850788794",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    }
+]

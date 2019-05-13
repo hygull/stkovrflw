@@ -1,0 +1,167 @@
+[
+    {
+        "fields": {
+            "address": "20/1,1STFLOOR,BHADAGANADUBHAVAN,BADAGANADUSANGAROAD,SESHADRIPURAM,BANGALORE-560020",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000001",
+            "office": "KUMARAPARK WEST BRANCH",
+            "phone": "8022956401",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "109,SHANKARMUTTROAD,SHANKARAPURAM,BANGALROE-560004",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000002",
+            "office": "SHANKARMUTT ROAD BRANCH",
+            "phone": "8022956405",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "1203/2,SUBRAMANYANAGARMAINROAD,RAJAJINAGARIISTAGE,BANGALORE-560010",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000003",
+            "office": "RAJAJINAGAR BRANCH",
+            "phone": "8022956406",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "68,OLD(668)45THCROSS,JAYANAGAR8THBLOCK,JAYANAGAR,BANGALORE-560082",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000004",
+            "office": "J P NAGAR BRANCH",
+            "phone": "8022956409",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "5,4THMAINROAD,BHANKASHANKARIIIISTAGE,CKACHUKATTU,BANGALORE-560085",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000005",
+            "office": "BHANASHANKARI BRANCH",
+            "phone": "8022956411",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "75/1(OLDNO-60),IIICROSS,AMARAJYOTHINAGAR,NAGARABHAVIMAINROAD,BANGALORE-560040",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000006",
+            "office": "VIJAYANAGAR BRANCH",
+            "phone": "8022956413",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "1891,BEHINDRAILWAYSTATION,FIRSTMAINROAD,KENGERISATELLITETOWN,BANGALROE-560060",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000007",
+            "office": "KENGERI SETTALITE TOWN BRANCH",
+            "phone": "8022956415",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "173,13THBMAINROAD,MATHIKERELAYOUT,BANGALORE-560054",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000008",
+            "office": "MATHIKERE BRANCH",
+            "phone": "8022956416",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "25,100FEETRINGROAD,FIRSTPHASE,B.T.MLAYOUTIISTAGE,BANGALORE-560076",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000009",
+            "office": "BTM LAY OUT BRANCH",
+            "phone": "8022956417",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "1,BEML3RDSTAGE,BEMLLAYOUT,RAJAJESWARINAGAR,BANGALORE-560098",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000011",
+            "office": "RAJARAJESWARI NAGAR BRANCH",
+            "phone": "8022956421",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "100,CHUNCHGHATTAMAINROAD,KCCIRCLE,KONANAKUNTE,BANGALORE-560062",
+            "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "MVCB0000012",
+            "office": "KONANAKUNTE BRANCH",
+            "phone": "8022956422",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    }
+]

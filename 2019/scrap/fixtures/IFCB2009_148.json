@@ -1,0 +1,662 @@
+[
+    {
+        "fields": {
+            "address": "KURMANCHAL BHAWAN, TALLITAL",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0000001",
+            "office": "RTGS-HO",
+            "phone": "231525",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "GOPALJI COMPLEX, SADAR BAZAR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010001",
+            "office": "HALDWANI",
+            "phone": "250150",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "M L SAH BALIKA VIDYA MANDIR ATI ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010002",
+            "office": "BALIKA",
+            "phone": "237413",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "HOTEL HIM TOWER CAMPUS, MAIN MARKET",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "KNSB0010003",
+            "office": "ALMORA",
+            "phone": "233344",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BAGESHWAR",
+            "district": "BAGESHWAR",
+            "ifsc": "KNSB0010004",
+            "office": "BAGESHWAR",
+            "phone": "220094",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHYAMA HOUSE, MALLITAL",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010005",
+            "office": "MALLITAL",
+            "phone": "235427",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SAH COMPLEX, BANK ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHAMPAWAT",
+            "district": "CHAMPAWAT",
+            "ifsc": "KNSB0010006",
+            "office": "CHAMPAWAT",
+            "phone": "230430",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "VERMA COMPLEX, MUKHANI CHAURAHA, KALADUNGI ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010007",
+            "office": "MUKHANI",
+            "phone": "264433",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "1, AVDHOOT ASHRAM ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RISHIKESH",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010008",
+            "office": "RISHIKESH",
+            "phone": "2439725",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "SHARDA BARRAGE ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TANKPUR",
+            "district": "CHAMPAWAT",
+            "ifsc": "KNSB0010009",
+            "office": "TANKPUR",
+            "phone": "265474",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "KURMANCHAL BHAWAN, TALLITAL",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010010",
+            "office": "TALLITAL",
+            "phone": "237440",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "DURGA CITY CENTER, NAINITAL ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010011",
+            "office": "DCC",
+            "phone": "283389",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "MANPUR UTTAR, RAMPUR ROAD, TRANSPORT NAGAR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010012",
+            "office": "TP NAGAR",
+            "phone": "9456536412",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "GULARBHOJ ROAD, MAIN MARKET",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GADARPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010013",
+            "office": "GADARPUR",
+            "phone": "271052",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SITARGANJ ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KHATIMA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010014",
+            "office": "KHATIMA",
+            "phone": "250881",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "GURUDWARA ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SITARJANG",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010015",
+            "office": "SITARJANG",
+            "phone": "253392",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "ADARSH KANYA VIDYALAYA",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010016",
+            "office": "BAZPUR",
+            "phone": "281865",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "NAVEEN ADARSH MANDI",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010017",
+            "office": "MANDI",
+            "phone": "246006",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "41, NANDA LINE",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAMNAGAR",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010018",
+            "office": "RAMNAGAR",
+            "phone": "251236",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "MATA MANDIR MARG",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KASHIPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010019",
+            "office": "KASHIPUR",
+            "phone": "279961",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "VIR HAKIKAT RAI MARG",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010020",
+            "office": "RUDRAPUR",
+            "phone": "243468",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "PANT MARKET",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KICHHA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "KNSB0010021",
+            "office": "KICHHA",
+            "phone": "264296",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "MEHRA MARKET, SILTHAM",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PITHORAGARH",
+            "district": "PITHORAGARH",
+            "ifsc": "KNSB0010022",
+            "office": "PITHORAGARH",
+            "phone": "224935",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "HOTEL TOURIST CAMPUS, MAIN CHAURAHA",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHOWALI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010023",
+            "office": "BHOWALI",
+            "phone": "220103",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "HARIDWAR ROAD, DHARAMPUR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DHARMPUR",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010024",
+            "office": "DHARMPUR",
+            "phone": "2679961",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "60, ARHAT BAZAR, NEAR SHIVAJI, DHARMSHALA, SAHARANPUR ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010025",
+            "office": "DEHRADUN",
+            "phone": "2620539",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "91/66, FRUIT MARKET, PALTAN BAZAR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010026",
+            "office": "PALTON BAZAR",
+            "phone": "2711539",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD, GURU MANDAL ASHRAM, DEVPURA",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HARIDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "KNSB0010027",
+            "office": "HARIDWAR",
+            "phone": "223331",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "NAJIBABAD ROAD",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOTDWAR",
+            "district": "PAURI GARWAL",
+            "ifsc": "KNSB0010028",
+            "office": "KOTDWAR",
+            "phone": "229923",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "MOON HOTEL, GANDHI CHOWK",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RANIKHET",
+            "district": "ALMORA",
+            "ifsc": "KNSB0010029",
+            "office": "RANIKHET",
+            "phone": "220400",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "OPP PREM MANDIR 6 CIVIL LINES",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ROORKEE",
+            "district": "HARIDWAR",
+            "ifsc": "KNSB0010030",
+            "office": "ROORKEE",
+            "phone": "271745",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "BADRINATH ROAD,NEAR UNION BANK",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SRINAGAR",
+            "district": "PAURI GARWAL",
+            "ifsc": "KNSB0010031",
+            "office": "SRINAGAR",
+            "phone": "250561",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "KALADHUNGI ROAD UNCHAPUL HALDWANI",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010032",
+            "office": "UNCHAPUL",
+            "phone": "9456596407",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "MITRA BHAWAN NAINITAL ROAD TIKONIA HALDWANI",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "KNSB0010033",
+            "office": "MITRA BHAWAN",
+            "phone": "9456596411",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "GURU NANAK BALIKA INTER COLLEGE RUDRAPUR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "US NAGAR",
+            "ifsc": "KNSB0010034",
+            "office": "RUDRAPUR 2",
+            "phone": "9456596420",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "TAKANA ROAD NEAR KMOU BUS STATION PITHORAGARH",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PITHORAGARH",
+            "district": "PITHORAGARH",
+            "ifsc": "KNSB0010035",
+            "office": "KMOU BUS STATION",
+            "phone": "9456596422",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "NEAR KUMAUN PHARMACY GARUR BAGESHWAR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GARUR",
+            "district": "BAGESHWAR",
+            "ifsc": "KNSB0010036",
+            "office": "GARUR",
+            "phone": "9456596404",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE SABZI MANDI NIRANJANPUR DEHRADUN",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010037",
+            "office": "NIRANJANPUR",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "H NO 207 DEHRADUN ROAD DOIWALA",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010038",
+            "office": "DOIWALA",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "RAILWAY STATION ROAD JWALAPUR",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HARIDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "KNSB0010039",
+            "office": "JWALAPUR",
+            "phone": "9456596427",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "BADRINATH ROAD MAIN MARKET RUDRAPRAYAG",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPRAYAG",
+            "district": "RUDRAPRAYAG",
+            "ifsc": "KNSB0010040",
+            "office": "RUDRAPRAYAG",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "PAURI DHARA ROAD PAURI",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PAURI",
+            "district": "PAURI GARHWAL",
+            "ifsc": "KNSB0010041",
+            "office": "PAURI",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "01 DARSHANI GATE NEAR HANUMAAN CHOWK DEHRADUN",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010042",
+            "office": "DARSHANI GATE",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "KULRI BAZAR MALL ROAD MUSSOORIE",
+            "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUSSOORIE",
+            "district": "DEHRADUN",
+            "ifsc": "KNSB0010043",
+            "office": "KULRI BAZAR",
+            "phone": "9456596448",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    }
+]

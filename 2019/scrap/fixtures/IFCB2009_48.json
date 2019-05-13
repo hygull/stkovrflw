@@ -1,0 +1,827 @@
+[
+    {
+        "fields": {
+            "address": "9, MAHARASHTRA CHAMBER OF COMMERCE LANE, FORT, MUMBAI 400001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082002",
+            "office": "RTGS-HO",
+            "phone": "22800654",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "268-272 CONTRACTOR BLDG AMBEDKAR RD PAREL 400012",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082005",
+            "office": "PAREL",
+            "phone": "24708687",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "MURLIDHAR MANDIR TRUST BLDG PLOT 202 SION 400022",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082006",
+            "office": "SION",
+            "phone": "24073591",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "ARAM SHOPING GOVT COLONEY BANDRA 400051",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082007",
+            "office": "BANDRA (EAST)",
+            "phone": "26420007",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "SIDDHIVINAYAK CHS NR TTEMPLE PRABHADEVI 4000028",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082011",
+            "office": "PRABHADEVI",
+            "phone": "24224456",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "63 RATNA DESHMUKH RD PEDDER RD 400026",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082012",
+            "office": "PEDDER ROAD",
+            "phone": "23526783",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "303-304 NAVAZ MANZIL LBS RD KURLA(W)400070",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082013",
+            "office": "KURLA (WEST)",
+            "phone": "26504611",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "12GANESH CHS GANESH PATH DADAR(W) 400028",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082014",
+            "office": "SHIVAJI PARK",
+            "phone": "24302192",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "DEVATA CHS DEVDARSHAN BLDG RK RD ANDHERI 400069",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082015",
+            "office": "ANDHERI (EAST)",
+            "phone": "26838757",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "1-2-179 KESARBAUG CHS FPN 213 BORIVALI(W) 400092",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082016",
+            "office": "BORIVALI",
+            "phone": "28984473",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "PLOT 177 D.K. SANDU RD CHEMBUR 400071",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082017",
+            "office": "CHEMBUR",
+            "phone": "25282561",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "A1/2 POKARKUNJ LT RD DAHISAR(W) 400068",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082018",
+            "office": "DAHISAR",
+            "phone": "28931273",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "67 HEMVILLA JAWAHAR NAGAR GOREGAON(W) 400062",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082019",
+            "office": "GOREGAON",
+            "phone": "28722131",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KOTMAHALCHS PLOT 148 GARODIYANAGAR 400077",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082020",
+            "office": "GHATKOPAR",
+            "phone": "25069060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "A/4 BEST STAFF QTRS BAJAJ RD KANDIVALI 400067",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082022",
+            "office": "KANDIVALI",
+            "phone": "28051121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "MODERN CHS SADHANA 16TH RD KHAR(W) 400052",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082023",
+            "office": "KHAR",
+            "phone": "26461803",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "PARAS DAPTARI RD MALAD (E)400097",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082024",
+            "office": "MALAD",
+            "phone": "28834440",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "180 PARAG BLDG, GG RD MULUND(W)400080",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082025",
+            "office": "MULUND",
+            "phone": "25600232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "NEELKAMAL CHS PRABHAT CLNY RD SANTACRUZ E 400055",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082026",
+            "office": "SANTACRUZ (EAST)",
+            "phone": "26124209",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "2 SAIARADHANA CHS P.S.RD SANTACRUZ W 400054",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082027",
+            "office": "SANTACRUZ (WEST)",
+            "phone": "26105701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "KANNAMWAR NAGAR MHB VIKHROLI E 400083",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082028",
+            "office": "VIKHROLI",
+            "phone": "25781736",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "114/B SHYAMKAMAL B CHSAGRAWAL MKT PARLEE 400057",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082029",
+            "office": "VILE-PARLE (EAST)",
+            "phone": "26141709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "ELDERS HOME SAT BANGLOW VERSOVA ANDHERI 400061",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082031",
+            "office": "VARSOVA ANDHERI (W)",
+            "phone": "26362164",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "SEVA NIKETAN S.J.J. RD BYCULLA 400008",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082033",
+            "office": "BYCULLA",
+            "phone": "23084158",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "PLOT 88, SECTOR 17 VASHI NEW MUMBAI 400703",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082034",
+            "office": "VASHI",
+            "phone": "27892513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "MAHANAND DAIRY WESTERN EX RD GOREGAON E 400065",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082035",
+            "office": "JOGESHWARI EXTN.COUNTER",
+            "phone": "26855032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "GEN J. BHOSALE MRG NEAR SACHIVALAY 400021",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSCI0082036",
+            "office": "YB CHAVAN CENTER,  (EXTN COUNTER)",
+            "phone": "22028620",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "APMC MKT COMPLEX 2, SECTOR 19 B, PLOT NO.7, G 1, AVALON HEIGHTS SCHOOL BLDG,TURBHE, NAVI MUMBAI 400705",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "MSCI0082037",
+            "office": "VASHI EXTN COUNTER",
+            "phone": "27841866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "451/1, E WARD, KEVISPLAZA, VENUS CORNER, STATION ROAD, KOLHAPUR - 416 001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "MSCI0082038",
+            "office": "KOLHAPUR",
+            "phone": "2530700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "915/2, SHIVAJINAGAR, DR. SULE ROAD, PUNE 411004",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSCI0082039",
+            "office": "PUNE",
+            "phone": "25651022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 3, SECTOR E, MUMBAI AGRA ROAD, CIDCO, NASHIK 422009",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "MSCI0082040",
+            "office": "NASHIK",
+            "phone": "2392855",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "LOKMANGAL BHAVAN, 71, RAILWAY LINES, SOLAPUR - 413001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "MSCI0082041",
+            "office": "SOLAPUR",
+            "phone": "2726639",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO.7, GALLI NO.4, NAGARPATTI, NEAR GANDHI STATUE, DHULE 424001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "MSCI0082042",
+            "office": "DHULE",
+            "phone": "236871",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. N.H. 1-3-651, SHIVAJI NAGAR,BARSHI ROAD, BEED 431122",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "MSCI0082043",
+            "office": "BEED",
+            "phone": "230455",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 180, VASANTNAGAR, NEAR SHARADANAGAR BUS STOP, NANDED 431605",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "MSCI0082044",
+            "office": "NANDED",
+            "phone": "286919",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,VALLABHDAS VALJI MUNICIPAL MARKET,GOLANI MARKET,CS NO 2111-A1, NAVI PETH, JALGAON-425001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "MSCI0082045",
+            "office": "JALGAON",
+            "phone": "2233939",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 1, PLOT NO 1, BARSHI NAKA,JIJAU CHOWK , OSMANABAD-413501",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "MSCI0082046",
+            "office": "OSAMANABAD",
+            "phone": "222944",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4,5 AND 6, MILAN COMPLEX, GANDHI CHOWK,CHAMAN,JALNA",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "MSCI0082047",
+            "office": "JALNA",
+            "phone": "233888",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4-1,PLOT NO 4,SURVEY NO 306-307,WARD NO 21, SAMTA CHS,VASMAT ROAD, PARBHANI",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MSCI0082048",
+            "office": "PARBHANI",
+            "phone": "246130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "MAHAL, NAGPUR",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082050",
+            "office": "NAGPUR REGOINAL OFFICE BRANCH,",
+            "phone": "2728494",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "SANTAJI COLONY, DEONAGAR, NAGPUR- 440015",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082051",
+            "office": "DEONAGAR",
+            "phone": "2226651",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "VIJAY BHAVAN LOKMAT CHOWK NAGPUR 440012",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082052",
+            "office": "DHANTOLI",
+            "phone": "2424982",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "MADHUMADHAV COM COMPLEX DHARMPETH 440010",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082053",
+            "office": "DHARAMPETH",
+            "phone": "2531204",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VORA COMPLEX KAMTEE RD NAGPUR 440001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082054",
+            "office": "SADAR",
+            "phone": "2532573",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "RAJARAM BLDG MAIN RD SITABULDI NAGPUR 440012",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082055",
+            "office": "SITABULDI",
+            "phone": "2524012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "SHEWALKAR GARDENS NORTH AMBAZARI RD 440010",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082056",
+            "office": "RANAPRATAP NAGAR",
+            "phone": "2222191",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "TYLIN EMP KUKADE LAYOUT WANJARI NAGAR440027",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082057",
+            "office": "WANJARI NAGAR",
+            "phone": "2748961",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "115 PRITI APT CHOTTA TAJBAUG CHOWK NAGPUR 440009",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082058",
+            "office": "CHHOTA TAJBAUG",
+            "phone": "2745291",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "32 CHITNIS LAYOUT,BYRAMJI TOWN, NAGPUR 440013",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082059",
+            "office": "BYRAMJI TOWN",
+            "phone": "2593119",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "GULMOHAR MAHALAXMI NAGAR NAGPUR440024",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082060",
+            "office": "MANEWADA",
+            "phone": "2758412",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "8, ADARSH NAGAR, UMERD RD DIGHORI 440009",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "MSCI0082061",
+            "office": "DIGHORI",
+            "phone": "2712809",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "OLD COTTON MKT, AKOLA - 444001",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "MSCI0082062",
+            "office": "AKOLA",
+            "phone": "2430023",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "PAN DESHMUKH BLG TOPE NAGAR AMRAVATI 444601",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "MSCI0082063",
+            "office": "AMRAVATI",
+            "phone": "2662162",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "654 PLOT NO 10 TOWN CTR CIDCO AURANGABAD 431003",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MSCI0082064",
+            "office": "AURANGABAD",
+            "phone": "2471464",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "319, SOUTH KASBA, SOLAPUR, 413007",
+            "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "MSCI0LCBS01",
+            "office": "THE LAXMI CO-OPERATIVE BANK LTD. SOLAPUR",
+            "phone": "2747363",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    }
+]

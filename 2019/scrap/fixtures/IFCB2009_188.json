@@ -1,0 +1,3272 @@
+[
+    {
+        "fields": {
+            "address": "NEW SUBZI MANDI AZADPUR DELHI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "HPSC0000051",
+            "office": "NEW SUBZI MANDI DELHI",
+            "phone": "27681808",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "BARMANA TEHSIL SADAR PIN 174013",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BARMANA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000101",
+            "office": "BARMANA",
+            "phone": "245036",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "BASSI KEHLOOR TEHSIL SRI NAINA DEVI JI PIN 174002",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BASSI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000102",
+            "office": "BASSI",
+            "phone": "214552",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "BERI PIN 174001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BERI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000103",
+            "office": "BERI",
+            "phone": "244522",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "BERTHIN TEHSIL JHANDUTTA PIN 174029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BERTHIN",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000104",
+            "office": "BERTHIN",
+            "phone": "266041",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "BHARARI, PO- LEHRI SAREL TEHSIL GHUMARWIN PIN-174027",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BHARARI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000105",
+            "office": "BHARARI",
+            "phone": "273039",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "BILASPUR MAIN MARKET PIN-174001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000106",
+            "office": "BILASPUR",
+            "phone": "222542",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "DADHOL TEHSIL GHUMARWIN PIN 174023",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DADHOL",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000107",
+            "office": "DADHOL",
+            "phone": "278031",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "DANGAR TEHSIL GHUMARWIN PIN-174023",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DANGAR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000108",
+            "office": "DANGAR",
+            "phone": "278181",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "GEHRWIN PIN 174034",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GEHRWIN",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000109",
+            "office": "GEHRWIN",
+            "phone": "270203",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "GHUMARWIN PIN 174021",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GHUMARWIN",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000110",
+            "office": "GHUMARWIN",
+            "phone": "255243",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "JHANDUTTA PIN 174031",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JHANDUTA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000111",
+            "office": "JHANDUTTA",
+            "phone": "272043",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "KALLARI, PO- NASWAL, TEHSIL GHUMARWIN PIN-174021",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KALLARI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000112",
+            "office": "KALLARI",
+            "phone": "254043",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KUTHERA TEHSIL GHUMARWIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUTHERA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000113",
+            "office": "KUTHERA",
+            "phone": "275080",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "LAKHANPUR PIN-174001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000114",
+            "office": "LAKHANPUR",
+            "phone": "222697",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SRI NAINA DEVI JI PIN-174310",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAINA DEVI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000115",
+            "office": "NAINA DEVI",
+            "phone": "288097",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "NAMHOL, PIN-",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAMHOL",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000116",
+            "office": "NAMHOL",
+            "phone": "240056",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SHAHTALAI TEHSIL JHANDUTA DISTT BILASPUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JHANDUTA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000117",
+            "office": "SHAH TALAI",
+            "phone": "264077",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SWARGHAT TEHSIL SRI NAINA DEVI JI PIN-174011",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SWARGHAT",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000118",
+            "office": "SWARGHAT",
+            "phone": "284148",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "KANDRAUR, TEHSIL SADAR PIN-174004",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KANDRAUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000119",
+            "office": "KANDRAUR",
+            "phone": "242080",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "HARNORA TEHSIL SADAR PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HARNORA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000120",
+            "office": "HARNORA",
+            "phone": "283141",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "GUGA MOHRA, PO- KAPAHORA TEHSIL GHUMARWIN PIN-174029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GUGA MOHRA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000123",
+            "office": "GUGA MOHRA",
+            "phone": "260474",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "TRIFAL GHAT, PO-HAWAN PIN-174003",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "TRIFALGHAT",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000124",
+            "office": "TRIFALGHAT",
+            "phone": "256195",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "JUKHALA PIN-174033",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JUKHALA",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000125",
+            "office": "JUKHALA",
+            "phone": "286253",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "JEJWIN TEHSIL JHANDUTTA PIN 174017",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JEJWIN",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000126",
+            "office": "JEJHWIN",
+            "phone": "268041",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "BUM, PO- PANTEHRA, TEHSIL GHUMARWIN PIN-174028",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BUM",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000127",
+            "office": "BUM",
+            "phone": "250067",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "MALOKHAR PO CHHAKHOH TEHSIL NAMHOL PIN 174001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAMHOL",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000128",
+            "office": "MALOKHAR",
+            "phone": "249183",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "HATWAR TEHSIL GHUMARWIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HATWAR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000129",
+            "office": "HATWAR",
+            "phone": "252243",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "GOLTHAI TEHSIL SRI NAINA DEVI JI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SRI NAINA DEVI JI",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000130",
+            "office": "GOLTHAI",
+            "phone": "239522",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "VPO CHANDPUR TEHSIL SADAR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000132",
+            "office": "CHANDPUR",
+            "phone": "243015",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "VPO HARLOG TEHSIL GHUMARWIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000133",
+            "office": "HARLOG",
+            "phone": "285015",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "VPO KAULAN WALA TOBA TEHSIL SHRI NAINA DEVI JI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000134",
+            "office": "KAULAN WALA TOBA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "VILLAGE AND PO BHAGER TEHSIL GHUMARWIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GHUMARWIN",
+            "district": "BILASPUR",
+            "ifsc": "HPSC0000135",
+            "office": "BHAGER",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "BANIKHET PIN 176303",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BANIKHET",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000176",
+            "office": "BANIKHET",
+            "phone": "254051",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "BHANJRARU TEHSIL CHAMBA PIN 176316",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BHANJRARU",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000177",
+            "office": "BHANJRARU",
+            "phone": "227071",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "BHARMAUR CHAMBA PIN-176015",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BHARMOUR",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000178",
+            "office": "BHARMOUR",
+            "phone": "225054",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "CHAMBA PIN 176310",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000179",
+            "office": "CHAMBA",
+            "phone": "222249",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "CHOWARI TEHSIL BHATTIYAT PIN 176302",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOWARI",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000180",
+            "office": "CHOWARI",
+            "phone": "266332",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "DALHOUSIE PIN 176304",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DALHOUSIE",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000182",
+            "office": "DALHOUSIE",
+            "phone": "240241",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "DHULARA PIN 176027",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DHULARA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000183",
+            "office": "DHULARA",
+            "phone": "200495",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "GAROLA TEHSIL BHARMAUR PIN 176309",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GAROLA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000184",
+            "office": "GAROLA",
+            "phone": "224007",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "HATLI PO DARMAN TEHSIL SIHUNTHA PIN 176223",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SIHUNTA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000185",
+            "office": "HATLI",
+            "phone": "238076",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "HOLI PIN 176309",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HOLI",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000186",
+            "office": "HOLI",
+            "phone": "232315",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "KAKIRA TEHSIL BHATTIYAT PIN 176313",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KAKIRA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000187",
+            "office": "KAKIRA",
+            "phone": "257245",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "NAINI KHAD PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAINI KHAD",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000188",
+            "office": "NAINI KHAD",
+            "phone": "257645",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "SALOONI PIN 176320",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SALOONI",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000189",
+            "office": "SALOONI",
+            "phone": "233237",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "SIHUNTHA PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SIHUNTA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000190",
+            "office": "SIHUNTA",
+            "phone": "265424",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "SURANGANI TEHSIL SALOONI PIN 176317",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SURGANI",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000191",
+            "office": "SURGANI",
+            "phone": "232007",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "TISSA TEHSIL CHURAH PIN 176316",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "TISSA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000192",
+            "office": "TISSA",
+            "phone": "227041",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "TUNDI TEHSIL SIHUNTA PIN 176207",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SIHUNTA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000193",
+            "office": "TUNDI",
+            "phone": "200524",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "BATHARI DISTT CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BATHARI",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000195",
+            "office": "BATHARI",
+            "phone": "9418397348",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "VPO SAROL TEHSIL CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000197",
+            "office": "SAROL",
+            "phone": "226235",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "RAJNAGAR DISTT CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJNAGAR",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000198",
+            "office": "RAJNAGAR",
+            "phone": "9418759447",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "VPO SAHO TEHSIL CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000199",
+            "office": "SAHO",
+            "phone": "238413",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "VILL KARIAN PO BHARIAN KOTHI TEHSIL CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000200",
+            "office": "KARIAN",
+            "phone": "220013",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "VPO DHARWALA TEHSIL CHAMBA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000201",
+            "office": "DHARWALA",
+            "phone": "279513",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "VPO SUNDLA TEHSIL SALOONI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000202",
+            "office": "SUNDLA",
+            "phone": "242007",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "PO KILLAR TEHSIL PANGI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAMBA",
+            "district": "CHAMBA",
+            "ifsc": "HPSC0000203",
+            "office": "KILLAR",
+            "phone": "242240",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "BHABA NAGAR TEHSIL NICHAR PIN 172115",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BHABA NAGAR",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000251",
+            "office": "BHABA NAGAR",
+            "phone": "253330",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "KALPA PIN-172108",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KALPA",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000252",
+            "office": "KALPA",
+            "phone": "226004",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "KATGAON PIN 172118",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KATGAON",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000253",
+            "office": "KATGAON",
+            "phone": "262295",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "MOORENG PIN 172109",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MOORANG",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000254",
+            "office": "MOORANG",
+            "phone": "252739",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "NICHAR KINNAUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NICHAR",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000255",
+            "office": "NICHAR",
+            "phone": "204549",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "PANGI PIN 172107",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PANGI",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000256",
+            "office": "PANGI",
+            "phone": "228811",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "RECKONG PEO TEHSIL KALPA PIN 172107",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "REKONG PEO",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000257",
+            "office": "REKONG PEO",
+            "phone": "222485",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "POOH PIN 172111",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "POOH",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000258",
+            "office": "POOH",
+            "phone": "232297",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "POWARI SHANTHONG TEHSIL KALPA PIN 172107",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KALPA",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000259",
+            "office": "POWARI",
+            "phone": "223523",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "SANGLA PIN 172106",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SANGLA",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000260",
+            "office": "SANGLA",
+            "phone": "242202",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "TAPRI KINNAUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "TAPRI",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000261",
+            "office": "TAPRI",
+            "phone": "261207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "AKPA, TEHSIL MOORANG PIN-172116",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MOORANG",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000262",
+            "office": "AKPA",
+            "phone": "225564",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "GIABONG PIN 172110",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GIABONG",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000264",
+            "office": "GIABONG",
+            "phone": "9418761189",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "SPILLOW DISTT KINNAUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SPILLOW",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000266",
+            "office": "SPILLOW",
+            "phone": "9816012458",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "VILLAGE AND PO LEO SUB TEHSIL YANGTHANG",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KINNAUR",
+            "district": "KINNAUR",
+            "ifsc": "HPSC0000267",
+            "office": "LEO",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "BAGSAID, TEHSIL THUNAG PIN-175035",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THUNAG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000301",
+            "office": "BAGSIAD",
+            "phone": "254245",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "BALDWARA TEHSIL SARKAGHAT PIN 175033",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000302",
+            "office": "BALDWARA",
+            "phone": "258052",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "BALICHOWKI TEHSIL BALICHOWKI PIN 175106",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BALI CHOWKI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000303",
+            "office": "BALI CHOWKI",
+            "phone": "229145",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "BAROT MANDI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "BAROT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000304",
+            "office": "BAROT",
+            "phone": "267241",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "CHAUNTRA PIN 175032",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAUNTRA",
+            "district": "MANDI",
+            "ifsc": "HPSC0000305",
+            "office": "CHAUNTRA",
+            "phone": "252227",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "CHHATRI MANDI PIN 175047",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHHATRI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000306",
+            "office": "CHHATRI",
+            "phone": "243201",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "CHURAG TEHSIL KARSOG PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KARSOG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000307",
+            "office": "CHURAG",
+            "phone": "224036",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "DEHAR TEHSIL SUNDER NAGAR PIN 175030",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DEHAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000308",
+            "office": "DEHAR",
+            "phone": "283004",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "DHARAMPUR TEHSIL SARKAGHAT PIN 175040",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DHARMPUR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000309",
+            "office": "DHARMARPUR",
+            "phone": "272005",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "GOHAR TEHSIL CHACHYOT PIN 175029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GOHAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000310",
+            "office": "GOHAR",
+            "phone": "250270",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "JANJEHLI MANDI PIN- 175047",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JANJEHLI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000311",
+            "office": "JANJEHLI",
+            "phone": "256748",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "JOGINDER NAGAR PIN 175015",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JOGINDER NAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000312",
+            "office": "JOGINDER NAGAR",
+            "phone": "222029",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "KARSOG MANDI PIN 175011",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KARSOG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000313",
+            "office": "KARSOG",
+            "phone": "222248",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "KOTLI PIN 175003",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTLI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000314",
+            "office": "KOTLI",
+            "phone": "281219",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "LAD BHROL PIN 176126",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LADBHAROL",
+            "district": "MANDI",
+            "ifsc": "HPSC0000315",
+            "office": "LADBADHOL",
+            "phone": "278143",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "MAKRIRI MANDI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MAKRIRI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000316",
+            "office": "MAKARIRI",
+            "phone": "256104",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "CHOTA BAZAR MANDI PIN 175001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000317",
+            "office": "MANDI",
+            "phone": "223035",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "NAGWAIN PIN 175121",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAGWAIN",
+            "district": "MANDI",
+            "ifsc": "HPSC0000318",
+            "office": "NAGWAIN",
+            "phone": "287113",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "NERCHOWK TEHSIL SADAR PIN 175008",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NER CHOWK",
+            "district": "MANDI",
+            "ifsc": "HPSC0000319",
+            "office": "NER CHOWK",
+            "phone": "242358",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "PANDOH PIN 175124",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PANDOH",
+            "district": "MANDI",
+            "ifsc": "HPSC0000320",
+            "office": "PANDOH",
+            "phone": "282207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "REWALSAR PIN 175023",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "REWALSAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000321",
+            "office": "REWALSAR",
+            "phone": "240211",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "SANDHOLE PIN 176090",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SANDHOLE",
+            "district": "MANDI",
+            "ifsc": "HPSC0000322",
+            "office": "SANDHOLE",
+            "phone": "273228",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "SARKAGHAT",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000323",
+            "office": "SARKAGHAT",
+            "phone": "230057",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "SERI BUNLOW TEHSIL KARSOG MANDI PIN-175011",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KARSOG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000324",
+            "office": "SERI BANGLOW",
+            "phone": "226505",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "SUNDER NAGAR PIN 175019",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SUNDERNAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000325",
+            "office": "SUNDER NAGAR",
+            "phone": "262337",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "THUNAG PO & TEHSIL THUNAG PIN 175048",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THUNAG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000326",
+            "office": "THUNAG",
+            "phone": "257514",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "BHAMBLA TEHSIL SARKAGHAT PIN 175004",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000327",
+            "office": "BHAMBLA",
+            "phone": "256454",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "SAULIKAHD PIN 175001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000328",
+            "office": "SAULIKHAD",
+            "phone": "237659",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "CHATROKHRI, TEHSIL SUNDER NAGAR PIN-174402",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SUNDERNAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000329",
+            "office": "CHATROKHARI",
+            "phone": "266309",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "BSL COLONY SNR PURANA BAZAR TEHSIL SUNDER NAGAR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SUNDERNAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000330",
+            "office": "BSL SUNDERNAGAR",
+            "phone": "264154",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "BALDWARA TEHSIL SARKAGHAT PIN 175033",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000331",
+            "office": "BHADARWAR",
+            "phone": "271311",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "TIHRA TEHSIL SARKAGHAT PIN 175026",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000332",
+            "office": "TIHRA",
+            "phone": "278401",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "MARHI TEHSIL SARKAGHAT PIN 175050",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000333",
+            "office": "MARHI",
+            "phone": "270100",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "LONGNI TEHSIL SARKAGHAT DISTT. MANDI PIN-175025",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LONGNI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000334",
+            "office": "LONGANI",
+            "phone": "279055",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "CHAIL CHOWK TEHSIL CHACHIOT PIN 175045",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAIL CHOWK",
+            "district": "MANDI",
+            "ifsc": "HPSC0000335",
+            "office": "CHAIL CHOWK",
+            "phone": "251048",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "SAJAO PIPLU TEHSIL SARKAGHAT PIN 175025",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000336",
+            "office": "SAJAO PIPLU",
+            "phone": "251766",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "SMAILA, TEHSIL SARAGHAT PIN-175034",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000338",
+            "office": "SMAILA",
+            "phone": "256310",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "VPO NABAHI DEVI TEH SARKAGHAT MANDI 175024",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000339",
+            "office": "NABAHI DEVI",
+            "phone": "230174",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "JOGINDER NAGAR BUS STAND PIN 17",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JOGINDER NAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000340",
+            "office": "BS JOGINDER NAGAR",
+            "phone": "224307",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "KUNNU TEHSIL PADHAR PIN 176121",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PADHAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000341",
+            "office": "KUNNU",
+            "phone": "260640",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "DHANOTU TEHSIL SUNDER NAGAR PIN-174401",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SUNDERNAGAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000342",
+            "office": "DHANOTU",
+            "phone": "265066",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "CHANDESH PO GAHAR TEHSIL SARKAGHAT PIN 175049",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARKAGHAT",
+            "district": "MANDI",
+            "ifsc": "HPSC0000343",
+            "office": "CHANDESH",
+            "phone": "257681",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "SARAUN (AWHA DEVI) PIN 175024",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARAUN",
+            "district": "MANDI",
+            "ifsc": "HPSC0000345",
+            "office": "AWAH DEVI",
+            "phone": "275157",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "VPO PADDAR TEH PADDAR MANDI 175012",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PADDAR",
+            "district": "MANDI",
+            "ifsc": "HPSC0000347",
+            "office": "PADDAR",
+            "phone": "260670",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "BAGA CHANOGI TEHSIL THUNAG VIA BAGSAID PIN 175035",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THUNAG",
+            "district": "MANDI",
+            "ifsc": "HPSC0000349",
+            "office": "BAGA CHANOGI",
+            "phone": "217050",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "RAJGARH PIN 175027",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJGARH",
+            "district": "MANDI",
+            "ifsc": "HPSC0000351",
+            "office": "RAJGARH   MND",
+            "phone": "244006",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "TAKOLI PIN 175025",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "TAKOLI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000352",
+            "office": "TAKOLI",
+            "phone": "287213",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "VILL CHAKKAR PO GUTKAR TEHSIL BALH",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000356",
+            "office": "CHAKKAR",
+            "phone": "246358",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "VPO KHADDAR TEHSIL LADBHAROL",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000357",
+            "office": "KHADDAR",
+            "phone": "275180",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "VPO RAKHOH TEHSIL SARKAGHAT",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDI",
+            "district": "MANDI",
+            "ifsc": "HPSC0000358",
+            "office": "RAKHOH",
+            "phone": "254740",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "BHARANU TEHSIL CHOPAL",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOPAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000401",
+            "office": "BHARANU",
+            "phone": "269521",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "BO ISBT SHIMLA PIN 171001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000402",
+            "office": "ISBT SHIMLA",
+            "phone": "2812945",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "CHAMAIN TEHSIL KOTKHAI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000403",
+            "office": "CHAMAIN",
+            "phone": "240561",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "CHIRGAON PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHIRGAON",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000404",
+            "office": "CHIRGAON",
+            "phone": "277258",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "CHOPAL",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOPAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000405",
+            "office": "CHOPAL",
+            "phone": "260025",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "CHHOTA SHIMLA-2",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000406",
+            "office": "CHHOTA SHIMLA",
+            "phone": "2621886",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "DALAN PO VIRGARH TEHSIL KUMARSAIN PIN 172030",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000407",
+            "office": "DALAN",
+            "phone": "222909",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "BO DEHA PIN 171201",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DEHA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000408",
+            "office": "DEHA",
+            "phone": "231711",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "DHALLI DISTT SHIMLA PIN 171012",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000409",
+            "office": "DHALLI",
+            "phone": "2841099",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "DODRA KWAR PIN 171221",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHIRGAON",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000410",
+            "office": "DODRA",
+            "phone": "262070",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "GANAHATTI PIN 171011",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000411",
+            "office": "GHANAHATTI",
+            "phone": "2774678",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "JANGLA TEHSIL ROHRU PIN 171214",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ROHRU",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000412",
+            "office": "JANGLA",
+            "phone": "275801",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "JEORI TEHSIL RAMPUR PIN 172101",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000413",
+            "office": "JEORI",
+            "phone": "278460",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "JHAKRI, TEHSIL RAMPUR PIN-172201",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000414",
+            "office": "JHAKRI",
+            "phone": "275581",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "JHIKNIPUL TEHSIL CHOPAL PIN 171211",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOPAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000415",
+            "office": "JIKHNIPUL",
+            "phone": "266530",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "JUBBAL TEHSIL JUBBAL DISTT SHIMLA PIN 171205",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JUBBAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000416",
+            "office": "JUBBAL",
+            "phone": "252047",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "KASUMPATI SHIMLA 9",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000417",
+            "office": "KASUMPATI",
+            "phone": "2624818",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "KHALINI SHIMLA PIN 171002",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000418",
+            "office": "KHALINI",
+            "phone": "2623676",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "KHALTUNALA TEHSIL KOTKHAI PIN 171202",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000419",
+            "office": "KHALTU NALA",
+            "phone": "244530",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "KHANETI SADOCH PO BATARI TEHSIL KUMARSAIN PIN 172031",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000420",
+            "office": "KHANETI SANDOCH",
+            "phone": "228123",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "KIARI TEHSIL KOTKHAI PIN 171204",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000421",
+            "office": "KIARI",
+            "phone": "258213",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "KOTKHAI TEHSIL KOTKHAI DISTT SHIMLA PIN 171202",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000422",
+            "office": "KOTKHAI",
+            "phone": "255313",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "BO AND TEHSIL KUMARSAIN PIN 172029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000423",
+            "office": "KUMARSAIN",
+            "phone": "240004",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "MARAOG TEHSIL CHOPAL PIN 171211",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOPAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000424",
+            "office": "MARAOG",
+            "phone": "261304",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "NANKHARI TEHSIL NANKHARI PIN 172021",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NANKHARI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000425",
+            "office": "NANKHARI",
+            "phone": "225444",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "NARKANDA, TEHSIL KUMARSAIN PIN-171213",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000426",
+            "office": "NARKANDA",
+            "phone": "242433",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "NERWA TEHSIL CHOPAL PIN 171210",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHOPAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000427",
+            "office": "NERWA",
+            "phone": "264427",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "NOGLI TEHSIL RAMPUR BUSHAHAR PIN 172022",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000428",
+            "office": "NOGLI",
+            "phone": "271296",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "PRAGATI NAGAR TEHSIL KOTKHAI PIN 171202",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000429",
+            "office": "PRAGATI NAGAR",
+            "phone": "253304",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "PREM NAGAR TEHSIL KUMARSAIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000430",
+            "office": "PREMNAGAR",
+            "phone": "244046",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "RAMPUR MAIN BAZAR PIN 172001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000431",
+            "office": "RAMPUR BUSHAHAR",
+            "phone": "233034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "ROHRU PIN 171207",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ROHRU",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000432",
+            "office": "ROHRU",
+            "phone": "240050",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "SANJAULI SHIMLA PIN 171006",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000433",
+            "office": "SANJAULI",
+            "phone": "2841140",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "SARAHAN BSR TEHSIL RAMPUR PIN 172002",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000434",
+            "office": "SARAHAN-BSR",
+            "phone": "274261",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "BO SECTT CHHOTA SHIMLA 171002",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000435",
+            "office": "H P SECRETARIAT",
+            "phone": "2620991",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "SHARONTHA TEHSIL TIKKAR PIN 171203",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHRONTHA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000437",
+            "office": "SHARONTHA",
+            "phone": "9418071898",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "SHIMLA THE MALL SHIMLA 171001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000438",
+            "office": "THE MALL SHIMLA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "SHIMLA THE MALL SHIMLA 171001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000439",
+            "office": "THE MALL SHIMLA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "SHIMLA THE MALL SHIMLA 171001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000440",
+            "office": "THE MALL SHIMLA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "BO SUNI SHIMLA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000441",
+            "office": "SUNI",
+            "phone": "2786621",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "BO TAKLECH TEHSIL RAMPUR PIN 172022",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000442",
+            "office": "TAKLECH",
+            "phone": "272206",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "THANEDHAR TEHSIL KUMARSAIN PIN 172030",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMARSAIN",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000443",
+            "office": "THANEDHAR",
+            "phone": "222350",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "THEOG PIN 171201",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THEOG",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000444",
+            "office": "THEOG",
+            "phone": "238207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "TIKKAR PIN 171203",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "TIKKER",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000445",
+            "office": "TIKKAR",
+            "phone": "233277",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "BO TOTU SHIMLA PIN 171011",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000446",
+            "office": "TOTU",
+            "phone": "2837608",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "RATNARI TEHSIL KOTKHAI PIN 171225",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000447",
+            "office": "RATNARI",
+            "phone": "275801",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "SARASWATI NAGAR PIN 171206",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARASWATI NAGAR",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000448",
+            "office": "SARASWATI NAGAR",
+            "phone": "238995",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "DEORI KHANETI TEHSIL KOTKHAI PIN 171201",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KOTKHAI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000449",
+            "office": "DEORI KHANETI",
+            "phone": "246707",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "SHILAROO PIN 171213",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHILAROO",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000450",
+            "office": "SHILAROO",
+            "phone": "9418095965",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "KOTI TEHSIL JUNGA PIN 171012",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000451",
+            "office": "KOTI",
+            "phone": "2733451",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "BO DEOLI PIN 171203",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DEOLI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000453",
+            "office": "DEOLI",
+            "phone": "9418142342",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "MANDAL PIN 171216",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANDAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000454",
+            "office": "MANDAL",
+            "phone": "239156",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "KHOLIGHAT NANKHARI PIN 171213",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NANKHARI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000455",
+            "office": "KHOLI GHAT",
+            "phone": "268755",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "KHARAHAN TEHSIL NANKHARI PIN 171213",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NANKHARI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000456",
+            "office": "KHARAHAN",
+            "phone": "9418211634",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "BATAR GALU PO KATHASU TEHSIL JUBBAL PIN-171206",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JUBBAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000457",
+            "office": "BATAR GALU",
+            "phone": "8988125900",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "BACHHUNCH CHAPOTI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ROHRU",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000458",
+            "office": "BACHHUNCH   CHAPOTI",
+            "phone": "244231",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "KHARA PATHAR TEHSIL JUBBAL PIN 171205",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "JUBBAL",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000459",
+            "office": "KHARAPATHAR",
+            "phone": "9418012762",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "FAGU TEHSIL THEOG DISTT SHIMLA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THEOG",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000460",
+            "office": "FAGU",
+            "phone": "239207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "SUMMER HILL DISTT SHIMLA 171005",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000461",
+            "office": "SUMMER HILL",
+            "phone": "2832500",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "KUPVI TEHSIL KUPVI DISTT SHIMLA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUPVI",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000462",
+            "office": "KUPVI",
+            "phone": "270280",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "VPO JALOG TEHSIL SUNNI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000466",
+            "office": "JALOG",
+            "phone": "2767211",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "VPO JATHIA DEVI TEHSIL SHIMLA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000467",
+            "office": "JATHIA DEVI",
+            "phone": "2736910",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "GRAM PANCHAYAT AND PO THACHI TEHSIL SUNI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000468",
+            "office": "THACHI",
+            "phone": "2793444",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "VILLAGE MASHOBRA-2 POST OFFICE MASHOBRA TEHSIL AND DISTRICT SHIMLA PIN 171007",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000469",
+            "office": "MASHOBRA",
+            "phone": "2740555",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "PO JUNGA SUB TEHSIL JUNGA",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000470",
+            "office": "JUNGA",
+            "phone": "2752299",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "VPO NARAIN TEHSIL RAMPUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000471",
+            "office": "NARAIN",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "RAMPUR BUS STAND CHUHABAG PO KHANERI RAMPUR BUSHAHAR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "HPSC0000472",
+            "office": "RAMPUR BUS STAND",
+            "phone": "234034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "BO BADARI NAGAR PIN 173026",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PAONTA SAHIB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000551",
+            "office": "BADRINAGAR",
+            "phone": "224788",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "DHAULA KUAN PIN 173020",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DHAULA KUAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000552",
+            "office": "DHAULA KUAN",
+            "phone": "257619",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "DADAHU DISTT SIRMOUR PIN 173022",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DADAHU",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000553",
+            "office": "DADAHU",
+            "phone": "267353",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "HABBAN PIN 173101",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HABBAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000555",
+            "office": "HABBAN",
+            "phone": "266080",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "KALA AMB PIN 173020",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KAKA AMB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000556",
+            "office": "KALA AMB",
+            "phone": "254114",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "KATCHA TANK PIN 173001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAHAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000557",
+            "office": "KATCHA TANK",
+            "phone": "223143",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "MAJRA PIN 173021",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MAJRA",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000558",
+            "office": "MAJRA",
+            "phone": "254047",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "NAHAN PIN 173001",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAHAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000559",
+            "office": "NAHAN",
+            "phone": "222687",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "NARAG PIN 173024",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NARAG",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000560",
+            "office": "NARAG",
+            "phone": "257335",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "NOHRADHAR PIN 173104",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NOHRADHAR",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000561",
+            "office": "NOHRADHAR",
+            "phone": "240680",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "PAONTA SAHIB PIN 173025",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PAONTA SAHIB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000562",
+            "office": "PAONTA SAHIB",
+            "phone": "222336",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "RAJGARH PIN 173101",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJGARH",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000563",
+            "office": "RAJGARH",
+            "phone": "221021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "S PRURWALA PIN 173025",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PAONTA SAHIB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000564",
+            "office": "S - PURUWALA",
+            "phone": "238838",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "SANGRAH PIN 173023",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SANGRAH",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000565",
+            "office": "SANGRAH",
+            "phone": "248163",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "SARAHAN SIRMOUR. PIN 173024",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SRAHAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000566",
+            "office": "SARAHAN-SIRMOUR",
+            "phone": "236745",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "SATAUN PIN 173029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SATAUN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000567",
+            "office": "SATAUN",
+            "phone": "262506",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "SHILLAI PIN 173027",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHILLAI",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000568",
+            "office": "SHILLAI",
+            "phone": "278545",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "TRILOKPUR PIN 173030",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KALA AMB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000569",
+            "office": "TRILOKPUR",
+            "phone": "238679",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "KAMRAU PIN 173029",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KAMRAU",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000570",
+            "office": "KAMRAU",
+            "phone": "271443",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "LANA CHETA PIN 173104",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LANA CHETA",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000571",
+            "office": "LANA CHETA",
+            "phone": "247120",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "DC NAHAN PIN 173026",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAHAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000572",
+            "office": "DC OFFICE NAHAN",
+            "phone": "222267",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "YASHWANT NAGAR PIN 173212",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "YASHWANT NAGAR",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000573",
+            "office": "YASHWANT NAGAR",
+            "phone": "270400",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "KHERI TEHSIL RAJGARH DISTT SIRMOUR",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJGARH",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000575",
+            "office": "KHERI",
+            "phone": "275021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "JAMTA TEHSIL NAHAN PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAHAN",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000576",
+            "office": "JAMTA",
+            "phone": "258666",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "NAINIDHAR TEHSIL SHILLAI PIN",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHILLAI",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000577",
+            "office": "NAINIDHAR",
+            "phone": "206010",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "RONHAT TEHSIL SHILLAI",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHILLAI",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000578",
+            "office": "RONHAT",
+            "phone": "270404",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "PO SANGNA TEHSIL SANGRAH DISTT SIRMOUR 173023",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SANGRAH",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000579",
+            "office": "GATADHAR",
+            "phone": "8894067667",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "VPO KAFOTA TEHSIL KAMRAU",
+            "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PAONTA SAHIB",
+            "district": "SIRMOUR",
+            "ifsc": "HPSC0000580",
+            "office": "KAFOTA",
+            "phone": "273327",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    }
+]

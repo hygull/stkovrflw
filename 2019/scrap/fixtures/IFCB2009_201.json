@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "SHOP NUMBER1,HERMES ATRIUM,SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "Thane",
+            "ifsc": "SURY0000011",
+            "office": "BELAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 1 A,SHRIPAL BUILDING,CHHAYA SOCIETY,S.T.ROAD,CHEMBUR NAKA,MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "Mumbai",
+            "ifsc": "SURY0000012",
+            "office": "CHEMBUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "Shop Number 3,4,6,Ground Floor,NRI Shopping Center, Seawoods estaes, 56 / 58, Sector 54, Nerul, Navi Mumbai",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "Thane",
+            "ifsc": "SURY0000013",
+            "office": "NERUL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "G-1 X SHOPPING CENTER,FLOWER VALLEY CHS LTD,NEXT TO STATE BANK OF HYDERABAD,EASTERN EXPRESS HIGHWAY THANE( WEST),OPPOSITE VIVIANA MALL,MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "Thane",
+            "ifsc": "SURY0000014",
+            "office": "THANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,VIBHAS C.H.S LTD,KOTHRUD,PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "Pune",
+            "ifsc": "SURY0000015",
+            "office": "KOTHRUD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 5A,GROUND FLOOR,SAMEER PLAZA,GP-72,G BLOCK,MIDC,SAMBHAJI NAGAR,CHINCHWAD,PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "Pune",
+            "ifsc": "SURY0000016",
+            "office": "CHINCHWAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMER 9,AND 4,SUVIDHA SMITA APARTMENTS,SADASHIV PETH,PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "Pune",
+            "ifsc": "SURY0000017",
+            "office": "SADASHIVPETH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SHOP,SAMARPAN BUILDING,NEAR SWASTIK CROSS ROAD,NEAR US PIZZA,NAVRANGPURA,AHMEDABAD",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "SURY0000018",
+            "office": "NAVRANGPURA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,PLOT NUMBER 4,SCHEME NUMBER 117,NEW PALASIA,56 DUKAN,INDORE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "SURY0000019",
+            "office": "NEW PALASIA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,S J MODERN TOWER,AT NO.13,VALLALAR SALAI,KAMRAJ NAGAR,PUDUCHERRY",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUDUCHERRY",
+            "district": "PUDUCHERRY",
+            "ifsc": "SURY0000020",
+            "office": "KAMRAJ NAGAR",
+            "phone": "0",
+            "state": "PUDUCHERRY"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "NO.24/52,VENKATESAN STREET,TAMBARAM WEST,CHENNAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SURY0000021",
+            "office": "TAMBARAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PLOT NUMBER 642,SRI RAM APARTMENTS,GROUND FLOOR 5,6,LAXMI MILL JUNCTION,PULLIYAKULAM ROAD,COIMBATORE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "SURY0000022",
+            "office": "PULLIYAKULAM ROAD",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PREMISE NUMBER C 56,GROUND FLOOR,11TH CROSS ROAD,THILLAI NAGAR,MAIN ROAD,TIRUCHIIRAPPALLI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TIRUCHIRAPALLI",
+            "district": "TIRUCHIRAPALLI",
+            "ifsc": "SURY0000023",
+            "office": "THILLAI NAGAR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,PLOT NO-2862/3734,LEWIS ROAD,BHUBANESHWAR",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHUBANESHWAR",
+            "district": "BHUBANESHWAR",
+            "ifsc": "SURY0000024",
+            "office": "LEWIS ROAD",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "LHARMONIE,NO 30,BAZULLAH ROAD,T.NAGAR,CHENNAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SURY0000025",
+            "office": "T.NAGAR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,H.NO.814,FL-2,YEWALEWADI,OPPOSITE SINHAGAD COLLEGE,KONDWA PUNE -411048",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000026",
+            "office": "YEWALEWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "HOUSE NUMBER H 386,MHALUNGE BUS STOP,PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000027",
+            "office": "MAHALUNGE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "HOUSE NUMBER 211, GROUND FLOOR CHARHOLI (KHURD), PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000028",
+            "office": "ALANDI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,PLOT NUMBER 2,123/2/2 DATTAWADI,OPPOSITE IMS COLLEGE,KASARSAI ROAD,TALUKA -MULSHI,NERE PUNE -412108",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000031",
+            "office": "DATTAWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 1,GROUND FLOOR,NEAR HANUMAN TEMPLE,HEDUTANE VILLAGE,TALUKA -KALYAN,DISTRICT -THANE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "SURY0000032",
+            "office": "HEDUTANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, AT HOUSE NUMBER 829, VARALE, TAL. MVAL, PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000033",
+            "office": "VARALE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, HOUSE NUMBER 099, DONAJE VILLAGE, PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000034",
+            "office": "DONAJE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 2& 3,GROUND FLOOR,SUNDARA AAI PARK,GRAMPANCHAYAT HOUSE NO.778,SARAVALI VILLAGE,NEAR MIDC,TALUKA -BHIWANDI,THANE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "SURY0000035",
+            "office": "SARAVALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 1,GROUND FLOOR,SARASWATI APARTMENT,KOLEGAON,TALUKA -KALYAN,DISTRICT -THANE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "SURY0000036",
+            "office": "KOLEGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "SURYODAY SMALL FINANCE BANK LTD., SHOP NO.1 & 2, GROUND FLOOR, GURUKRUPA APARTMENT, SURVEY NO.1/1A, 2B, WADACHIWADI, TAL HAVELI, PUNE",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SURY0000037",
+            "office": "WADACHIWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "54,1STMAINROAD,NANGANALLUR,CHENNAI,TAMILNADU600061",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SURY0000038",
+            "office": "NANGANALLUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "GALA NO - 5& 15,SUNDER PLAZA,BAIL BAZAAR,KALYAN-SHILFATA ROAD,KALYAN,THANE,MAHARASHTRA 421301",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "SURY0050080",
+            "office": "KALYAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1& 2,B WING,RAVINDRA REGENCY,BALYANI ROAD,MANDA EAST,TITWALA,MAHARASHTRA 421605",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TITWALA",
+            "district": "THANE",
+            "ifsc": "SURY0050223",
+            "office": "TITWALA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "UNIT NUMBER 302,SECTOR 11,201 IN PUJIT PLAZA BUILDING,NAVI MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "SURY0BK0000",
+            "office": "CENTRAL BACK OFFICE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "1101 SHARDA TERRACES,PLOT 65 SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "SURY0HE0001",
+            "office": "CORPORATE OFFICE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "1101 SHARDA TERRACES,PLOT 65 SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
+            "bank_name": "SURYODAY SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "SURY0TR0002",
+            "office": "TREASURY DEPARTMENT",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "fields": {
+            "address": "DR.ANTONIO DASILVA HIGH SCHOOL,S.K BOLE ROAD,DADAR (W),MUMBAI 400028",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209002",
+            "office": "DADAR BRANCH",
+            "phone": "24374948",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SIND CHAMBERS CHSL S.B SINGH ROAD,COLABA,MUMBAI 400005.",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209003",
+            "office": "RTGS-HO",
+            "phone": "22047753",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "ST.MARY'S EXTENSION NESBIT ROAD,MAZGAON,MUMBAI 400010",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209004",
+            "office": "BYCULLA BRANCH",
+            "phone": "23719862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "SUNBEAM CHSL 64,MOUNT CARMEL ROAD,BANDRA,MUMBAI 400050",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209005",
+            "office": "BANDRA BRANCH",
+            "phone": "26408717",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "SAIDHAM,PREMIER ROAD,KURLA (W) MUMBAI 400070",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209006",
+            "office": "KURLA BRANCH",
+            "phone": "25041370",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "ROSARIO APTS,I.C COLONY,BORIVLI (W) MUMBAI 400103",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209007",
+            "office": "BORIVLI BRANCH",
+            "phone": "28931145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "CHURCH ROAD ,GORAI,BORIVALI P.O.MUMBAI 400091",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209008",
+            "office": "GORAI BRANCH",
+            "phone": "28452650",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.9 ERIC HOUSE CENTRAL AVENUE,CHEMBUR MUMBAI 400071",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209009",
+            "office": "CHEMBUR BRANCH",
+            "phone": "25218157",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "CITIZENCREDIT CENTRE , GROUND FLOOR , OPPOSITE OUR LDAY OF LOURDES CHURCH , ORLEM - CTS NO. 236 , MALAD (WEST) , MUMBAI 400064",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209010",
+            "office": "MALAD BRANCH",
+            "phone": "28074643",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "DOMINGO'S COURT,KALINA CHURCH ROAD,SANTACRUZ (E) MUMBAI 400029",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209011",
+            "office": "KALINA BRANCH",
+            "phone": "26660052",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "ST.JOSEPH'S HIGH SCHOOL,STATION ROAD,VIKHROLI MUMBAI 400079.",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209012",
+            "office": "VIKHROLI BRANCH",
+            "phone": "25779750",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "CREADO CHSL , CAESER ROAD , AMBOLI , ANDHERI (W) , MUMBAI 400058",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209013",
+            "office": "AMBOLI BRANCH",
+            "phone": "26771280",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 5/6 DARVESH ROYALE , OPP. KOTAK MAHINDRA BANK , PERRY ROAD , BANDRA (W) , MUMBAI 400050",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209014",
+            "office": "TURNER ROAD BRANCH",
+            "phone": "26430709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "G-01 FIDA MANSION APTS,S.V ROAD,SANTACRUZ (W) MUMBAI 400052",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209015",
+            "office": "SANTACRUZ BRANCH",
+            "phone": "26047470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "S.NABIBUX HOUSE,NEHRU ROAD VAKOLA BRIDGE,SANTACRUZ (E) MUMBAI 400055",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209016",
+            "office": "VAKOLA BRANCH",
+            "phone": "26685077",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SAIDHAM COMPLEX,26-27-28 P.K ROAD EXTN.,MULUND (W) MUMBAI 400080",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209017",
+            "office": "MULUND BRANCH",
+            "phone": "25641710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "ST.JOHN THE EVANGELIST HIGH SCHOOL,MAROL,ANDHERI (E) MUMBAI 400059",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209018",
+            "office": "MAROL BRANCH",
+            "phone": "28215286",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "OUR LADY OF HEALTH HIGH SCHOOL,SAHAR VILLAGE,ANDHERI (E) MUMBAI 400099",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209019",
+            "office": "SAHAR BRANCH",
+            "phone": "26829285",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "ST.BONAVENTURE SCHOOL MADH ISLAND MALAD (W) MUMBAI 400061",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209020",
+            "office": "MADH BRANCH",
+            "phone": "28889975",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "CITIZENCREDIT BANK BLDG,CITIZEN HSG SOC.SHOPPING CENTRE,MAIN D.P ROAD NAIGAON (E) DIST THANE 401202",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209021",
+            "office": "NAIGAON BRANCH",
+            "phone": "2502200715",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "GEETA ARCADE , STATION ROAD , OPP HOLY CROSS SCHOOL , MIRA ROAD (E) , DIST: THANE , PIN 401107",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209022",
+            "office": "MIRA ROAD BRANCH",
+            "phone": "28118323",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "1/3 GARDEN VIEW CHSL,MMC ROAD MAHIM (W) MUMBAI 400016",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0209023",
+            "office": "MAHIM BRANCH",
+            "phone": "24474480",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "ST XAVIER'S HIGH SCHOOL COMPOUND, 289,LOKMANYA TILAK RD, DHOBITALAO, MUMBAI 400001",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209024",
+            "office": "DHOBITALAO BRANCH",
+            "phone": "22610112",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "HILL ROAD BRANCH , THE SALSETTE CATHOLIC CHSL, PLOT NO.29, 56 RAMDAS NAYAK MARG (HILL ROAD) , BANDRA (W) , MUMBAI 400050",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209025",
+            "office": "HILL ROAD BRANCH",
+            "phone": "26437089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "MANORI CHURCH COMPOUND , MANORI , P. O. KHARODI , MUMBAI 400095",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209026",
+            "office": "MANORI BRANCH",
+            "phone": "28452741",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 3 , ANGELS PARADISE , NEAR DAGADI SHALA , VEER SAVARKAR MARG , THANE (W) PIN 401602",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209027",
+            "office": "THANE BRANCH",
+            "phone": "25425447",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "F-1/7,GROUND FLOOR, SECTOR-5,VASHI, NAVI MUMBAI 400703",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209028",
+            "office": "VASHI BRANCH",
+            "phone": "27825113",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2 , AMBIKA APARTMENTS CHSL , NEXT TO DOMINOS PIZZA MAHAKALI CAVES ROAD , ANDHERI (EAST) 400093",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209029",
+            "office": "MAHAKALI BRANCH",
+            "phone": "28303141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.5, GR.FLR, SHREENIKETAN BLDG, FLOWER HOUSE CHSL, PLOT NO.R-1, GOREGAON(EAST), MUMBAI-400063.",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209030",
+            "office": "GOREGAON",
+            "phone": "29275801",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3, RAMESHWAR DARSHAN CHSL, N DUTTA MARG, FOUR BUNGALOWS, ANDHERI WEST, MUMBAI 400053",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209031",
+            "office": "FOUR BUNGALOW",
+            "phone": "26374415",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6 , GROUND FLOOR , NEXT TO POPULAR AUTO , VINEET APARTMENT CHSL , CHATTRAPATI SHIVAJI ROAD , BHAYANDER (W) , DIST THANE PIN 401101",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209032",
+            "office": "BHAYANDAR BRANCH",
+            "phone": "28170131",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR , RICHMOND TOWN , PHASE -II BLDG. NO. 3 CHSL , VASAI (W) , DIST-PALGHAR , PIN - 401202",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209033",
+            "office": "VASAI BRANCH",
+            "phone": "2503240930",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "CHURCH OF OUR LADY OF DOLOURS ,1ST FLOOR , DAVID BARRETO ROAD ,WADALA (W) MUMBAI 400031",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209034",
+            "office": "WADALA BRANCH",
+            "phone": "24104551",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SUGANDHI HEIGHTS , GROUND FLOOR , VILLAGE BOLINJ , KHARODI NAKA , VIRAR (W) , MUMBAI - 401303",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "PALGHAR",
+            "ifsc": "CCBL0209035",
+            "office": "VIRAR",
+            "phone": "26442829",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "5TH FLOOR,TCG FINANCIAL CENTRE,C-53,G BLOCK,BANDRA KURLA COMPLEX,BANDRA EAST,MUMBAI,PINCODE-400051",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "PALGHAR",
+            "ifsc": "CCBL0209036",
+            "office": "BOISAR",
+            "phone": "22658969",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "Shop No:4 and 5,Madhu Kunj,Bhausaheb Parab Road, Kandarpada, Dahisar (w),Mumbai,400068",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CCBL0209037",
+            "office": "DAHISAR",
+            "phone": "22658969",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3&4, NEEL KUNJ, PLOT NO 1&2, SECTOR 4,NEW PANVEL EAST - 401206",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGARH",
+            "ifsc": "CCBL0209038",
+            "office": "NEW PANVEL",
+            "phone": "222658969",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "57,HELENA APARTMENTS,MOUNT CARMEL ROAD,BANDRA WEST,MOUNT CARMEL ROAD 4000050",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "CCBL0ACC001",
+            "office": "CENTRAL ADMINISTRATIVE OFFICE, ACCOUNT SECTION",
+            "phone": "26401126",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "OPP. HATHI BAUG , MOTI DAMAN , UNION TERRITORY OF DAMAN & DIU , DAMAN 396 220",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAMAN",
+            "district": "DAMAN",
+            "ifsc": "CCBL0DMN131",
+            "office": "DAMAN",
+            "phone": "2602230397",
+            "state": "DAMAN AND DIU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.8-152/G 58,6 DAMANIA HEIGHTS,KAVI KABARDAR ROAD, NANI DAMAN - 396210, UNION TERRITORY OF DAMAN & DIU",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAMAN",
+            "district": "DAMAN",
+            "ifsc": "CCBL0DMN132",
+            "office": "NANI DAMAN",
+            "phone": "2602250152",
+            "state": "DAMAN AND DIU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "SHOP N0 6, GROUND FLOOR, BLDG A-1, SAPANA  BARRIER CHSL, ST JOAQUIM RD,BORDA, MARGOA, GOA 403 602",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "CCBL0GOA002",
+            "office": "MARGAO",
+            "phone": "8322700096",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 158,SURVEY NO 125/2,PENHA-DE-FRANCA,PORVORIM,BARDEZ,GOA 403521",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "CCBL0GOA003",
+            "office": "PORVORIM",
+            "phone": "8322412379",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 &16 SAPANA TERRACE CHSL,SWATANTRA PATH,VASCO DA GAMA- 403802",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "CCBL0GOA004",
+            "office": "VASCO DA GAMA",
+            "phone": "8322501870",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "D-1/G-1, BOSHAN HOMES, MAPUSA CALANGUTE ROAD, MAPUSA , GOA -403507",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "CCBL0GOA005",
+            "office": "MAPUSA",
+            "phone": "8322254078",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "H.NO.E-320 RUA DE QURERN , PATTO, PANAJI , GOA - 403 001",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "CCBL0GOA007",
+            "office": "PANAJI",
+            "phone": "8322432995",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "BOSCO CENTRE, SHOP NO5, GROUND FLOOR, THATTE NAGAR, NEAR PRASAD CIRCLE, GANGAPUR ROAD, NASHIK -422005",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "CCBL0NSK002",
+            "office": "NASHIK",
+            "phone": "22658969",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15,KUMAR CORNER CHSL,CONVENT STREET,CAMP,PUNE-411001",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "CCBL0PUN002",
+            "office": "CAMP BRANCH",
+            "phone": "2026331122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.11,GR.FLOOR,BLDG'C',CTP TAIN SQUARE,FATIMA NAGAR,PUNE-411040",
+            "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "CCBL0PUN003",
+            "office": "FATIMA NAGAR BRANCH",
+            "phone": "2026860327",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "5TH FLOOR BREN MERCURY, SARJAPUR ROAD, KAIKONDRAHALLI,BENGALURU",
+            "bank_name": "FINCARE SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "FSFB0000001",
+            "office": "RTGS-HO",
+            "phone": "42504444",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

@@ -1,0 +1,3557 @@
+[
+    {
+        "fields": {
+            "address": "PRAGATI BHAWAN,P36, SECTOR 44, GURGAON",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310898326",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "VPO :DAMDAMA, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "ABHEYPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2363503",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "VPO:AHERWAN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "AHARWAN",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-270302",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "VPO:AKODA,DISTRICT-MAHENDERGARH,STATE-HARYANA,PINCODE-123029.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "AKODA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-230505",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "VILL. ALDUKA, PO:KURTHALA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "ALDUKA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-272128",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "VPO:ALLIKA,DISTRICT-PALWA,STATE-HARYANA.PINCODE-121002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "ALIKA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-276427",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "VPO:AURANGABAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-263648",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "VPO:BACHHOD, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BACHHOD",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01282-248441",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "VPO:BADED",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BADED",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416577241/ 9050024640",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK.VPO:BADOLI,DISTRICT-PALWAL,STATE-HARYANA.PINCODE-121102.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BADOLI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-267375",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "VPO:BADSHAHPUR. DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BADSHAHPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2361259",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "VPO:BAHIN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAHIN",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315044111",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK.VILL. BALAHKALAN POST OFFICE :KRISHNA NAGAR,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BALAHA KALAN",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-244858",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "CHAWLA COLONY, BALLABHGARH, FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BALLABGARH",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2241809",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "VPO:BANCHARI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BANCHARI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-237485",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "VPO:BEEWAN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BEEWAN",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315751115",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "VILL.BERLI KALAN, PO:MUSEPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BERLIKALAN",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-232044",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "VPO:BHARAWAS,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BHARAWAS",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-246669",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "VPO:BHEDUKI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BEDUKI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-272221",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "VILL.BHINGURI, PO:HATHIN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BHINGURI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-261296",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "VPO:BHOJAWAS,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123034.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BHOJAWAS",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-244553",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "VPO:BHORAKALAN, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAHORA KALAN",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2379533",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "VPO:BICHHORE",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BICHHOR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-275278",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "VPO:BISRU, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BISRU",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-205202",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "VPO:BUDHWAL",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BUDHWAL",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-221355",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "PO:PALAM VIHAR, GURGAON PALAM ROAD, HANS PARK, NEAR ACP OFFICE,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122017.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "CARTERPURI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2368085",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "VPO:CHANDHAT,DISTRICT PALWAL, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "CHANDAT",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-264207",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "VPO:DHANI BHATOTA,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHANI-BHATHOTHA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-206267",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "VPO:DHANKOT,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122505.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHANKOT",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2278160",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "VILL.DHANONDA, P.O.ATELI,NARNAUL,DISTRICT-MAHENDERGARH,STATE-HARYANA,PINCODE-123021.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHANODA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-276190",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "VPO DHATIR, TEHSIL PALWAL,DIST-PALWAL,STATE-HARYANA,PINCODE-121102.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHATIR",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315801132",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "V.PO.DHAUJ, DISTRICT PALWAL, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHAUJ",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2206573",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "VPO:DHOLERA,NARNAUL,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHOLEHRA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-273838",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "VPO:DIGHOT,DISTRICT-PALWA,STATE-HARYANA.PINCODE-121005.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DIGHOT",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315371135",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "VILL.DUDHOLA, PO:BAGHOLA,DISTRICT-PALWAL,STATE-HARYANA.PINCODE-121102.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DUDHOLA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-262342",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "VPO:DULOTH AHIR,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123029.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DULOTH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-242038",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "NEAR ARYA SAMAJ MANDIR, MAIN MARKET , OLD FARIDABAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2501230",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "VILL.G.AHIR, PO.BIKANER,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GANGIACHA AHIR",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-247881",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "VILL.BOLNI, PO:GARHI BOLNI,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BOLANI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-267126",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "VPO:GARHI HARSRU",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GARHI HARSARU",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2276595",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "VPO:GHAMROJ",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GHAMROJ",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2393395",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "VPO:GHANGOLA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GHANGOLA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2318495",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "VILLAGE GHARODA,POST OFFICE:ALIPUR, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GHARODA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2402926",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VPO:GHAROT",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GHAROT",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9050684568",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "VPO:GHASEDA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GHASEDA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-276524",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "VPO:GURAWARA, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURAWADA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-245737",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "NEAR ARYAN HOSPITAL, OLD RAILWAY ROAD,DIST-GURGAON,STATE-HARYANA.PINCODE-122001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310371148",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "VPO: HAILY MANDI,PATAUDI,,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122504.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "HAILEY MANDI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2670667",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "VILL.HANSAKA, PO:SHEORAJ MAJRA,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "HANSAKA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315531150",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "VPO:INDRI, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "INDRI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355051151",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "VILL.JAINABAD, PO.DAHINA,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123411.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JAINABAD",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-248979",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE:BADARPUR SAYEED",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JASANA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310171153",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "VPO:JATUSANA, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JATUSANA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01281-242016",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "VPO:JHARSA,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122003.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JHARSA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2380265",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "VPO:KALWARI, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KALWADI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01267-278328",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "VPO:KANINA, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KANINA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-235178",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "VPO:KANTI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KANTI",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01282-274387",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "VILL.KAPRIWAS, PO:INDUSTRIAL AREA DHARUHERA,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123110.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KAPRIWAS",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-242879",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "VPO:KASAN,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122050.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KASAN",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2290379",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "VPO:KHAMBI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHAMBI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-273317",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "VPO:KHANDSA, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHANDSA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2372616",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "VPO-KHERI KALAN, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHERI KALAN",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2202687",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "VPO:KHOL, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHOL",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-240435",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "VPO:JAMALPUR CHOWK,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-123504.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JAMALPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2280159",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "VPO:KONDAL, DISTRICT PALWAL, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KONDAL",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-261271",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "VILL.KUSHAK, POST OFFICE:TAPPA,DISTRICT-PALWAL,STATE-HARYANA.PINCODE-121107.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KUSHAK",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-207866",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "VPO:LUKHI,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123303.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "LUKHI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01259-271483",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "VPO:MADHOGARH, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MADHOGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-241160",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "VPO:MALAB",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "VPO:MALAI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MALAI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9671041902",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "VPO:MANDOLA, DISTRICTB REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MANDOLA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-220444",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "VPO:MOHD.PUR AHIR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MOHMMEDPUR AHIR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01267-278100",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "VPO- MOHNA, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MOHNA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-266526",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "PO:SHIVADI,",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MUSHEDPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2375653",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "VPO:NAGINA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NAGINA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-273241",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "VPO:NAKHROLA,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NAKHROLA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2290032",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "VPO:NAND RAM PUR WAS, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NANDRAMPURBAS",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01274-245764",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "VPO NANGAL SHAHBAJPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NANGAL SHAHBAZPUR",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01284-294241",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "VPO:NANUKALAN, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NANUKALAN",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0124-2264021",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE:NARNAUL, SINGHANA ROAD, (SARASWATI COMPLEX) NEAR PETROL PUMP,NARNAUL,DISTRICT-MAHENDERGARH,STATE-HARYANA,PINCODE-123001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NARNAUL",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-254785",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "VILL.NIWAS NAGAR, PO:DHARSU",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NIWASNAGAR",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-260088",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "VPO:NIZAMPUR,NARNAUL,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NIZAMPUR",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-242321",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "VPO:PACHGAON, DISTRIC GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PACHGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310371185",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "VPO-PALI, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PALI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2480289",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "12/5, BUNTI WALI GALI, POST OFFICE-AMAR NAGAR,",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PALLA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2275093",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE:PALWAL, AGRA CHOWK, G.T.ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PALWAL",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-246832",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "VPO-KHERI KALAN, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PALWALI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2202598",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "VPO:PATAUDI, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PATAUDI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2672626",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "VPO:PINANGWAN, DISTRICT MEWAT,HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PINANGWAN",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-279140",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "VPO:NANGAL TEJU,BAWAL,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123501.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NANGAL TEJU",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01284-265762",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "VPO:PRITHALA,DISTRICT-PALWAL,STATE-HARYANA.PINCODE-121102.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PIRTHALA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-362213",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "VPO:PUNHANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PUNHANA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-272600",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "VPO:RATANKALAN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "RATA KALAN",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01282-277510",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "VPO:RAWALI, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "RAWLI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "/01268-277887",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "PO:REWARI, NEAR RADHIKA CINEMA, CIRCULAR ROAD, REWARI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-253227",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "VPO:SAKRAS",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SAKRAS",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-205906",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "VPO:SANGWARI,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SANGWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01274-249337",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "VPO:SIROHI BHALI, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SROHI BHALI",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01282-246308",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "VPO:SEEHMA, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SEEHMA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01282-240403",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "VPO:SEHLONG, DISTRICT MAHENDERGARH, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SEHLONG",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01285-234303",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "VPO:SHERPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SHERPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2270436",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "VPO:SHIKRAWA, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SIKRAWA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-274278",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "VPO:SHINGAR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SHINGAR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-201300",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "VPO:SIDHRAWLI,,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122413.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SIDHRAWALI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2679001",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "VPO:SIHA, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SIHA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-230512",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "SCF-45,SECTOR-3,AT-SHI,DISTRICT-FARIDABAD,STATE-HARYANA,PINCODE-121004.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2240847",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "VILL.SIKANDERPUR, PO:DLF, PHASE-1,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SIKANDERPUR GHOSI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310171210",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE-FATEHPUR TAGA, DISTRICT FARIDABAD, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SIKRONA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2205077",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE :SOHNA,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122013.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SOHNA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310371212",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "VPO:SONDHAD, DISTRICT PALWAL, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONDHAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-236922",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "VPO:SULTANPUR, DISTRICT GURGAON, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SULTANPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310371214",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "VPO-KHERI KALAN",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHERI KALAN",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-201277",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE-BALLABHGARH",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SUNPED",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0129-2208252",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "VPO:TANKRI, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "TANKRI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01284-267907",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "VPO:TAURU, REWARI SOHNA ROAD,DISTRICT-MEWAT,STATE-HARYANA.PINCODE-122105.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "TAURU",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-282341",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "VPO-TIGAON",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "TIGAON",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2402673",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "VPO:HODAL,DISTRICT-PALWA,STATE-HARYANA.PINCODE-121106.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "HODAL",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355231221",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE:MAHENDERGARH, SHOPPING COMPLEX,DISTRICT-MAHENDERGARH,STATE-HARYANA,PINCODE-123029.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-221428",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "VPO:NANGAL CHAUDHARY, BDPO-COMPLEX,NARNAUL,,DISTRICT-MAHENDERGARH,STATE-HARYANA,PINCODE-123023.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NANGAL CHOWDHARY",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-278839",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "SCO-33,SECTOR-4, MARKET GURGAON,",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0124-2326534",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "C/1 A, NEHRU GROUND FARIDABAD,DIST-FARIDABAD,STATE-HARYANA.PINCODE-121001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310171225",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "VPO:DHARUHERA, NEAR HARYANA TOURIST COMPLEX, SOHNA REWARI ROAD,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123303.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHARUHERA",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315431226",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "VPO:HATHIN, OPP.GOVT.HIGH SCHOOL, HATHIN GAHLAB ROAD,DISTRICT-PALWAL,STATE-HARYANA.PINCODE-121103.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "HATHIN",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-261428",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "VPO:KOSLI, TEHSIL ROAD, RAILWAY STATION:KOSLI,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123302.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KOSLI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01259-276552",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "VPO-WAZIRABAD, OPPOSITE SENIOR SECONDARY SCHOOL, WAZIRABAD,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2765036",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "VPO:SILANI, LOCATION:SOHNA PALWAL ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2013002",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "VPO:HASSANPUR, NEAR BUS STAND/POLICE STATION",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "HASSANPUR",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": " 01275-271494",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "VPO:ROHRAI , LOCATION;ROHRAI MORE,DISTRICT-REWARI,STATE-HARYANA.PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01281-204112",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "VPO:KHEWRA, GREAT MISSION SCHOOL, BAHALGARH MERRUT ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2110020",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "VPO:QUAMASPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0130-2100060",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "VPO:KAKROI, DISTRICT SONEPAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "  0130-2564926",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "VILL.PANCHHI JATAN, PO:PURKHAS",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2425124",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "VPO:ROHAT, DISTRICT SONEPAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0130-2525526",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "VPO:BAHALGARH, N H-1,DISTRICT-RONEPAT.STATE-HARYANA,PINCODE-131021.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAHALGARH",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315641238",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "VPO:RATHDHANA, DISTRICT",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0130-2110090",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "VPO:DAULATABAD,DISTRICT-GURGAON,STATE-HARYANA.PINCODE-122006.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2468308",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "VPO:BHONDSI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BHONDSI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2265296",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "VPO:KATESRA, PALWAL MOHNA ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-206872",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "VPO:CHANDPURA, REWARI NARNAUL ROAD,DISTRICT-MAHENDERGARH,STATE-HARYANA.PINCODE-123021.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-204399",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "VPO:KUNDLI,DISTRICT-SONEPAT.STATE-HARYANA,PINCODE-131028.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KUNDLI",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355421244",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "VPO:UJINA, DISTRICT MEWAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "UJINA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-275150",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "VPO:RAI, DISTRICT SONEPAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "RAI",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0130-2111203",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "VPO:MANDKOLA, MAIN BUS STAND,DISTRICT-MEWAT,STATE-HARYANA.PINCODE-121103.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MANDKOLA",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9354221247",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "VILL & P.O GANNAUR ,NEAR BDPO OFFICE, TEHSIL GANNAUR,DISTRICT SONEPAT,STATE-HARYANA,PIN-131101",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GANAUR",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2460332",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "VPO:GOHANA, TEHSIL ROAD, MAIN BAZAR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GOHANA",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "01263-256113",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "VPO:FARUKH NAGAR, WARD NO.7, PATAUDI ROAD, NEAR BUS STAND, FARUKH NAGAR,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122506.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARRUKHNAGAR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2275156",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "VPO:FIROJPUR JHIRKA, NEAR POLICE STATION",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FEROJEPUR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01268-278813",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "VPO;KHARKHODA, WARD NO.5, ROHTAK ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHARKHODA",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": " 0130-2584700",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "VPO:BAGPUR, MAIN BUS STAND,DISTRICT-PALWA,STATE-HARYANA.PINCODE-121002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "01275-207324",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "VPO:KARNAWAS,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9354831254",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "VPO:PATLI,FARUKH NAGAR,DISTRICT-GURGAON,STATE-HARYANA.PINCODE-122506.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2015929",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "VPO:NUH,DISTRICT-MEWAT,STATE-HARYANA,PINCODE-122107.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NUH",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "01267-274725",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "VPO:BICHPARI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "01263-286222",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "VPO:KHANPUR KALAN, NEAR UNIVERSITY GATE",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHANPUR KALAN",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "01263-283015",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "VPO:MANESAR, MANESAR KHOH ROAD,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122050.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MANESAR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310371259",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "GURDWARA ROAD, NEAR S.D. SCHOOL,DIST-SONEPAT,STATE-HARYANA,PINCODE-131001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315531260",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "AT-MUNDIA KHERA,NEAR, KANINA, KANINA-ATELI ROAD 8KM FROM KANINA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9354551261",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "AT-ATERNA,NEAR, KUNDALI, DISTT. SONEPAT, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2315266",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "SOUTH CITY-II, B-BLOCK,AT-TIKRI, POST OFFICE:FAZILPUR,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9810162805",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "VPO:NAHAR,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123303.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NAHAR",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01259-271683",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "V PO - ATALI,DISTRICT-FARIDABAD,STATE-HARYANA.PINCODE-121004.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "0129-2207350",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "VPO:NAHARI,DISTRICT-REWARI.STATE-HARYANA,PINCODE-131103.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2573831",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "VPO:JUAN,,DISTRICT-SONEPAT.STATE-HARYANA,PINCODE-131024.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2530303",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.36 P, PRAGATI BHAWAN, POST OFFICE, SECTOR-44,DIST-GURGAON,STATE-HARYANA,PINCODE-122002.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310011268",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "CRS COMPLEX, 55/3/23, NEAR TIKONA PARK,\nLAXMI GARDEN, PATAUDI ROAD,GURGAON,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122001.\n",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "0124-2220647",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "VPO:MURTHAL,DISTRICT-SONEPAT.STATE-HARYANA,PINCODE-131027.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MURTHAL",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "0130-2482354",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "VPO:SHIKOHPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9717261992",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "VPO:MAHRA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "01263-289150",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "126 L-II, NEAR PUBLIC HEALTH OFFICE REWARI,DISTRICT-REWARI.STATE-HARYANA,PINCODE-123401.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9728161698",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "C/50, AIR FORCE ROAD, NIT FARIDABAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9871547117",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "VPO: BAJGHERA,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-123504.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9899968809",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "VPO: DUNDAHERA,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122016.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DUNDAHAIRA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9868834823",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "MAIN BAJGHERA ROAD, NEAR PARVESH GARDEN BLOCK,GURGAON,DISTRICT-GURGAON,STATE-HARYANA,PINCODE-122001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "\u00a009311991277",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "VPO: PUGHTHALA,DISTRICT-SONEPAT,.STATE-HARYANA,PINCODE-131102.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "\u00a009991506619",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "VILL. BAWAL, DISTT. REWARI (REWARI-BAWAL ROAD)",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAWAL",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "01284-260202",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "AT-BAWANIA,NEAR, KANINA, KANINA-MAHENDERGARH ROAD, 8KM FROM KANINA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAWANA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9991570049",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "AT BHANGROLA,NEAR, GARHI HARSARU, GURGAON PATAUDI ROAD, 8KM FROM GURGAON",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9311121633",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "VILL BADWASANI,DISTRICT-SONEPAT,STATE-HARYANA-130001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355099101",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "KHERKI MORE, VILL.NANGAL SAROHI,DISTRICT-MAHENDERGARH,STATE-HARYANA-124001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9354451301",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "VILL SEKA,PO-MADHANA,DISTRICT-MAHENDERGARH,STATE-HARYANA-124001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9354451301",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK SEHJADPUR, P.O. SANDAL KALAN, TEHSIL & DIST. SONEPAT,STATE-HARYANA.PINCODE-130001",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355099102",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "VILL HAYATPUR PO GARHI HARSARU,DISTRICT-GURGAON,STATE-HARYANA-122001.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9310370901",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "PALLA SEHAT PUR ROAD, VILLAGE:SEHATPUR POST OFFICE:TILPAT, DISTRICT FARIDABAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355982101",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "VILL. LAKARPUR,DISTRICT-FARIDABAD,STATE-HARYANA-121003.",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355982101",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK PINANA, VPO PINANA, GOHANA-SONEPAT ROAD, TEHSIL & DIST. SONEPAT,STATE-HARYANA.PINCODE-130001",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355099101",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK KHORI, VPO KHORI, TEHSIL & P. O KHORI, TEHSIL & DIST. REWARI,,STATE-HARYANA.PINCODE-123101",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHORI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355799201",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "VPO SAHARANWAS, DISTRICT REWARI, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHORI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416743948",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "VPO SATNALI,",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SATNALI",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01285-231021",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "VPO SEWALI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9813034636",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK LULA AHIR, VPO LULA AHIR, TEHSIL KOSLI, DIST. REWARI,STATE-HARYANA.PINCODE-123302",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "9355799201",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "VPO:SHAMRI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416779902",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "VPO:DHANANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9728984868",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "VPO:KATHURA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KATHURA",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9991591230",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "VPO:SARMATHLA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9812858679",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "VPO:DAULAH",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9992778448",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "VPO:JAURASI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416318929",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "VPO:KUSHLIPUR, PALWAL HASANPUR ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416633184",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "22 FOOT ROAD, SANJAY COLONY, SECTOR-23 A, NIT-FARIDABAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9810901580",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "SGM NAGAR, A-335, BADKHAL ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9810347532",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "VPO:RASULPUR, PALWAL HASANPUR ROAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9992224767",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "VILLAGE:MIRPUR KAURALI, PO:GULAWAD",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9896656768",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "VPO-SIKRI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SEEKRI",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9818033423",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "VPO:LOKRA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9671601327",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "VILLAGE:MAUJABAD, PO:JAITPUR",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9315887419",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "VPO SUDAKA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9812673669",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "VPO SALAMBA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9996292578",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "VPO AKEDA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9992832840",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "VPO MEWLI",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MEWLA MAHARAJPUR",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "991119305",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "VPO DOHA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9991326069",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "POST PUNHANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416511884",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "VPO SAHSOLA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "8930458492",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "VILLAGE , POST OFFICE - BAGHTHALA, BLOCK, TAHSIL - BAWAL, DISTRICT - REWARI, PIN - 123501, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "BAWAL",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "VILLAGE KHATOTI SULTANPUR, POST HAMIDPUR, TAHSIL NARNAUL, PIN 123001",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "01282-204399",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK, LILOD,\u00a0PIN 123303",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "JHOLARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK, NASIBPUR, MAHENDERGARH ROAD, BARKODA, PIN 123001",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NARNAUL",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "GURGAON GRAMIN BANK, NOORGARH CHOWK, HAILY MANDI, PALHAWAS ROAD, NOORGARH, PIN 123504",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PATAUDI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "VILLAGE BIRHERA, PO KAROLA, TEHSIL FARUKHNAGAR, PINCODE 123504",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARRUKHNAGAR",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "VILLAGE AND POST BASSAI, BLOCK, TEHSIL AND DISTRICT - MAHENDERGARH, PINCODE 123029",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416818439",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    },
+    {
+        "fields": {
+            "address": "VILLAGEM, POST OFFICE - PALI, BLOCK, TEHSIL AND DISTRICT - MAHENDERGARH, PINCODE 123029",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416382154",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 219
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - KORIAWAS, BLOCK, TEHSIL - NARNAUL, DISTRICT - MAHENDERGARH, PIN - 123001",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "NARNAUL",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "9466063334",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 220
+    },
+    {
+        "fields": {
+            "address": "VILLAGE - NIMOT, POST OFFICE - LALA KHERLI, BLOCK AND TEHSIL - SOHNA, DISTRICT - GURGAON, PIN CODE - 122103",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SOHNA",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 221
+    },
+    {
+        "fields": {
+            "address": "VILLAGE AND PO - GWAL PAHARI, BLOCK, TEHSIL AND DISTRICT - GURGAON, PIN CODE 122003",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 222
+    },
+    {
+        "fields": {
+            "address": "VILLAGE AND POST OFFICE CHAKARPUR, NEAR SIDDHI VINAYAK MANDIR, BLOCK TAHSIL AND DISTRICT GURGAON, PIN 122002, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "9466063334",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 223
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - KHOR, BLOCK, TAHSIL - PATAUDI, DISTRICT - GURGAON, PIN 123414, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PATAUDI",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 224
+    },
+    {
+        "fields": {
+            "address": "SECTOR-16 A, SHOP NO 5,6 KHERI ROAD FARIDABAD, PIN 121002, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416818439",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 225
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - HASSANPUR TAURU, DISTRICT - MEWAT, PIN - 122105, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "TAURU",
+            "district": "GURGAON",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 226
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - AKERA, BLOCK - REWARI, TEHSIL - DHARUHERA, DISTRICT - REWARI, PIN - 123106, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 227
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - DHANONDA, BLOCK, TAHSIL - KANINA, DISTRICT - MAHENDERGARH, PIN - 123027, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "DHANODA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 228
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - JHAGROLI, BLOCK, TAHSIL - KANINA, DISTRICT - MAHENDERGARH, PIN - 123034, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KANINA",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 229
+    },
+    {
+        "fields": {
+            "address": "VILLAGEM, POST OFFICE - KAILANA, BLOCK & TAHSIL GANNAUR, DISTRICT SONIPAT, PIN 131102, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "GANAUR",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416382154",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 230
+    },
+    {
+        "fields": {
+            "address": "VILLAGE, POST OFFICE - SILANA, BLOCK & TAHSIL - KHARKHODA, DISTRICT SONIPAT, PIN 131408, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "KHARKHODA",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9466063334",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 231
+    },
+    {
+        "fields": {
+            "address": "VILLAGEM, POST OFFICE - NUREN KHERA, BLOCK MUNDLANA, TAHSIL GOHANA, DISTRICT SONIPAT, PIN 131302, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MUNDLANA",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "9416382154",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 232
+    },
+    {
+        "fields": {
+            "address": "BLOCK TAHSIL NARNAUL, DISTRICT MAHENDERGARH, PIN 123001, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "",
+            "office": "",
+            "phone": "1282255189",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 233
+    },
+    {
+        "fields": {
+            "address": "VILLAGE POST BASS DOODHA,BLOCK TAHSIL REWARI, DISTRICT REWARI, PIN 123102, HARYANA ",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "1274253227",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 234
+    },
+    {
+        "fields": {
+            "address": "VILAGE POST GOKALGARH, BLOCK TAHSIL REWARI, DISTRICT REWARI, HARYANA, PIN 123401",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "",
+            "office": "",
+            "phone": "1274253227",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 235
+    },
+    {
+        "fields": {
+            "address": "VILLAGE POST MANPUR, BLOCK TAHSIL HATHIN, DISTRICT PALWAL, PIN 121105, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "PALWAL",
+            "district": "PALWAL",
+            "ifsc": "",
+            "office": "",
+            "phone": "1275252832",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 236
+    },
+    {
+        "fields": {
+            "address": "VILLAGE POST DATAULI, BLOCK TEHSIL GANNAUR, DISTRICT SONEPAT, PIN 131101, HARYANA",
+            "bank_name": "GURGAON GRAMIN BANK",
+            "branch": "",
+            "city": "SONIPAT",
+            "district": "SONIPAT",
+            "ifsc": "",
+            "office": "",
+            "phone": "1302200517",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 237
+    }
+]

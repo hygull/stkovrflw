@@ -1,0 +1,3272 @@
+[
+    {
+        "fields": {
+            "address": "CIVIL LINES DHARMSALA DISTT KANGRA H.P. 176215",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARAMSALA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000001",
+            "office": "RTGS-HO",
+            "phone": "223280",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "CIVIL LINES DHARMSALA DISTT KANGRA H.P. 176215",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARAMSALA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000002",
+            "office": "DHARAMSHALA",
+            "phone": "223227",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA 176202",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NURPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000003",
+            "office": "NURPUR",
+            "phone": "220051",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "MAIN BAZAR PALAMPUR DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000004",
+            "office": "MAIN BAZAR PALAMPUR",
+            "phone": "230587",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. HAMIRPUR H.P.177001",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000005",
+            "office": "HAMIRPUR",
+            "phone": "222201",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT KULU H.P. 175101",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000006",
+            "office": "KULU",
+            "phone": "222598",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "TEHSIL KEYLONG DISTT LAHUL & SPITI 175132",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KEYLONG",
+            "district": "LAHUL & SPITI",
+            "ifsc": "KACE0000007",
+            "office": "KEYLONG",
+            "phone": "222228",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "TEHSIL DEHRA DISTT. KANGRA H.P.177101",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DEHRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000008",
+            "office": "DEHRA",
+            "phone": "233109",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "VPO AMB TEHSIL AMB DISTT UNA H.P. 177203",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMB",
+            "district": "UNA",
+            "ifsc": "KACE0000009",
+            "office": "AMB",
+            "phone": "260021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "NEAR OLD BUS STAND,V.P.O:- BANJAR,TEHSIL:- BANJAR, DISTRICT:- KULU. (H.P). PIN:- 175123.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANJAR",
+            "district": "KULU",
+            "ifsc": "KACE0000010",
+            "office": "BANJAR",
+            "phone": "222229",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "V.P.O. BARSAR DISTT. HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARSAR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000011",
+            "office": "BARSAR",
+            "phone": "288028",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "V.P.O NAGROTA BAGWAN DISTT. KANGRA 176047",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGROTA BAGWAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000012",
+            "office": "NAGROTA BAGWAN",
+            "phone": "252271",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. UNA H.P. 174303",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000013",
+            "office": "UNA",
+            "phone": "223386",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "VPO DAULATPUR CHOWK TEHSIL AMB DISTT. UNA 177204",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAULATPUR",
+            "district": "UNA",
+            "ifsc": "KACE0000014",
+            "office": "DAULTPUR CHOWK",
+            "phone": "265034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "TEHSIL INDORA DISTT. KANGRA 176402",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANDROORI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000015",
+            "office": "KANDRORI",
+            "phone": "244422",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BAIJNATH DISTT. KANGRA 176225",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAIJNATH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000016",
+            "office": "BAIJNATH",
+            "phone": "263029",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "VPO CHINTPURNI TEHSIL AMB DISTT. UNA H.P. 177110",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHINTPURNI",
+            "district": "UNA",
+            "ifsc": "KACE0000017",
+            "office": "CHINTPURNI",
+            "phone": "255233",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NADAUN DISTT. HAMIRPUR H.P. 177033",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NADAUN",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000018",
+            "office": "NADAUN",
+            "phone": "232282",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAISINGHPUR DISTT KANGRA H.P. 176096",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LAMBAGAON",
+            "district": "KANGRA",
+            "ifsc": "KACE0000019",
+            "office": "LAMBAGAON",
+            "phone": "228251",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "V.P.O:- ANNI, TEHSIL:- ANNI, DISTRICT:- KULU.(H.P).PIN:- 172026.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANI",
+            "district": "KULU",
+            "ifsc": "KACE0000020",
+            "office": "ANI",
+            "phone": "253347",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "TEHSIL DEHRA DISTT. KANGRA H.P. 176028",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARIPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000021",
+            "office": "HARIPUR",
+            "phone": "265034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "TEHSIL FATEHPUR DISTT. KANGRA H.P. 176025",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHAMETA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000022",
+            "office": "DHAMETA",
+            "phone": "254424",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JASWAN DISTT. KANGRA H.P 177106",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DADA SIBA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000023",
+            "office": "DADA-SIBA",
+            "phone": "289225",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "VPO JAWALI DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000024",
+            "office": "JAWALI",
+            "phone": "264226",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "TESHIL BHORANJ DISTT. HAMIRPUR H.P. 176045",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHORANJ",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000025",
+            "office": "BHORANJ",
+            "phone": "266032",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA H.P. 174301",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANTOKHGARH",
+            "district": "UNA",
+            "ifsc": "KACE0000026",
+            "office": "SANTOKHGARH",
+            "phone": "256024",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAWALI DISTT. KANGRA H.P. 176027",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGROTA SURIAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000027",
+            "office": "NAGROTA SURIAN",
+            "phone": "265021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "TEHSIL FATEHPUR DISTT. KANGRA H.P. 176053",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "FATEHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000028",
+            "office": "LOHARA",
+            "phone": "256019",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAWALI DISTT. KANGRA H.P. 176051",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAJA KA TALAB",
+            "district": "KANGRA",
+            "ifsc": "KACE0000030",
+            "office": "RAJA-KA-TALAB",
+            "phone": "250043",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P. 176204",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANGATH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000031",
+            "office": "GANGATH",
+            "phone": "275032",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P. 176201",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JASUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000032",
+            "office": "JASSUR",
+            "phone": "226090",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "RAJPUT BHAWANKANGRAPO KANGRA DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANGRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000033",
+            "office": "KANGRA",
+            "phone": "265057",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "TESHIL BANGANA DIST. UNA H.P. 174307",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANGANA",
+            "district": "UNA",
+            "ifsc": "KACE0000034",
+            "office": "BANGANA",
+            "phone": "262023",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "TEHSIL MANALI DISTT. KULU 175131",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANALI",
+            "district": "KULU",
+            "ifsc": "KACE0000035",
+            "office": "MANALI",
+            "phone": "252433",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "VPO BIJHARI TEHSIL BARSAR DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BIJHARI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000036",
+            "office": "BHIJARI",
+            "phone": "283024",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "VPO GAGRET TEHSIL AMB DISTT UNA H.P. 177201",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GAGRET",
+            "district": "UNA",
+            "ifsc": "KACE0000037",
+            "office": "GAGRET",
+            "phone": "241302",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "TESHIL NIRMAND DISTT. KULU 172023",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIRMAND",
+            "district": "KULU",
+            "ifsc": "KACE0000038",
+            "office": "NIRMAND",
+            "phone": "255141",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAWALI DSITT. KANGRA H.P. 176021",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHARMAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000039",
+            "office": "BHARMAR",
+            "phone": "250057",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "V PO RAITDISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAIT",
+            "district": "KANGRA",
+            "ifsc": "KACE0000040",
+            "office": "RAIT",
+            "phone": "238049",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DSITT. KULU 175125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000041",
+            "office": "BHUNTER",
+            "phone": "265090",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "TESHIL SUJANPUR TIRA DISTT. HAMIRPUT 176314",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SUJANPUR TIRA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000042",
+            "office": "SUJANPUR TIRA",
+            "phone": "272042",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAWALI DSITT. KANGRA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARSAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000043",
+            "office": "HARSAR",
+            "phone": "253524",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "TEHAIL DEHRA DISTT. KANGRA H.P. 177043",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAKKAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000044",
+            "office": "RAKKAR",
+            "phone": "279224",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VPO DHANETA TEHSIL NADAUN DISTT HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHANETA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000045",
+            "office": "DHANETA",
+            "phone": "234044",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "VPO GALORE DISTT. HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GALORE",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000046",
+            "office": "GALORE",
+            "phone": "242025",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "VPO KAZA TEHSIL SPITI",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KAZA",
+            "district": "LAHUL & SPITI",
+            "ifsc": "KACE0000047",
+            "office": "KAZA",
+            "phone": "9418556393",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "TEHSIL HAROLI DISTT. UNA H.P. 177220",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAROLI",
+            "district": "UNA",
+            "ifsc": "KACE0000048",
+            "office": "HAROLI",
+            "phone": "284032",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "TEHSIL PALAMPUR DISTT. KANGRA H.P. 176101",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHEERA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000049",
+            "office": "DHEERA",
+            "phone": "222238",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P. 176205",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOTLA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000050",
+            "office": "KOTLA",
+            "phone": "236623",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P. 176022",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "REHAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000051",
+            "office": "REHAN",
+            "phone": "250036",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "TESHIL INDORA DISTT KANGRA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADUKHAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000052",
+            "office": "BADUKHAR",
+            "phone": "257433",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "VILL JOURBAR PO TIPRI TEHSIL JASWAN DISTT. KANGRA H.P. 177112",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BATHU-TIPRI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000053",
+            "office": "JOURBAR",
+            "phone": "276123",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "TEHSIL PALAMPUR DISTT. KANGRA H.P. 176103",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANCHRUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000054",
+            "office": "PANCHRUKHI",
+            "phone": "254225",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DSITT. UNA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAIPUR-MAIDAN",
+            "district": "UNA",
+            "ifsc": "KACE0000055",
+            "office": "RAIPUR MAIDAN",
+            "phone": "244408",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "TEHSILDEHRA DISTT. KANGRA H.P. 176031",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALAMUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000056",
+            "office": "JAWALAMUKHI",
+            "phone": "222274",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "VILL DANOA P.O. BAROH DISTT KANGRA 176054",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADOH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000057",
+            "office": "DANOA",
+            "phone": "259018",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "V PO GAGGAL DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GAGGAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000058",
+            "office": "GAGGAL",
+            "phone": "232284",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P. 176107",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THURAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000059",
+            "office": "THURAL",
+            "phone": "276649",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "VPO SANSARPUR TERRACE TEHSIL JASWAN DISTT. KANGRA H.P.176501",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANSARPUR TERRAS",
+            "district": "KANGRA",
+            "ifsc": "KACE0000060",
+            "office": "SANSARPUR TERRACE",
+            "phone": "256431",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "VPO BHOTA DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHOTA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000061",
+            "office": "BHOTA",
+            "phone": "255034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "SAINJ, V.P.O:- SAINJ, TEHSIL:- SAINJ, DISTRICT:- KULU. (H.P). PIN:- 175134.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SAINJ",
+            "district": "KULU",
+            "ifsc": "KACE0000062",
+            "office": "SAINJ",
+            "phone": "230031",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "VPO ANOO DISTT. HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000063",
+            "office": "ANOO",
+            "phone": "222405",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "TESHIL KEYLONG DISTT. LAHUL & SPITI H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KEYLONG",
+            "district": "LAHUL & SPITI",
+            "ifsc": "KACE0000064",
+            "office": "SHANSHA",
+            "phone": "278102",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "VPO BARA DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000065",
+            "office": "BARA",
+            "phone": "238040",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "TESHIL DEHRA DISTT. KANGRA H.P. 177113",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DALIARA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000066",
+            "office": "CHANOUR",
+            "phone": "286231",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "VPO PANJAWAR TEHSIL HAROLI DISTT UNA H.P. 177208",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANJAWAR",
+            "district": "UNA",
+            "ifsc": "KACE0000067",
+            "office": "PANJAWAR",
+            "phone": "286043",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT.KANGRA H.P. 176202",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NURPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000069",
+            "office": "SADWAN",
+            "phone": "234061",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "TESHIL BAIJNATH DSITT. KANGRA H.P. 175041",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BIR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000070",
+            "office": "BIR",
+            "phone": "268556",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "TESHIL FATEHPUR DISTT. KANGRA H.P. 176025",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADUKHAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000071",
+            "office": "SATHANA",
+            "phone": "288883",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. HAMIRPUR H.P. 177029",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LAMBLOO",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000072",
+            "office": "LAMBLOO",
+            "phone": "248021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "TESHIL DEHRA DISTT. KANGRA H.P. 177107",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PRAGPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000073",
+            "office": "PRAGPUR",
+            "phone": "245007",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "DALASH, V.P.O:- DALASH, TEHSIL:- ANNI, DISTRICT:- KULU. (H.P). PIN:- 172025.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DALAS",
+            "district": "KULU",
+            "ifsc": "KACE0000074",
+            "office": "DALAS",
+            "phone": "256624",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "KOTWALI BAZAR DHARMSALA DISTT KANGRA 176215",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARAMSALA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000075",
+            "office": "KB DHARAMSHALA",
+            "phone": "223244",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "TESHIL INDORA DISTT. KANGRA H.P. 176401",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "INDORA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000076",
+            "office": "INDORA",
+            "phone": "241232",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. KULU H.P. 175129",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KATRAIN",
+            "district": "KULU",
+            "ifsc": "KACE0000077",
+            "office": "KATRAIN",
+            "phone": "240249",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BANGANA DISTT. UNA H.P. 177039",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SOHARI TAKOLI",
+            "district": "UNA",
+            "ifsc": "KACE0000078",
+            "office": "TAKOLI",
+            "phone": "276037",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA H.P. 174315",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MEHATPUR",
+            "district": "UNA",
+            "ifsc": "KACE0000079",
+            "office": "MEHATPUR",
+            "phone": "232117",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P. 176059",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHACHIAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000081",
+            "office": "NAGRI",
+            "phone": "252301",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "TESHIL BAIJNATH DSITT. KANGRA H.P. 176125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAIJNATH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000082",
+            "office": "DEOL",
+            "phone": "264134",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "TESHIL KHUNDIAN DISTT. KANGRA H.P. 176030",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHUNDIAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000083",
+            "office": "KHUNDIAN",
+            "phone": "272053",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "TEHSIL PALAMPUR DIST. KANGRA H.P.176086",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHAIRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000084",
+            "office": "WAHE-DA-PATT",
+            "phone": "272216",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P. 173233",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHORANJ",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000085",
+            "office": "PATTA",
+            "phone": "267128",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAISINGHPUR DISTT. KANGRA H.P. 176095",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAISINGHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000086",
+            "office": "JAISINGHPUR",
+            "phone": "228354",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA 174302",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000087",
+            "office": "DUSHARA",
+            "phone": "233002",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "V PO SHAHPUR DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000088",
+            "office": "SHAHPUR",
+            "phone": "238001",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. HAMIRPUR 177023",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAUNIDEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000089",
+            "office": "TAUNI DEVI",
+            "phone": "278005",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "V.P.O. LARJEE TEHSIL SAINJ DISTT. KULU PIN 175122",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANJAR",
+            "district": "KULU",
+            "ifsc": "KACE0000090",
+            "office": "LARJEE",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "TESHIL BAIJNATH DISTT. KANGRA H.P. 176115",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAPROLA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000091",
+            "office": "PAPROLA",
+            "phone": "242532",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "TESHIL INDORA DISTT KANGRA H.P. 176403",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAMTAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000092",
+            "office": "DAMTAL",
+            "phone": "244775",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P. 176083",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAWARNA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000093",
+            "office": "BHAWARNA",
+            "phone": "247290",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. HAMIRPUR H.P. 177029",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAUNIDEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000094",
+            "office": "PANJOT",
+            "phone": "275144",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. UNA H.P. 174303",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000096",
+            "office": "GOVT. COLLEGE UNA",
+            "phone": "225202",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "V POBAGLI DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GAGGAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000097",
+            "office": "BAGLI",
+            "phone": "232570",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "VPO BANI DISTT HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARSAR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000098",
+            "office": "BANI",
+            "phone": "288070",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "KULU DISTT. KULU H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000099",
+            "office": "GANDHI NAGAR",
+            "phone": "225545",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "V PO CHARRI DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHARI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000100",
+            "office": "CHARRI",
+            "phone": "277296",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BARSAR DSITT. HAMIRPUR H.P.177401",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHOTA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000101",
+            "office": "DIDWIN TIKKAR",
+            "phone": "255169",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BAIJNATH DISTT. KANGRA 176088",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHADIHYAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000102",
+            "office": "CHADIAR",
+            "phone": "257359",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. UNA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000103",
+            "office": "JHALERA",
+            "phone": "225907",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAISINGHPUR DISTT. KANGRA H.P. 176096",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000104",
+            "office": "KOTLU",
+            "phone": "274549",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "V.P.O. PATHIAR DISTT. KANGRA H.P. 176047",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHAMUNDA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000105",
+            "office": "PATHIAR",
+            "phone": "253632",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "TEHSIL INDORA DISTT. KANGRA 176403",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAMTAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000106",
+            "office": "THAKURDWARA",
+            "phone": "240168",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT KULU H.P. 175128",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAISON",
+            "district": "KULU",
+            "ifsc": "KACE0000107",
+            "office": "RAISON",
+            "phone": "245470",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT KULU H.P. 175125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAJAURA",
+            "district": "KULU",
+            "ifsc": "KACE0000108",
+            "office": "BAJAURA",
+            "phone": "265353",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "JABAN, VILLAGE:- JABAN, P.O:- KANDAGAI, TEHSIL:- ANNI, DISTRICT:- KULLU. (H.P). PIN:- 172025.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DALAS",
+            "district": "KULU",
+            "ifsc": "KACE0000109",
+            "office": "JABAN",
+            "phone": "257256",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. KANGRA H.P. 175143",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANALI",
+            "district": "KULU",
+            "ifsc": "KACE0000110",
+            "office": "SAJALA AT KHAKNAL",
+            "phone": "259401",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. KANGRA H.P.176029",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RANITAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000111",
+            "office": "GHAHLIAN",
+            "phone": "213401",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "VPO KANGOO TEHSIL NADAUN DISTT. HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANGOO",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000112",
+            "office": "KANGOO",
+            "phone": "231851",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BAIJNATH DISTT. KANGRA H.P. 176063",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANCHRUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000113",
+            "office": "RAKKAR-BHERI",
+            "phone": "254627",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. UNA 174301",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AJOULI",
+            "district": "UNA",
+            "ifsc": "KACE0000114",
+            "office": "AJOULI",
+            "phone": "256526",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "PAISA ROAD TEHSIL DEHRA DISTT. KANGRA H.P. 177101",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALAMUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000115",
+            "office": "PAISA",
+            "phone": "288185",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. KANGRA H.P. 176002",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANGRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000116",
+            "office": "PURANA KANGRA",
+            "phone": "262722",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "P.O.KOIL TEHSIL NIRMNAD DISTT. KULU PIN 173023",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NITHER",
+            "district": "KULU",
+            "ifsc": "KACE0000117",
+            "office": "BAIL",
+            "phone": "265249",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P. 176202",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NURPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000118",
+            "office": "CHOUGAN NURPUR",
+            "phone": "221098",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAISINGHPUR DISTT KANGRA H.P. 176096",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LAMBAGAON",
+            "district": "KANGRA",
+            "ifsc": "KACE0000119",
+            "office": "UPPER LAMBAGAON",
+            "phone": "227331",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "TEHSIL INDORA DIST. KANGRA H.P. 176403",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAMTAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000120",
+            "office": "DHANGU PIR",
+            "phone": "244960",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "YOL CAMP DISTT. KANGRA H.P. 176052",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "YOL CAMP",
+            "district": "KANGRA",
+            "ifsc": "KACE0000121",
+            "office": "YOL CAMP",
+            "phone": "235848",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "TEHSIL DEHRA DISTT. KANGRA H.P. 177104",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PRAGPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000122",
+            "office": "NEHRAN PUKHAR",
+            "phone": "268596",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "TESHIL BHORANJ DISTT. HAMIRPUR H.P. 176048",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAHU",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000123",
+            "office": "JAHU",
+            "phone": "263396",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P. 176085",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SULAH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000124",
+            "office": "SULAH",
+            "phone": "220335",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "TEHSIL PALAMPUR DISTT. KANGRA H.P. 176051",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANCHRUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000125",
+            "office": "RAJPURA",
+            "phone": "239129",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "V.P.O. RAJIANA (53 MILES) DISTT. KANGRA H.P. 176056",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGROTA BAGWAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000126",
+            "office": "RAJIANA",
+            "phone": "267493",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "VPO KASBA KOTLA TEHSIL JASWAN DISTT. KANGRA H.P. 177111",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KASBA KOTLA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000127",
+            "office": "KASBA KOTLA",
+            "phone": "253809",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "VPO MUBARIKPUR TEHSIL AMB DISTT.UNA H.P. 177202",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUBARAKPUR",
+            "district": "UNA",
+            "ifsc": "KACE0000128",
+            "office": "MUBARAKPUR",
+            "phone": "264351",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "VILL . BAROL P.O. DARI DISTT. KANGRA H.P.176057",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DARI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000129",
+            "office": "DARI",
+            "phone": "223099",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. KULU H.P. 175126",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000130",
+            "office": "BHUTTI COLONY",
+            "phone": "260616",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "TESHIL BAIJNATH DISTT. KANGRA H.P. 175115",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAIJNATH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000131",
+            "office": "SANSAL",
+            "phone": "262705",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "DAULATPUR CHOWK TEHSIL AMB DISTT UNA H.P. 177204",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAULATPUR",
+            "district": "UNA",
+            "ifsc": "KACE0000132",
+            "office": "SHASTRI MARKET DAULATPUR CHOWK",
+            "phone": "266321",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "VPO BIR BAGHERA DISTT HAMIRPUR",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SUJANPUR TIRA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000133",
+            "office": "BIR BHAGERHA",
+            "phone": "276065",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BHORANJ DISTT. HAMIRPUR H.P.177024",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHARERI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000134",
+            "office": "BHARERI",
+            "phone": "260687",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "VPO SALAUNI TEHSIL BARSAR DISTT HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SALAUNI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000135",
+            "office": "SALAUNI",
+            "phone": "261697",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "TESHIL DEHRA DISTT. KANGRA H.P. 177114",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANKHANDI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000136",
+            "office": "BANKHANDI",
+            "phone": "284595",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "VPO CHAKMOH DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHHAKMOH",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000137",
+            "office": "CHAKMOH",
+            "phone": "286434",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "V.P.O.DARANG TEHSIL PALAMPUR DISTT. KANGRA 176060",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGROTA BAGWAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000138",
+            "office": "DARANG",
+            "phone": "241067",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. KULU",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JARI",
+            "district": "KULU",
+            "ifsc": "KACE0000139",
+            "office": "JARI",
+            "phone": "276034",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "TIBETAN COLONY BIR TEHSIL BAIJNATH DSITT. KANGRA H.P. 176077",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BIR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000140",
+            "office": "CHOUGAN BIR",
+            "phone": "268039",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "NEAR SHEETLA MATA MANDIR . SY. AREA PALAMPUR DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000141",
+            "office": "SYNDICATE AREA PALAMPUR",
+            "phone": "230917",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "TEHSIL NURPUR DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHADWAR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000142",
+            "office": "BHADWAR",
+            "phone": "235261",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BHORANJ DISTT HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LADRAUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000143",
+            "office": "LADROUR",
+            "phone": "267913",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "TESHIL BHORANJ DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAUNIDEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000144",
+            "office": "SAMIRPUR",
+            "phone": "275741",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "TEHSIL & DISTT. HAMIRPUR H.P. 177001",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000145",
+            "office": "LOWER BAZAR HAMIRPUR",
+            "phone": "222509",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "V.P.O. JAMANABAD DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANGRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000146",
+            "office": "JAMANABAD",
+            "phone": "263577",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "V.P.O. RAJOL DISTT KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAIT",
+            "district": "KANGRA",
+            "ifsc": "KACE0000147",
+            "office": "RAJOL",
+            "phone": "233431",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "TEHSIL PALAMPUR DISTT. KANGRA H.P.176107",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAROH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000148",
+            "office": "DAROH",
+            "phone": "275582",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "TESHIL SUJANPUR TIRA DISTT. HAMIRPUT 176111",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAUNIDEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000149",
+            "office": "CHOURI",
+            "phone": "240374",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "TESHIL NADAUN DIST. HAMIRPUR H.P. 177048",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RANGAS",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000150",
+            "office": "RANGAS",
+            "phone": "241677",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT KULLU H.P. 175125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000151",
+            "office": "PARLA BHUNTAR",
+            "phone": "265584",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "TEHSIL HAROLI DISTT UNA H.P. 176601",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DULEHAR",
+            "district": "UNA",
+            "ifsc": "KACE0000152",
+            "office": "DULLEHAR",
+            "phone": "251960",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "TESHIL BAIJNATH DISTT. KANGRA H.P. 176125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHAKAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000153",
+            "office": "MAHAKAAL",
+            "phone": "265207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "VPO BHARWAIN TEHSIL AMB DISTT UNA H.P.177109",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHARWAIN",
+            "district": "UNA",
+            "ifsc": "KACE0000154",
+            "office": "BHARWAIN",
+            "phone": "256561",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "TESHIL DEHRA DISTT. KANGRA H.P. 177034",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PRAGPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000155",
+            "office": "SANTALA",
+            "phone": "203642",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAWALI DISTT. KANGRA H.P. 176023",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LUBH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000156",
+            "office": "LUBH",
+            "phone": "264027",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BANGANA DISTT. UNA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANGANA",
+            "district": "UNA",
+            "ifsc": "KACE0000157",
+            "office": "LATHIANI",
+            "phone": "260578",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "TESHIL INDORA DISTT. KANGRA H.P. 176022",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "REHAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000158",
+            "office": "MAKROLI",
+            "phone": "200140",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "TESHIL BHORANJ DISTT. HAMIRPUR H.P. 177025",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AWAHA DEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000159",
+            "office": "TIKKER KHATRIAN",
+            "phone": "287472",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "V.P.O DURAH TEHSIL NIRMAND DISTT KULUPIN 172033",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANI",
+            "district": "KULU",
+            "ifsc": "KACE0000160",
+            "office": "DURAH",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "TESHIL UDAIPUR DISTT. LAHUL & SPITI H.P. 175142",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "LAHUL & SPITI",
+            "ifsc": "KACE0000161",
+            "office": "UDAIPUR",
+            "phone": "222443",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT.UNA H.P. 174303",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000162",
+            "office": "REGIONAL HOSPITAL UNA",
+            "phone": "225080",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "TEHSIL KEYLONG DISTT LAHUL & SPITI",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KEYLONG",
+            "district": "LAHUL & SPITI",
+            "ifsc": "KACE0000163",
+            "office": "SISSU",
+            "phone": "263151",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "BHAGSU ROAD P.O. MCLEODGANJ DISTT. KANGRA H.P.176219",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MCLEODGANJ",
+            "district": "KANGRA",
+            "ifsc": "KACE0000164",
+            "office": "MCLEODGANJ",
+            "phone": "220310",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "TESHIL NURPUR DISTT. KANGRA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000165",
+            "office": "CHALWARA",
+            "phone": "263012",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHOTA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000166",
+            "office": "KUTHERA",
+            "phone": "244060",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AWAHA DEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000167",
+            "office": "AWAHDEVI",
+            "phone": "275080",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000168",
+            "office": "PUCA BAROH",
+            "phone": "225288",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AWAHA DEVI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000169",
+            "office": "KALE AMB",
+            "phone": "246164",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "TESHIL NURPUR DISTT. KANGRA H.P. 176201",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VARANDA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000170",
+            "office": "BARANDA",
+            "phone": "238522",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P.176087",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAHRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000171",
+            "office": "PAHRA",
+            "phone": "255088",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "TESHIL PALAMPUR DISTT. KANGRA H.P.176102",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000172",
+            "office": "THAKURDWARA",
+            "phone": "238128",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "TESHIL JAISINGHPUR DISTT. KANGRA H.P.176082",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BALAKRUPI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000173",
+            "office": "BHERI",
+            "phone": "271260",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. HAMIRPUR H.P. 176042",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000174",
+            "office": "UKHLI",
+            "phone": "257021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "TESHIL NADAUN DIST. HAMIRPUR H.P. 177042",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NADAUN",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000175",
+            "office": "JALARI",
+            "phone": "232130",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA H.P. 174303",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000176",
+            "office": "BASAL",
+            "phone": "272169",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA H.P. 174306",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000177",
+            "office": "DEHLAN",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "TESHIL NURPUR DISTT. KANGRA H.P. 176051",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GUNOH",
+            "district": "KANGRA",
+            "ifsc": "KACE0000178",
+            "office": "GANOH",
+            "phone": "274044",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "ADHWANI-BALARDU TESHIL JAWALAMUKHI DISTT. KANGRA 176066",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALAMUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000179",
+            "office": "ADHWANI",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "TESHIL & DISTT. UNA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAHLIWALA",
+            "district": "UNA",
+            "ifsc": "KACE0000180",
+            "office": "TAHLIWAL",
+            "phone": "257022",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "VILL. TANG NARWANA P.O. TANG DISTT. KANGRA H.P. 176052",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "YOL CAMP",
+            "district": "KANGRA",
+            "ifsc": "KACE0000181",
+            "office": "TANG NARWANA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BANGANA DISTT. UNA H.P.",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANA KALAN",
+            "district": "UNA",
+            "ifsc": "KACE0000182",
+            "office": "THANA KALAN",
+            "phone": "273100",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "V.P.O.HARETA TEHSIL NADAUN DISTT. HAMIRPUR H.P. 174405",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GALORE",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000183",
+            "office": "HARETA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "TEHSIL KHUNDIAN DISTT KANGRA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALAMUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000184",
+            "office": "MAJHEEN",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "TEHSIL BHORANJ DISTT. HAMIRPUR 177029",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHORANJ",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000185",
+            "office": "BALOH",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "TEHSIL SHAHPUR DISTT KANGRA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000186",
+            "office": "DARAMAN",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "TEHSIL MANALI DISTT. KULU  175104",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGGAR",
+            "district": "KULU",
+            "ifsc": "KACE0000187",
+            "office": "LAREN KELO",
+            "phone": "248008",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "TEHSIL DHARMSHALA DISTT.KANGRA H.P.PIN 176052",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHAMUNDA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000188",
+            "office": "CHAMUNDA",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAISINGHPUR DISTT.KANGRA H.P.PIN 176082",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000189",
+            "office": "ALAMPUR",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "TEHSIL JAISINGHPUR DISTT.KANGRA H.P.PIN 176082",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAISINGHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000190",
+            "office": "HARSI",
+            "phone": "259354",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE MAJIAR TEHSIL NADAUN DISTT HAMIRPUR PIN 177038",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NADAUN",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000191",
+            "office": "MANPUL",
+            "phone": "233655",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE LAPIANA TEHSIL HARCHAKIAN DISTT KANGRA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARCHAKIAN",
+            "district": "KANGRA",
+            "ifsc": "KACE0000192",
+            "office": "LAPIANA",
+            "phone": "9418729713",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "VPO BHALETH TEHSIL SUJANPUR DISTT HAMIRPUR PIN 176108",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SUJANPUR TIRA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000193",
+            "office": "BHALETH",
+            "phone": "216144",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "VPO MASRER TEHSIL DHARAMSHALA DISTT KANGRA PIN 176001",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MATOUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000194",
+            "office": "MASRER",
+            "phone": "275306",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "VPO NAGGAR TEHSIL AND DISTT KULLU PIN 175130",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGGAR",
+            "district": "KULLU",
+            "ifsc": "KACE0000195",
+            "office": "NAGGAR",
+            "phone": "9418433598",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "VPO NALTI TEHSIL AND DISTT HAMIRPUR PIN 177001",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NALTI",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000196",
+            "office": "NALTI",
+            "phone": "247111",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "VPO BATHU TEHSIL HAROLI DISTT UNA PIN 174301",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TAHLIWALA",
+            "district": "UNA",
+            "ifsc": "KACE0000197",
+            "office": "BATHU",
+            "phone": "9882507419",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "VPO BHADSALI TEHSIL AND DISTT UNA PIN 174317",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000198",
+            "office": "BHADSALI",
+            "phone": "9418272592",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "TEHSIL AMB, DISTRICT UNA, HIMACHAL PRADESH PIN 177213",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOINDPUR BANEHR",
+            "district": "UNA",
+            "ifsc": "KACE0000199",
+            "office": "GONDPUR BANERA",
+            "phone": "268021",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "TABO, TEHSIL SPITI, DISTRICT LAHUL & SPITI, HIMACHAL PRADESH 172113",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TABO",
+            "district": "LAHUL SPITI",
+            "ifsc": "KACE0000200",
+            "office": "TABO",
+            "phone": "222416",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA CENTRAL CO OPERATIVE BANK LTD BRANCH OFFICE DAH KULARA TEHSIL INDORA DISTT KANGRA HP",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "INDORA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000201",
+            "office": "DAH KULARA",
+            "phone": "241475",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "THE KCC BANK LTD, BO RANITAL, DISTT KANGRA HP 176029",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RANITAL",
+            "district": "KANGRA",
+            "ifsc": "KACE0000202",
+            "office": "RANITAL",
+            "phone": "269037",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "KCC BANK, BO GANDER",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANDER",
+            "district": "KANGRA",
+            "ifsc": "KACE0000203",
+            "office": "GANDER",
+            "phone": "9418492541",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "PO MALKHER TEHSIL PALAMPUR DISTT KANGRA HP PIN 176093",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GARH JAMULA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000204",
+            "office": "GARH JAMULA",
+            "phone": "9805121443",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "PO DUKAH, TEH PALAMPUR, DISTT KANGRA H.P.- 176075",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPPUR",
+            "district": "PALAMPUR",
+            "ifsc": "KACE0000205",
+            "office": "DUHAK",
+            "phone": "9736143066",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "VPO UHAL TEHSIL TOUNI DEVI DISTT HAMIRPUR PIN CODE 177022",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UHAL",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000206",
+            "office": "UHAL",
+            "phone": "9418009401",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "VPO PATLANDER TEHSIL SUJANPUR DISTT HAMIRPUR HP PIN176111",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SUJANPUR TIRA",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000207",
+            "office": "PATLANDER",
+            "phone": "9459096299",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "V.P.O. MUHAL TEHSIL DEHRA DISTT. KANGRA H.P.       PIN 177117",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWALAMUKHI",
+            "district": "KANGRA",
+            "ifsc": "KACE0000208",
+            "office": "MUHAL",
+            "phone": "9418678687",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "VPO BEHDALA TEHSIL AND DISTT. UNA H.P. 174306",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEHDALA",
+            "district": "UNA",
+            "ifsc": "KACE0000209",
+            "office": "BEHDALA",
+            "phone": "9318856823",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "NEAR POLICE LINE PO HAMIRPUR TEHSIL HAMIRPUR HP",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HAMIRPUR",
+            "district": "HAMIRPUR",
+            "ifsc": "KACE0000210",
+            "office": "DOSARKA",
+            "phone": "9736143066",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "BO BHUTTI(LAG VALLEY) VPO BHUTTI TEHSIL ADND DISTT KULLU HP PIN 175102",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KULU",
+            "district": "KULU",
+            "ifsc": "KACE0000211",
+            "office": "BHUTTI-LAG VALLEY",
+            "phone": "239006",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "BO GUSHANI VPO GUSHANI TEHSIL BANJAR DISTT KULLU HP PIN-175123",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GUSHAINI",
+            "district": "KULU",
+            "ifsc": "KACE0000212",
+            "office": "GUSHANI",
+            "phone": "228429",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "BO GARSA TEHSIL BHUNTAE DISTT KULLU HP PIN-175125",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GADSA",
+            "district": "KULU",
+            "ifsc": "KACE0000213",
+            "office": "GARSA",
+            "phone": "272207",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "VILLAGE DHRAMAN PO SUNGAL TEHSIL PALAMPUR DISTT KANGRA HP PIN-176061",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALAMPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000214",
+            "office": "PADHIARKHAR",
+            "phone": "9418156024",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "BO SALOL VPO SALOL TEHSIL AND DISTT. KANGRA HP PIN-176214",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANGRA",
+            "district": "KANGRA",
+            "ifsc": "KACE0000215",
+            "office": "SALOL",
+            "phone": "9418077140",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "VILLAGE BROW POST OFFICE RAMPUR TEHSIL NIRMAND DISTT KULLU HP",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIRMAND",
+            "district": "KULU",
+            "ifsc": "KACE0000216",
+            "office": "BROW",
+            "phone": "9418170404",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "BO PUBOWAL VPO PUBOWAL TEHSIL HAROLI DISTT UNA HP 174503",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "KACE0000217",
+            "office": "PUBOWAL",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "BO RULHED VPO RULHED TEHSIL SHAHPUR DISTT KANGRA HP 176206",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000218",
+            "office": "RULHED",
+            "phone": "8894503116",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "BO JALAG VPO JALAG TEHSIL JAISINGHPUR DISTT KANGRA HP-176094",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAISINGHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000219",
+            "office": "JALAG",
+            "phone": "9418458577",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "BO DAGOH VPO DAGOH TEHSIL JAISINGHPUR DISTT KANGRA HP-176076",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAISINGHPUR",
+            "district": "KANGRA",
+            "ifsc": "KACE0000220",
+            "office": "DAGOH",
+            "phone": "9418336685",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA CENTRAL CO-OP BANK LTD BO NEHRIAN PO NEHRI TEHSIL AMB DISTT UNA (HP)",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEHRIAN",
+            "district": "UNA",
+            "ifsc": "KACE0000222",
+            "office": "NEHRIAN",
+            "phone": "9418974690",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "BO BARUHI PO CHOWKI MANIAR TEHSIL BANGANA",
+            "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHOWKI MANIAR",
+            "district": "UNA",
+            "ifsc": "KACE0000223",
+            "office": "BARUHI",
+            "phone": "233004",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    }
+]

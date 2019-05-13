@@ -1,0 +1,392 @@
+[
+    {
+        "fields": {
+            "address": "G-05/M-02, GROUND FLOOR, PROSPECT CHAMBERS, DR.D.N.ROAD, FORT, MUMBAI - 400 001",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000002",
+            "office": "FORT",
+            "phone": "8108066020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "PARKSITE COLONY, MUNICIPAL COMPOUND, VIKHROLI (WEST) MUMBAI - 400 079.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000003",
+            "office": "VIKHROLI",
+            "phone": "8108066003",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "VIDYANIDHI SCHOOL BULDING, JVPD SCHEME, VILE PARLE (WEST), MUMBAI - 400 049.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000004",
+            "office": "JUHU",
+            "phone": "8108066004",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, GR. FLOOR, GEETA BUILDING, OPP. SION BUS DEPOT, NEXT TO HP PETROL PUMP, SION EAST, MUMBAI 400 022",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000005",
+            "office": "SION",
+            "phone": "8108066005",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.- 37, SHRINIVAS, DATAR COLONY, BHANDUP (EAST), MUMBAI - 400 042.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000006",
+            "office": "BHANDUP",
+            "phone": "8108066006",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "GOLE BUNGLOW, NETAJI SUBHASH ROAD, MULUND (WEST), MUMBAI - 400 080.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000007",
+            "office": "MULUND WEST",
+            "phone": "8108066007",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SANGHVI SQUARE,1ST FLOOR, M.G. ROAD, GHATKOPAR (WEST), MUMBAI - 400 086.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000008",
+            "office": "GHATKOPAR WEST",
+            "phone": "8108066008",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "AJIT NAGAR, SAHAR VILLAGE, ANDHERI (EAST), MUMBAI \u252c\u00fb 400 069.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000010",
+            "office": "SAHAR",
+            "phone": "8108066010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "OLD BARAK NO. T-107, SINDHI CAMP, GANDHI BAZAR, CHEMBUR, MUMBAI - 400 074.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000011",
+            "office": "CHEMBUR",
+            "phone": "8108066011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "701, KALA KUNJ, LINKING ROAD, NEAR TELEPHONE EXCHANGE, KHAR, MUMBAI - 400 052.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000012",
+            "office": "KHAR",
+            "phone": "8108066012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "HEMAL CO-OP.HSG. SOC.LTD, FLAT NO.- B/ 4 & 5, KHARODI P.O., MALAD, MUMBAI - 400 095.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000013",
+            "office": "MALAD",
+            "phone": "8108066013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "A-4, KALPAK ESTATE, SHAIKH MISTRI ROAD, ANTOP HILL, MUMBAI - 400 037.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000014",
+            "office": "ANTOP HILL",
+            "phone": "8108066014",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "AMBIKA CHS. LTD, SHOP NO.-1, 2 & 8, PHADKE ROAD, SAHANI CHOWK, MULUND (EAST), MUMBAI - 400 081.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000015",
+            "office": "MULUND EAST",
+            "phone": "8108066015",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "34/1 & 185/1, OPP. BLDG.195, NEAR SHOPPING CENTER, KANNAMWAR NAGAR - 2",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000016",
+            "office": "KANNAMWAR NAGAR",
+            "phone": "8108066016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.5, RATNAGAR CO-OP. HSG. SOC. LTD., VILLAGE AMBIVALI, FOUR BUNGLOW JUNCTION, J.P.ROAD, ANDHERI WEST, MUMBAI - 400 053",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000017",
+            "office": "ANDHERI",
+            "phone": "8108066017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "56, PISSIRAM COTTAGE, SINDHI SOCIETY, CHEMBUR, MUMBAI - 400 071.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000018",
+            "office": "SINDHI SOCIETY",
+            "phone": "8108066018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.-14, NEELKANTH UDYOG BHAVAN PREMISES CS. LTD., 1ST FLOOR, SAKINAKA JUNCTION, ANDHERI KURLA ROAD, MUMBAI - 400 072.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000019",
+            "office": "SAKINAKA",
+            "phone": "8108066019",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "108 & 109, ASHISH INDUSTRIAL ESTATE, GOKHALE ROAD (SOUTH), DADAR (WEST), MUMBAI - 400 025.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000020",
+            "office": "DADAR",
+            "phone": "8108066002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SARAWATI MAHAL NO.- 2, JUNCTION OF RANADE & GOKHALE ROAD, SHIVAJI PARK, DADAR (WEST) MUMBAI - 400 028.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000021",
+            "office": "SHIVAJI PARK",
+            "phone": "8108066021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "DHAVAL APARTMENT, 1ST FLOOR, FACTORY LANE, BORIVALI (WEST), MUMBAI - 400 092.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000022",
+            "office": "BORIVALI",
+            "phone": "8108066022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RAHI HOTEL BULDING, NEAR VIRUPAKSH MANDIR, MAHATMA PHULE ROAD",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "JSBL0000023",
+            "office": "PANVEL",
+            "phone": "8108066023",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "YASHODHAN CHHATRAPATI SHIVAJI ROAD, DR. AMBEDKAR CHOWK, THANE, MUMBAI - 400 601.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "JSBL0000024",
+            "office": "THANE",
+            "phone": "8108066024",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "47-51, KALBADEVI ROAD, NEAR PYDHONI POLICE STATION, MUMBAI -400002.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000025",
+            "office": "KALBADEVI",
+            "phone": "8108066025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "JAY GAYATRI APARTMENT, VALLABH BAUG LANE, GHATKOPAR (EAST), MUMBAI - 400 077.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBL0000026",
+            "office": "GHATKOPAR EAST",
+            "phone": "8108066026",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "MAHAVIR CENTER PREMISES, PLOT NO. - 77, SECTOR - 17,VASHI NEW MUMBAI - 400 705.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "JSBL0000027",
+            "office": "VASHI",
+            "phone": "8108066027",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "K. A. BANTHIA HIGH SCHOOL, SECTOR - 18, NEW PANVEL, MUMBAI \u252c\u00fb 410 206.",
+            "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "JSBL0000028",
+            "office": "PANVEL EXTN",
+            "phone": "8108066028",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    }
+]

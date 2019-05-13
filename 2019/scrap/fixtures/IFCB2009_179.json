@@ -1,0 +1,272 @@
+[
+    {
+        "fields": {
+            "address": "3/4016,NAVNIDHI,NAVAPURA,KARVA ROAD,SURAT-395003",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000001",
+            "office": "RTGS-HO",
+            "phone": "2450512",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "3/4016,NAVNIDHI,NAVAPURA,KARVA ROAD,SUTRAT-395003",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000002",
+            "office": "MAIN BRANCH",
+            "phone": "2491197",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "THE UDHNA UDHYOG NAGAR COMPLEX, CENTRAL ROAD NO.10, UDHNA",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000003",
+            "office": "UDHNA BRANCH",
+            "phone": "2272074",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "4, RIDHHI SIDHHI APARTMENT, OPP. NAVIN FLORIN COLONY, BHESTAN",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000004",
+            "office": "BHESTAN",
+            "phone": "2894027",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "NIRAJ APARTMENT, NEAR MOHAN PARK, GHODDOD ROAD",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000005",
+            "office": "GHODDOD ROAD",
+            "phone": "2259920",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "J-154 TO 157, INDIAN TEXTILE MARKET, RING ROAD",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000006",
+            "office": "RINGROAD",
+            "phone": "2353407",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SANDHYA DARSAN APARTMENT, OPP. BHULKABHAVAN SCHOOL, ADAJAN",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000007",
+            "office": "ADAJAN",
+            "phone": "2788452",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "1- ANUPAM NAGRI, NEAR ASHRWAD TOWNSHIP, BAMROLI",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000008",
+            "office": "BAMROLI",
+            "phone": "2897492",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "1,MANINAGAR SOCIETY, NEAR GAUSHALA,AHSWIN KUMAR ROAD,",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000009",
+            "office": "A K ROAD",
+            "phone": "2557300",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 4,SEVEN SQUARE, DINDOLI KARVASA ROAD,",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000010",
+            "office": "DINDOLI",
+            "phone": "2902231",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "G-2, WESTERN HIGHTS,OPP. PAL LAKE, PAL",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000011",
+            "office": "PAL",
+            "phone": "2901239",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "UG -20 TO 23, TAPTI GANGA MARKET, UMARWADA",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000012",
+            "office": "UMARWADA",
+            "phone": "2362500",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 6 & 7, AKSHARKUNJ CO-OP. HOUSING SOCIETY, LIMITED, NEAR GAJERA SCHOOL, KATARGAM, SURAT",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000013",
+            "office": "KATARGAM",
+            "phone": "2487700",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "F10 TO 14 SATYAM BUILDING, SIDDHI VINAYAK RESIDENCY SACHIN CHAR RASTA SACHIN",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000014",
+            "office": "SACHIN",
+            "phone": "2393333",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "4260 GROUND FLOOR, STATION ROAD, BARDOLI",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SUNB0000015",
+            "office": "BARDOLI",
+            "phone": "226001",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3 & 4 MAHATMA IND. CO-OP.SER. SOCIETY VIBHAG-2, KAPODRA VARACHHA ROAD, SURAT- 3950006.",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000016",
+            "office": "KAPODRA",
+            "phone": "2571333",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1, MIDAS SQUARE, 150 FT PARVAT-GODADHARA ROAD, MAGOB, SURAT 395010",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000017",
+            "office": "MAGOB",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6-7-8, CENTER POINT, DELAD-SAYAN ROAD, PARIA, DIST.SURAT 394130",
+            "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUNB0000018",
+            "office": "DELAD-SAYAN",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    }
+]

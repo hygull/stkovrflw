@@ -1,0 +1,1037 @@
+[
+    {
+        "fields": {
+            "address": "VYAPAR BHAVAN, 1ST FLOOR,49,P D MELLO ROAD,MUMBAI 400 009",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "CARNAC BUNDER BRANCH",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0VYAPAR",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, VYAPAR BHAVAN ,49, P.DMELLO ROAD,CARNAC BUNDER, MUMBAI - 400 009.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "HEAD OFFICE",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0CARNAC",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "S.NO.24/1A/2B/1A7,PLOT NO.1,HOTEL RUCHIRA,PIPELINE ROAD,AHMADNAGAR-414003",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "PIPELINE ROAD",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960103",
+            "office": "",
+            "phone": "2427268",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "DR KOLTE'S HOSPITAL, PUNE-NAGAR ROAD, WAGHOLI, PUNE-411014",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "WAGHOLI",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960102",
+            "office": "",
+            "phone": "27052349",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "ONKAR PLAZA,1ST FLOOR,GAT NO.2982 AND 2983,KALYAN NAGAR ROAD,ALEPHATA,TAL.JUNNAR,DIST.PUNE 412411",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "ALEPHATA",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960079",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.X326,MINATAI THAKARE MARKET,PRATAP CHOWK,BAJAJ NAGAR,WALUNJ MIDC,AURANGABAD",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "WALUNJ MIDC",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MCBL0960078",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "PLOT NO A2,3,4,6 SURVEY NO1,2,NEAR AHMEDNAGAR MANMAD ROAD,NAGAPUR",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NAGAPUR AHMEDNAGAR",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MCBL0960077",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "RIDHI SIDHI BULDING,GROUND FLOOR,SURVEY NO.1171/A,MILKAT NO.5365,CHAKAN SHIKRAPUR ROAD,CHAKAN",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "CHAKAN",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "MCBL0960076",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "CLASSIC PLAZA, CITY SERVEY NO. 1958, VADGAON SHINDE ROAD, SHOP NO. 21, 22, 23, 24 A 7 B, LOHAGAON, PUNE PIN 411047",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "LOHAGAON",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960075",
+            "office": "",
+            "phone": "26685030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "TULJA BHAVANI PLAZA, THERGAON ROAD, S. NO. 17/4, WAKAD, PUNE PIN 411057",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "WAKAD",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960074",
+            "office": "",
+            "phone": "20276474",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "AMRUTWEL BUILDING GALA NO. 1575/2, CHAKAN CHOWK, SHIKRAPUR, TALUKA- SHIRUR, DIST- PUNE PIN 412208",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SHIKRAPUR",
+            "city": "SHIKRAPUR",
+            "district": "PUNE",
+            "ifsc": "MCBL0960073",
+            "office": "",
+            "phone": "272010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. A. S. L. 10, ASHWIN NAGAR, OPP HOTEL SEVEN HEVAN, PATHARADI FATA, MUMBAI NASHIK HIGHWAY, CIDCO, NASHIK 422 009",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NASHIK CIDCO",
+            "city": "NASIK",
+            "district": "NASHIK",
+            "ifsc": "MCBL0960072",
+            "office": "",
+            "phone": "2390255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "RUDRA, PLOT NO. 05, ADARSHA  S. T. KAMGAR HOUSING SOCIETY, BHIGWAN ROAD, BARAMATI . PIN  413102 MHARASHTRA.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BARAMATI",
+            "city": "BARAMATI",
+            "district": "PUNE",
+            "ifsc": "MCBL0960071",
+            "office": "",
+            "phone": "225100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KAKADE CHAMBER, SHOP NO. 1, 2 & 3, GR. FLOOR, JYOTI NAGAR,  SHAHANUR WADI, HOTEL AMARDEEP ROAD,PLOT NO. 87 & 91, CTS NO. 16035 -A-67 & A-80. AURANGABAD, 431001",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "AURANGABAD",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MCBL0960070",
+            "office": "",
+            "phone": "2361511",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "BHORE COMPLEX, CTS NO. 3070 M. NO. 3/5/245 TO 248, STATION RAOD, NANDED, NANDED CITY, PIN. 431601. MAHARASHTRA",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NANDED",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "MCBL0960069",
+            "office": "",
+            "phone": "237755",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "KASLIWAL TOWERS GR. FLOOR PLOT NO,15, HISSA NO.13, SERVE NO.215/143/1, KOPARGAON, DIST. AHMEDNAGAR. PIN. 423601. MAHARASHTRA.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KOPARGAON",
+            "city": "KOPARGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960068",
+            "office": "",
+            "phone": "224900",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SHRIMAN BASTIMAL SARDA CHARITABLE TRUST, GR. FLOOR, GOPAL PURA MARG, CTS NO.802 SERVE NO. 234/12 ALANDI, DISTRICT. PUNE. PIN 412105. MAHARASHTRA",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "ALANDI",
+            "city": "ALANDI",
+            "district": "PUNE",
+            "ifsc": "MCBL0960067",
+            "office": "",
+            "phone": "232044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2,3,4 OPP. BOISAR RAILWAY STATION, BOISAR PALGHAR MAIN ROAD, BOISAR (WEST) DIST. THANE",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BOISAR",
+            "city": "BOISAR",
+            "district": "THANE",
+            "ifsc": "MCBL0960066",
+            "office": "",
+            "phone": "270232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 6, 7, 8, A, GR. FLOOR, SARAS PLAZA APARTMENT, SAMSAN NAGAR CHS LTD, PLOT NO. 9A, TALEGAON CHAKAN HIGHWAY , TALEGAON DABHADE, DIST. PUNE.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "TALEGAON DABHADE",
+            "city": "TALEGAON DABHADE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960065",
+            "office": "",
+            "phone": "222045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "SHELAR COMPLEX, RANJAN BAKERY, JAI MAHARASHTRA CHOWK, PUNE NASIK HIGHWAY, BHOSARI, PUNE.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BHOSARI",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960064",
+            "office": "",
+            "phone": "27110088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "CTS NO. 905, SURVEY NO. 5/7, MUNCIPAL HOUSE NO. 1238/1, BHAGCHAND APARTMENTS, SHIRDI, TALUKA. RAHURI, DIST. AHMEDNAGAR.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SHIRDI",
+            "city": "SHIRDI",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960063",
+            "office": "",
+            "phone": "256866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "HOTEL KARMA BLDG. GR. FLOOR, GALA NO. 2 & 3, OPP S. T. STAND. SANGAMNER. DIST. AHMADNAGAR.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SANGAMNER",
+            "city": "SANGAMNER",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960062",
+            "office": "",
+            "phone": "225701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "APMC MARKET YARD, GALA NO. 387,388,326.327, NEPTI, KEDGAON, DIST. AHMADNAGAR.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NEPTI-KEDGAON",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960061",
+            "office": "",
+            "phone": "221189",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "1 ST, FLOOR, 921, NAVI BUDHWAR PETH, (OLD RAVIWAR PETH) BOHARE ALI, PUNE. 411002.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "RAVIWAR PETH",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960060",
+            "office": "",
+            "phone": "24434499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "652, MARKET YARD, GULTEKDI, PUNE, 411037.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "MARKET YARD",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960059",
+            "office": "",
+            "phone": "24268000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "52, P. S. PLAZA, YERAWADA BAZAR, YERAWADA, PUNE. 411066.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "YERAWADA",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960058",
+            "office": "",
+            "phone": "26699067",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "PRATIBHA SANKUL, GALA NO. 5 TO 10, OPP. TARAN TALAW, NASIK ROAD, NASIK. PIN. 422101.PH. NO. 0253 2451846",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NASIK ROAD",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MCBL0960057",
+            "office": "",
+            "phone": "2451846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "SHITOLE EMPIRE , GALA NO. 18 TO 23, FAMOUS CHOWK, NAVI SANGVI, PUNE. PIN. 411027 PH. NO. 020 27280350",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NAVI SANGVI",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960056",
+            "office": "",
+            "phone": "27280350",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "VISHWAMALA SAHAKARI GRUH RACHANA MARYADI,PLOT NO.10,TRIVENI NAGAR,TALWADEPIMPARI CHINCHWAD -411014",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "TALWADE",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960055",
+            "office": "",
+            "phone": "27691577",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "LILAMOTI TOWER,OPP SHIVSENA MANDAL COM,PUNE-NAGAR ROAD,SHIRUR-412210",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SHIRUR",
+            "city": "SHIRUR",
+            "district": "PUNE",
+            "ifsc": "MCBL0960054",
+            "office": "",
+            "phone": "222070",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "MIRANDA APARTMENT, TOWN PLANNING SCHEME NO.2, PLOT NO.29, GANGAPUR ROAD, NASIK-422005.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NASIK BRANCH",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MCBL0960053",
+            "office": "",
+            "phone": "2346011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "48/1, CHANDAN NAGAR, SHRI BUILDING, PUNE NAGAR ROAD, PUNE-411014",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "PUNE",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MCBL0960052",
+            "office": "",
+            "phone": "27019453",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "KRUSHI UTPANNA BAZAAR SAMITEE MARKET YARD, FRUIT & VEGETABLE SECTION, 1ST FLOOR, AHMEDNAGAR-414001",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "AHMEDNAGAR",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "MCBL0960051",
+            "office": "",
+            "phone": "2343089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 AND 4 GRND FLOOR RAJ HERITAGE PLOT NO 183 SECTOR 19 ULWE NAVI MUMBAI 400706",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "ULWE",
+            "city": "NAVIMUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960039",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO 9 TO 13 PARVATI ANGAN PLOT NO 66 SECTOR 21 KAMOTHE NAVI MUMBAI 410209",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KAMOTHE",
+            "city": "NAVIMUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960038",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8 9 AND 10 GRND FLOOR ASHOK HOTEL BLDG KALYAN BHIWANDI RD DIST THANE 421302",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BHIWANDI",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960037",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO 44 AND GA 4 OM SHRI SWATI MANOR CO OP HSG SOCIETY LTD J K SAWANT MARG DADAR WEST MUMBAI 400028",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "DADAR",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0960036",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "131/C,GROUND FLOOR,RAJPUTANA,DR.ANNIE BESANT ROAD,WORLI,MUMBAI 400018.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "WORLI",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0960035",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2,3 AND 11, GROUND FLOOR,RAJ PALACE CHS,PLOT NO.16,SECTOR NO.2,KOPARKHAIRANE,NAVIMUMBAI 400 709",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KOPARKHAIRANE",
+            "city": "NAVIMUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "MCBL0960034",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "SACHDEV COMPLEX,SHOP NO.12,GROUND FLOOR,AND BASEMENT,CTS NO.163,163/17 TO 89, KANJURGOAN,J.M.ROAD,BHANDUP WEST",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BHANDUP",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0960033",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "SAI SHARAN CO OP HSG SOCIETY OFFICE NO 3,4,5,5A AND 6, PLOT NO.15,SECTOR NO.8,KHANDA COLONY,NEW PANVEL WEST",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KHANDA COLONY PANVEL",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960032",
+            "office": "",
+            "phone": "24710821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2, GR. FLOOR, SANKALP HIGHT BUILDING, MUMBAI NASIK HIGHWAY, OPP JUPITER HOSPITAL, NARALI PADA, RUNWAL NAGAR, THANE.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "THANE, NARALIPADA",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960031",
+            "office": "",
+            "phone": "25475240",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 14 TO 19, GROUND FLOOR, AUDHYA SAHAKARI GRIHANIRMAN SANSTHA, SURVEY NO. 79A, HISSA NO. 1/B, CHANGEGAON, TALUKA URAN, DIST. RAIGAD.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "URAN",
+            "city": "URAN",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960029",
+            "office": "",
+            "phone": "27220541",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO 1 & 2, TIRUPATI KUNJ APARMENTS, GR. FLOOR, BEHIND VAISHALI CINEMA, BADLAPUR {WEST} DIST. THANE",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BADLAPUR",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960028",
+            "office": "",
+            "phone": "2676002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "BANTHIYA HOUSE, SHOP NO. 1 & 2, HOME NO. 903. M. G. ROAD, PANVEL, DIST. RAIGAD.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "PANVEL",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960027",
+            "office": "",
+            "phone": "27467387",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "TRIVENI PARK CHS. GALA NO. 1/5 & 6, WAYLE NAGAR, BHIWANDI KALYAN HIGHWAY, TALUKA, KALYAN DIST THANE, PIN 400301.PH. NO. 0251 2205016",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KALYAN",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "MCBL0960026",
+            "office": "",
+            "phone": "2205016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "KASTURI BUILDING, GROUND FLOOR, HOM RASJI STREET, COLABA, MUMBAI PIN. 400005. PH. NO. 022 22821856",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "CLOABA",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MCBL0960025",
+            "office": "",
+            "phone": "22821856",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "F/85, SANYUKTA CHS. SECTOR 12, KHARGHAR, NAVI MUMBAI, PIN 410210.PH. NO. 022 27746364",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KHARGHAR",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960024",
+            "office": "",
+            "phone": "27746364",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "BALAJI CO OP HOUSING SOCIETY LTD,SHOP NO 6,7,&8, SECTOR 4,PLOT NO 528,GHANSOLI,NAVI MUMBAI-400701",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "GHANSOLI",
+            "city": "NEW MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960023",
+            "office": "",
+            "phone": "27540155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "LOKMANYA SHIKSHAN MANDAL,VEER SAVARKAR NAGAR,THANE WEST-400606",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SAVARKAR NAGAR",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960022",
+            "office": "",
+            "phone": "25802012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "NCRD NUTAN VIDYALAYA, SECTOR-19, NERUL, NAVI MUMBAI-400706",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NCRD NERUL",
+            "city": "NEW MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960021",
+            "office": "",
+            "phone": "27714813",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "UTKARSHA BAL MANDIR, KANNAMWAR NAGAR, VIKHROLI, MUMBAI-400083",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "VIKHROLI",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960020",
+            "office": "",
+            "phone": "25796873",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "MAGATHANE BUS DEPOT BUILDING, BORIVALI (EAST), MUMBAI-400066",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BORIVALI MAGATHANE",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960019",
+            "office": "",
+            "phone": "28861861",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15 & 16, REGAL BUSINESS COMPLEX, REGAL INDUSTRIAL ESTATE, 101, ACHARYA DONDE MARG, SEWRI (W), MUMBAI-400015",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "SEWRI",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960018",
+            "office": "",
+            "phone": "24112005",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.5, SECTOR-1, OPP.D.Y.PATIL COLLEGE, NERUL, NAVI MUMBAI-400706",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "NERUL",
+            "city": "NEW MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960017",
+            "office": "",
+            "phone": "27709663",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.119, BIMA OFFICE PREMISES CO-OP.SOC.LTD., KALAMBOLI WARE HOUSING COMPLEX, ROAD NO.N.H.4, KALAMBOLI- 410218",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KALAMBOLI",
+            "city": "KALAMBOLI",
+            "district": "RAIGAD",
+            "ifsc": "MCBL0960016",
+            "office": "",
+            "phone": "27420510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "HARSHADA SUMAN CO-OP.HSG.SOC.LTD., SHOP NO.1 TO 4, PRABODHANKAR THAKRE NAGAR, C.H.K.12, MUMBAI-400067",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KANDIVALI",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960015",
+            "office": "",
+            "phone": "28685965",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "SONA MARKET, JAPANI BAZAR, U.NO.94, SHEET NO.63, ULHASNAGAR-421002",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "ULHASNAGAR",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960014",
+            "office": "",
+            "phone": "2707533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "SHIVAM SHOPPING CENTRE, SECTOR NO.2, AIROLI, NAVI MUMBAI-400708",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "AIROLI",
+            "city": "NEW MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960013",
+            "office": "",
+            "phone": "27793650",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "LAXMI NIWAS, PLOT NO.4, S.V.ROAD, DAULAT NAGAR, BORIVALI(EAST), MUMBAI-400066",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "BORIVALI",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960012",
+            "office": "",
+            "phone": "28953586",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "JAGDISH ASSOCIATES, GR.FLOOR, GALA NO.4 & 5, VARTAKNAGAR NAKA, THANE-400606",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "VARTAKANAGAR",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MCBL0960011",
+            "office": "",
+            "phone": "25883142",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "KRISHI UTPANNA BAZAR SAMITTEE, GR.FLOOR, CENTRAL BUILDING, TURBHE, NAVI MUMBAI-400705",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "TURBHE",
+            "city": "NEW MUMBAI",
+            "district": "THANE",
+            "ifsc": "MCBL0960010",
+            "office": "",
+            "phone": "27841298",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "KARACHI KACCHI LOHANA NARAYAN SARVOPAYA & LOKPATIA TRUST, J.N.ROAD, MULUND (WEST), MUMBAI-400080",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "MULUND",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960008",
+            "office": "",
+            "phone": "25681951",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "HIRAMANI SUPER MARKET BLDG., DR.B.A.ROAD, LALBAUG, MUMBAI-400012.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "LALBAUG",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960007",
+            "office": "",
+            "phone": "24710519",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "MAZHE MAHER, PAREL TANK ROAD, ABHYUDAYA NAGAR, KALACHOWKI, MUMBAI-400033",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "KALACHOWKI",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960006",
+            "office": "",
+            "phone": "24710942",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "82-C, RAJASHRI BUILDING, N.G.ACHARYA MARG, CHEMBUR GOVANDI ROAD, MUMBAI-400071",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "CHEMBUR",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960005",
+            "office": "",
+            "phone": "25212086",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "GANESH BAUG CO-OP.HSG.SOCIETY, R.B.KADAM MARG, BHATWADI, GHATKOPAR, MUMBAI-400084",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "GHATKOPAR",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960004",
+            "office": "",
+            "phone": "25113117",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.1 &2, GROUND FLOOR, S.P.CENTRE BUILDING, 68/70, NAGINDAS MASTER ROAD, FORT, MUMBAI-400023.",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "FORT",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960003",
+            "office": "",
+            "phone": "22612795",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "NAVRATAN BUILDING, 59, D'MELLO ROAD, CARNAC BUNDER, MUMBAI-400009",
+            "bank_name": "MAHANAGAR COOPERATIVE BANK",
+            "branch": "CARNAC BUNDER",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MCBL0960002",
+            "office": "",
+            "phone": "23481731",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    }
+]

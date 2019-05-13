@@ -1,0 +1,272 @@
+[
+    {
+        "fields": {
+            "address": "103,TRADE CORNER, SAKINAKA JUNCTION ANDHERI (E). MUMBAI-400072.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000001",
+            "office": "RTGS-HO",
+            "phone": "28520369",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "25,SONARIKA APT, NANUBHAI DESAI ROAD, MUMBAI-400004.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000002",
+            "office": "C.P.TANK",
+            "phone": "23883843",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "102,TRADE CORNER,SAKINAKA JUNCTION ANDHERI (E), MUMBAI-400072.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000003",
+            "office": "SAKINAKA",
+            "phone": "28514241",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "PIONEER IND ESTET, SUBHAS LANE, CAVES ROAD, JOGESHWARI (E), MUMBAI-400060.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000004",
+            "office": "JOGESHWARI",
+            "phone": "28215130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "MONIKA, ARCADE, SUBHAS LANE, DAPTARI ROAD,MALAD (E), MUMBAI-400097.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000005",
+            "office": "MALAD",
+            "phone": "28838825",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHIVAM APARTMENT, PLOT NO-12, SECTOR-2 (E),KALAMBOLI, DIST - RAIGAD, PIN-410218.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000006",
+            "office": "KALAMBOLI",
+            "phone": "27423400",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "AMERALD APT, VAKOLA MARKET ROAD, SANTACRUZ (EAST), MUMBAI-400055.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000007",
+            "office": "SANTACRUZ",
+            "phone": "26673824",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "C/1, PHASE -2, A.P.M C.MARKET NO-1, SECTOR -19, VASHI, NAVI MUMBAI-400703.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000008",
+            "office": "VASHI",
+            "phone": "27802766",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "REKHA APARTMENT, PLOT NO-B/1, AMRUT NAGER, GHATKOPER (W), MUMBAI-400086.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000009",
+            "office": "GHATKOPER",
+            "phone": "25001615",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-2, AMBIKA TOWER, RAJMATA JIJABAI ROAD, PUMP HOUSE, ANDHERI (E), MUMBAI-400093.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000010",
+            "office": "PUMP HOUSE",
+            "phone": "28390299",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "MANIKA SOCIETY, SUN MILL COMPUND LANE, S.J.MARG, LOWER PAREL, MUMBAI-400013.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000011",
+            "office": "LOWER PAREL",
+            "phone": "24932379",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.5&6, VRUNDAVAN PARK, PLOT NO-9, SECTOR-34, KAMOTHE, NAVI MUMBAI-410209.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000012",
+            "office": "KAMOTE",
+            "phone": "27430283",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-4,5,6, MANAS RESIDENCY, NEAR THREE PETROL PUMP, THANE (W), PIN-400602.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000013",
+            "office": "THANE",
+            "phone": "25341025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-7,8, BLDG NO-A/6, SHANTI NAGAR, SECTOR-1, MIRA ROAD (E), THANE-401107.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000014",
+            "office": "MIRA ROAD",
+            "phone": "28555470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "3/5, THE BACKWARD SARVODAYA CO-OP.HSG.SOC.LTD. AMRUTNAGAR, KHERWADI, BANDRA (E), MUMBAI-400051.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000015",
+            "office": "BANDRA",
+            "phone": "26472089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 4, SHRI DATTAVAIBHAV APARTMENT, PLOT NO-B/11, SECTOR-20, NERUL (W), NAVI MUMBAI-400706.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SAHE0000016",
+            "office": "NERUL",
+            "phone": "27707100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "CHAVAN COMPLEX, NEAR COLLECTOR OFFICE, SADAR BAZAR, DIST.-SATARA, PIN-415001.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "SAHE0000051",
+            "office": "SADAR BAZAR",
+            "phone": "229033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "37, BHAVANI PETH, NEAR RAJWADA BUS STOP, DIST.-SATARA, PIN-415002.",
+            "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "SAHE0000053",
+            "office": "RAJWADA",
+            "phone": "282292",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    }
+]

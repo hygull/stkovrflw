@@ -1,0 +1,4157 @@
+[
+    {
+        "fields": {
+            "address": "Arunudai Path, Chistian Basti, G.S.Road, Guwahati-781007",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Guwahati",
+            "district": "Kamrup Metropolitan",
+            "ifsc": "JSFB0004501",
+            "office": "G.S. Road, Dispur",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "Dugar Building, 1st Floor, TR Phookan Road, P.O. Fancy Bazar, P. S. Pan Bazar Guwahati, PIN - 781001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Guwahati",
+            "district": "Kamrup Metropolitan",
+            "ifsc": "JSFB0004502",
+            "office": "Fancy Bazar",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SumanPlaza,Tilkamanjhi,JailRoad,NH80,AnandgarhColony,Bhagalpur,Bihar812001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhagalpur",
+            "district": "Bhagalpur",
+            "ifsc": "JSFB0004503",
+            "office": "Bhagalpur",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "150/B and 151, Block A, Type B, Arya Kumar Road,Rajendra  Nagar,Patna-800016",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Patna",
+            "district": "Patna",
+            "ifsc": "JSFB0004504",
+            "office": "Kankarbagh",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "YAMUNA Complex, Ground Floor, Mithanpura Chowk Muzaffarpur, Pin- 842002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Muzaffarpur",
+            "district": "Muzaffarpur",
+            "ifsc": "JSFB0004505",
+            "office": "Muzaffarpur",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "Sushila Complex, Kachahari Road, Begusarai, Bihar- 851101",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Begusarai",
+            "district": "Begusarai",
+            "ifsc": "JSFB0004506",
+            "office": "Begusarai",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "Harihar Chamber, Upper Ground Floor, Near Boring road chauraha, Boring Road, Sri Krishna Puri, Patna- 800001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Patna",
+            "district": "Patna",
+            "ifsc": "JSFB0004507",
+            "office": "Hariharchamber",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Plot no. 28, Shivnath Complex, Beside Bhilai Nagar Nigam, GE Road, Supela, Bhilai, Dist. Durg, Chhattisgarh- 490023",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhilai",
+            "district": "Durg",
+            "ifsc": "JSFB0004508",
+            "office": "Bhilai",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "Ground Floor Situated at Taramani Parisar, Viyapar vihar Road, Bilaspur- 495001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bilaspur",
+            "district": "Bilaspur",
+            "ifsc": "JSFB0004509",
+            "office": "Bilaspur",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "Indian School Building, Opp Camel Girls High School, Near IDBI Bank,  Jagatpura Road, Raigarh-496110",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "RAIGARH",
+            "district": "Raigarh",
+            "ifsc": "JSFB0004510",
+            "office": "Raigarh",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "Jana Small Finance Bank,Krishna Complex, Main Road, Sadar Bazar,Opp. Arbindo Netralaya, Raipur Chhattisgarh \u252c\u00fb 492001,Jana Small Finance Bank",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Raipur",
+            "district": "Raipur",
+            "ifsc": "JSFB0004511",
+            "office": "Raipur",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "1st floor, 16/12, Aryasamaj Road, Karolbagh, New Delhi - 110005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Delhi",
+            "district": "Delhi",
+            "ifsc": "JSFB0004512",
+            "office": "Karol Bagh",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Building No.333, Block A, The Janta Co-operative house building society Ltd. Meera Bagh, Pashim Vihar, New Delhi-110087",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Delhi",
+            "district": "Delhi",
+            "ifsc": "JSFB0004513",
+            "office": "Meerabagh",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "Shop No. GF-03, Upper ground floor, MGF Megacity Mall, MG Road, Gurgaon, Haryana 122002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gurgaon",
+            "district": "Gurgaon",
+            "ifsc": "JSFB0004514",
+            "office": "Gurgaon",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, 12, Block-N, South Extensions Part-I, New Delhi -110049",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Delhi",
+            "district": "Delhi",
+            "ifsc": "JSFB0004515",
+            "office": "South Extension",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "ROOM NO 101 1ST FLOOR SIGMA ARCADE,SERVEY NO 224A-B T P NO 21,FINAL PLOT NO 141/04,BODAKDEV",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "AMEDABAD",
+            "district": "CHANDKHEDA",
+            "ifsc": "JSFB0004516",
+            "office": "CHANDKHEDA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "GF, Auram Avenue (Sun City House), Opp. Kotak Mahindra Bank, Near Gruh Finance,Mithakhali, Ahmedabad - 380006",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ahmedabad",
+            "district": "Ahmedabad",
+            "ifsc": "JSFB0004517",
+            "office": "Mithakali",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "Jana Small Finance Bank Ltd,02 Ground floor, Pancham high street, Opp: Bankers heart institute, Old padra road, Vadodara-390024,ana Small Finance Bank Ltd",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Vadodara",
+            "district": "Vadodara",
+            "ifsc": "JSFB0004518",
+            "office": "Alkapuri",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "GF Shop No. 4 and FF - Shop No. 113 and 114,\u252c\u00e1 Sapphire Elegance, Sant Kanwar Ram Chowk, Waghawadi Raod, Bhavnagar, Pin 364 002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhavnagar",
+            "district": "Bhavnagar",
+            "ifsc": "JSFB0004519",
+            "office": "Bhavnagar",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,NO.176(F),NAGAON MUNICIPALITY,WARD NO.11,ADP ROAD,NEAR RELAX HOTEL,OPP.UTI OFFICE,NAGAON,ASSAM 782001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "NAGAON",
+            "district": "NAGAON",
+            "ifsc": "JSFB0004520",
+            "office": "NAGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RAMLILA MATHIA,PARAGANA - MAJHI,P.S-BHAGWAN BAZAR,CHAPRA PO,SARAN DISTRICT,CHAPRA,841301,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "CHAPRA",
+            "district": "CHAPRA",
+            "ifsc": "JSFB0004521",
+            "office": "CHAPRA",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "First Floor,Business Avenue, Near K.K.V Circle, Kalawad Road, Rajkot  360 005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rajkot",
+            "district": "Rajkot",
+            "ifsc": "JSFB0004522",
+            "office": "Rajkot",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "GROUND AND 1ST FLOOR NO 3123/C AND PART OF PROPERTY NO 3089,MOHALLA RAMBAS REWARI,REWARI123401",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "JSFB0004523",
+            "office": "REWARI",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "Shop No 1 and 2, Ground and 1st floor, Shhlok Business Centre, Ring Road, Udhana Darwaja, Surat PIN -\u252c\u00e1 395 002, Gujarat",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004524",
+            "office": "Udhna Darwaja",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "Unit No. G-3, Proton Plus, Nr. Croma Store, L P Savani Road, Adajan Surat-395009",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004525",
+            "office": "Adajan",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "GroundFloor,SCONo-97,Sector-16,Faridabad-121002,Haryana",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Faridabad",
+            "district": "Faridabad",
+            "ifsc": "JSFB0004526",
+            "office": "Faridabad",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, bearing No. SCO Site No- 172-173, Sector-9C, Chandigarh \u252c\u00fb 160017",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chandigarh",
+            "district": "Chandigarh",
+            "ifsc": "JSFB0004527",
+            "office": "Chandigarh",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "Ground floor, building: Hotel Green INN, Plot no 2and3, Lajpat Nagar, On main G.T Road, Near UCO Bank, Panipat, Haryana-132103",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Panipat",
+            "district": "Panipat",
+            "ifsc": "JSFB0004528",
+            "office": "Panipat",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "Savitri Appartment, First Floor, Shastri Nagar, Bank More, Jharia Road, Dhanbad, Pin- 826001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dhanbad",
+            "district": "Dhanbad",
+            "ifsc": "JSFB0004529",
+            "office": "Dhanbad",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "M. R. Complex, Office No-1, 1St Floor, Near Indrapuri Chowk, Opp. Paper House, Hazaribagh, Pin- 825301, Jharkhand",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hazaribagh",
+            "district": "Hazaribagh",
+            "ifsc": "JSFB0004530",
+            "office": "Hazaribagh",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SWAMY Building, Ground Floor, Bistupur Main Road,Opposite Ram Mandir Jamshedpur, PIN- 831001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jamshedpur",
+            "district": "Purbi Singhbum",
+            "ifsc": "JSFB0004531",
+            "office": "Jamshedpur",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "Gallaxia Mall, Ratu Road, Ranchi, PIN- 834005. Jharkhand",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ranchi",
+            "district": "Ranchi",
+            "ifsc": "JSFB0004532",
+            "office": "Ranchi",
+            "phone": "0",
+            "state": "HARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "SHOP NO F016,FIRST FLOOR,NEXT TO METRO SHOES MUFTI CLOTH SHOPS,BANNERGHATTA ROAD,MEENAKSHI MALL,OPPOSITE TO MEENAKSHI TEMPLE,HULIMAVU,BANGALORE 560076",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "JSFB0004533",
+            "office": "MEENAKSHI SHOPPING MALL",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "Nandini Complex, Ground Floor, No. 300/A-70, 10th Main, 36th Cross,5th Block,\u252c\u00e1Jayanagara, Bangalore 560041, Karnataka",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004534",
+            "office": "Jayanagar",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "558,BDA,1StMainRoad,KengeriUpanagara/Satellite,OppTyoVidyaGanapathiTemple,NextToJanalakshmi,Pincode-560060",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004535",
+            "office": "Kengeri",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "001, 80 Feet Road, Koramangala, 4 Th block, Bangalore-560034.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004536",
+            "office": "Koramangala",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "Gr Meznine, SECTOR XI, M-25, 10TH MAIN ROAD, HAL 3RD STAGE, JEEVANBHIMA NAGAR, BANGALORE 560075",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004537",
+            "office": "Jeevanbhema Nagar",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "Dharma Vijeth.N;Ground Floor, #231; 2nd Main Road (Sampige Main Road); 15th Cross; Malleshwaram; BLR-560003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004538",
+            "office": "Malleshwaram",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "2714/1 ,Ground Floor, Unique Tower, Next To Big Bazar; Opposite to Axis bank,Khanapur Road;Angol Extension;\u252c\u00e1 Belgaum-590003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Belgaum",
+            "district": "Belgaum",
+            "ifsc": "JSFB0004539",
+            "office": "Belgaum",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR BUILDING NAME PRIYA COMPLEX,RAJA BAZAR KHAYHA NO 2 KHESARA NO 241,MOTIHARI,845401,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "MOTIHARI",
+            "district": "MOTIHARI",
+            "ifsc": "JSFB0004541",
+            "office": "MOTIHARI",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "9, MIG, KHB Colony;Sholapur Road;Bijapur,pin: 586103",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bijapur",
+            "district": "Bijapur",
+            "ifsc": "JSFB0004542",
+            "office": "Bijapur",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "#3365/5B, Near to Lakshmi floor mill, Shamanur road, Davanagere",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Davanagere",
+            "district": "Davangere",
+            "ifsc": "JSFB0004543",
+            "office": "Davangere",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "Upper Ground Floor, Vidya Nagar,unkal village, Opp BVB Engg College, Hubli taluk,Dharwad -580021, Karnataka",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hubli",
+            "district": "Dharwad",
+            "ifsc": "JSFB0004544",
+            "office": "Hubli",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR GROUND FLOOR,H NO 2-907/23/2DR SAVITA COMMERCIAL COMPLEX OPP BASAWESHWARA HOSPITAL SEDAM ROAD,GULBARGA-585105",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "GULBARGA",
+            "district": "GULBARGA",
+            "ifsc": "JSFB0004545",
+            "office": "GULBARGA",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "No.27, Ground Floor,Hajee Basha Sab Arcade-I, Gangothri Road, Tumkur \u252c\u00fb 572101",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Tumkur",
+            "district": "Tumkur",
+            "ifsc": "JSFB0004546",
+            "office": "Tumkur",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "No.1, Sathvik Splendor building OR HSBC building, Ground Floor, Kalidasa Road, 3rd Block, Jayalakshmipuram, VV Mohalla,Mysore -570012, Karnataka",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mysore",
+            "district": "Mysore",
+            "ifsc": "JSFB0004547",
+            "office": "Mysore",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "#1-4-380(old),1-4-154/35(New),H.K Dumba nursing Home,Orthopedic Centre,I.B.road,Near Railway station,Raichur-584101.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Raichur",
+            "district": "Raichur",
+            "ifsc": "JSFB0004548",
+            "office": "Raichur",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "Plot no. 131/01 MP Nagar, Zone-2 ,Ground Floor, Near Vodafone, Bhopal, Pin 462011",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhopal",
+            "district": "Bhopal",
+            "ifsc": "JSFB0004549",
+            "office": "M P Nagar Zone 2",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "SECOND FLOOR,S-1& 5-2,PLOT NO.8/1,SURBHI RAGHU PLAZA,HAMIDIYA ROAD BHOPAL-462001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "JSFB0004550",
+            "office": "HAMIDIA ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "House No. 35/305 Falke Ki Ganth Rammandir Gali Iashkar Gwalior -474001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gwalior",
+            "district": "Gwalior",
+            "ifsc": "JSFB0004551",
+            "office": "Gwalior",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "Plot No. 306A, Scheme No. 54, PU-4, Near Country Inn Hotel, Main AB Road,Vijaynagar, Indore-452001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Indore",
+            "district": "Indore",
+            "ifsc": "JSFB0004552",
+            "office": "Vijaynagar",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "VedaShopNo5AND6SurveyNo.1619/3,1619/4AND1619/5,KasbaIndore,DistIndore",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Indore",
+            "district": "Indore",
+            "ifsc": "JSFB0004553",
+            "office": "Bhavarkuan",
+            "phone": "0",
+            "state": "MADHYAPRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHIVAHRE,COMPLEX,NEAR GULZAR HOTEL,NURINGH WARD,MADAN MAHAL,NAGPUR ROAD,JABALPUR MP-482002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "JABALPUR",
+            "district": "JABALPUR",
+            "ifsc": "JSFB0004554",
+            "office": "MADAN MAHAL-JABALPUR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "APPORVA TOWER,MAHAJAN TOLI,NEAR SADAR HOSPITAL ROAD,ARRAH,802301,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "ARRAH",
+            "district": "ARRAH",
+            "ifsc": "JSFB0004555",
+            "office": "ARRAH",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR CITY CENTRE MOH BHAROPAR,PATNA - RANCHI ROAD ANCHAL BIHARSARIF,NALANDA,803101,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BIHAR SHARIF",
+            "district": "BIHAR SHARIF",
+            "ifsc": "JSFB0004556",
+            "office": "BIHAR SHARIF",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "Plot No. A Vishala Kshetra Commercial Cum Residential Youja Ujjain,Divine Vally, b block Ujjian MP, 456010",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ujjain",
+            "district": "Ujjain",
+            "ifsc": "JSFB0004557",
+            "office": "Ujjain",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "Upper Ground Floor, Ratlam Plaza, Shop No. 16/45, Situated New Road, Jawhar Marg, Ratlam, MP. Pin- 457001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ratlam",
+            "district": "Ratlam",
+            "ifsc": "JSFB0004558",
+            "office": "Ratlam",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "5 and 16, Ground Floor,\u252c\u00e1 Sai Business Park, 7 Hills, Surana Nagar, Jalna Road, Aurangabad, Pin 431 003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Aurangabad",
+            "district": "Aurangabad",
+            "ifsc": "JSFB0004560",
+            "office": "Aurangabad",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "GROUND& 1ST FLOOR,PADMALAYAM COMPLEX,NO.476/1722,PLOT NO.566,OPP.BUS STOP,SHAHADEV KHUNTABALASORE756001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BALASORE",
+            "district": "BALASORE",
+            "ifsc": "JSFB0004562",
+            "office": "BALASORE",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "Unit No. 175, Ground and Mezzanine Floor, Situated at Jilhapeth,Visanji Nagar,Jalgaon 425001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jalgaon",
+            "district": "Jalgaon",
+            "ifsc": "JSFB0004563",
+            "office": "Jalgaon",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "Unit No. 324,\u252c\u00e1 Upper Ground Floor,\u252c\u00e1 Revolution, C.S.No.324, E Ward, Station Road,\u252c\u00e1 Kolhapur \u252c\u00fb 416 003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kolhapur",
+            "district": "Kolhapur",
+            "ifsc": "JSFB0004564",
+            "office": "Sambhaji Nagar",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "UNIT NO. 12 13, GROUND AND MEZZANINE FLOOR, KURTARKAR PLAZA, KURTARKAR LANDMARK, MARGOA, GOA- 403601",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Margao",
+            "district": "South Goa",
+            "ifsc": "JSFB0004565",
+            "office": "Mormugao",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "Ground Floor,  Bhima Bhanu Bhavan, Patanjali Aarogya Kendra, Rushikesh Agency, Near Vishwa Super Market, Barshi Road, Latur \u252c\u00fb 413 531",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Latur",
+            "district": "Latur",
+            "ifsc": "JSFB0004566",
+            "office": "Latur",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "Shop NO. 4 and 5, ground floor, India bulls mint Near Hiranandani Meadows, Gladys road, Pokhran road no. Thane west Mumbai-400610",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Navi Mumbai",
+            "district": "Thane",
+            "ifsc": "JSFB0004567",
+            "office": "Thane",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "Plot No. 3 to 10, Room No. 4, Mezzanine and Ground Floor, Nexus Point, Near Bhosale Military School Gate, Mahatma Nagar, Nashik 422007",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nasik",
+            "district": "Nasik",
+            "ifsc": "JSFB0004568",
+            "office": "Nashik",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "S.No.32/1,Basement Ground Floor 1,2,3\u252c\u00e1 Floors,\u252c\u00e1 Unecha House, Opp.Raja Mantri Udyan, Karve Road, Pune-411004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Pune",
+            "district": "Pune",
+            "ifsc": "JSFB0004569",
+            "office": "Pune",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "Unit No. 2,\u252c\u00e1 Ground Floor, Situated at The Hub, Dange Chowk, Thergaon, Pune-411033",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Pune",
+            "district": "Pune",
+            "ifsc": "JSFB0004570",
+            "office": "Chinchwad",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SHOP NO 1,2,&3,SHREE GOVIND APARTMENTS DATTAPADA SCHOOL ROAD BORIVALI,MUMBAI,400066,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "GREATER MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "JSFB0004571",
+            "office": "BORIVALI JPC",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,VIP PLAZA,PLOT NO.19,MOUZA -PURI,SAMANTA CHANDRASEKHAR NAGAR,VIP ROADPURI752001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "PURI",
+            "district": "PURI",
+            "ifsc": "JSFB0004572",
+            "office": "PURI",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "87, Atur House, Shop No. 6, \"G\" ward of MCGM Annie Besant Road, Worli Naka, Mumbai \u252c\u00fb400018",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004573",
+            "office": "Worli Naka",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Plot No.08, House No.245, 8 Rasta Sqare, Lakshmi Nagar, Mouza-Ajni, Tahsil and Dist Nagpur, Maharashtra - Pin - 440022",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nagpur",
+            "district": "Nagpur",
+            "ifsc": "JSFB0004574",
+            "office": "Lakshminagar",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "Poonam Mall shop no. 8 ,beside Dominos pizza, wardhman nager Nagpur - 440008",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nagpur",
+            "district": "Nagpur",
+            "ifsc": "JSFB0004575",
+            "office": "Wardhamanagar",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "Unit No. 17 (A), Ground Floor, Ganesh Tower, Sector \u252c\u00fb 1, Plot No.9, Vashi (W), Mumbai \u252c\u00fb 400 703",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Navi Mumbai",
+            "district": "Thane",
+            "ifsc": "JSFB0004576",
+            "office": "Vashi",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "Shop  No. 17,18,19 and 20,  Ground Floor,  Neelkant Regent,  R N Narkar Road, Ghatkopar-77",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004577",
+            "office": "Ghatkopar",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Situated at Sahakar Sanjavani, Near Buldhan Urban Socity Vip Road Nanded \u252c\u00fb 431 602",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nanded",
+            "district": "Nanded",
+            "ifsc": "JSFB0004578",
+            "office": "Nanded",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "Unit No. 114/12, Ground Floor, Parth Chowk, opposite to Shubhray Art Gallary,  Near to Dhanraj Girji Hospital ,Radhakrishna Colony, Muraji Peth Solapur 413 001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Solapur",
+            "district": "Solapur",
+            "ifsc": "JSFB0004579",
+            "office": "Solapur",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "Plot No: 3-Bapuji Nagar, Janpath, Bhubaneswar, Pin- 751009",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhubaneshwar",
+            "district": "Khurda",
+            "ifsc": "JSFB0004580",
+            "office": "Bapujinagar",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "H-1, Civil Township,Panposh,  Rourkela, Pin- 769004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Raurkela",
+            "district": "Sundargarh",
+            "ifsc": "JSFB0004581",
+            "office": "Raurkela",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "Unit # 14, Danipali, Budharaja, Sambalpur, Odisha - 768004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Sambalpur",
+            "district": "Sambalpur",
+            "ifsc": "JSFB0004582",
+            "office": "Sambalpur",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "Ground Floor and\u252c\u00e1 First Floor, property No. 258-L, Model Town, Jalandhar -144003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jalandhar",
+            "district": "Jalandhar",
+            "ifsc": "JSFB0004583",
+            "office": "Jalandhar",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "G.F, 2907/A/1, Swadesh Complex, G. T. Road, Bathinda,\u252c\u00e1 Near Zila Parishad, Bathinda Punjab\u252c\u00e1 - 151005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bathinda",
+            "district": "Bhatinda",
+            "ifsc": "JSFB0004584",
+            "office": "Bathinda",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Shanghai Tower, Shop cum Flat No. 13, Feroz Gandhi Market, Municipal Council no. B-26, Ludhiana (Punjab),Pin: 141001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ludhiana",
+            "district": "Ludhiana",
+            "ifsc": "JSFB0004585",
+            "office": "Ludhiana",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, SCO \u252c\u00fb 6, Leela Bhawan Chowk, Patiala \u252c\u00fb 147001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Patiala",
+            "district": "Patiala",
+            "ifsc": "JSFB0004586",
+            "office": "Patiala",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "Ground Floor and First Floor, \u252c\u00e1Plot no. 18\u252c\u00e1 and Plot no. 19, \u252c\u00e1Old Industrial Area, Rani Bazar, Bikaner, Rajasthan - 334001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bikaner",
+            "district": "Bikaner",
+            "ifsc": "JSFB0004587",
+            "office": "Bikaner",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "Gopal Plaza, Ajmer Road, Opp. BioScope Theatre, Bhilwara,Raj-311001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhilwara",
+            "district": "Bhilwara",
+            "ifsc": "JSFB0004588",
+            "office": "Bhilwara",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "Ground\u252c\u00e1 Floor, Jayanti Mall, Near Ashok Circle, Alwar, Rajasthan - 301001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Alwar",
+            "district": "Alwar",
+            "ifsc": "JSFB0004589",
+            "office": "Alwar",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "G-2, Ground floor, Green House, plot no. O-15, Ashok Marg, Jaipur-302001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jaipur",
+            "district": "Jaipur",
+            "ifsc": "JSFB0004590",
+            "office": "Jaipur",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR PLOT NO.87-B/4,BACHHRAJ JI KA BHAGH,SARDARPURA,CHOPASANI ROAD,JODHPUR,RAJASTHAN -342001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "JSFB0004591",
+            "office": "JODHPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "Ground floor, Plot No. 389,Shopping Centre, Near Ghore wala Baba Circle, Kota-324007",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kota",
+            "district": "Kota",
+            "ifsc": "JSFB0004592",
+            "office": "Kota",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Ridhi Sidhi complex, Panchsil Market, Sector-5, Hiran Magri,Main Road, Udaipur, Rajasthan-313001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Udaipur",
+            "district": "Udaipur",
+            "ifsc": "JSFB0004593",
+            "office": "Udaipur",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "Plot No.354,Plot No.355 and Plot No.356 Gothavari Street, 100 feet road, Bharathi Nagar, Chennai-600113",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004594",
+            "office": "Velachery",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "Door No.38,Sri ram niwas, Venkatakrishna Iyer Road, Mandaveli,Chennai-600028",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004595",
+            "office": "Mandavali",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "Windsor Palace Door No.34,Balfour road,Kilpauk,Chennai-10",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004596",
+            "office": "Kilpauk",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "Plot No 12/559, SVK plaza, MIG type,Thiruvallur Street, JJ Nagar, 12th Block, East Mogappair Chennai 600037",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004597",
+            "office": "Mogappair",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "272B, VKS complex, NSR Road, Saibaba Colony, Coimbatore - 641011, Tamilnadu",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Coimbatore",
+            "district": "Coimbatore",
+            "ifsc": "JSFB0004598",
+            "office": "Coimbatore",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "Old No. 38, New no. 165, Arcot Road, Kodambakkam, Chennai - 600024",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004599",
+            "office": "Kodambakkam",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "GKM\u252c\u00e1Arcade, No. 2 AND 4, West cross, 100 feet ECR road, Anna nagar, Pondicherry - 605005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Puducherry",
+            "district": "Puducherry",
+            "ifsc": "JSFB0004600",
+            "office": "Puducherry",
+            "phone": "0",
+            "state": "PUDUCHERRY"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "No.10KrishnapuramColonyMainRoad,MahatmaGandhiNagar,Madurai-625014",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Madurai",
+            "district": "Madurai",
+            "ifsc": "JSFB0004601",
+            "office": "Madurai",
+            "phone": "0",
+            "state": "TAMILNADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "No.13,South Bye Pass Road, Vannarapettai, Tirunelveli - 627003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Tirunelveli",
+            "district": "Tirunelveli",
+            "ifsc": "JSFB0004602",
+            "office": "Tirunelveli",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "D.No.259/4/129, Saradha College Road, Opp To Anna Salai, Alagapuram, Salem -636007",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004603",
+            "office": "Salem",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "74ASaliRoad,ThillaiNagar,Trichy-620018",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Tiruchirappalli",
+            "district": "Tiruchirappalli",
+            "ifsc": "JSFB0004604",
+            "office": "Tiruchirappalli",
+            "phone": "0",
+            "state": "TAMILNADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "B-7,B-8& G-7,G-8,BASEMENT& GROUND FLOOR OF UP TOWER,SANJAY PLACE,AGRA,UTTAR PRADESH -121001,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "AGRA",
+            "district": "AGRA",
+            "ifsc": "JSFB0004605",
+            "office": "SANJAY PLACE, AGRA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, First Floor, Second Floor, Property no. 14/121-A, Parade, Kanpur, UP-208001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kanpur",
+            "district": "Kanpur Nagar",
+            "ifsc": "JSFB0004606",
+            "office": "Kanpur",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "ground floor, part of office premises no. 66/2B/2A, Lal bahadur shashtri Marg, civil station Allahabad-211002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Allahabad",
+            "district": "Allahabad",
+            "ifsc": "JSFB0004607",
+            "office": "Allahabad",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,KHASRA NO.-150-151,PIPLI ROAD,OPP.CANARA BANK,NR.SYNDICATE BANK,KURUKSHETRA132118",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KURUKSHETRA",
+            "district": "KURUKSHETRA",
+            "ifsc": "JSFB0004608",
+            "office": "KURUKSHETRA",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "GroundFloor,D-45,PocketD,RajnagarDistrictCentre,Ghaziabad\u252c\u00fb201001,UP",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ghaziabad",
+            "district": "Ghaziabad",
+            "ifsc": "JSFB0004609",
+            "office": "Ghaziabad",
+            "phone": "0",
+            "state": "UTTARPRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Cyber Heights Building, Shop No. G-01, municipal number TC/G-2/2 and TC/G-5/5, Vibhuti Khand, Gomti Nagar, Lucknow (U.P.) - 226010",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Lucknow",
+            "district": "Lucknow",
+            "ifsc": "JSFB0004610",
+            "office": "Lucknow",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "shop No. GF 39A, GF 40, PVS Mall, Shashtri Nagar, Meerut, UP-250004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Meerut",
+            "district": "Meerut",
+            "ifsc": "JSFB0004612",
+            "office": "Meerut",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,DOOR NO.110,PLOT NO.369,VASANTHAM ARCADERAJARAM SALAI,K K NAGAR,TRICHY-620021",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "TRICHY",
+            "district": "TRICHY",
+            "ifsc": "JSFB0004613",
+            "office": "KK NAGAR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "D64/98-A1,NEAR BSNL OFFICE,MADHOPUR SIGRA,VARANASI -221002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "VARANASI",
+            "district": "VARANASI",
+            "ifsc": "JSFB0004614",
+            "office": "SIGRA, VARANASI",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,MASINAICKNAPATTI VILLAGE,AYOTHIPATTINAM,VALAPADDY,SALEM-636103",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "JSFB0004615",
+            "office": "AYOTHIPATTINAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,NO.74,RAJPUR ROAD,SHRI RAM ARCADE,DEHRADUN,248001,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "JSFB0004616",
+            "office": "RAJPUR ROAD DEHRADUN",
+            "phone": "0",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "RIDDHI-SIDDHI SREE,GROUND& FIRST FLOOR,203,M.G.ROAD,KOLKATA,PIN - 700063",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "THAKURPUKUR",
+            "district": "KOLKATA",
+            "ifsc": "JSFB0004617",
+            "office": "THAKURPUKUR",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "85 G T Road,Murgashol, Asansol- 713303",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Asansole",
+            "district": "Asansole",
+            "ifsc": "JSFB0004618",
+            "office": "Asansole",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "Gajraj Pearls,First Floor, 26, Bankim Mukherjee Sarani, Ward No. 81, PS. New Alipore, Kolkata - 700053",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kolkata",
+            "district": "Kolkata",
+            "ifsc": "JSFB0004619",
+            "office": "New Alipore",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "Diamond Heritage, 16 Strand Road Kolkata- 700001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kolkata",
+            "district": "Kolkata",
+            "ifsc": "JSFB0004620",
+            "office": "Diamond Heritage, Strand Road",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.6 ( PART )& UNIT NO.7/ ( FULL),GROUND FLOOR,SITUATED AT ALCOVE GLORIA MALL,VIP ROAD,KOLKATA,PIN - 700048",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "JSFB0004621",
+            "office": "VIP ROAD",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "ANDROMEDA,FIRST FLOOR,DD-30,SECTOR -L,SALT LAKE,KOLKATA - 700 064",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "JSFB0004622",
+            "office": "SALT LAKE",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "Rajat Windsor, 362/1A, N.S.C. Bose Rd, Kol-700047",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kolkata",
+            "district": "Kolkata",
+            "ifsc": "JSFB0004623",
+            "office": "Garia",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 23/2, MAULANA ABUL KALAM AZAD ROAD,P.S. GOLABARI HOWRAH - 711101, WEST BENGAL",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "Howrah\u252c\u00e1",
+            "ifsc": "JSFB0004624",
+            "office": "Howrah Maidan",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "M-Square, Lower Ground Floor, Opp Sachitra Hotel, Sevoke Road, Siliguri, PIN-734003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Siliguri",
+            "district": "Darjiling",
+            "ifsc": "JSFB0004625",
+            "office": "Siliguri",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "SANGRAM NILOY, MAIN ROAD, BORPARA, BONGAINGAON, PIN- 783380",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bongaigaon",
+            "district": "Bongaigaon",
+            "ifsc": "JSFB0004627",
+            "office": "Bongaigaon Municipality",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "Lohit Tower, Kanak Nagar A.T. Road, Sibsagar, PIN-785640",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Sivasagar",
+            "district": "Sibsagar",
+            "ifsc": "JSFB0004628",
+            "office": "Sivasagar",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "OM Arav, Thana Road, Ward No. 7, Golaghat, PIN- 785621, Assam",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Golaghat",
+            "district": "Golaghat",
+            "ifsc": "JSFB0004629",
+            "office": "Golaghat Municipal Board",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "Ground Floor ,City Center Main Road Bhatapara- 493118",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bhatapara",
+            "district": "Raipur",
+            "ifsc": "JSFB0004630",
+            "office": "Bhatapara",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "Opposite Railway Station Beside Vijaya Bank Mahasumund 493445",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "MAHASAMUND",
+            "district": "Mahasamund",
+            "ifsc": "JSFB0004631",
+            "office": "Mahasamund Municipality",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "Devendra Mishra\u252c\u00c6s House, Beside Gali No. 2, Daak Bangla Ward, Gunder Devi Road, Vivekanand Nagar, Dhamtari, Chhattisgarh, Pin- 493773",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dhamtari",
+            "district": "Dhamtari",
+            "ifsc": "JSFB0004632",
+            "office": "Dhamtari Muncipality",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Didwania Complex, Sadar Bazar Road, Beside Bank of Baroda, Champa, Chhattisgarh. Pin- 495671",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "JANJGIR CHAMPA",
+            "district": "Janjgir Champa",
+            "ifsc": "JSFB0004633",
+            "office": "Champa Muncipality",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "Gandhi Ward no 18, Near Goal Bazar, Dongargarh , Pin \u252c\u00fb 491445.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rajnandgaon",
+            "district": "Rajnandgaon",
+            "ifsc": "JSFB0004634",
+            "office": "Dongargarh",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "UG1,2,3 and LG 1,2,3, Ground  First Floor, Shreeji Complex, National Highway No. 6, Surat - Dhulla Road, Opp. Manik Moti Complex, Bardoli \u252c\u00fb 394601",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bardoli",
+            "district": "Surat",
+            "ifsc": "JSFB0004636",
+            "office": "Bardoli muncipality",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "Shop No. 3, Ground Floor, opp. Anand Ashram, Mahim Road, Palghar - 401404",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Palghar",
+            "district": "Palghar",
+            "ifsc": "JSFB0004638",
+            "office": "Palghar",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,MALAY HEIGHT,FRONT OF RESERVE BANK OF INDIA,MAHADEO GHAT ROAD,SUNDER NAGAR,RAIPUR ( CG ) -492001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "JSFB0004641",
+            "office": "SUNDER NAGAR-RAIPUR",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,PLOT NO.831,R.S.NO.665,663&664,SUBHASH PALLY,JHALIJHALIA,MALDA-732102",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "MALDA",
+            "district": "MALDA",
+            "ifsc": "JSFB0004643",
+            "office": "MALDA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "No:1809/1810;First floor , Rama samudra, Town \"F\" division, BR Hills Road, , Chamarajanagara;Pin:571313",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chamarajanagar",
+            "district": "Chamarajanagar",
+            "ifsc": "JSFB0004644",
+            "office": "Chamarajanagar",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "# 2, Haneshumari No. 2434/2, S.A Complex,Ramakrishna Road,,M.v Extension,Hoskote: 562114",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hosakote",
+            "district": "Bangalore Rural",
+            "ifsc": "JSFB0004645",
+            "office": "Hosakote",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR SURVEY NO 472/2 OLD WARD NO 20 NEW WARD NO 24,PLOT NO A/1 GANDHI ROAD 1ST STREET,ATTUR-636112",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "JSFB0004646",
+            "office": "ATTUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "Plot No. 23 A, Ward no. 12,Indira Nagar,  Dist-Raisen Mandideep - 462046",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Raisen",
+            "district": "Raisen",
+            "ifsc": "JSFB0004648",
+            "office": "Mandideep",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHOP NO.4&5,A BLOCK,CALIBRE MARKET,RAJPURA,PUNJAB - 140401",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "RAJPURA",
+            "district": "RAJPURA",
+            "ifsc": "JSFB0004649",
+            "office": "RAJPURA",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "Shri Krishna Agro Industries Astha Kannod Road, Talkies Chowraha, Astha, 466116",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Sehore",
+            "district": "Sehore",
+            "ifsc": "JSFB0004650",
+            "office": "Ashta",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "Plot No. 172/14 and 172/13 Village HathvasTehsil Pipariya Distt Hoshangabad MP-461775",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hoshangabad",
+            "district": "Hoshangabad",
+            "ifsc": "JSFB0004651",
+            "office": "Pipariya",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "Plot No-789/1704 and 789/1705,First Floor,C/O Jyoti Eyecare,Khajuritikra,Bargarh,Odisha,Pin-768028",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bargarh",
+            "district": "Bargarh",
+            "ifsc": "JSFB0004652",
+            "office": "Bargarh",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "Laxmi Narayan Kalayn Mandap, Plot No: 997/4237 and 34/4363, Uparsahi, 1st Floor, Khordha, Pin-752055, Odisha",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Khordha",
+            "district": "Khurda",
+            "ifsc": "JSFB0004653",
+            "office": "Khordha",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "Plot No- 926 and 926/1054, Near Idbi Bank, K.Mart, Bolangir, Odisha-767001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Balangir",
+            "district": "Balangir",
+            "ifsc": "JSFB0004654",
+            "office": "Balangir",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "7/1, Venkatramana Round Road, Mahalingapuram, Pollachi - 642 001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Coimbatore",
+            "district": "Coimbatore",
+            "ifsc": "JSFB0004655",
+            "office": "Pollachi",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "Plot No -23, Ward no. 3, GST Road, Alagesan nagar Extention,Chengalpattu, Kancheepuram District ,Pin : 603001.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chengalpattu",
+            "district": "Kancheepuram",
+            "ifsc": "JSFB0004656",
+            "office": "Chengalpattu",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "482/5, Shrishanmuga Arcade ,Dharmapuri Main Road, Omalur(Taluk) - Salem -636455",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004657",
+            "office": "Omalur",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR,WARD NO.16,NEHRUJI ROAD,SALESOCIETY STREET,ALLINAGARAM VILLAGE,SRO THENITHENI625531",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "THENI ALLINAGARAM",
+            "district": "THENI ALLINAGARAM",
+            "ifsc": "JSFB0004658",
+            "office": "THENI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "No: 29, Sankagiri Main Road, Selvam Sadan, Opp To Government Higher Secondary Girls School,Thiruchengode,Namakkal Dist, Tamilnadu-637211.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Tiruchengode",
+            "district": "Namakkal",
+            "ifsc": "JSFB0004659",
+            "office": "Tiruchengode",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "No. 235, Door no. 47 D5, Jawaharlal Nehru Street, Veerapandi Village, Muthuvelappan Street,Gobichettipalayam-638452",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gobichettipalayam",
+            "district": "Erode",
+            "ifsc": "JSFB0004660",
+            "office": "Gobichettipalayam",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "#607,Jawahar Main road,Opposite Vishnu Tvs, Punjaipuliampatti-638459.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "ERODE",
+            "district": "Erode",
+            "ifsc": "JSFB0004661",
+            "office": "Punjaipuliampatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,LARI MANZIL,CHHAWANI KASIA ROAD,PANDRAUNA,274304,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "PADRAUNA",
+            "district": "PADRAUNA",
+            "ifsc": "JSFB0004662",
+            "office": "PADRAUNA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,NO.5 NEW KHATA NO.839/3735/3735/5,OLD KHATA NO.3735/3735/5,S.NARASIMHAIAH LAYOUT,BOODIGERE ROAD DEVANAHALLI TOWN-BANGALORE-562110",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "JSFB0004665",
+            "office": "DEVANAHALLI",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "Plot No. 314, Lotus Press More, Ward No. 9, opp. Relax Hotel, Rampurhat, PIN- 731224.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rampurhat",
+            "district": "Birbhum",
+            "ifsc": "JSFB0004667",
+            "office": "Rampurhat",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "Baduria Chowmatha, Near SBI, P.O. Baduria, First Floor, Dist. 24 Parganas (N), West Bengal, PIN- 743437",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Baduria muncipality",
+            "district": "North 24 Parganas",
+            "ifsc": "JSFB0004668",
+            "office": "Baduria muncipality",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "Mira Plaza, Nazrul Sarani, Circus Maidan, Katwa, Pin- 713130",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Katwa",
+            "district": "Barddhaman",
+            "ifsc": "JSFB0004670",
+            "office": "Katwa",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "Nabapally More, Opposite PWD Office, Near New Bus Stand, Memari, Pin - 713146",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Memari",
+            "district": "Barddhaman",
+            "ifsc": "JSFB0004671",
+            "office": "Memari",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "Abirami Plot No \u252c\u00fb 225/422 Vill- Madhabpur PO- Diamond Harbour. Dist- South 24 Pgs . WB \u252c\u00fb 743331",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Diamond Harbour",
+            "district": "South 24 Parganas",
+            "ifsc": "JSFB0004672",
+            "office": "Diamond Harbour",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,RE-SURVEY NO.45/5APRAKASH NAGAR LAYOUT,AGARAM VILLAGE,THIRUVERUMBUR TALUK,TRICHY-620013",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "TRICHY",
+            "district": "TRICHY",
+            "ifsc": "JSFB0004673",
+            "office": "THIRUVERUMBUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Building no. 17,20, Bachari, Krishna Talkies Road,Bank Gali, Kotputli, Ra jasthan-303108",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jaipur",
+            "district": "Jaipur",
+            "ifsc": "JSFB0004675",
+            "office": "Kotputli",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "Ground floor, Plot No. 17, Shree Balaji Plaza, Baba Market, Bagru Dak Bell, Bagru, Rajasthan \u252c\u00fb 303007",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jaipur",
+            "district": "Jaipur",
+            "ifsc": "JSFB0004676",
+            "office": "Bagru",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Rawat Complex, Near Ravan Gate Circle, chomu, Rajasthan-303702",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Jaipur",
+            "district": "Jaipur",
+            "ifsc": "JSFB0004678",
+            "office": "Chomu",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "Ground Floor Ward No. 2, Deedwana Road, Near Karni Petrol Pump, Kuchaman , Nagour,(Rajasthan) Pin 341508",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nagaur",
+            "district": "Nagaur",
+            "ifsc": "JSFB0004679",
+            "office": "Kuchaman city",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "Door # 7/216, A. Jettihalli Village, Dharamapuri taluk, Dharmapuri, -636705",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004680",
+            "office": "Adhiyamankotai",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "1/350,SNC complex, Papparapatti pirivu,Somenahalli, Pappinaikenahalli (po), Palacode Tk, Dharmapuri-636808",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004681",
+            "office": "Somenahalli",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "Door # 2/359, Seliamman kovil near,Adagapadi bus stop, Adagapadi,Dharmapuri-636803",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004682",
+            "office": "Adagapadi",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "Door # 1/364, Kengalapuram, Pagalahalli ( PO), Dharmapuri, TamilNadu-636807",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004684",
+            "office": "Pagalahalli",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "H.NO: 3/156, first floor, Papireddy patti (taluk), near Sivalakshmi electricals, H. Pudupatti (post), , Dharmapuri (Dist).",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004685",
+            "office": "H. Pudupatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "Door # 202 ,RajaComplex,Jittandhalli(po),Palacode TK,Dharmapuri-636805",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dharmapuri",
+            "district": "Dharmapuri",
+            "ifsc": "JSFB0004686",
+            "office": "Jittandahalli",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "Door # 95, Periyakrishnapuram panchayat, Pethanayakanpalayak, Periyakrishnapuram (po),636115",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004687",
+            "office": "Periyakrishnapuram",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "AVR Complex, Chinnakavundapuram Road, Ramalingapuram (Post), Karipatti via Salem - 636106.\u252c\u00e1 Land Mark - Opp- Mahindra College of Engineering.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004688",
+            "office": "Chinnakavundapuram",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "185/2, Cuddalore Mani Road, Ammampalayam(Po), Amman Nagar, Attur(Tk), Salem - 636141.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004689",
+            "office": "Ammampalayam",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "Door # 1st Floor, Parapatti bus stop,Parapatti(po),Salem-636203. Opp Govt school",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004690",
+            "office": "Parapatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "Ground Floor #20, Neermullaikuttai,Koottathupatti via,Valapadi (Tk), Salem- Land mark-Nrrrmullikuttai ellai near Water tank",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004691",
+            "office": "Nirmullikuttai",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "Door # 4/59 Harur main road,Sukampatti, Salem-636122",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004692",
+            "office": "Sukkampatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "Dr-8/131, Panjakalipatti, Nachuvayanur, Mettur Main Road, Panakattur (Post), Omalur (Tk), Salem - 636455.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Salem",
+            "district": "Salem",
+            "ifsc": "JSFB0004693",
+            "office": "Panjakalipatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "Bandarapalli, 11/2;Billanakuppm Po; Krishnagiri Dt-635115",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bandarapalli",
+            "district": "Krishnagiri",
+            "ifsc": "JSFB0004694",
+            "office": "Bandarapalli",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "#2/89/2,AVK Complex,Addakurrakki,Main village,Krishnagiri dist.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Addakurakki",
+            "district": "Krishnagiri",
+            "ifsc": "JSFB0004695",
+            "office": "Addakurakki",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "Nadi Mod, Main Sq, Ghodari, Dist - Mahasamund, Ghodari- 493445",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ghodari",
+            "district": "Mahasamund",
+            "ifsc": "JSFB0004696",
+            "office": "Ghodari",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "Panchayath Office,Guddapatti, Krishnagiri",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Guddapatti",
+            "district": "Krishnagiri",
+            "ifsc": "JSFB0004697",
+            "office": "Guddapatti",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "#66, Khatha No :865/66, Rojipura Village, Kasaba Hobli, Doddaballapura Taluk, Bangalore -561203",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Dod Ballapur",
+            "district": "Bangalore Rural",
+            "ifsc": "JSFB0004698",
+            "office": "Dod Ballapur",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "88/2, Nagarathnamma; W/O Lingappa; Thali Kothanooru; Denkanikottai Tq;Krishnagiri Dt.",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Thalikothanur",
+            "district": "Krishnagiri",
+            "ifsc": "JSFB0004699",
+            "office": "Thalikothanur",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "Reddy Building 2/3A; , Kalligopasandra Village; Kelamangala Main Road; Opp To Govt High School, NGR building, Dankanikottai Taluk, Krishnagiri Dt; Pin: 635107",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Arasakuppam",
+            "district": "Krishnagiri",
+            "ifsc": "JSFB0004700",
+            "office": "Arasakuppam",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "Survey no.58/51,Site No.49, K Sathyvara, Nandagudi Hobli Hoskote Talluk, Bangalore Rural District. Pin-562122",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "K. Sathyavara",
+            "district": "Bangalore Rural",
+            "ifsc": "JSFB0004701",
+            "office": "K. Sathyavara",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "No.116, Ground Floor, Maralakunte Village, Somapura Hobli, Nelamangala Taluk, Bengaluru Rural - 562111, Karnataka",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Maralakunte",
+            "district": "Bangalore Rural",
+            "ifsc": "JSFB0004703",
+            "office": "Maralakunte",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "GF 227/205 RCC building, Shivarudrappa Building; Maral Bykuppe;Gram panchayat, Kanak Pura Taluk ; Ramanagara Dt.-562117",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ramnagar",
+            "district": "Ramnagar",
+            "ifsc": "JSFB0004704",
+            "office": "Marala Bekuppe",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "Ground Floor Kumar; 95/145 Cheeluru Vilage, Hosahalli, S/O Late Basawe Gowda,Mandala Maralavadi Hobli; Kanak pura Taluk; Ramanagara - 562112, Karnataka",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ramnagar",
+            "district": "Ramnagar",
+            "ifsc": "JSFB0004705",
+            "office": "Cheeluru",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "Gram Panchayat Bhawan, Old Dhamtari Road, Gujra Village, Dist. Dhamtari, Chhattisgarh, Pin- 493773",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "DHAMTARI",
+            "district": "Dhamtari",
+            "ifsc": "JSFB0004706",
+            "office": "Gujra",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "Khata No:423,First Floor,Kollegala-Mangala Main Road,Near Mangala Grampanchayat Office,Mangala Village, Kollegala Talluk.Dist; Chamaraj Nagara.- 571126",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mangala",
+            "district": "Chamarajanagar",
+            "ifsc": "JSFB0004707",
+            "office": "Mangala",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "GF- 282/282. Shanthamallappa, S/O. Late R Basappa,Grampanchayath, Heradan Halli Hobli,Bisalvadi Main Road, Bisalvadi Village. Chamarajnagar Dist -571127",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chamarajanagar",
+            "district": "Chamarajanagar",
+            "ifsc": "JSFB0004709",
+            "office": "Bisalavadi\u252c\u00e1",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "Upper Ground floor, Mishra complex Mission Chowk,Hospital Road,Sundergarh,Odisha",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Sundargarh",
+            "district": "Sundargarh",
+            "ifsc": "JSFB0004715",
+            "office": "Sundargarh",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "Chandrapal Singh Chauhan, S/O Sardar Singh Chauhan, 243/1, Ground Floor, Rupakhedi, Post- Rupakhedi, pin- 456663, Tehsil- Tarana, Dist- Ujjain MP",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ujjain",
+            "district": "Ujjain",
+            "ifsc": "JSFB0004717",
+            "office": "Rupakhedi",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "Survey No. 641/1,2,3 Village Gujarwada Tehsil:Babai Distt. Hoshangabad-461661",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hoshangabad",
+            "district": "Hoshangabad",
+            "ifsc": "JSFB0004722",
+            "office": "Gujarwada",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "Khasra No. 381/4, Village Raipur, Tehsil- Hoshangabad, MP, Pin- 461001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hoshangabad",
+            "district": "Hoshangabad",
+            "ifsc": "JSFB0004723",
+            "office": "Hoshangabad",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "Ground  Floor,  At Post Village Puni, Taluka-Palsana, Dist:- Surat, Pin:-394352",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004725",
+            "office": "Puni",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Near Gram Panchayat Office, Village : Orma, Taluka : Olpad, Dist : Surat 394540",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004726",
+            "office": "Orma",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "First Floor, At-Post- Patel Mohallo Narthan, Tal - Olpad dandi road, Dist : Surat -395005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004727",
+            "office": "Narthan",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "Ground Floor (C/O Indiraben J Vasava) Village,  Vadi, Taluka : Umarpada, Dist : Surat - 394440",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004728",
+            "office": "Vadi",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "Ground Floor,\u252c\u00e1 Dairy Faliyu, Village Vadoli TAL \u252c\u00fb Mangrol, Dist \u252c\u00fb Surat \u252c\u00fb 394 110",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004729",
+            "office": "Vadoli",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, 315 Mota Nogama, Tal - Mandvi, Dist - Surat - 394 170",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Surat",
+            "district": "Surat",
+            "ifsc": "JSFB0004730",
+            "office": "Nogama",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "Unit No. 393, Ground Floor, Nr.Primary School, At Post:- Udan, Taluka- Dahegam, Pin:- 382315",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Udan",
+            "district": "Gandhinagar",
+            "ifsc": "JSFB0004731",
+            "office": "Udan",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Post Sarandi, Taluka-Dholka, Dist:-Ahmedabad-378810",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ahmedabad",
+            "district": "Ahmedabad",
+            "ifsc": "JSFB0004733",
+            "office": "Sarandi",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Opp. Gram Panchayat, At. Post : Borisana, Village Borisana, Tal-Kadi, Dist \u252c\u00fb Mehsana-382715",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mehsana",
+            "district": "Mehsana",
+            "ifsc": "JSFB0004734",
+            "office": "Borisana",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Opp. Gram Panchayat, At. Post : Jaspura, Situated at Village-Jaspura, Taluka-Detroj, Rampura, Dist:- Ahmedabad, Pin-382120",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Ahmedabad",
+            "district": "Ahmedabad",
+            "ifsc": "JSFB0004735",
+            "office": "Jaspura",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "Ground Floor,\u252c\u00e1 Patelvas\u252c\u00e1 village Sonarda, Tal and Dist: Gandhinagar \u252c\u00fb 382 355",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gandhinagar",
+            "district": "Gandhinagar",
+            "ifsc": "JSFB0004736",
+            "office": "Sonarda",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "Mr. Raghubir Singh, S/o Sh. Ramdhan, H. No. 333, Karawara Manakpur,(253), Palhawas,District: Rewari, Rewari, Haryana- 123035",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rewari",
+            "district": "Rewari",
+            "ifsc": "JSFB0004739",
+            "office": "Karawara Manakpur",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "Mrs. Rajwanti, Khewat No. 15, Khatauni No. 22, Dagar Beej Bhandar VPO kabulpur district Rohtak Haryana-124201",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rohtak",
+            "district": "Rohtak",
+            "ifsc": "JSFB0004741",
+            "office": "Kabulpur",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "MR. SATWEER SINGH, No. 146, VPO Bahali\u252c\u00e1 Anandpur\u252c\u00e1 District , Rohtak Haryana 124001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rohtak",
+            "district": "Rohtak",
+            "ifsc": "JSFB0004742",
+            "office": "Bahali Anandpur",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "Ground Floor of the premises, on land bearing No.7M-414,PID NO :88-250-7M-414, Situated at HRBR 1ST Block Extension, Bangalore 560043",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004746",
+            "office": "Kamanahalli",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "121A, 1st Floor, Bidhan Sarani, Kolkata - 700004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Kolkata",
+            "district": "Kolkata",
+            "ifsc": "JSFB0004747",
+            "office": "Shyambazar",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "H.No 6-3-200/B/6, Banjara Hills Road No.1, Hyderabad - 500034",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Hyderabad",
+            "district": "Hyderabad",
+            "ifsc": "JSFB0004748",
+            "office": "Hyderabad",
+            "phone": "0",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "DOOR NO.22/1,GROUND& FIRST FLOOR,MSR BUILDING,22/1 WHEELER ROAD,FRAZER TOWN,BANGALORE-560005",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "JSFB0004750",
+            "office": "FRAZER TOWN",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "#140L,HSR Layout ,5th Main, 6th Sector, Bangalore -560034",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004751",
+            "office": "HSR layout",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "Ground and First Floor, Ninnad, Link Road, Malad West, Mumbai - 400 064",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004752",
+            "office": "Malad",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "PROPERTY BEARING NO.A-61,GROUND FLOOR,SITUATED AT RAJOURI GARDEN NEW DELHI-110027",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "JSFB0004753",
+            "office": "RAJOURI GARDEN",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "Shop no. 11 AND 12 AND 12 A , Park View Business Towers, Sohna Road, Gurgaon ,Haryana \u252c\u00fb 122001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gurgaon",
+            "district": "Gurgaon",
+            "ifsc": "JSFB0004754",
+            "office": "Sohna Road",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "SKTower,GroundFloor,NexttoAxisBank,ByramjiTown,Nagpur-440013",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Nagpur",
+            "district": "Nagpur",
+            "ifsc": "JSFB0004755",
+            "office": "BehramjiTown",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "Unit No. 1, 2 AND 104 , Ground AND First Floor, Raj Griha Co-Op Hsg Society, Lokhandwala, Andheri, Mumbai \u252c\u00fb 400 053",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004757",
+            "office": "Lokhandwala",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "Shop No. 6, Ground Floor, Hubtown Sunmist, N. S. Phadake Marg, Opp Telli Gali, Andheri East, Mumbai \u252c\u00fb 400 069",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004759",
+            "office": "Andheri East",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    },
+    {
+        "fields": {
+            "address": "Ground and First Floor, Parijat Building, Atur Park, Sion Trombay Road, Chembur East \u252c\u00fb 400 071",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004760",
+            "office": "Chembur",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 219
+    },
+    {
+        "fields": {
+            "address": "ShopNo.A-1B,GroundANDMezzanineFloor,Charm\u252c\u00e1Star,BailBazaar,NearForties,Kalyan(W)-421301",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004761",
+            "office": "Kalyan",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 220
+    },
+    {
+        "fields": {
+            "address": "GROUND& 1ST FLOOR,CENTRAL HOTEL,N.H.WAY,GANGTOK-737101",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "GANGTOK",
+            "district": "GANGTOK",
+            "ifsc": "JSFB0004762",
+            "office": "GANGTOK",
+            "phone": "0",
+            "state": "SIKKIM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 221
+    },
+    {
+        "fields": {
+            "address": "G001, A-104, 105 AND 106, Cypress CHS. LTD, Centeral Avenue Road, Powai, Hiranandani Gardens, Mumbai - 400 076",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Mumbai",
+            "district": "Mumbai",
+            "ifsc": "JSFB0004763",
+            "office": "Powai",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 222
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,NO 30C PESENT MUNICIPAL NO.10C,RAVI TOWERS DHARAPURAM ROAD,UDUMELPET-642126",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "JSFB0004764",
+            "office": "UDUMALAPATTAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 223
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Market Place, NH-49,Near Bank of Baroda,Sirajudin Chowk,Keonjhar,Odisha",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Keonjhar",
+            "district": "Keonjhar",
+            "ifsc": "JSFB0004772",
+            "office": "Kendujhar",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 224
+    },
+    {
+        "fields": {
+            "address": "House of Digendra Kumar Giri, Labhra Kala, P.O. Tusada, Dist. Mahasamund, Chhattisgarh, Pin- 493445",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "DHAMTARI",
+            "district": "Mahasamund",
+            "ifsc": "JSFB0004775",
+            "office": "Labhara Kalan",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 225
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,NO 594/3,OLD SL.NO.3/202,DOOR NO.9/5,PLOT NO.43/1,NO.89,AMBATTUR VILLAGE,SAIDAPET TALUKCHENNAI600053",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "JSFB0004779",
+            "office": "AMBATTUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 226
+    },
+    {
+        "fields": {
+            "address": "Priyox Apts,Q block  plot no. 104,3rd Avenue, Anna Nagar, Opp to HDFC Bank Chennai-600040",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004780",
+            "office": "Anna Nagar",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 227
+    },
+    {
+        "fields": {
+            "address": "COSMO BAZAR, Bagnan Station Road, Bagnan, West Bengal, PIN- 711303",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Howrah",
+            "district": "Haora",
+            "ifsc": "JSFB0004781",
+            "office": "Bagnan",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 228
+    },
+    {
+        "fields": {
+            "address": "Holding No. 474, Vill. Salgechia, P.O. and P.S. Tamluk, Dist. Purba Midnapore, West Bengal, PIN- 721636",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Tamluk",
+            "district": "Purba Medinipur",
+            "ifsc": "JSFB0004782",
+            "office": "Tamluk",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 229
+    },
+    {
+        "fields": {
+            "address": "Jaynagar Mazilpur Municipality, Jaynagar Mazilpur, West Bengal, PIN- 743337",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Joynagar",
+            "district": "South 24 Parganas",
+            "ifsc": "JSFB0004783",
+            "office": "Jaynagar Mazilpur",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 230
+    },
+    {
+        "fields": {
+            "address": "CRYSTAL S.R.PLAZA,1ST FLOOR,NEAR ELEYE CINEMA HALL,GAR-ALI ROAD,JORHAT,ASSAM,PIN - 785001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "JORHAT",
+            "district": "JORHAT",
+            "ifsc": "JSFB0004784",
+            "office": "JORHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 231
+    },
+    {
+        "fields": {
+            "address": "TDGSFVASMSGDKDC-3(JD)",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "RANCHI",
+            "district": "ACI",
+            "ifsc": "JSFB0004785",
+            "office": "RANCHI",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 232
+    },
+    {
+        "fields": {
+            "address": "Gayatri\u252c\u00e1 Complex, Laheria Tola, Laheria\u252c\u00e1 Tola Road,P.S :- Kotwali Thana, Distt. Gaya -823001( Bihar)",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Gaya",
+            "district": "Gaya",
+            "ifsc": "JSFB0004786",
+            "office": "Gaya",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 233
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,MOTHERS BUILDING,OPP.UNION BANK,MACHUATOLI,PATNA - 800004,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "DANAPUR",
+            "district": "PATNA",
+            "ifsc": "JSFB0004787",
+            "office": "DANAPUR",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 234
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR PROPERTY NO 1 SSSS CHOWK,MAJITHA ROAD,AMRITSAR,143001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "AMRITSAR",
+            "district": "AMRITSAR",
+            "ifsc": "JSFB0004789",
+            "office": "MAJITHA ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 235
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SCO 188-189,SECTOR - 17,HUDA,TEHSIL -JAGADHRI,YAMUNA NAGAR,HARYANA135003",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "YAMUNANAGAR",
+            "district": "YAMUNANAGAR",
+            "ifsc": "JSFB0004791",
+            "office": "YAMUNANAGAR",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 236
+    },
+    {
+        "fields": {
+            "address": "GROUND& 1ST FLOOR,BISWAL SALES CORPORATION,BEARING PLOT NO.1221,1222,3057,1232,2592,CHAPULIA BYPASS,OPP.FEDERAL BANK,TAHSIL,BHADRAK756101",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BHADRAK",
+            "district": "BHADRAK",
+            "ifsc": "JSFB0004792",
+            "office": "BHADRAK",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 237
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,PROPERTY NO.C-3,HASTSAL VILLAGE,MILAP NAGAR COLONY,NEW DELHI,110059,INDIA",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "JSFB0004793",
+            "office": "UTTAM NAGAR",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 238
+    },
+    {
+        "fields": {
+            "address": "House No. 21, Village: Baliyar Kalan, PO. Sheoraj Majra, Tehsil and District: Rewari, Haryana. 123401",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rewari",
+            "district": "Rewari",
+            "ifsc": "JSFB0004794",
+            "office": "Baliar Kalan",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 239
+    },
+    {
+        "fields": {
+            "address": "MR. RAMCHANDRA, No. 127,  VPO Village Gothra Tappakhori,Rewari Haryana, 123101",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rewari",
+            "district": "Rewari",
+            "ifsc": "JSFB0004795",
+            "office": "Gothara Tappa Khori",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 240
+    },
+    {
+        "fields": {
+            "address": "House No. 56, Village: Kamalpur, PO. Mundanwas, Tehsil: Bawal and District: Rewari, Haryana. 123501",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rohtak",
+            "district": "Rewari",
+            "ifsc": "JSFB0004796",
+            "office": "Kamalpur",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 241
+    },
+    {
+        "fields": {
+            "address": "House No. 351, Village Humayunpur, Tehsil and District: Rohtak,Haryana, 124406",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rohtak",
+            "district": "Rohtak",
+            "ifsc": "JSFB0004797",
+            "office": "Humayunpur",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 242
+    },
+    {
+        "fields": {
+            "address": "H.NO.117, VILLAGE SHIMLI, TEHSIL ROHTAK, DISTRICT ROHTAK, HARYANA, 124001",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Rohtak",
+            "district": "Rohtak",
+            "ifsc": "JSFB0004798",
+            "office": "Shimli",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 243
+    },
+    {
+        "fields": {
+            "address": "#571,sy.no.17,situated at katriguppe layout,30th main road,Near devegowda petrol bunk,Banshankari 3rd stage,Next to south indian bank,Banashankari,Bangalore-560085",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Bangalore",
+            "district": "Bangalore",
+            "ifsc": "JSFB0004800",
+            "office": "Banashankari",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 244
+    },
+    {
+        "fields": {
+            "address": "PROPERTY NO.17/19,SAI VASAVI ENCLAVE,1ST FLOOR,NEAR TO BSNL OFFICE,NEAR TO BSNL OFFICE,OPP.HOSUR BUS STAND,HOSUR TALUKKRISHNAGIRI635109",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "HOSUR",
+            "district": "HOSUR",
+            "ifsc": "JSFB0004802",
+            "office": "HOSUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 245
+    },
+    {
+        "fields": {
+            "address": "No.28/36,South West Boag road,T.Nagar,Chennai-600017",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Chennai",
+            "district": "Chennai",
+            "ifsc": "JSFB0004804",
+            "office": "T Nagar",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 246
+    },
+    {
+        "fields": {
+            "address": "No.19 34, No.117\u252c\u00e1 Shasthri Road, Ram Nagar, Coimbatore,Tamilnadu - 641009",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "Coimbatore",
+            "district": "Coimbatore",
+            "ifsc": "JSFB0004805",
+            "office": "Ramnagar",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 247
+    },
+    {
+        "fields": {
+            "address": "NO.36,KOMAKODI NAGAR MAIN ROAD,THAMBARAM TK,KANCHIPURAM DISTRICT,PALLIKARANAI,CHENNAI600100",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "JSFB0004806",
+            "office": "PALLIKARANAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 248
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR SHOP NO 115&116,NEAR NAMASKAR CIRCLE OPP SWAMI NARAYAN TEMPLE,SHAHIBAUG",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "AHMADABAD",
+            "district": "SHAHIBAUG",
+            "ifsc": "JSFB0004807",
+            "office": "SHAHIBAUG",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 249
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR NO 101,102,103 SHIV SUNDRAM COMPLEX,OPP AXIS BANK,DEEP CHAMBERS CROSS ROAD MANJALPUR",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "MANJALPUR",
+            "ifsc": "JSFB0004808",
+            "office": "MANJALPUR",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 250
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,KHASRA NO.591/2,592/2 AND 592/1/1,FARID NAGAR,BATHINDA ROAD,RAMOURA PHUL,RAMPURAPHUL-BATHINDA-2,151103",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BATHINDA",
+            "district": "RAMPURA PHUL",
+            "ifsc": "JSFB0004810",
+            "office": "RAMPURA PHUL",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 251
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,NEW S.F.NO.823/11OLD S.F.NO.86,PERUNDURAI VILLAGE,PERUNDURAI,ERODE,PIN-638052",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "JSFB0004811",
+            "office": "PERUNDORAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 252
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR PALLADAM VILLAGE WARD NO 13,DOOR NO 10B3 B-NEW EXTENSION STREET,PALLADAM,COIMBATORE - 641664",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "JSFB0004812",
+            "office": "PALLADAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 253
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,BALAJI TRADE CENTER,WARD NO.6,NEAR KOTAK MAHINDRA BANK,AB ROAD RAU,INDORE,MP-453331",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "JSFB0004815",
+            "office": "RAU",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 254
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,RISHABH HEIGHTS,KH.NO.74/107 AND 74/149,WARD NO.19,SANDEV NAGAR,KOURIN BHATA,AMBEDKAR CHOWK,RAJNANDGAON ( C.G. ) 491441",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "RAJNANDGAON",
+            "district": "RAJNANDGAON",
+            "ifsc": "JSFB0004816",
+            "office": "AMBEDKAR CHOWK-RAJNANDANGAON",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 255
+    },
+    {
+        "fields": {
+            "address": "GRAMAPANCHAYAT OFFICE,NATUGAON,PO-CHAMPATIPUR,DIST-NAYAGARH-752068",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "NAYAGARH",
+            "district": "NAYAGARH",
+            "ifsc": "JSFB0004823",
+            "office": "NATUGAON",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 256
+    },
+    {
+        "fields": {
+            "address": "RAJIV GANDHI SEVA SADAN,SRIPURSHOTTAMPUR,DELANGA,PURI-752016",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "PURI",
+            "district": "PURI",
+            "ifsc": "JSFB0004824",
+            "office": "SRIPURUSOTTAMPUR",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 257
+    },
+    {
+        "fields": {
+            "address": "GRAMAPANCHAYAT OFFICE,GODABANDHAGODA,THANA-RAMACHANDRAPUR,PO-GODABANDHAGODA,DIST-KEONJHAR-758043",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KEONJHAR",
+            "district": "KEONJHAR",
+            "ifsc": "JSFB0004825",
+            "office": "GADABANDHOGODA",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 258
+    },
+    {
+        "fields": {
+            "address": "RAJIV GANDHI SEVA SADAN,ORABARASINGH,AT/PO-RAYPUR,JANKIA,DIST-KHORDA-752020",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KHURDA",
+            "district": "KHURDA",
+            "ifsc": "JSFB0004826",
+            "office": "ORABARSINGH",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 259
+    },
+    {
+        "fields": {
+            "address": "GRAMAPANCHAYAT OFFICE,BORABHATA,DIST-KALAHANDI-766036",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BHAWANIPATNA",
+            "district": "BHAWANIPATNA",
+            "ifsc": "JSFB0004827",
+            "office": "BORABHATTA",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 260
+    },
+    {
+        "fields": {
+            "address": "BANDHANBAHALI THELKOMUNDA,BOLANGIR DISTRICT,ODHISA-767016",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "PUITALA",
+            "district": "PUITALA",
+            "ifsc": "JSFB0005001",
+            "office": "BAHALPADAR",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 261
+    },
+    {
+        "fields": {
+            "address": "PO BUBEL,BOLANGIR,ODISHA-767002",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BOLANGIR",
+            "district": "BOLANGIR",
+            "ifsc": "JSFB0005002",
+            "office": "ANKRIAPADAR",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 262
+    },
+    {
+        "fields": {
+            "address": "205,PANCHMUKHI ELIGANCE,KAMLAPARK SOCIETY,AUDA LAKE,BOPAL,DPS SCHOOL,BOPAL,AHMEDABAD",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "JSFB0005003",
+            "office": "NANDOLI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 263
+    },
+    {
+        "fields": {
+            "address": "BELIM VAS,SHELA,AHMEDABAD,GUJARAT-380058",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SANAND",
+            "district": "SANAND",
+            "ifsc": "JSFB0005004",
+            "office": "SHELA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 264
+    },
+    {
+        "fields": {
+            "address": "37-B,MAHAMMADI PARK SOCIETY,OPP.C.N.ARTS COLLEGE,KADI,MAHESANA,GUJARAT-382715",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KADI",
+            "district": "KADI",
+            "ifsc": "JSFB0005005",
+            "office": "CHADASNA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 265
+    },
+    {
+        "fields": {
+            "address": "VANKARVAS,PO VIROCHAN NAGAR,KADI,CHANDRASAN,GUJARAT-382170",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KADI",
+            "district": "KADI",
+            "ifsc": "JSFB0005006",
+            "office": "CHANDRASAN",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 266
+    },
+    {
+        "fields": {
+            "address": "H-NO 419,KAZITOLA,CHOWK ARA POST,BHOJPUR DISTRICT,BIHAR-802301",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BHOJPUR",
+            "district": "BHOJPUR",
+            "ifsc": "JSFB0005007",
+            "office": "BAKRI",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 267
+    },
+    {
+        "fields": {
+            "address": "BIKANER",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "JSFB0005008",
+            "office": "BIRAMSAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 268
+    },
+    {
+        "fields": {
+            "address": "NARSING SAGAR ROAD,SARVODAY BASTI,VISHAL NAGAR,BIKANER,RAJASTHAN-334004",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "JSFB0005009",
+            "office": "PEMASAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 269
+    },
+    {
+        "fields": {
+            "address": "ABHAYAPUR,BIRAKESHARPUR,PURI,ODISHA-752020",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "KANAS",
+            "district": "PURI",
+            "ifsc": "JSFB0005010",
+            "office": "DIBYASINGHPUR",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 270
+    },
+    {
+        "fields": {
+            "address": "SUNDARGARH,JAMUNA,ODHISA-770014",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SUBDEGA",
+            "district": "SUBDEGA",
+            "ifsc": "JSFB0005011",
+            "office": "JAMUNA",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 271
+    },
+    {
+        "fields": {
+            "address": "WARD NO-02,LUNKARANASAR,JAITPURA,BIKANER,RAJASTHAN",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "JSFB0005012",
+            "office": "SABNIYAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 272
+    },
+    {
+        "fields": {
+            "address": "S/O BRAJ BHUSAN SINGH,MIRPURJUARA,MIRPUR JUARA,SARAN-841216",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "SARAN",
+            "district": "SARAN",
+            "ifsc": "JSFB0005013",
+            "office": "KUTUBPUR",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 273
+    },
+    {
+        "fields": {
+            "address": "S/O RAMCHANDRA CHAUDHARY,O150,WARD NO 09,BACHHWARA,DADUPUR,BHAGWANPUR,BEGUSARAI-851111",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BEGUSARAI",
+            "district": "BEGUSARAI",
+            "ifsc": "JSFB0005014",
+            "office": "DADUPUR",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 274
+    },
+    {
+        "fields": {
+            "address": "S/O SURESH SHARMA,UPHRAUL,VAISALI-844504",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "VAISHALI",
+            "district": "VAISHALI",
+            "ifsc": "JSFB0005015",
+            "office": "DAULATPUR",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 275
+    },
+    {
+        "fields": {
+            "address": "5TH FLOOR, CEEJAY HOUSE, DR.ANNIE BESANT ROAD,MARKANDESHWAR NAGAR,SHIV SAGAR ESTATE,WORLI, MUMBAI-400018",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "UBI",
+            "ifsc": "JSFB00TR001",
+            "office": "TREASURY",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 276
+    },
+    {
+        "fields": {
+            "address": "DIVYASREE CHAMBERS 11,OSHAUGHNESSY ROAD,5TH FLOOR,A WING OFF LANGFORD ROAD, BENGALURU - 560 025",
+            "bank_name": "JANA SMALL FINANCE BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "JSFB0CPC002",
+            "office": "CPC",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 277
+    }
+]

@@ -1,0 +1,527 @@
+[
+    {
+        "fields": {
+            "address": "RDC A-20 RAJNAGAR GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000001",
+            "office": "RTGS-HO",
+            "phone": "2824884",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "PAKKA BAGH HAPUR GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000011",
+            "office": "HAPUR MAIN",
+            "phone": "2335980",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "79,WRIGHTGANJ GHANTAGHAR GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000021",
+            "office": "WRIGHTGANJ",
+            "phone": "2851608",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD MODINAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MODINAGAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000031",
+            "office": "MODINAGAR MAIN",
+            "phone": "2243013",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "HAPUR GARH ROAD BUXAR SIMBHOLI",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "SIMBHAOLI",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000041",
+            "office": "SIMBHAOLI",
+            "phone": "223046",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "CHANDI ROAD PILKHUWA GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "PILKHUWA",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000051",
+            "office": "PILKHUWA",
+            "phone": "2322242",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "G.T ROAD DADRI NEAR BUS STAND GBN",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "DADRI",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "ZSBL0000061",
+            "office": "DADRI",
+            "phone": "2662643",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE BUS STAND GARH GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GARH MUKTESHWAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000071",
+            "office": "GARH MUKTESHWAR",
+            "phone": "221133",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "4 BY 54,RAJENDRA NAGAR,SAHIBABAD",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "SAHIBABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000081",
+            "office": "SAHIBABAD",
+            "phone": "2630432",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "KASBA ROAD MURAD NAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MURADNAGAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000091",
+            "office": "MURADNAGAR",
+            "phone": "2261101",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "CHMBRS OF COMRS,CHANDI ROD HPR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000101",
+            "office": "HAPUR EVE",
+            "phone": "2335286",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "NAVEEN MANDI HAPUR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000111",
+            "office": "HAPUR MANDI",
+            "phone": "2334483",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "RDC A 20 RAJNAGAR GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000121",
+            "office": "RAJNAGAR",
+            "phone": "2704884",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "A 53,RAMPURI SURYA NAGAR GHAZIABAD",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000131",
+            "office": "SURYA NAGAR",
+            "phone": "2640463",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "CITY BOARD HAPUR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000141",
+            "office": "HAPUR NAGAR P",
+            "phone": "2310479",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "HAPUR GARH ROAD,KUCHESHAR ROAD CHAUPLA",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "CHOPLA",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000151",
+            "office": "KUCHESHAR",
+            "phone": "2342032",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "VILL.DHAULANA",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "DHAULANA",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000161",
+            "office": "DHAULANA",
+            "phone": "2376512",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "VILL.AND PO.BAHADURGARH",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "BAHADURGARH",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000171",
+            "office": "BAHADURGARH",
+            "phone": "225625",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "HAPUR GARH ROAD BABUGARH",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "BABUGARH",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000181",
+            "office": "BABUGARH",
+            "phone": "2338037",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "VILL.AND PO.MUDAFRA",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MUJAFRA",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000191",
+            "office": "MUDAFRA",
+            "phone": "2345028",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD CHHAPRAULA G.B.NAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "BISRAKH",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "ZSBL0000201",
+            "office": "CHHAPRAULA",
+            "phone": "2673250",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "A 31 SEC 26 GAUTAMBUDHA NAGAR GAUTAMNAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "ZSBL0000211",
+            "office": "SECTOR 31 NOIDA",
+            "phone": "2455863",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD MODINAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MODINAGAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000221",
+            "office": "MODINAGAR EVE",
+            "phone": "2242821",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "MALIWARA GHAZIABAD",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "SEHANI",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000231",
+            "office": "SEHANI",
+            "phone": "2792928",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD SURAJPIUR GB NAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "SURAJPUR",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "ZSBL0000241",
+            "office": "SURAJPUR",
+            "phone": "2560063",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "MURADNAGAR ROAD SURANA",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "RAVLI",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000251",
+            "office": "SURANA",
+            "phone": "9212540922",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "UPBHOKTA SAHKARI SANGH FRGNJ ROD HAPUR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000261",
+            "office": "FREEGANJ HAPUR",
+            "phone": "2305299",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "MEERUT ROAD GOVINDPURI",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MODINAGAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000271",
+            "office": "GOVINDPURI",
+            "phone": "2251013",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "E 3,SITY PUBLIC SCHOOL SEC 61 GAUTAMBUDHA NAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "ZSBL0000281",
+            "office": "SECTOR 61 MAMURA",
+            "phone": "4264325",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "RDC A 20 RAJNAGAR GZB",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000291",
+            "office": "HO BRANCH",
+            "phone": "2704884",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "BHOJPUR MODINAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "MODINAGAR",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000301",
+            "office": "BHOJPUR",
+            "phone": "2279771",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "B 1,SEC 12 PRATAP VIHAR VIJAYNAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000311",
+            "office": "VIJAYNAGAR",
+            "phone": "2844362",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "KHODA COLONY KHODA",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000321",
+            "office": "KHORA",
+            "phone": "6490707",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "VILL.RAVLIKALA,MURAD NAGAR",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "RAVLI",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000331",
+            "office": "RAVALI KALA",
+            "phone": "9457701786",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "HANSH AUTO MOBILS LONI GHAZIABAD",
+            "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+            "branch": "",
+            "city": "LONI",
+            "district": "GHAZIABAD",
+            "ifsc": "ZSBL0000341",
+            "office": "LONI",
+            "phone": "2600906",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    }
+]

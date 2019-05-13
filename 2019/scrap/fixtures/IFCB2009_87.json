@@ -1,0 +1,2102 @@
+[
+    {
+        "fields": {
+            "address": "KENDRIYA HINDI SANSTHAN ROAD, KHANDARI CROSSING, AGRA (UP)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "AGRA",
+            "district": "AGRA",
+            "ifsc": "NTBL0AGR072",
+            "office": "AGRA",
+            "phone": "2530642",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "L.R.SAH ROAD, ALMORA (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "NTBL0ALM002",
+            "office": "ALMORA",
+            "phone": "230030",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "LOWER MALL ROAD ,ALMORA, 263601, UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "NTBL0ALM082",
+            "office": "LOWAR MALL",
+            "phone": "231701",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "02 OPPOSITE NEW GRAIN MARKET,HISSAR ROAD AMBALA",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "AMBALA",
+            "district": "AMBALA",
+            "ifsc": "NTBL0AMB115",
+            "office": "AMBALA",
+            "phone": "2202300",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "VIKRANT SHOPING COMPLEX,CHOWK BAZAR, BAGESHWAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAGESHWAR",
+            "district": "BAGESHWAR",
+            "ifsc": "NTBL0BAG012",
+            "office": "BAGESHWAR",
+            "phone": "220023",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "NAINITAL ROAD, BAHERI 243201, BAREILLY (U.P)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAHERI",
+            "district": "BAREILLY",
+            "ifsc": "NTBL0BAH018",
+            "office": "BAHERI",
+            "phone": "222054",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "BAILPARAO , NAINITAL (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAILPARAO",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0BAI019",
+            "office": "BAILPARAO",
+            "phone": "286023",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "FCA-54 NEAR IDBI BANK, SHYAM COLONY, BALLABHGARH-FARIDABAD, HARYANA-121004",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "NTBL0BAL132",
+            "office": "BALLABHGARH",
+            "phone": "2216181",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "VIA-DOFAR, BANLEKH BAGESHWAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "AKSORA",
+            "district": "BAGESHWAR",
+            "ifsc": "NTBL0BAN035",
+            "office": "BANLEKH",
+            "phone": "212240",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD, PETROL PUMP COMPOUND, KHATIMA ROAD, BANBASA, DISTT CHAMPAWAT, UTTARAKHAND - 262309",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BANBASA",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0BAN127",
+            "office": "BANBASA",
+            "phone": "263020",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "46, CIVIL LINES, BAREILLY 243001 (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAREILLY",
+            "district": "BAREILLY",
+            "ifsc": "NTBL0BAR022",
+            "office": "BAREILLY",
+            "phone": "2578520",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "KICHHA-SITARGANJ ROAD, VILL & PO-BARA",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BARA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0BAR029",
+            "office": "BARA",
+            "phone": "236622",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PRABHAT PUBLIC HIGHER SECONDARY SCHOOL, PRABHAT NAGAR, BAREILLY (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAREILLY",
+            "district": "BAREILLY",
+            "ifsc": "NTBL0BAR075",
+            "office": "PRABHAT NAGAR , BAREILLY",
+            "phone": "2320137",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "RAMRAJ ROAD, BAZPUR, U.S.NAGAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0BAZ009",
+            "office": "BAZPUR",
+            "phone": "281050",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "MAHESHPUR, DORAHA, BAZPUR ROAD ,BAZPUR -262401",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0BAZ104",
+            "office": "MAHESHPURA, DORAHA",
+            "phone": "282050",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "ANAND FARM,VILLAGE BAHHANI BAZPUR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDAM SINGH NAGAR",
+            "ifsc": "NTBL0BAZ117",
+            "office": "BARHANI BAZPUR",
+            "phone": "8881803830",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD, VILL VIKRAMPUR, KESHOWALA MOD, BAZPUR,DIST UDHAM SING NAGAR,UTTARAKHAND 262401",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0BAZ136",
+            "office": "VIKRAMPUR",
+            "phone": "281250",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "MALLITAL, BHIMTAL (NAINITAL)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BHIMTAL",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0BHI010",
+            "office": "BHIMTAL",
+            "phone": "247037",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "BHINGRARA , CHAMPAWAT (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BHINGARARA",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0BHI043",
+            "office": "BHINGARARA",
+            "phone": "8650943835",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "BHOOR MAHOLIA,SITARGANJ ROAD ,KHATIMA 262308 (U S NAGAR) UTTRANCHAL",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KHATIMA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0BHO084",
+            "office": "BHOOR MAHOLIA",
+            "phone": "250755",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RAMGHAR ROAD ,BHOWALI-263132 (NAINITAL) UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BHOWALI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0BHO090",
+            "office": "BHOWALI",
+            "phone": "220086",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD ANKUR HEIGHTS, CIVIL LINES, KIRATPUR ROAD, BIJNOR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BIJNOR",
+            "district": "BIJNOR",
+            "ifsc": "NTBL0BIJ119",
+            "office": "BIJNOR",
+            "phone": "263636",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "PATEL NAGAR,OPP SHIV BAGH MANDI, BILASPUR -244921(RAMPUR) UP",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "RAMPUR",
+            "ifsc": "NTBL0BIL081",
+            "office": "BILASPUR",
+            "phone": "241200",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "171, CIVIL LINES, BULANDSHAHAR (U.P.) 203001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BULANDSHAHR",
+            "district": "BULANDSHAHR",
+            "ifsc": "NTBL0BUL048",
+            "office": "BULANDSHAHR",
+            "phone": "287319",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "CHAMPAWAT (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "CHAMPAWAT",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0CHA015",
+            "office": "CHAMPAWAT",
+            "phone": "230027",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "CHAUMEL BAZAR, CHAUMEL, CHAMPAWAT (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "CHAUMEL",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0CHA042",
+            "office": "CHAUMEL",
+            "phone": "251003",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "58, RAJURA ROAD, NEAR MADHUBAN HOTEL, DEHRADUN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0DEH057",
+            "office": "DEHRADUN",
+            "phone": "2741852",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "6/1 HARIDWAR ROAD, NEAR CITY BANQUET - 248001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0DEH100",
+            "office": "HARIDWAR ROAD DEHRADUN",
+            "phone": "2520872",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "2 PRITY ENCLAVE SAHARANPUR ROAD, DEHRADUN-248171",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0DEH101",
+            "office": "SAHARANPUR ROAD DEHRADUN",
+            "phone": "2640780",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR COMMERCIAL COMPLEX,49 INDIRA NAGAR,VASANT VIHAR,DEHRADUN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "NTBL0DEH113",
+            "office": "VASANT VIHAR DEHRADUN",
+            "phone": "2760787",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "CHAGAN LAL BUILDING CHAKRATA ROAD DEHRADUN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "NTBL0DEH118",
+            "office": "CHAKRATA ROAD DEHRADUN",
+            "phone": "2770960",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "33, P.K.ROAD, ABOVE LAHORE FURNITURE MART, NEW DELHI 01",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL032",
+            "office": "PANCHKUIAN ROAD",
+            "phone": "23583606",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "40-41, PUSHPA MARKET, CENTRAL MARKET, LAJPATNAGAR, NEW DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL038",
+            "office": "LAJPATNAGAR, DELHI",
+            "phone": "29834225",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "BH-8, BHAGWATI BHAWAN, SHALIMARBAGH, DELHI 110052",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL039",
+            "office": "SHALIMARBAGH, DELHI",
+            "phone": "27495914",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "8/33, TILAKNAGAR, NEW DELHI 110018",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL040",
+            "office": "TILAKNAGAR,  DELHI",
+            "phone": "25987475",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "P-37, PANDAV  NAGAR, PATPARGANJ, DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL047",
+            "office": "PATPARGANJ",
+            "phone": "22792984",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SATABDI HOUSE, PLOTNO. 3, COMMERCIAL COMPLEX, ROHIT KUNJ, WEST PITAMPURA 110034, DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL049",
+            "office": "PITAMPURA , DELHI",
+            "phone": "27351524",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "VIVEKANAND INTERNATIONAL SCHOOL, I.P. EXTENSION, DELHI 92",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL053",
+            "office": "I.P. EXTENSION, DELHI",
+            "phone": "22232950",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "29/2, VIJAY ENCLAVE, PALAM DABRI ROAD, DWARKA, DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KAPAS  HERA",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL059",
+            "office": "PAPPANKALAN(DWARKA)",
+            "phone": "25055006",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "4, JAGRITI ENCLAVE, VIKAS MARG, NEW DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL065",
+            "office": "VIKAS MARG, DELHI",
+            "phone": "22161187",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE EAST APPARTMENTS, MAYUR VIHAR, PHASE -A, DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL066",
+            "office": "NEW ASHOK NAGAR , DELHI",
+            "phone": "22622800",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "E-4, SECTOR 16, JAIN BHARTI MODEL, PUBLIC SCHOOL, ROHINI, DELHI 110085",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL073",
+            "office": "ROHINI, SECTOR-16",
+            "phone": "27899070",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "M - 123GURU HARIKISHAN NAGAR (ROHTAK ROAD), PASCHIM VIHAR NEW DELHI - 87",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL076",
+            "office": "ROHTAK ROAD, DELHI",
+            "phone": "25289112",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "SERVICE BRANCH, 33 - PANCHKUIAN ROADNEW DELHI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL080",
+            "office": "RTGS-HO",
+            "phone": "23583068",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & POST: SURHERA (NAZAFGARH), NEW DELHI-110043",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL105",
+            "office": "SURHERA NAJAFGARH",
+            "phone": "28013040",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "DELHI DWARKA",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL110",
+            "office": "DWARKA NEW DELHI",
+            "phone": "2280300",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "C 16,DILSHAD COLONY,DILSHAD GARDEN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "NTBL0DEL114",
+            "office": "DILSHAD GARDEN",
+            "phone": "22354601",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "JAGDAMBA MARKET, DEVIDHURA (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DEVIDHURA",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0DEV030",
+            "office": "DEVIDHURA",
+            "phone": "238023",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "TEHSIL ROAD ,DHARCHULA, (PITHORAGHAR) UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DHARCHULA",
+            "district": "PITHORAGARH",
+            "ifsc": "NTBL0DHA085",
+            "office": "DHARCHULA",
+            "phone": "222995",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD OM HOUSE NEAR PIR TEACHERS COLONY NH 74 DHAMPUR DIST BIJNOR UP",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DHAMPUR",
+            "district": "BIJNOR",
+            "ifsc": "NTBL0DHA123",
+            "office": "DHAMPUR BIJNOR",
+            "phone": "221200",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "MAIN BAZAR, GULARBHOJ ROAD, DINESHPUR RUDRAPUR US NAGAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0DIN139",
+            "office": "DINESHPUR",
+            "phone": "7456001347",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "RISHIKESH HARDWAR ROAD,MAIN MARKET,DOIWALA,DEHRADOON",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "DOIWALA",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0DOI092",
+            "office": "DOIWALA",
+            "phone": "2691258",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "RANIKHET BADRINATH MARG, DWARAHAT- 263563",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "NTBL0DWA096",
+            "office": "DWARAHAT",
+            "phone": "244335",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "DSS-10, HUDA MARKET, SHOPPING CENTRE, SECTOR-29, FARIDABAD (HARYANA)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "NTBL0FAR064",
+            "office": "FARIDABAD",
+            "phone": "2504526",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "MAIN MARKET, BAREILLY-LUCKNOW ROAD, FARIDPUR, DISTT - BAREILLY, (U.P.) - 243503",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "BAREILLY",
+            "district": "BAREILLY",
+            "ifsc": "NTBL0FAR106",
+            "office": "FARIDPUR",
+            "phone": "231050",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "GROVER MARKET, NEAR GURU NANAK MARKET, GADARPUR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GADARPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0GAD052",
+            "office": "GADARPUR",
+            "phone": "271994",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "35, ADDL. SIGANI GATE SCHEME, NEAR NAVYUG MARKET, GHAZIABAD, (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "NTBL0GHA026",
+            "office": "GHAZIABAD",
+            "phone": "2790880",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "SECTOR 4, PLOTNO. 3, COMMERCIAL CENTRE, MAIN ROAD, VAISHALI (GHAZIABAD) U.P.",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "NTBL0GHA054",
+            "office": "VAISHALI",
+            "phone": "2779118",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "D-10, SANJAY NAGAR, GHAZIABAD, UP",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "NTBL0GHA126",
+            "office": "SANJAY NAGAR GHAZIABAD",
+            "phone": "2783042",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "32, MILE STONE, CHANDER NAGAR 1, DELHI-JAIPUR BY PASS, GURGAON, HARYANA 122 001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "NTBL0GUR051",
+            "office": "GURGAON",
+            "phone": "2302184",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD, SHOP NO 5, WELDONE TECH PARK, SOHNA ROAD GURUGRAM, HARYANA - 122018",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "GURUGRAM",
+            "district": "GURUGRAM",
+            "ifsc": "NTBL0GUR133",
+            "office": "SOHNA ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "RAILWAY BAZAR , HALDWANI (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL003",
+            "office": "HALDWANI",
+            "phone": "250201",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "PILIKOTHI, NEAR KAPIL DHARAMSHALA, KALADHUNGI ROAD, HALDWANI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL050",
+            "office": "KALADHUNGI ROAD",
+            "phone": "263008",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "MBPG COLLEGE, NAINITAL ROAD, HALDWANI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL056",
+            "office": "MBPG COLLEGE",
+            "phone": "225769",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "P.O.-MANPUR WEST, DEWAL CHAUR, HALDWANI",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL071",
+            "office": "RAMPUR RAOD",
+            "phone": "234440",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "ARJUNPUR GORPARAO CHAURAHA,GORAPARAO, HALDWANI, NAINITAL  263139",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL103",
+            "office": "ARJUNPUR",
+            "phone": "232111",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "LAHORIASAAL MALLA, KATGHARIA, HALDWANI - 263139",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL108",
+            "office": "LOHARIASAAL MALLA (HALDWANI)\u252c\u00e1",
+            "phone": "260341",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "VILLAGE NARSINGH TALLA P.O.KAMALUWAGANJA,KAMALUWAGANJA ROAD,HALDWANI 263139",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL111",
+            "office": "KAMALUWAGANJA",
+            "phone": "238600",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "VILLAGE- JAGATPUR, PO- KUNWARPUR, GAULAPAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL121",
+            "office": "JAGATPUR GAULAPAR HDW",
+            "phone": "240004",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD KRISHNA KUNJ OPP INSPIRATION SCHOOL DAMUADHUNGA BANDOBASTI KATHGODAM",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0HAL124",
+            "office": "DAMUADHUNGA BANDOBASTI",
+            "phone": "228833",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "SRI CHETAN JYOTI ASHRAM, BHUPATWALA, HARIDWAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HARDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "NTBL0HAR067",
+            "office": "HARDWAR",
+            "phone": "262319",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "45, VIVEK VIHAR, RANIPUR MORE 249407",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "HARDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "NTBL0HAR097",
+            "office": "JAWALAPUR HARIDWAR",
+            "phone": "220765",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "A-78/79, SUBHASH NAGAR, SHOPPING CENTRE, BANI PARK, JAIPUR (RAJ.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "NTBL0JAI069",
+            "office": "JAIPUR",
+            "phone": "2281557",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "D-67 GOVIND MARG RAJA PARK, ICE FACTORY, ADARSH NAGAR, JAIPUR RAJASTHAN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "NTBL0JAI125",
+            "office": "RAJA PARK JAIPUR",
+            "phone": "2617978",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, OPP.POLICE STATION, JASPUR 246412",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "JASPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0JAS046",
+            "office": "JASPUR",
+            "phone": "222102",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "SHAILAIJA GUEST HOUSE,NEAR GMVN REST HOUSE,JOSHI MATH (CHAMOLI) UTTARKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "JOSHIMATH",
+            "district": "CHAMOLI",
+            "ifsc": "NTBL0JOS086",
+            "office": "JOSHIMATH",
+            "phone": "221130",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "KANPUR BRANCH, 24/43, BIRHANA ROAD, KANPUR 208001 (UTTAR PRADESH)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KANPUR CITY",
+            "district": "KANPUR",
+            "ifsc": "NTBL0KAN023",
+            "office": "KANPUR",
+            "phone": "2312491",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "HIG-7 NEAR KABIR HOSPITAL KANPUR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KANPUR",
+            "district": "KANPUR",
+            "ifsc": "NTBL0KAN109",
+            "office": "BARRA KANPUR",
+            "phone": "232111",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "489 OM NAGAR NORTH SARDHANA ROAD OPP CANARA BANK, KANKHERA MEERUT, UP ( 250001 )",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MEERUT",
+            "district": "MEERUT",
+            "ifsc": "NTBL0KAN130",
+            "office": "KANKAR KHERA MEERUT",
+            "phone": "2630777",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "NEW THSIL ROAD ,KAPKOAT,263632, UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KAPKOTE",
+            "district": "BAGESHWAR",
+            "ifsc": "NTBL0KAP089",
+            "office": "KAPKOTE",
+            "phone": "253472",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "GEETA BHAWAN, KARNPRAYAG,UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KARAN PRAYAG",
+            "district": "CHAMOLI",
+            "ifsc": "NTBL0KAR087",
+            "office": "KARAN PRAYAG",
+            "phone": "244811",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "S.C.O.31,32,33 MUGHAL CANAL MARKET",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KARNAL",
+            "district": "KARNAL",
+            "ifsc": "NTBL0KAR116",
+            "office": "KARNAL",
+            "phone": "2535060",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "RAMNAGAR ROAD, KASHIPUR, NAINITAL (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KASHIPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0KAS006",
+            "office": "KASHIPUR",
+            "phone": "274060",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LIMITED, ASHOKA COMPLEX, MORADABAD ROAD, NEAR BANK OF BARODA, KASHIPUR, DISTT-UDHAM SINGH NAGAR, UTTARAKHNAD-244713",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KASHIPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0KAS129",
+            "office": "MORADABAD ROAD",
+            "phone": "274878",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "RUDRAPUR ROAD, KICHHA, U.S.NAGAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KICHHA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0KIC008",
+            "office": "KICHHA",
+            "phone": "264371",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "KILAKHERA, U.S.NAGAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KILAKHERA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0KIL014",
+            "office": "KILAKHERA",
+            "phone": "241130",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "BADRINATH ROAD, KOTDWAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "KOTDWARA",
+            "district": "GARHWAL",
+            "ifsc": "NTBL0KOT055",
+            "office": "KOTDWAR",
+            "phone": "227443",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "MAIN CHAURAHA, KAUSHIK TOWER, NH-8, KOTPUTLI, DISTT.- JAIPUR, RAJASTHAN",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "NTBL0KOT107",
+            "office": "KOTPUTLI",
+            "phone": "222251",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "NAINITAL ROAD,LALKUAN, NAINITAL (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LALKUAN",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0LAL016",
+            "office": "LALKUAN",
+            "phone": "268024",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "BAJRANG BALLI WARD, HANUMAN MANDIR ROAD, LOHAGHAT 262523, CHAMPAWAT",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LOHAGHAT",
+            "district": "CHAMPAWAT",
+            "ifsc": "NTBL0LOH013",
+            "office": "LOHAGHAT",
+            "phone": "234539",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "T.N.ROAD , LUCKNOW 226001 (U.P)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC017",
+            "office": "LUCKNOW",
+            "phone": "2281981",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "M-6, GOLE MARKET, MAHANAGAR, LUCKNOW",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC041",
+            "office": "MAHANAGAR, LUCKNOW",
+            "phone": "2387281",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "SECTOR-H, LDA COLONY, ASHIANA, LUCKNOW 226012 (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC058",
+            "office": "ASHIANA, LUCKNOW",
+            "phone": "2421167",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "NEAR M.D.SHUKLA COLLEGE, NADAN MAHAL ROAD, LUCKNOW",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC068",
+            "office": "NADAN MAHAL ROAD, LUCKNOW",
+            "phone": "2262468",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "BHATIA PLAZA, 1/8 VIRAM KHANDPTARAKAR PURAM CROSSING GOMTI NAGAR  LUCKNOW (U.P)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC079",
+            "office": "GOMTI NAGAR  LUCKNOW",
+            "phone": "2397040",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "I I M ROAD LUCKNOW",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "NTBL0LUC112",
+            "office": "I I M ROAD-LUCKNOW",
+            "phone": "4002008",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, CITY PLAZA COMM. COMPLEX, BEGUM BRIDGE ROAD, MEERUT",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MEERUT",
+            "district": "MEERUT",
+            "ifsc": "NTBL0MEE027",
+            "office": "MEERUT",
+            "phone": "2420817",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "C-36, GANDHI NAGAR, MORADABAD 244001 (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MORADABAD",
+            "district": "MORADABAD",
+            "ifsc": "NTBL0MOR031",
+            "office": "MORADABAD",
+            "phone": "2491906",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LIMITED, A-6, DEENDAYAL NAGAR, PHASE-1, SAI MANDIR ROAD, KANTH ROAD- MORADABAD, DISTT -MORADABAD, UTTAR PRADESH-244001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MORADABAD",
+            "district": "MORADABAD",
+            "ifsc": "NTBL0MOR131",
+            "office": "KANTH ROAD",
+            "phone": "2454155",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8 LANDOUR BAZAR, CLOCK TOWER - 248179",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MUSSOORIE",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0MUS102",
+            "office": "MUSSORIE",
+            "phone": "2630120",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "COURT ROAD, MUZAFFARNAGAR 251001 (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "MUZAFFARNAGAR",
+            "district": "MUZAFFARNAGAR",
+            "ifsc": "NTBL0MUZ033",
+            "office": "MUZAFFARNAGAR",
+            "phone": "2408143",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "NAGLA, U.S.NAGAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAGLA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0NAG024",
+            "office": "NAGLA",
+            "phone": "233390",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LIMITED, NEAR BANK OF INDIA, STATION ROAD, NAGINA, DISTT BIJNORE, UTTAR PRADESH 246762",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAGINA",
+            "district": "BIJNORE",
+            "ifsc": "NTBL0NAG135",
+            "office": "NAGINA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "G.B.PANT ROAD, NAINITAL 263 002 (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0NAI001",
+            "office": "NAINITAL",
+            "phone": "235754",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "HOTEL EMPIRE ANNEXE, TALLITAL, NAINITAL 263001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0NAI037",
+            "office": "TALLITAL",
+            "phone": "235414",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "7 OAKS BUILDING MALLITAL NAINITAL",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0NAI999",
+            "office": "HEAD OFFICE",
+            "phone": "231951",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE GURUDWARA, NAJIBABAD 246763, DISTT. BIJNOR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NAJIBABAD",
+            "district": "BIJNOR",
+            "ifsc": "NTBL0NAJ061",
+            "office": "NAJIBABAD",
+            "phone": "225336",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "SHRI GYAN GANGA BHAWAN, NEAR POLICE STATION, PO NANAKMATTA, TEHSIL SITARGANJ, PIN 262311",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SITARGANJ",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0NAN140",
+            "office": "NANAKMATTA",
+            "phone": "7456001348",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "F&G 3 , OPEN MARKET,COLLEGE ROAD ,BHOURARI,NEW TEHRI (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "TEHRI",
+            "district": "TEHRI GARHWAL",
+            "ifsc": "NTBL0NEW088",
+            "office": "NEW TEHRI",
+            "phone": "232193",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "B-1/31, SECTOR -50,NOIDA, DISTT. GOTAM BUDH NAGAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "NTBL0NOI063",
+            "office": "NOIDA (SECTOR50)",
+            "phone": "2500544",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "C-29,SECTOR-2,NOIDA",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "NTBL0NOI070",
+            "office": "NOIDA SECTOR-2",
+            "phone": "2512379",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LTD, GREATER NOIDA, SRI JAI BALAJI EDUCATIONAL TRUST, NS-48, SEC-P4, BUILDERS AREA, NEAR JALVAYU VIHAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "NTBL0NOI120",
+            "office": "GREATER NOIDA",
+            "phone": "2390013",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "H.N. 22, MORANAULA ROAD, PAHARPANI (NAINITAL)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PAHARPANI",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0PAH028",
+            "office": "PAHARPANI",
+            "phone": "282232",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE MAHARAJA HOTEL, GT ROAD, NATIONAL HIGHWAYNO.1, PANIPAT (HARYANA)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PANIPAT",
+            "district": "PANIPAT",
+            "ifsc": "NTBL0PAN062",
+            "office": "PANIPAT",
+            "phone": "2672436",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "DISTRICT COURT COMPOND, P O SIDCUL,PANTNAGAR,US NAGAR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PANTNAGAR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0PAN091",
+            "office": "PANTNAGAR",
+            "phone": "244022",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "UPPAR BAZAR , PAURI-246001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PAURI",
+            "district": "GARHWAL",
+            "ifsc": "NTBL0PAU098",
+            "office": "PAURI",
+            "phone": "221500",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD, PILIBHIT 262001 (U.P.)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PILIBHIT",
+            "district": "PILIBHIT",
+            "ifsc": "NTBL0PIL021",
+            "office": "PILIBHIT",
+            "phone": "255414",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "SILTHAM, PITHORAGARH (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "PITHORAGARH",
+            "district": "PITHORAGARH",
+            "ifsc": "NTBL0PIT007",
+            "office": "PITHORAGARH",
+            "phone": "225562",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "HOTEL SHUBHAM PALACE , MAIN MARKET, KUMOLA ROAD, PUROLA, DIST UTTARKASHI, UTTRAKHAND-249185",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "UTTARKASHI",
+            "district": "UTTARKASHI",
+            "ifsc": "NTBL0PUR128",
+            "office": "PUROLA",
+            "phone": "7055101787",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "BAJAJA LINE RAMNAGAR, NAINITAL (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RAMNAGAR",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0RAM005",
+            "office": "RAMNAGAR",
+            "phone": "251333",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "MALLA RAMGARH - 263 132, NAINITAL",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RAMGARH",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0RAM011",
+            "office": "RAMGARH",
+            "phone": "281145",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "HITHIKHANA CHAUHARA,NEAR LIC, RAMPUR (UP)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RAMPUR",
+            "district": "RAMPUR",
+            "ifsc": "NTBL0RAM036",
+            "office": "RAMPUR",
+            "phone": "2352434",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "RANIKHET, ALMORA (UTTARAKHAND) 266 139",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RANIKHET",
+            "district": "ALMORA",
+            "ifsc": "NTBL0RAN004",
+            "office": "RANIKHET",
+            "phone": "220637",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "NAINITAL ROAD, RANIBAGH, NAINITAL (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RANIBAGH",
+            "district": "NAINITAL",
+            "ifsc": "NTBL0RAN034",
+            "office": "RANIBAGH",
+            "phone": "267589",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "46/1 TILAK ROAD RISHIKESH- 249201",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RISHIKESH",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0RIS099",
+            "office": "RISHIKESH",
+            "phone": "2435867",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "00/1, NEHRU NAGAR  OPPOSITE SUB JAIL ROORKEE UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "ROORKEE",
+            "district": "HARIDWAR",
+            "ifsc": "NTBL0ROO077",
+            "office": "ROORKEE",
+            "phone": "269966",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "D1/D2/VII B, CIVIL LINES, NEAR JANTA INTER COLLEGE, RUDRAPUR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0RUD045",
+            "office": "RUDRAPUR",
+            "phone": "243370",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "NEAR NEW BUS STAND, RUDRAPRAYAG, DISTT. RUDRAPRAYA",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPRAYAG",
+            "district": "RUDRAPRAYAG",
+            "ifsc": "NTBL0RUD093",
+            "office": "RUDRAPRAYAG",
+            "phone": "233125",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "THE NAINITAL BANK LIMITED, BHURA RANI ROAD, NEAR HP GAS AGENCY, BHURA RANI, RUDARPUR, UDHAM SINGH NAGAR, UTTARAKHAND, 263153",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RUDARPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0RUD134",
+            "office": "BHURARANI",
+            "phone": "0",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "MANJULIKAY GARDEN, BAJORIA ROAD, SAHARANPUR",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "NTBL0SAH060",
+            "office": "SAHARANPUR",
+            "phone": "2716661",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "VILLAGE SATWAN BUJURG PO SHAHBAZNAGAR TEHSIL SADAR DISTT SHAHJAHANPUR UTTAR PRADESH 242001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SHAHBAZNAGAR",
+            "district": "SHAHJAHANPUR",
+            "ifsc": "NTBL0SAT138",
+            "office": "SATWAN BUJURG",
+            "phone": "7456001338",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "235, SADAR BAZAR, SHAHJAHANPUR (U.P)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SHAHJAHANPUR",
+            "district": "SHAHJAHANPUR",
+            "ifsc": "NTBL0SHA020",
+            "office": "SHAHJAHANPUR",
+            "phone": "223457",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "VILLAGE KOTHA SHIMLA PISTORE POST OFFICE LALPUR RUDRAPUR DISTT UDHAM SINGH NAGAR UTTARAKHAND 263148",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "RUDRAPUR",
+            "ifsc": "NTBL0SHI137",
+            "office": "SHIMLA PISTORE",
+            "phone": "8218660441",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "14, JAIL ROAD, NEAR HUSSAIN ALI CHAURAHA, SITAPUR (U.P.) 261001",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SITAPUR",
+            "district": "SITAPUR",
+            "ifsc": "NTBL0SIT025",
+            "office": "SITAPUR",
+            "phone": "270919",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "NEAR SBI, KICHHA ROAD,SITARGANJ,UDHAMSINGH NAGAR  244901 (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SITARGANJ",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0SIT094",
+            "office": "SITARGANJ",
+            "phone": "253372",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "SRIPURBICHWA , U.S.NAGAR (UTTARAKHAND)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SRIPUR BICHWA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0SRI044",
+            "office": "SRIPUR BICHWA",
+            "phone": "236058",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "NEAR DALMIA DHARAMSHALA, BADRINATH ROAD,SRINAGAR,246174 UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "SRINAGAR",
+            "district": "GARHWAL",
+            "ifsc": "NTBL0SRI083",
+            "office": "SRINAGAR",
+            "phone": "250843",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "501/2 G.B. PANT MARG, TANAKPUR-263309, (UTTRANCHAL)",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "TANAKPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "NTBL0TAN095",
+            "office": "TANAKPUR",
+            "phone": "265478",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "VILLAGE TAPOVAN BADRINATH ROAD OPP GANGA HOTEL PO SARAI RISHIKESH",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "RISHIKESH",
+            "district": "RISHIKESH",
+            "ifsc": "NTBL0TAP122",
+            "office": "TAPOVAN- RISHIKESH",
+            "phone": "2437600",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, NEAR SBI  VIKAS NAGAR - 248 198  DEHRADOON UTTARAKHAND",
+            "bank_name": "THE NAINITAL BANK LIMITED",
+            "branch": "",
+            "city": "VIKAS NAGAR",
+            "district": "DEHRA DUN",
+            "ifsc": "NTBL0VIK078",
+            "office": "VIKAS NAGAR",
+            "phone": "253070",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    }
+]

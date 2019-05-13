@@ -1,0 +1,212 @@
+[
+    {
+        "fields": {
+            "address": "GIRIRAJ APARTMENT,GROUND FLOOR,FACTORY LANE,OPP M K HIGH SCHOOL,BORIVALI WEST,MUMBAI 400092",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000002",
+            "office": "BORIVLI",
+            "phone": "28338001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "MAMATA,GROUND AND 1ST FLOOR,WAMANRAO SAWANT ROAD,DAHISAR EAST,MUMBAI 400068",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000003",
+            "office": "DAHISAR",
+            "phone": "28283549",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "LAXMI VILLA,1ST FLOOR,M G ROAD,OPP KALA HANUMAN MANDIR,KANDIVLI WEST,MUMBAI 400067",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000004",
+            "office": "KANDIVLI",
+            "phone": "28619971",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "SHIVHARA,1ST FLOOR,KASTURBA ROAD NO 2,BORIVLI EAST,MUMBAI 400066",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000005",
+            "office": "BORIVLI",
+            "phone": "28705312",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "101 BY 102,SHVNERI,CHARKOP,KANDIVLI WEST,MUMBAI 400067",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000006",
+            "office": "CHARKOP",
+            "phone": "28685082",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,SITA NIWAS,PLOT NO.94,LIBERTY GARDEN ROAD NO.1,MALAD WEST MUMBAI 400 064",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000007",
+            "office": "MALAD",
+            "phone": "28825060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "ROHAN ARCADE,GROUND FLOOR,DATTANI ROAD,THAKUR COMPLEX,KANDIVLI EAST,MUMBAI 400101",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000008",
+            "office": "KANDIVLI",
+            "phone": "28843838",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "JANKI AVENUE,PHATAK ROAD,OPP.RELIANCE COSOMER CARE CENTER,BHAYANDER EAST,THANE 401105",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000009",
+            "office": "BHAYANDER",
+            "phone": "28171618",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "ACME AMAY CO.OP.HSG.SOC LTD,VISHVESHWAR ROAD,GOREGAON EAST,MUMABI 400063",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000010",
+            "office": "GOREGAON",
+            "phone": "29276242",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 75,104,M G ROAD,GOREGAON WEST,MUMBAI 400 062",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000011",
+            "office": "GOREGAON",
+            "phone": "28712103",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "JEEVAN SANGAM CO OP HOUSING SOCIETY LTD,FINAL PLOT NO 36,JAIPRAKASH ROAD,ANDHERI WEST,MUMBAI 400 058",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0000012",
+            "office": "ANDHERI",
+            "phone": "26206985",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 11, GROUND FLOOR, VIRAR NAND DHAM CO OPERATIVE HOUSING LTD, VIVA COLLEGE ROAD, NEAR RAM NAGAR, VIRAR WEST, THANE 401303.",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "JASB0000013",
+            "office": "VIRAR WEST",
+            "phone": "6012411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 4,5 AND 6, JAY KHODIYAR BHAVAN, AMBADI ROAD, VASAI WEST, THANE 401202.",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "JASB0000014",
+            "office": "VASAI WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "GIRIRAJ APARTMENT,FACTORY LANE,OPP M K HIGH SCHOOL,BORIVALI WEST,MUMBAI 400092",
+            "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "JASB0999999",
+            "office": "TREASURY",
+            "phone": "28333522",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    }
+]

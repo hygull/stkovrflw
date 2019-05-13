@@ -1,0 +1,6 @@
+107--107--'IFSC'--./csvs/IFCB2009_244.csv
+114--114--'BANK'--./csvs/IFCB2009_130.csv
+122--122--'BANK'--./csvs/IFCB2009_54.csv
+138--138--'IFSC'--./csvs/IFCB2009_242.csv
+153--153--'IFSC'--./csvs/IFCB2009_241.csv
+208--208--'IFSC'--./csvs/IFCB2009_221.csv

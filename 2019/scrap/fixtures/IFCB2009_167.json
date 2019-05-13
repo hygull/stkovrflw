@@ -1,0 +1,317 @@
+[
+    {
+        "fields": {
+            "address": "HASTI SAHAKAR DEEP STATION AREA DONDAICHA DIST DHULE Pin 425408",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "DONDAICHA",
+            "district": "DHULE",
+            "ifsc": "HCBL0000101",
+            "office": "MAIN BRANCH",
+            "phone": "8888891644",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "Near S.T. Stand, Shindkheda,   Dist   Dhule  Pin  425408",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SHINDKHEDA",
+            "district": "DHULE",
+            "ifsc": "HCBL0000102",
+            "office": "SHINDKHEDA",
+            "phone": "8888891646",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "Bazar Peth, Songir,   Dist   Dhule   Pin  424309",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SONGIR",
+            "district": "DHULE",
+            "ifsc": "HCBL0000103",
+            "office": "SONGIR",
+            "phone": "8888891647",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "Near Ahilyabai Vihir, Hat Darwaja, Tal. Dist   Nandurbar Pin 425412",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "NANDURBAR",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000104",
+            "office": "NANDURBAR",
+            "phone": "8888891648",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "Satana Road, Pimpalner, Tal.Sakri,  Dist   Dhule  Pin  424306",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "PIMPALNER",
+            "district": "DHULE",
+            "ifsc": "HCBL0000105",
+            "office": "PIMPALNER",
+            "phone": "8888891649",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "3,Panzara Colony, Sakri,  Dist   Dhule  Pin  424308",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SAKRI",
+            "district": "DHULE",
+            "ifsc": "HCBL0000106",
+            "office": "SAKRI",
+            "phone": "8888891640",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "1350, Lane No 5th, Nagarpatti ,Dhule. Pin  424001",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "HCBL0000107",
+            "office": "DHULE",
+            "phone": "8888891651",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "Main Road, Akkalkuwa,  Dist   Nandurbar  Pin  425415",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "AKKALKUWA",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000108",
+            "office": "AKKALKUWA",
+            "phone": "8888891652",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "Bohari Market, Near Bus Stand, Tal.Shahada  Dist  Nandurbar  Pin  425409",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SHAHADA",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000109",
+            "office": "SHAHADA",
+            "phone": "8888891653",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "Market Yard, Jalgaon  Dist   Jalgaon   Pin  425001",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "HCBL0000111",
+            "office": "MARKET YARD JALGAON",
+            "phone": "8888891654",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "237,Aadarsh Nagar,Near Gayatri Mandir, Shirpur  Dist   Dhule  Pin  425405",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SHIRPUR",
+            "district": "DHULE",
+            "ifsc": "HCBL0000112",
+            "office": "SHIRPUR",
+            "phone": "8888891655",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "Limdiwadi, Navapur pin",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "NAVAPUR",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000113",
+            "office": "NAVAPUR",
+            "phone": "8888891656",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "Ghat Road, Chalisgaon",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "CHALISGAON",
+            "district": "JALGAON",
+            "ifsc": "HCBL0000114",
+            "office": "CHALISGAON",
+            "phone": "8888843755",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "New Plot, Bank Street , AMALNER Dist Jalgaon",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "AMALNER",
+            "district": "JALGAON",
+            "ifsc": "HCBL0000115",
+            "office": "AMALNER",
+            "phone": "8888843715",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "Near Uma Hospital SATANA dist Nasik",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "SATANA",
+            "district": "NASIK",
+            "ifsc": "HCBL0000116",
+            "office": "SATANA",
+            "phone": "8888843722",
+            "state": "MH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD TALODA DIST NANDURBAR MH PIN 425413",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "TALODA",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000117",
+            "office": "TALODA",
+            "phone": "233002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "GIRIVIHAR GATE NANDURBAR 425412",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "NANDURBAR",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000118",
+            "office": "GIRIVIHAR NANDURBAR",
+            "phone": "233118",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 65 SARASWATI COLONY GONDUR ROAD DEOUPR DHULE 424002",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "HCBL0000119",
+            "office": "DEOPUR DHULE",
+            "phone": "244306",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "VISARWADI TAL NAVAPUR DIS NANDURBAR 425426",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "VISARWADI",
+            "district": "NANDURBAR",
+            "ifsc": "HCBL0000120",
+            "office": "VISARWADI BRANCH",
+            "phone": "240306",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "NEAR DR.HEMANT PATIL NIJAMPUR TALUKA-SAKRI SIST-DHULE 424305",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "NIJAMPUR",
+            "district": "DHULE",
+            "ifsc": "HCBL0000121",
+            "office": "NIJAMPUR BRANCH",
+            "phone": "7447437805",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "THE HASTI CO-OP BANK LTD PAUD PHATA KOTHARUD PUNE -411038",
+            "bank_name": "THE HASTI COOP BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "HCBL0000122",
+            "office": "PUNE BRANCH",
+            "phone": "7447437806",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "201,RAHEJA CENTRE, FPJ MARG, NARIMAN POINT, MUMBAI",
+            "bank_name": "HSBC BANK OMAN SAOG",
+            "branch": "RTGS-HO",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "OIBA0000001",
+            "office": "",
+            "phone": "22856987",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

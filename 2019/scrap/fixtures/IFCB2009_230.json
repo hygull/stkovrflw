@@ -1,0 +1,212 @@
+[
+    {
+        "fields": {
+            "address": "MRUDGANDH AZAD ROAD, PARNAKA, VASAI (WEST), PALGHAR, MAHARASHTRA 401201",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000001",
+            "office": "RTGS-HO",
+            "phone": "2308898",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "1 ST FLOOR,SHIVALIK APT,VASAI",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000002",
+            "office": "VASAI",
+            "phone": "2307076",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "RGTNPZTPRNPW",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NALASOPARA",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000003",
+            "office": "NILEMORE",
+            "phone": "2402245",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "MDGSCLRGRTLSE",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NALASOPARA",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000004",
+            "office": "TULINJ",
+            "phone": "2432286",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "RNHO.RLNH(E",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BHAYANDER",
+            "district": "THANE",
+            "ifsc": "VASJ0000005",
+            "office": "BHAYANDER",
+            "phone": "28042153",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "CBSICSVSI()",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VASAI E",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000006",
+            "office": "NAVGHAR",
+            "phone": "2392531",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "HNRN.RLNBR()",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000007",
+            "office": "BOISAR",
+            "phone": "653397",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "UURTOOI(E)",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DAHISAR E",
+            "district": "MUMBAI",
+            "ifsc": "VASJ0000008",
+            "office": "DAHISAR",
+            "phone": "28966790",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "FHGIZVI(E",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VIRAR E",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000009",
+            "office": "VIRAR E",
+            "phone": "2520134",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "BGBOEMOIEDUW",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DAHANU RD",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000010",
+            "office": "DAHANU ROAD",
+            "phone": "220220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "/0,AKEA,AA,AAW",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VASAI RD W",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000011",
+            "office": "VASAI ROAD W",
+            "phone": "2349911",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "TFLHDHNT()",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VIRAR W",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000012",
+            "office": "VIRAR W",
+            "phone": "2500202",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "0DL-L.LIEST()",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BHAYANDER W",
+            "district": "THANE",
+            "ifsc": "VASJ0000013",
+            "office": "BHYANDER W",
+            "phone": "28152154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "AUULX,SHN121,AL()",
+            "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PALGHAR W",
+            "district": "PALGHAR",
+            "ifsc": "VASJ0000014",
+            "office": "PALGHAR",
+            "phone": "250555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    }
+]

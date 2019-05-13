@@ -1,0 +1,47 @@
+[
+    {
+        "fields": {
+            "address": "201,RAHEJA CENTER, FREE PRESS MARG, NARIMAN POINT,MUMBAI 400021",
+            "bank_name": "DOHA BANK",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "DOHB0000002",
+            "office": "",
+            "phone": "",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, GOLDEN PLAZA, CHITTOOR ROAD, OPP MYMOON THEATER, ERNAKULAM, KOCHI 682018",
+            "bank_name": "DOHA BANK",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "DOHB0000003",
+            "office": "",
+            "phone": "",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "JAWAD ISPAHANI COMPLEX, 9, ANNASALAI, CHENNAI-600002, TAMILNADU",
+            "bank_name": "DOHA BANK",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "DOHB0000004",
+            "office": "",
+            "phone": "",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    }
+]

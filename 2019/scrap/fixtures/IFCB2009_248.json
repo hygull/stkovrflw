@@ -1,0 +1,302 @@
+[
+    {
+        "fields": {
+            "address": "KERALA STATE CO-OPERATIVE AGRL. & RURAL DEVELOPMENT BANK BUILDING,M.G.ROAD,STATUE",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000002",
+            "office": "STATUE",
+            "phone": "2478040",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "KERALA LAW ACADEMY CAMPUS,PEROORKADA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000003",
+            "office": "PEROORKADA, THIRUVANANTHAPURAM",
+            "phone": "2432734",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "KERALA STATE CO-OPERATIVE BANK BUILDING,MEDICAL COLLEGE JUNCTION",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000004",
+            "office": "MEDICAL COLLEGE",
+            "phone": "2442155",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "KAIRALI PLAZA,KARAMANA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000005",
+            "office": "KARAMANA",
+            "phone": "2343831",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "CENTRE PLAZA,VAZHUTHACAUD",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000006",
+            "office": "VAZHUTHACAUD",
+            "phone": "2325083",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "CO-OPERATIVE COLLEGE BUILDING,MUDAVANMUGAL,POOJAPPURA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000007",
+            "office": "POOJAPPURA",
+            "phone": "2341503",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SATHYASAI NIVAS,KAITHAMUKKU JUNCTION",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000008",
+            "office": "KAITHAMUKKU JUNCTION",
+            "phone": "2471361",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "CHITTOOR ROAD,PULLEPADI JN,P.B.NO.3759,KOCHI",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "KSBK0000009",
+            "office": "ERNAKULAM",
+            "phone": "2373508",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "EMMATTY TOWERS,ST.THOMAS ROAD,THRISSUR",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "KSBK0000010",
+            "office": "THRISSUR",
+            "phone": "2420740",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "MOULANA MOHAMMED ALI ROAD,P.B.NO.556,KOZHIKODE",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KSBK0000011",
+            "office": "KOZHIKODE",
+            "phone": "2703498",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "STATE CO-OPERATIVE BANK BUILDING,M.G.ROAD,OVERBRIDGE JUNCTION",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000012",
+            "office": "OVERBRIDGE",
+            "phone": "2461904",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "WATER AUTHORITY BUILDING,ANANDAVALLEESWARAM,KOLLAM",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "KSBK0000013",
+            "office": "KOLLAM",
+            "phone": "2792665",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SOUTH BAZAR,TALAP,KANNUR",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "KANNUR",
+            "district": "KANNUR",
+            "ifsc": "KSBK0000014",
+            "office": "KANNUR",
+            "phone": "2701236",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "MEDICAL COLLEGE JUNCTION,M.O.WARD,ALAPPUZHA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "ALAPPUZHA",
+            "district": "ALAPPUZHA",
+            "ifsc": "KSBK0000015",
+            "office": "ALAPPUZHA",
+            "phone": "2263740",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "NOORANI JUNCTION,PALAKKAD",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "KSBK0000016",
+            "office": "PALAKKAD",
+            "phone": "2531064",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "VILAVINAL RAJ TOWERS,COLLEGE ROAD,PATHANAMTHITTA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "KSBK0000017",
+            "office": "PATHANAMTHITTA",
+            "phone": "2224837",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "CHERUTHONI JN,IDUKKI",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "IDUKKI",
+            "district": "IDUKKI",
+            "ifsc": "KSBK0000018",
+            "office": "IDUKKI",
+            "phone": "2235592",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "PARRY SHOPPING COMPLEX,KOTTAPADI,DOWN HILL P.O,MALAPPURAM",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "MALAPPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "KSBK0000019",
+            "office": "MALAPPURAM",
+            "phone": "2736802",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "NEAR LEO HOSPITAL,KALPETTA",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "WAYANAD",
+            "district": "WAYANAD",
+            "ifsc": "KSBK0000020",
+            "office": "WAYANAD",
+            "phone": "204799",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "THE KERALA STATE CO-OPERATIVE BANK LTD,PB NO 6515,COBANK TOWERS,PALAYAM,THIRUVANANTHAPURAM,KERALA.PIN 695 033",
+            "bank_name": "The Kerala State Co Operative Bank Ltd",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "KSBK0000101",
+            "office": "PALAYAM",
+            "phone": "2547260",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    }
+]

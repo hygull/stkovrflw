@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "AIRTEL CENTER, PLAT NO-16, UDYOG VIHAR, PHASE-4, GURGOAN",
+            "bank_name": "AIRTEL PAYMENTS BANK LIMITED",
+            "branch": "",
+            "city": "GURGOAN",
+            "district": "GURGOAN",
+            "ifsc": "AIRP0000001",
+            "office": "AIRTEL PAYMENTS BRANCH",
+            "phone": "4222222",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

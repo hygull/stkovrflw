@@ -1,0 +1,2072 @@
+[
+    {
+        "fields": {
+            "address": "MADHUKAR BHAVAN, ROAD NO.16, WAGLE ESTATE,THANE(W)-400604.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000001",
+            "office": "RTGS-HO",
+            "phone": "25838500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "MADHUMALATI, VEER SAVARKAR PATH, THANE(W)-400604",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000002",
+            "office": "MAIN BRANCH",
+            "phone": "25340916",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "ANANT LAXMI CHAMBERS, SHIVAJI NAGAR, OFF GOKHALE ROAD, THANE(W)-400602",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000003",
+            "office": "NAUPADA BRANCH",
+            "phone": "25403354",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.10 & 11, TIP TOP PLAZA, L.B.S.ROAD, WAGLE ESTATE, THANE(W)-400602",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000004",
+            "office": "WAGLE ESTATE BRANCH",
+            "phone": "25821442",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "79 K'VILLA, RABODI, NEAR HOLY CROSS HIGH SCHOOL, THANE(W)-400601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000005",
+            "office": "RABODI K'VILLA BRANCH",
+            "phone": "25344247",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "BHIVARA BHAVAN, TILAK NAGAR, THANE(E)-400603",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000006",
+            "office": "THANE (EAST) BRANCH",
+            "phone": "25324330",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "LAXMI INDUSTRIAL COMPLEX, VARTAK NAGAR NAKA, THANE(W)-400606",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000007",
+            "office": "VARTAK NAGAR BRANCH",
+            "phone": "25856507",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "VEERUL, NEAR TMC, PANCH PAKHADI, THANE(W)-400602",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000008",
+            "office": "PANCHPAKHADI BRANCH",
+            "phone": "25362011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GOLDEN HEAVENS APT., NEAR PRATAP CINEMA, POKHRAN RD. NO.1, THANE(W)-400601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000009",
+            "office": "KHOPAT BRANCH",
+            "phone": "25472766",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "DATTATRAY MAHARAJ SOCIETY, PLOT NO.6, SECTOR 8, AIROLI, NAVI MUMBAI-400705",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NEW BOMBAY",
+            "district": "THANE",
+            "ifsc": "TJSB0000010",
+            "office": "AIROLI BRANCH",
+            "phone": "27695551",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "SHREENAGAR HOUSING COMPLEX, MARKET BUILDING, SHREENAGAR, THANE(W)-400604",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000011",
+            "office": "SHREE NAGAR BRANCH",
+            "phone": "25833949",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "1, APSARA BLDG., PLOT NO.51, SEC .17, VASHI, NAVI MUMBAI-400703",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NEW BOMBAY",
+            "district": "THANE",
+            "ifsc": "TJSB0000012",
+            "office": "VASHI BRANCH",
+            "phone": "27894143",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "MARUTI ASHISH, OFF J.N ROAD, OPP APNA BAZAR, MULUND(W)-400080",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000013",
+            "office": "MULUND(W) BRANCH",
+            "phone": "25690019",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "JAGRUTI APARTMENT, SHIVAJI CHOWK, KALWA NAKA, KALWA(W)-400605",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000014",
+            "office": "KALWA BRANCH",
+            "phone": "25304954",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "ARIHANT DARSHAN', JUNCTION OF TILAK ROAD & HINGWALA LANE, GHATKOPAR(E),MUMBAI-400077",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000015",
+            "office": "GHATKOPAR BRANCH",
+            "phone": "25119597",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "2, 'SUYOJIT SANKUL', NEAR RAJIV GANDHI BHAVAN, SHARANPUR ROAD,NASHIK-422002",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "TJSB0000016",
+            "office": "SHARANPUR ROAD NASHIK BRANCH",
+            "phone": "2575856",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "1264/1, WRANGLER PARANJPE ROAD, JANGALI MAHARAJ ROAD, DECCAN GYMKHANA, PUNE-411004",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000017",
+            "office": "DECCAN GYMKHANA BRANCH",
+            "phone": "25536316",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, AT PUNE VIDYARTHI GRIHA PREMISES, NEAR KHAJINA VIHIR, 1786 SADASHIV PETH, PUNE- 411030",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000018",
+            "office": "SADASHIVPETH BRANCH",
+            "phone": "24447771",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "VISHWANATH BHAVAN, CORNER OF P.M.ROAD AND NEHRU ROAD, VILE-PARLE(E), MUMBAI-400057",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000019",
+            "office": "VILE PARLE BRANCH",
+            "phone": "26165323",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHRIDHAR NIWAS, DR.RAJENDRA PRASAD ROAD, DOMBIVALI EAST-421201",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "TJSB0000020",
+            "office": "DOMBIVALI(E) BRANCH",
+            "phone": "2860388",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "1-3, GROUND FLOOR, NAV-RACHANA VIDYALAYA COMPLEX, SAVARKAR NAGAR, GANGAPUR ROAD, NASHIK-422013",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "TJSB0000021",
+            "office": "GANGAPUR ROAD BRANCH",
+            "phone": "2340007",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "GALA NO.1-4, BLDG. NO.1, GREEN ACRES, PHASE 2, OFF GHODBUNDER ROAD, KAVESAR, THANE-400607",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000022",
+            "office": "GHODBUNDER ROAD BRANCH",
+            "phone": "25971231",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "MASKAR HOUSE, NAIK WADI, OPP. HERITAGE HOTEL, AAREY ROAD, GOREGAON(E), MUMBAI-400063",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000023",
+            "office": "GOREGAON(E) BRANCH",
+            "phone": "29275012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "MAHAVIDEH, CHANDAVARKAR RD., NR SHAMAPRASAD MUKHERJEE UDYAN, BORIVALI(W), MUMBAI-400092",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000024",
+            "office": "BORIVALI(W) BRANCH",
+            "phone": "28922239",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "SINHGAD TECHNICAL EDUCATION SOCIETY, NARHE CAMPUS, 49/2A 53/2 A.P NARHE, PUNE-411041",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NARHE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000025",
+            "office": "NARHE",
+            "phone": "24391188",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.10-A, KASTURBA HOUSING SOCIETY, VISHRANTWADI, ALANDI ROAD, YERAWADA, PUNE-411015",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000028",
+            "office": "YERWADA BRANCH",
+            "phone": "26693782",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "DHANANJAY, MARKET ROAD, OPP. JALARAM MANDIR, ALANDI DEVACHI, TAL. KHED, DIST. PUNE \u252c\u00fb 421105",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "ALANDI",
+            "district": "PUNE",
+            "ifsc": "TJSB0000029",
+            "office": "AALANDI BRANCH",
+            "phone": "232074",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "F M CITY CENTRE,  GROUND  FLOOR , PUNE MUMBAI ROAD, CHINCHWAD STATION, PUNE-411019",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000031",
+            "office": "CHINCHWAD BRANCH",
+            "phone": "27477081",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "THOMAS BAZAR, KIWALE, DEHUROAD, PUNE-412101",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DEHU ROAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000032",
+            "office": "DEHU ROAD BRANCH",
+            "phone": "27671039",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "680/1,GAVHANE INDUSTRIAL ESTATE, LANDEWADI, BHOSARI,  PUNE-411026",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000034",
+            "office": "BHOSARI BRANCH",
+            "phone": "27129676",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "PLOT N0. 119, CITY SURVEY NO. 1467, OPP. TO JAIHIND SCHOOL, JAMTANI CHOWK, PIMPRI, PUNE-411017",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000035",
+            "office": "PIMPRI BRANCH",
+            "phone": "27451325",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "692 / 693, CHAPALKAR CENTRE, CHAPALKAR COLONY, MARKET YARD ROAD, PUNE-411037",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000036",
+            "office": "MARKET YARD BRANCH",
+            "phone": "24273626",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "HRISHIKESH CHAMBERS, CHAKAN - TALEGAON ROAD, CHAKAN, TALUKA KHED, PUNE - 410 501",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "TJSB0000037",
+            "office": "CHAKAN BRANCH",
+            "phone": "252494",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "ATHARVA, CTS 4565, RATNADEEP COLONY, WAKAD ROAD, NEAR DANGE CHOWK, THERGAON, PUNE-411033",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000038",
+            "office": "THERGAON BRANCH",
+            "phone": "27272312",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "SECTOR 27/A, PLOT NO. 449, OPP. ASHOKA BUS STOP, PRADHIKARAN, NIGDI, PUNE- 411 044",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NIGDI",
+            "district": "PUNE",
+            "ifsc": "TJSB0000040",
+            "office": "NIGDI BRANCH",
+            "phone": "27650366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "HB 3, SHOP NO.304, AJMERA HOUSING COMPLEX, PIMPARI, PUNE-411018",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000042",
+            "office": "MASULKAR COLONY BRANCH",
+            "phone": "27469135",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.-G/P-83, \"G\" BLOCK, PIMPRI INDUSTRIAL AREA,VILLAGE AKURDI, OPP. ROTARY CLUB, SAMBHAJI NAGAR, PUNE 411019",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000044",
+            "office": "SAMBHAJI NAGAR BRANCH",
+            "phone": "27469132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "KESHAR PLAZA, KMATWADE SHIVAR, AMBAD, NASHIK-422010",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "TJSB0000045",
+            "office": "AMBAD BRANCH",
+            "phone": "2374352",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.G/8, GROUND FLOOR, EMERALD PLAZA, BLOCK NO.4, HIRANANDANI MEADOWS, CHITALSAR, MANPADA, THANE WEST-400610",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000046",
+            "office": "POKHARAN ROAD NO.2 BRANCH",
+            "phone": "21715060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.9,10 &11, GR. FLOOR, JANGID COMPLEX, ANJUR PHATA, KAMATGHAR, BHIWANDI, PIN-421302",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TJSB0000047",
+            "office": "BHIWANDI BRANCH",
+            "phone": "262216",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "1, ANIRUDH, BUILDING NO. 27, BHARAT KHAND CO.OP. HOUSING SOCIETY, TILAK NAGAR, CHEMBUR, MUMBAI-400089",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000048",
+            "office": "CHEMBUR BRANCH",
+            "phone": "25272735",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "2, GROUND FLOOR, RIDDHI SIDDHI RESIDENCY CHS, SECTOR 3, NEW PANVEL-410206",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "TJSB0000049",
+            "office": "NEW PANVEL BRANCH",
+            "phone": "27467088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "1, JP AVENUE, OPP. ATMAVISHWAS CHS, PATHARDI ROAD, INDIRA NAGAR, NASHIK-422009",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "TJSB0000050",
+            "office": "INDIRA NAGAR BRANCH",
+            "phone": "2323701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 6, PLOT NO.135, RDP-7, CHARKOP MITASU CHS, SECTOR 6, CHARKOP, KANDIVALI(W), MUMBAI-400067",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000051",
+            "office": "CHARKOP BRANCH",
+            "phone": "28672080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "SIVSADAN, HOUSE NO.681, WARD NO.6, C T S NO.4940,4943, VILLAGE AMBARNATH, SHIVAJI CHOWK, DIST: THANE",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000052",
+            "office": "AMBARNATH BRANCH",
+            "phone": "2604259",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,2 & B3, SHAKTI SHOPPING ARCHADE CHS, LBS MARG, BHANDUP(W), MUMBAI-400078",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000053",
+            "office": "BHANDUP BRANCH",
+            "phone": "25965513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "OSTWAL ORBIT, VILLAGE NAVGHAR,MIRA-BHAYANDER ROAD,MIRA ROAD (EAST)-401 107",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "TJSB0000054",
+            "office": "MIRA ROAD BRANCH",
+            "phone": "28105663",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "1&2, LAHOTI COMPLEX, KARANJE, RADHIKA ROAD, SATARA-415001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "TJSB0000055",
+            "office": "SATARA BRANCH",
+            "phone": "230153",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.9, S.NO.11, A-WING, KENT EXCLUSIVE, SHIVAKAR ROAD, WANAWADI, PUNE-411 040",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "HADAPSAR",
+            "district": "PUNE",
+            "ifsc": "TJSB0000056",
+            "office": "WANAWADI BRANCH",
+            "phone": "26861262",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "B-JUNCTION, BEHIND KARVE STATUE, KOTHRUD PUNE- 411039",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000057",
+            "office": "KOTHRUD BRANCH",
+            "phone": "25397020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "SHREYA PALACE, SHOP NO.4 TO 7, SANTOSHI MATA MANDIR ROAD, KALYAN(W), PIN-421301",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TJSB0000058",
+            "office": "KALYAN BRANCH",
+            "phone": "2204345",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "SAVITA NIWAS, BAZAR PETH ROAD, KULGAON, BADLAPUR(W), THANE-421503",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TJSB0000059",
+            "office": "BADLAPUR BRANCH",
+            "phone": "2672121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "YEOLA HOUSE,RAVIVAR KARANJA NASHIK 422001.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "TJSB0000070",
+            "office": "RAVIVAR KARANJA BRANCH",
+            "phone": "2310521",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "AJAY MITTAL INDUSTRIAL PREMISES CO.OP. SOC. LTD, C T S NO. 1637, VILLAGE MAROL,ANDHERI-KURLA ROAD ANDHERI(E), MUMBAI-400059",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000071",
+            "office": "ANDHERI(EAST) BRANCH",
+            "phone": "28590136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.8, MAHAVIR RATAN, SECTOR NO.12, VASHI, NAVI MUMBAI-400703",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NEW BOMBAY",
+            "district": "THANE",
+            "ifsc": "TJSB0000072",
+            "office": "VASHI SECTOR 12 BRANCH",
+            "phone": "27889021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "E/4, RUTU TOWERS, OPP. COMMISSIONER BUNGLOW, PATLIPADA, GHODBUNDER ROAD, THANE(W), PIN: 400607",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000073",
+            "office": "PATLIPADA BRANCH",
+            "phone": "25861497",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.S1 & C1, BLOCK \"A\", CHANDRANATH APTS. CHS LTD.OPP. POLICE STN, MAPUSA, BARDEZ, GOA-403507",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MAPUSA",
+            "district": "NORTH GOA",
+            "ifsc": "TJSB0000074",
+            "office": "MAPUSA BRANCH",
+            "phone": "2250520",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, PARSHWANATH GALAXY, GHODBUNDER ROAD, KASAEWADAVALI,THANE, PIN-400607",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000075",
+            "office": "KASARWADAVALI BRANCH",
+            "phone": "25977940",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "GR.FLOOR, ANANDI SHANKAR HERITAGE, KALI AMBARI, COLLEGE ROAD, BELGAUM, KARNATAKA,PIN-590001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BELGAUM",
+            "district": "BELGAUM",
+            "ifsc": "TJSB0000076",
+            "office": "BELGAUM BRANCH",
+            "phone": "2464145",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "SHOP 5/5/28,SAI SQUARE,NEAR USMANPURA BUS STOP,STATION ROAD, KRANTI CHOWK, AURANGABAD-431 005",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "TJSB0000077",
+            "office": "AURANGABAD BRANCH",
+            "phone": "2344347",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "4, SAPANA BLDG. GROUND FLOOR, NEAR PORTUGEEZ CHURCH,DADAR (WEST),MUMBAI-400028",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000078",
+            "office": "DADAR BRANCH",
+            "phone": "24383136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "MITKARI NIWAS, NANDI STOP, AUSA ROAD, LATUR, PIN-413531",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AUSA",
+            "district": "LATUR",
+            "ifsc": "TJSB0000079",
+            "office": "LATUR BRANCH",
+            "phone": "255611",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, JADUBAN PLAZA,SHAHAPURI, KOLHAPUR CITY, KOLHAPUR, PIN-416001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "TJSB0000080",
+            "office": "KOLHAPUR BRANCH",
+            "phone": "2531219",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.17A, SHRI SADGURU GRUH RACHANA MARYADIT, SURVEY NO.16/5/1, SINHGAD ROAD, HINGANE KHURD, PUNE-411051",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "HINGNE KHURD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000081",
+            "office": "SINHGAD ROAD BRANCH",
+            "phone": "24351655",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "SHREE RADHE,MAIN(WARDHA ROAD), RAMDAS PETH, ADJACENT TO SHREEE VARDHAN COMPLEX, NAGPUR-440100",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "TJSB0000082",
+            "office": "NAGPUR BRANCH",
+            "phone": "2456022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "P-81, RABALE MIDC, THANE BELAPUR ROAD, RABALE, NAVI MUMBAI-400701",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NEW BOMBAY",
+            "district": "THANE",
+            "ifsc": "TJSB0000083",
+            "office": "RABALE BRANCH",
+            "phone": "27605578",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "ELLORA PALACE 1, BALAJI NAGAR, PUNE SATARA ROAD, DHANKAWADI, PUNE-411043",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DHANKAWADI",
+            "district": "PUNE",
+            "ifsc": "TJSB0000084",
+            "office": "DHANKAWADI BRANCH",
+            "phone": "24370064",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3,4,5,6 SHREE SAI KESHAVRAJ PLAZA, GROUND FLOOR, OPP. SANE GURUJI UDYAN, CHIPLUN KARAD ROAD, CHIPLUN-415605",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "CHIPLUN",
+            "district": "RATNAGIRI",
+            "ifsc": "TJSB0000085",
+            "office": "CHIPLUN BRANCH",
+            "phone": "250811",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "GALA NO.34 B, NEW MONDHA, BUS STAND ROAD, JALNA-421203",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "TJSB0000086",
+            "office": "JALNA BRANCH",
+            "phone": "243022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,2,3,4 SIDDHIVINAYAK MANDMARK, PUSHPARAJ CHOWK, MIRAJ ROAD, SANGLI-416416",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SANGLI-MIRAJ-KUPWAD",
+            "district": "SANGLI",
+            "ifsc": "TJSB0000087",
+            "office": "SANGLI BRANCH",
+            "phone": "2321323",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.17 TO 21,SHREE SWAMI PRASAD, BUILDING NO.33,SHELAR PARK,KHADAKPADA CHOWK<KALYAN(W), PIN-421301",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TJSB0000088",
+            "office": "KHADAKPADA-KALYAN BRANCH",
+            "phone": "2232600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "SINHGAD INSTITUTE BUILDING, MHADA COLONY, CHANDIVALI GAON, MUMBAI-400072",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000089",
+            "office": "CHANDIVALI BRANCH",
+            "phone": "88577115",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "HARMONY PLAZA, SHOP NO.58, 156 TO 158, BOISAR TARAPUR ROAD, BOISAR TARAPUR ROAD, BOISAR-401501",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "THANE",
+            "ifsc": "TJSB0000090",
+            "office": "BOISAR BRANCH",
+            "phone": "266038",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.SF4, SF5, SF8 & SF9, 1ST FLR, UTSAV COMM. COMPLEX, AT KUDUS NAKA, OPP. TALATHI OFFICE, TAL WADA, THANE.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KUDUS",
+            "district": "THANE",
+            "ifsc": "TJSB0000091",
+            "office": "KUDUS BRANCH",
+            "phone": "220222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "SHOP. NO.29,30,31,32,33,34 & 35 , RAJ KRISHNA TOWER, SHANTI NAGAR, PONDA , GOA-403401.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PONDA",
+            "district": "NORTH GOA",
+            "ifsc": "TJSB0000092",
+            "office": "PONDA BRANCH",
+            "phone": "2311288",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.7 & 8 PACHECO'S LOTUS CITY CENTRE, BEHIND POLICE STATION, COMBA, MARGAON, GOA-403601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MARGAO",
+            "district": "SOUTH GOA",
+            "ifsc": "TJSB0000093",
+            "office": "MADGAON BRANCH",
+            "phone": "2710179",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, GAYATRI APT., NEAR ABB CIRCLE, OPP..KESRI TOURS & TRAVELS, MAHATMA NAGAR, NASHIK-422007.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "TJSB0000094",
+            "office": "MAHATMANAGAR-NASHIK BRANCH",
+            "phone": "2363833",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.31,32,3 & 06, GROUND FLOOR, RAIGAD BAZAR BUILDING, DHARAMTAR ROAD, DIST.RAIGAD, PEN-402107",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PEN",
+            "district": "RAIGAD",
+            "ifsc": "TJSB0000095",
+            "office": "PEN BRANCH",
+            "phone": "254043",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "NAZUL PLOT NO.9, STREET NO.66, LRT COLLEGE ROAD,RATANLAL PLOT, AKOLA, PIN-444001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "TJSB0000096",
+            "office": "AKOLA BRANCH",
+            "phone": "2450736",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "165, GROUND FLOOR, GANESH CHAMBERS, RAILWAY LINES, SAT RASTA, SOLAPUR-413001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "TJSB0000097",
+            "office": "SOLAPUR BRANCH",
+            "phone": "2315631",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "G-1/A, ITC BUILDING, MAJURA GATE CROSSING, RING ROAD, SURAT-395002",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "TJSB0000098",
+            "office": "SURAT BRANCH",
+            "phone": "2460172",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, RIYA PLEX, 80 URMI SOCIETY, BPC ROAD, VADODARA-390007",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "TJSB0000099",
+            "office": "VADODARA BRANCH",
+            "phone": "2353502",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 & 5, GROUND FLOOR, OPP. BANK OF BARODA, NEAR CENTRAL MALL, AHEMDABAD-380015",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "TJSB0000100",
+            "office": "AHEMDABAD BRANCH",
+            "phone": "26467120",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "ALOKA MANSION  NO.19, 3RD BLOCK, 10th B MAIN ROAD, JAYANAGAR, BENGLURU-560011",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "TJSB0000101",
+            "office": "BENGALURU BRANCH",
+            "phone": "22450017",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,3,4 & 5, RATNA UMED RESIDENCY, PIPELINE ROAD, LOUISWADI, THANE(WEST)-400604",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000103",
+            "office": "LOUISWADI BRANCH",
+            "phone": "25825616",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "F BY 1,JAI SHRUTI APTS,M.G.ROAD,NEAR SBI,DOMBIVLI WEST,DIST THANE,PIN 421202",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "TJSB0000104",
+            "office": "DOMBIVLI WEST",
+            "phone": "2480840",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 AND 5,LAXMI COMPLEX,GANGA ROAD,SHAHAPUR,DIST THANE,PIN 421601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TJSB0000105",
+            "office": "SHAHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 4,SAI AMBIKA,OPP.L T ROAD EXTENSION,HANUMAN CHOWK,MULUND EAST,MUMBAI 400081",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000106",
+            "office": "MULUND EAST",
+            "phone": "21636167",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "001,GROUND FLOOR,NOVA GOA BUILDING,DR.ATMARAM BORKAR ROAD,PANAJI,GOA 403001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PANAJI",
+            "district": "NORTH GOA",
+            "ifsc": "TJSB0000107",
+            "office": "PANAJI",
+            "phone": "2426822",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,ANAND MAHAL,BLOCK NO.C 32 119,ULHASNAGAR 3,DISTTHANE 421003",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "TJSB0000108",
+            "office": "ULHASNAGAR 3",
+            "phone": "2712286",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,TIRUMALA TRADE CENTRE,NEELIGIN ROAD,TRAFFIC ISLAND,HUBLI 580029",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "HUBLI DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "TJSB0000109",
+            "office": "HUBLI",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "29,1 KRISHNAI COMPLEX, SAHAWAS CORNER, KARVE NAGAR, PUNE 411052",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000110",
+            "office": "KARVE NAGAR BRANCH",
+            "phone": "25440088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4,5,6,BUSINESS BAY,ROYAL PARK,STREET NO.6,KALAWAD ROAD,RAJKOT,GUJARAT 360001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "TJSB0000111",
+            "office": "RAJKOT",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4,SHRI RAGHUNANDAN TEXTILE MARKET,RING ROAD,SURAT,GUJRAT 395002",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "TJSB0000112",
+            "office": "RTM SURAT",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.186 1, GROUND FLOOR, SAI MIDAS TOUCH, NAGAR MANMAD ROAD, SAVEDI, AHMEDNAGAR 414003",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "TJSB0000113",
+            "office": "AHMEDNAGAR",
+            "phone": "2422100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "G 8,9,10,11 SANMAN PRESTIGE,STATION ROAD,NEAR ZILLA PARISHAD OFFICE, NANDED 431601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "TJSB0000114",
+            "office": "NANDED",
+            "phone": "233122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "PROPERTY NO.6,1ST MAIN,1ST BLOCK,WARD NO.14, RAJAJI NAGAR,DR.RAJKUMAR ROAD, BANGALORE EAST 560010",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "TJSB0000115",
+            "office": "RAJAJINAGAR",
+            "phone": "23121755",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2B, PLOT NO.23, GROUND FLOOR, YASH HEIGHTS,PARIJAT NAGAR,N4 CIDCO,AURANGABAD 431005",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "TJSB0000116",
+            "office": "PARIJAT NAGAR",
+            "phone": "2451954",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "ZADE BHAVAN, BHAIYYAJI ZADE MARG,CHHAPRU NAGAR SQUARE, CENTRAL AVENUE ROAD, NAGPUR 440008",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "TJSB0000117",
+            "office": "CENTRAL AVENUE ROAD",
+            "phone": "2775057",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "10,11,12 GR FLOOR, THE GRAND MONARCH COMPLEX, PRAHLADNAGAR ROAD, SATELLITE, AHMEDABAD 380015",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "TJSB0000118",
+            "office": "PRAHLADNAGAR",
+            "phone": "26765290",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "AMI RANG 11 111 , OPPOSITE JAIN MANDIR, MAIN ROAD, ICHALKARANJI 416115",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "TJSB0000119",
+            "office": "ICHALKARANJI",
+            "phone": "2439596",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KRISHNARPAN SANKUL, OPP.DASARA MAIDAN, BADNERA ROAD, AMRAVATI-444605.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "TJSB0000120",
+            "office": "AMRAVATI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.11,12, OFFICE NO.13,BUILDING NO.9 K27, HIGHLAND PARK, DHOKALI, THANE WEST PIN 400607",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000121",
+            "office": "DHOKALI",
+            "phone": "25382100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NUCLEUS MALL, CITY SURVEY NO.239/A-1, TARABAI PARK, KOLHAPUR-416003",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "TJSB0000122",
+            "office": "TARABAI PARK",
+            "phone": "2527444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "PREMISES NO.42, E WING, BUILDING NO.2, VEER SAVARKAR MARG, VIKHROLI WEST, MUMBAI-400079",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000124",
+            "office": "VIKHROLI WEST",
+            "phone": "25188588",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "SADGURU HEIGHT-I, SHOP NO.1, CTS NO.2488,2488/1 TO 14.2490.2491 & 2492(B), SHIV VALLABH ROAD, DAHISAR EAST, MUMBAI-400068",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000125",
+            "office": "DAHISAR EAST",
+            "phone": "28965997",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "SATHE CHAMBERS, GROUND & MAZZANINE FLOOR SHOWROOM, SATHE & CO. PVT. LTD., 678 SHUKRAWAR PETH, SHIVAJI ROAD, PUNE- 411002",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000126",
+            "office": "SHUKRAWAR PETH",
+            "phone": "23331677",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "4,5,6 GROUND FLOOR, KISHAN ATRIA, NEAR TULSIDHAM CHAR RASTA, MANJALPUR, VADODARA, GUJARAT-390011",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "TJSB0000127",
+            "office": "MANJALPUR",
+            "phone": "2634700",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.6 & 7, REGENCY SARVAM, GUPTA ESTATE, NEAR TITWALA STATION, GANPATI MANDIR ROAD, TITWALA(EAST)-421605",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000128",
+            "office": "TITWALA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.6-9, VIRANI BUSINESS CENTRE, OPP. BHARAT GEARS LTD., KAUSA MUMBRA, DIST. THANE-400612",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000129",
+            "office": "MUMBRA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.9,10,11,12 & 13, SAWANT PLAZA, DATTA CHOWK,BELAVALI, BADLAPUR(WEST)-421503",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000130",
+            "office": "BELAVALI BADAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "HARI SADAN, SHOP NO.1 TO 6, DHARAMSI PARK, KOPARCHI ROAD, VAPI, GUJRAT-396195",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VALSAD",
+            "ifsc": "TJSB0000131",
+            "office": "VAPI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.12, MANIKRAO KOKATE DESTINATION NO.1, NEAR SINNAR BUS STAND, SINNAR, NASHIK-422103",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SINNAR",
+            "district": "NASIK",
+            "ifsc": "TJSB0000132",
+            "office": "SINNAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 13 AND 14, GROUND FLOOR, NIKHIL HERITAGE, ACHOLE ROAD, NALASOPARA(EAST), DIST PALGHAR-401209",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "PALGHAR",
+            "ifsc": "TJSB0000133",
+            "office": "NALASOPARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.04, GROUND FLOOR, KINGSTON COURT, 100 FT. ROAD, VIRAR(WEST), DIST-PALGHAR 401303",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "PALGHAR",
+            "ifsc": "TJSB0000134",
+            "office": "VIRAR WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "PUSHPAKUNJ, DEVISAHAY ROAD, PALGHAR(WEST), DIST-PALGHAR 401404.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "TJSB0000135",
+            "office": "PALGHAR WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, IMPERIAL PLAZA, SARALA ROAD, OPP. SARDAR BAUG, MORBI, GUJARAT-363641",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MORBI",
+            "district": "RAJKOT",
+            "ifsc": "TJSB0000136",
+            "office": "MORBI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VIVEKANAND SANKUL, PLOT NO.6, SECTOR 4, SANPADA, NAVI MUMBAI-400705.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "TJSB0000137",
+            "office": "SANPADA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "CTS NO.967/2, F.P.NO.397/2, SHOWROOM NO.5, SUNIT CAPITAL, KANCHANBAN B, SENAPATI BAPAT ROAD, PUNE 411016.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000138",
+            "office": "SENAPATI BAPAT ROAD, PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "GROUND & MEZZANINE FLOOR, OFFICE NO.1,2 AND 3, PATIL PLAZA, D.Y.PATIL COLLEGE ROAD, DR.AMBEDKAR CHOWK, RAVET, PUNE-412101",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TJSB0000139",
+            "office": "RAVET",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, JOSHI BUILDING, F.L.GOMES ROAD, VASCO-DA-GAMA, GOA-403802",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "VASCO-DA-GAMA",
+            "district": "SOUTH GOA",
+            "ifsc": "TJSB0000140",
+            "office": "VASCO-DA-GAMA",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "EFFIE BUILDING, H-52, 523/1, PIKLE ROAD, KARWAR, KARNATAKA-581301",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KARWAR",
+            "district": "UTTAR KANNAD",
+            "ifsc": "TJSB0000141",
+            "office": "KARWAR",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO.19,20 & 21, BHAGWATI HERITAGE, SECTOR 21, KAMOTHE, NAVI MUMBAI-410209.",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "TJSB0000143",
+            "office": "KAMOTHE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GALA NO.2,2A & 1, OM SAI RESIDENCY, PURNA NAKA, BHIWANDI, THANE-421302",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TJSB0000144",
+            "office": "PURNA NAKA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO.02, KESHAV HEIGHT, 90 FT. ROAD, KHAREGAON, KALWA(WEST), THANE-400605",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000145",
+            "office": "KHAREGAON, KALWA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO.02, SECTOR-9, BHAGWATI ARCADE, GANDHIDHAM, GUJARAT-370201",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "GANDHIDHAM",
+            "district": "KUTCH",
+            "ifsc": "TJSB0000146",
+            "office": "GANDHIDHAM",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, A WING, PARMESHWARI PARADISE CHS LTD. MAJIWADA, THANE(WEST)-400601",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000147",
+            "office": "MAJIWADA THANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 4, DNYANESHWAR BHAVAN, M.G.ROAD, NASHIK ROAD, NASHIK-422101",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "TJSB0000148",
+            "office": "NASHIK ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2 &3, PARAS BUSINESS CENTRE, BORIVALI(EAST), MUMBAI-400066",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "TJSB0000149",
+            "office": "BORIVALI EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.G/5-B, MANGALDEEP COMPLEX, HIRABAUG CIRCLE, VARACHHA MAIN ROAD, SURAT-395006",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "TJSB0000150",
+            "office": "VARACHHA MAIN ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2, GROUND FLOOR, KATE CENTRAL, SURVEY NO.48/1/1 & 48/2/1, KATE PURAM CHOWK, PIMPLE GURAV, PUNE-411061",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "TJSB0000151",
+            "office": "PIMPLE GURAV",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.17, MIDC, COMMERCIAL PLOT, MURBAD, DIST. THANE, PIN-421401",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TJSB0000152",
+            "office": "MURBAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 370/2, 234/38 BHATTAD COMPLEX, DATTA CHOWK, SHANIWAR PETH, KARAD, DIST-SATARA 415110",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "TJSB0000153",
+            "office": "KARAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "131, SRIKRUPA, 10TH CROSS, CMH ROAD, ST STAGE, INDIRA NAGAR, BENGALURU-560038",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BANGALORE URBAN",
+            "district": "BANGALORE",
+            "ifsc": "TJSB0000154",
+            "office": "INDIRA NAGAR, BENGALURU",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PEOPLE EDUCATION SOCIETY BUILDING, RAM MARUTI ROAD, NAUPADA, THANE(WEST)-400602",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000155",
+            "office": "RAM MARUTI ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "DHARSHAN MALL, UG5 & UG6, PLOT NO.15/2, RACE COURSE ROAD, INDORE-452001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "TJSB0000156",
+            "office": "INDORE BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.60, SURVEY NO.49/C,GROUND FLOOR, NEHRU CHOWK, MAIN LINE, YAVATMAL-445001",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "YAVATMAL",
+            "district": "YAVATMAL",
+            "ifsc": "TJSB0000157",
+            "office": "YAVATMAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.D-7/1, ROAD NO.33, WAGLE INDUSTRIAL ESTATE, THANE-400604",
+            "bank_name": "TJSB SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TJSB0000158",
+            "office": "ROAD NO. THIRTY THREE WAGLE ESTATE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    }
+]

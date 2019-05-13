@@ -1,0 +1,902 @@
+[
+    {
+        "fields": {
+            "address": "THRISSUR",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000001",
+            "office": "RTGS-HO",
+            "phone": "487457858",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "IRINJALAKUDA.P.O. PIN-680121",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000002",
+            "office": "IRINJALAKUDA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "TOWN HALL RD, KUNNAMKULAM P O PIN 680503",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000003",
+            "office": "KUNNAMKULAM",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "RAILWAY STATION ROAD, TRUNK ROAD JUNCTION, CHALAKUDY.P.O. PIN- 680307",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000004",
+            "office": "CHALAKUDY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "WADAKKANCHERY.P.O. PIN-680582",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "WADAKKANCHERY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000005",
+            "office": "WADAKKANCHERY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "NATTIKA.P.O. PIN-680566",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000006",
+            "office": "THRIPRAYAR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "KODUNGALLUR.P.O. PIN-680664",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000007",
+            "office": "KODUNGALLUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "CHELAKKARA.P.O. PIN-680586",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000008",
+            "office": "CHELAKKARA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GURUVAYUR.P.O. PIN-680101",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000009",
+            "office": "GURUVAYUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "MALA.P.O. PIN-680732",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000010",
+            "office": "MALA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "PAVARATTY.P.O. PIN-680507",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000011",
+            "office": "PAVARATTY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "M.O. ROAD, THRISSUR.P.O. PIN-680001",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000012",
+            "office": "THRISSUR TOWN",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PUDUKKAD.P.O. PIN-680301",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000013",
+            "office": "PUDUKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "P.O.VADAKKEKAD, PIN-679562",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000014",
+            "office": "VADAKKEKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "CHERPU.P.O. PIN-680561",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000015",
+            "office": "CHERPU",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "MUNDUR.P.O. PIN-680541",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000016",
+            "office": "MUNDUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "KANJANI.P.O. PIN-680612",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000017",
+            "office": "ANTHIKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "PERINJANAM.P.O. PIN-680686",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000018",
+            "office": "PERINJANAM",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "VELLANGALLUR.P.O. PIN-680662",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000019",
+            "office": "VELLANGALLUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "HEPHZIBATH COMPLEX, MANNUTHYP O PIN 680651",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000020",
+            "office": "MANNUTHY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "PAZHANJI.P.O. PIN-680542",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000021",
+            "office": "PAZHANJI",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "VATANAPPALLY.P.O. PIN-680614",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000022",
+            "office": "VATANAPPALLY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "OLLUR.P.O. PIN-680306",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000023",
+            "office": "OLLUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "TOWN PLAZA BUILDING, VELLIKULANGARA ROAD, KODAKARA.P.O. PIN-680684",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000024",
+            "office": "KODAKARA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "ANNAMANADA.P.O. PIN-680741",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000025",
+            "office": "ANNAMANADA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "PADIYATH COMPLEX, ERIYAD P O PIN 680666",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000026",
+            "office": "ERIYAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "PATTURAIKKAL,THRISSUR.P.O. PIN-680001",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000027",
+            "office": "VANITHA BRANCH",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "KATTOOR P O , PIN 680702",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000028",
+            "office": "KATTOOR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "AYYANTHOLE P O , PIN 680003",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000029",
+            "office": "AYYANTHOLE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "KECHERY P O , PIN 680501",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000030",
+            "office": "KECHERY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SAKTHAN BUSTAND, THRISSUR P O,PIN 680001",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000031",
+            "office": "THRISSUR MORNING",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "CHAVAKKAD P O , PIN 680506",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000032",
+            "office": "CHAVAKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "ATHANI P O , PIN 680771",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000033",
+            "office": "ATHANI",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "KORATTY P O , PIN 680308",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000034",
+            "office": "KORATTY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "NELLUVAI P O , PIN 680584",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000035",
+            "office": "ERUMAPETTY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "CHERUTHRUTHY P O , PIN 679531",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000036",
+            "office": "CHERUTHRUTHY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "JP TOWERS, MAIN ROAD, PAZHAYANNUR",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000037",
+            "office": "PAZHAYANNUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "PATTIKKAD , PIN 680 652",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000038",
+            "office": "PATTIKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "AMALA NAGAR P O , PIN 680553",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000039",
+            "office": "AMALA NAGAR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "SREEKUMAR BUILDING, SOUTH JUNCTION, CHALAKUDY, PIN 680 307",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000040",
+            "office": "CHALAKUDY EVE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "C SHAPE , NR BUS ST, THRISSUR RD, KUNNAMKULAM, PIN 680 503",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000041",
+            "office": "KUNNAMKULAM EVE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "VARANDARAPPILLY P O , PIN 680303",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000042",
+            "office": "VARANDARAPPILLY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "JYOTHI COMPLEX, GURUVAYUR RD, POOTHOLE, THRISSUR, PIN 680 004",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000043",
+            "office": "WEST FORT",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "C BAS BUILDING, SREENARAYANAPURAM P O PIN 680 665",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000044",
+            "office": "SN PURAM",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "THANDASSERY BLDGS P O PADY, PIN 680 699",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000045",
+            "office": "KODALY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "ARIMPUR BANK, KUNNATHANGADI, P O VELUTHUR, PIN 680016",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000046",
+            "office": "ARIMPUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "P P COMPLEX, P O KARIKKAD, PIN 680519",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000047",
+            "office": "PERUMPILAVU",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "SAHAKARANA SATHABDHI MANDIRAM, KOVILAKATHUMPADAM, P O THIRUVAMPADI, THRISSUR 680 022",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000048",
+            "office": "H O BRANCH",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "KHADI GRAMODYAG BHAVAN BUILDING, P.O. PERINGOTTUKARA 680 565",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000049",
+            "office": "PERINGOTTUKARA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "KHADI GRAMODYAG BHAVAN BUILDING, P.O. MAYANNUR 679 105",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000050",
+            "office": "MAYANNUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "M PS BUILDING, P O VENGITANGU 680 510",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000051",
+            "office": "VENGITANGU",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "MEJO COMPLEX, KOONAMMOOCHI PO, PIN 680504\u251c\u255c",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000052",
+            "office": "KOONAMOOCHI",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "KODASSERRY KURIES BUILDING, P.O. KUTTICHIRA 680 724",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000053",
+            "office": "KUTTICHIRA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "SANTHOM COMPLEX, TKS PURAM, PO.O. KOTTAPURAM 680 667",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000054",
+            "office": "KOTTAPURAM NEW",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "LAKSHMI TOWER, P O PERINGANDUR, PIN 680581",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THALAPPILLY",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000055",
+            "office": "MEDICAL COLLEGE EVE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "POOKKOOT BUILDING, MANIYAMKAVU,PUTHENCHIRASOUTH.PO, PIN 680682",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000056",
+            "office": "PUTHENCHIRA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "SHEMEER &BROTHERS SHOPPING COMPLEX, OPP SINGAPORE PALACE,EDAKKAZHIYOOR P O,PIN 680515\u251c\u255c",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000057",
+            "office": "EDAKKAZHIYOOR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "PARAPPUR KURIES BUILDING, MAIN ROAD, PARAPPUR.P.O,PIN-680552\u251c\u255c",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000058",
+            "office": "PARAPPUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "SAHAKARANA SATHABDHI MANDIRAM, KOVILAKATHUMPADAM, P.O.THIRUVAMPADI, THRISSUR \u0013 680022",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS0000099",
+            "office": "HEAD OFFICE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "KURUPPAM ROAD, THRISSUR, PO PIN 680001",
+            "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "THRS00000SC",
+            "office": "SERVICE CENTRE",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    }
+]

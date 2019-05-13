@@ -1,0 +1,62 @@
+[
+    {
+        "fields": {
+            "address": "2nd Floor, Lotte India, No 4/169, Rajiv Gandhi Salai, Kandhanchavadi, Perungudi Taluk, Chennai - 600096",
+            "bank_name": "WOORI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "HVBK0000001",
+            "office": "CHENNAI BRANCH",
+            "phone": "33466900",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, A-BLOCK, SALCON PLATINA BUILDING, DLF PHASE 1, SIKANDERPUR, MG ROAD, SECTOR - 28, GURGAON",
+            "bank_name": "WOORI BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "HVBK0000002",
+            "office": "GURGAON BRANCH",
+            "phone": "3046700",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 601, 6TH FLOOR, BIRLA CENTURION, CENTURY MILLS COMPOUND, PANDURANG BUDHKAR MARG, WORLI, MUMBAI - 400030",
+            "bank_name": "WOORI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "HVBK0000003",
+            "office": "MUMBAI BRANCH",
+            "phone": "62638100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 601, 6TH FLOOR, BIRLA CENTURION, CENTURY MILLS COMPOUND, PANDURANG BUDHKAR MARG, WORLI, MUMBAI - 400030",
+            "bank_name": "WOORI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "HVBK0999999",
+            "office": "HO TREASURY",
+            "phone": "62638100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    }
+]

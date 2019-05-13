@@ -1,0 +1,302 @@
+[
+    {
+        "fields": {
+            "address": "RADHA BHAVAN, 2ND FLOOR, NAGINDAS MASTER ROAD, FORT, MUMBAI 400001",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000001",
+            "office": "RTGS-HO",
+            "phone": "22696050",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "NIRLON HOUSE, DR. ANNIE BESANT ROAD, WORLI, MUMBAI 400030",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000002",
+            "office": "CORPORATE OFFICE",
+            "phone": "66661010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "YUSUF BUILDING, VEER NARIMAN ROAD, FORT, MUMBAI 400001",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000003",
+            "office": "FORT",
+            "phone": "22049074",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "GAMADIA COLONY, TARDEO, MUMBAI 400007",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000004",
+            "office": "TARDEO",
+            "phone": "23517173",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "DARVESH ROYAL, MASTER VINAYAK ROAD (PERRY ROAD), BANDRA (W), MUMBIA 400050",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000005",
+            "office": "BANDRA",
+            "phone": "26426236",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 & 3 PARSIAN CO-OP HSG SOC, V P ROAD, ANDHERI (W) MUMBAI 400058",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000006",
+            "office": "ANDHERI",
+            "phone": "26238237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "658, KHORSHED ABAD, KATRAK ROAD, DADAR PARSEE COLONY, DADAR (E), MUMBAI 400014",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000007",
+            "office": "DADAR",
+            "phone": "24182644",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "MODERN HOUSE, 636, 637 SACHAPIR STREET, PUNE 411001",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ZCBL0000008",
+            "office": "PUNE",
+            "phone": "26119177",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "S 41, RNA SHOPPING ARCADE, SWAMI SAMARTH NAGAR, LOKHANDWALA COMPLEX, ANDHERI (W), MUMBAI 400053",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000009",
+            "office": "LOKHANDWALLA",
+            "phone": "26396172",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "DELTA APARTMENTS, SONAWALA AGIARY LANE, MAHIM, MUMBAI 400016",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000010",
+            "office": "MAHIM",
+            "phone": "24442375",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "MAYFAIR TULSIBAUG, UNIT NO.2/A, RAMDAS SUTRALE MARG, CHANDAVARKAR LANE, BORIVALI (WEST), MUMBAI-400092",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000011",
+            "office": "BORIVALI",
+            "phone": "28902728",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "RUSTOMJEE INTERNATIONAL SCHOOL, RUSTOMJEE ACRES, DAHISAR (W), MUMBAI 400068",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000012",
+            "office": "DAHISAR",
+            "phone": "28946771",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "NARGISH BUILDING, GROUND FLOOR, CHARAI, THANE (W), 400601",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000013",
+            "office": "THANE",
+            "phone": "25330104",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "6, ONKAR BUILDING, OPP. OBERAI MALL DINDOSHI (FILM CITY ROAD) GOREGAON (E), MUMBAI 400098",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ZCBL0000014",
+            "office": "GOREGAON",
+            "phone": "28493076",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "BELGIUM CHAMBERS, OPP. LINEAR BUS STOP, RING ROAD, SURAT 395003",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000102",
+            "office": "BELGIUM",
+            "phone": "2402051",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "1, BALAJI MARKET, RING ROAD, SURAT 395002",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000103",
+            "office": "ABHISHEK MARKET",
+            "phone": "2366951",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "11, PATEL PARK, TADWADI, RANDER ROAD, SURAT 395009",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000104",
+            "office": "PATEL PARK",
+            "phone": "2763232",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "11, CITY CENTER, UDHNA MAGDALLA ROAD, SURAT 395007",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000105",
+            "office": "UDHNA MAGDALLA",
+            "phone": "2631542",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "UG-14, HIRA PANNA, SHOPPING MALL, CITY, - LIGHT ROAD, SURAT 395007",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000106",
+            "office": "CITYLIGHT",
+            "phone": "2256863",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "24, GROUND FLOOR, PARTH, KATARGAM SINGANPOR(VED) ROAD, SURAT 395004",
+            "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "ZCBL0000108",
+            "office": "VED KATARGAM",
+            "phone": "2366951",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    }
+]

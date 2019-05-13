@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "NO. 901, 9TH FLOOR NARIMAN BHAVAN, 227 BACKBAY RECLAMATION,  NARIMAN POINT, MUMBAI",
+            "bank_name": "NATIONAL AUSTRALIA BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NATA0000001",
+            "office": "RTGS-HO",
+            "phone": "61988238",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

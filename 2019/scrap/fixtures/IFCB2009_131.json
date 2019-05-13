@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "LEVEL 2, HOECHST HOUSE,NARIMAN POINT, MUMBAI 400021",
+            "bank_name": "COMMONWEALTH BANK OF AUSTRALIA",
+            "branch": "RTGS-HO",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "CTBA0000001",
+            "office": "",
+            "phone": "61390100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

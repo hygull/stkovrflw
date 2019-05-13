@@ -1,0 +1,797 @@
+[
+    {
+        "fields": {
+            "address": "HIGH WAY, URBAN BANK ROAD, MEHSANA - 384 002.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000001",
+            "office": "RTGS-HO",
+            "phone": "252681",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD,  AMBALIYASNA - 382 732.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AMBALIYASAN",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000002",
+            "office": "AMBALIYASAN",
+            "phone": "283349",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "C.M.SUPER MARKET,  HINGALA CHACHAR,PATAN - 384265",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "PATAN",
+            "district": "PATAN",
+            "ifsc": "MSNU0000003",
+            "office": "PATAN",
+            "phone": "221083",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "RAJMAHEL ROAD,NR.KHADIGRAM BHAVAN, MEHSANA - 384 001.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000004",
+            "office": "BAZAR",
+            "phone": "252209",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "VARTALI COMPLEX SMRUTI KRUNJ SOCIETY C G ROAD SAWASTIK CHAR RASTA NAVRANGPURA AHMEDABAD 380009",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000005",
+            "office": "C.G.ROAD",
+            "phone": "26560716",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "GUNJ BAZAR'S NAKA VISNAGAR  384315.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "VISNAGAR",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000006",
+            "office": "VISNAGAR",
+            "phone": "222820",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "OLD POST OFFICE BHULAPURA CHANSAMA  384220",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANASMA",
+            "district": "PATAN",
+            "ifsc": "MSNU0000007",
+            "office": "CHANASMA",
+            "phone": "222797",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "VIJAY OIL MILL COMPOUND STATION ROAD UNJHA  384170",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "UNJHA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000008",
+            "office": "UNJHA",
+            "phone": "250530",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "DR. A.K. PATEL SHOPPING CENTRE  VIJAPUR - 382 725",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "VIJAPUR",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000009",
+            "office": "VIJAPUR",
+            "phone": "223065",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "BHAUPURA, KADI - 382 725.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "KADI",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000010",
+            "office": "KADI",
+            "phone": "264274",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "BHAGWATI CHAMBERS, MANSA - 382 815.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANSA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000011",
+            "office": "MANSA",
+            "phone": "273371",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHIVAM SHOPPING CENTRE,VEPARI JIN  KALOL 382 721.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "KALOL",
+            "district": "GANDHINAGAR",
+            "ifsc": "MSNU0000012",
+            "office": "KALOL",
+            "phone": "226270",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SOMABHAI CHAMBERS, NR.G.P.O., HIMMATNAGAR - 383 001.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "HIMMATNAGAR",
+            "district": "SABARKANTHA",
+            "ifsc": "MSNU0000013",
+            "office": "HIMMATNAGAR",
+            "phone": "243442",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "ARTI SHOPPING CENTRE KACHERI ROAD  DEESA  385 535.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "DEESA",
+            "district": "BANASKANTHA",
+            "ifsc": "MSNU0000014",
+            "office": "DEESA",
+            "phone": "225664",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "BAZAR KHERALU - 384 325.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "KHERALU",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000015",
+            "office": "KHERALU",
+            "phone": "230469",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "OPP- I.B.P.PETROL PUMP, RADHANPUR ROAD MEHSANA - 384 002",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000016",
+            "office": "RADHANPUR ROAD",
+            "phone": "245213",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "PUJA CHAMBERS,GIRDHAR PATEL MARG  PALANPUR-385 001",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "PALANPUR",
+            "district": "BANASKANTHA",
+            "ifsc": "MSNU0000017",
+            "office": "PALANPUR",
+            "phone": "251752",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "83,SHANAY COMPLEX, DAMODAR COMPOUND IDAR-383430",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "IDAR",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000018",
+            "office": "IDAR",
+            "phone": "254210",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "BHUYANGDEV SOCIETY , BHUYANGDEV CHAR RASTA, AHMEDABAD - 380 013.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000019",
+            "office": "BHUYANGDEV",
+            "phone": "27473693",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "ABHINAV COMPLEX DELUX CROSS ROAD  BARODA  390001",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "BARODA",
+            "district": "BARODA",
+            "ifsc": "MSNU0000020",
+            "office": "BARODA",
+            "phone": "2780530",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "CITY CENTRE ,NEAR :SOSYO CIRCLE ,UDHANA MAGDALLA ROAD ,SURAT-395 002",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000021",
+            "office": "SOSIYO CIRCLE",
+            "phone": "2631600",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "MOTA PARKOTA, RAMJI MANDIR  VIRAMGAM - 382150.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "VIRAMGAM",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000022",
+            "office": "VIRAMGAM",
+            "phone": "234645",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "72, GUNJ BAZAR, SIDDHPUR - 384151.",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SIDDHPUR",
+            "district": "PATAN",
+            "ifsc": "MSNU0000023",
+            "office": "SHIDDHPUR",
+            "phone": "224738",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "S D X - SOUTH-80 ZANDA CHOWK, WARD - 12/A, GANDHIDHAM-370 203",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "GANDHIDHAM",
+            "district": "KUTCH",
+            "ifsc": "MSNU0000024",
+            "office": "GANDHIDHAM",
+            "phone": "226459",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "KAILASH COLONY NR.BHARVI TOWER,N.H. NO-8,  AMRAIWADI, AHMEDABAD-380 026",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000025",
+            "office": "C.T.M CROSS ROAD",
+            "phone": "25850753",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "GANPAT VIDHYALAY, KHERVA.- 384 012",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "KHERVA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000026",
+            "office": "KHERVA",
+            "phone": "286009",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "D-1 LALBAUG ,NR.S B I. RADHANPUR-385 340",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "RADHANPUR",
+            "district": "PATAN",
+            "ifsc": "MSNU0000027",
+            "office": "RADHAPUR",
+            "phone": "275231",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHREE PATAN MODH GANCHI SAMAJ BULIDING  BECHARAJI -384210",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "BECHRAJI",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000028",
+            "office": "BECHARAJI",
+            "phone": "289022",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "OPP ALANKAR SOCIETY,SHAMLAJI ROAD  MODASA -383315",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MODASA",
+            "district": "SABARKANTHA",
+            "ifsc": "MSNU0000029",
+            "office": "MODASA",
+            "phone": "242889",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "SHIKHAR COMPLEX , BAROI ROAD MUNDRA - 370421",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUNDRA",
+            "district": "KUTCH",
+            "ifsc": "MSNU0000030",
+            "office": "MUNDRA",
+            "phone": "223907",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "B/H RAJHANS POINT VARACHHA ROAD SURAT-395006",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000031",
+            "office": "VARACHHA",
+            "phone": "2554001",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "SASMI BHAVAN,COTSAFIL MAIN ROAD, SURAT-395003",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000032",
+            "office": "BHAGAL",
+            "phone": "2402853",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "JASH MARKET RING, KAMELA DARVAJA,RING  ROAD ,SURAT-395002",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000033",
+            "office": "KAMELA DARWAJA",
+            "phone": "2347020",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "KRISHNA COMPLEX, BHATAR ROAD, SURAT-395001",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000034",
+            "office": "BHATAR",
+            "phone": "2236419",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "54 RAVINDRAPARK SOCIETY DHANKUVAR PALACE ADAJAN ROAD  SURAT 396009",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "MSNU0000035",
+            "office": "RANDER ADAJAN",
+            "phone": "2781696",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "B-37 NARAYAN KRUPA SOCIETY, NEW C.G. ROAD, CHANDKHEDA",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000036",
+            "office": "CHANDKHEDA",
+            "phone": "232964",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SILVER OZON, NR AVASAR PARTY PLOT, MEHSANA",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000037",
+            "office": "MODHERA ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "KALAWAD ROAD, 150 FT RING ROAD, RAJKOT",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "MSNU0000038",
+            "office": "RAJKOT",
+            "phone": "2588035",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "PLOT NO C/3/12/1-2 FIRST FLOOR, OLD NATIONAL HIGHWAY NO - 8, GIDC ANKLESHWAR 393002",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "ANKLESHWAR",
+            "district": "BHARUCH",
+            "ifsc": "MSNU0000039",
+            "office": "ANKLESHWAR",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "4  5-6-7 GROULD FLOOR, GIRNAR KHUSHBU PLAZA, NR GUNJAN CHAR RASTA VAPI \u252c\u00fb 396195",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VALSAD",
+            "ifsc": "MSNU0000040",
+            "office": "VAPI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "1-3, FIRST FLOOR, BALAJI PLAZA, GUNJ BAZAR, DHANERA",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHANERA",
+            "district": "BANASKANTHA",
+            "ifsc": "MSNU0000041",
+            "office": "DHANERA",
+            "phone": "223555",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "206-210, RIDDHI SIDDHI COMPLEX, GIDC, CHHATRAL",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHHATRAL",
+            "district": "GANDHINAGAR",
+            "ifsc": "MSNU0000042",
+            "office": "CHHATRAL",
+            "phone": "233436",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, YASH COMPLEX, SIDDHPUR CHAR RASTA, PATAN",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "PATAN",
+            "district": "PATAN",
+            "ifsc": "MSNU0000043",
+            "office": "SIDDHPUR CHAR RASTA-PATAN",
+            "phone": "226688",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 2, GROUND FLOOR, PARISHRAM ELIGANT, SCIENCE CITY ROAD, S.G. HIGHWAY, AHMEDABAD, 380060",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000044",
+            "office": "S.G. HIGHWAY, AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "26,27 GAURAV MALL, NEAR MANAV ASHRAM CIRCLE, VISNAGAR ROAD, MEHSANA",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000045",
+            "office": "VISNAGAR ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 512/2, GROUND FLOOR, NR PAGRAV HOSPITAL, OPP. AARADHANA SCHOOL, SECTOR 23",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "MSNU0000046",
+            "office": "GANDHINAGAR",
+            "phone": "23210379",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR AARYA ARCADE, NR AXIS BANK, ANAND NAGAR PARTY PLOT ROAD, NEW RANIP",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000047",
+            "office": "NEW RANIP BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "CORPORATE BUILDING, HIGHWAY",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000048",
+            "office": "SME CORPORATE BRANCH",
+            "phone": "257233",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MAHEK PLAZA, OFF CHANDAVARKAR ROAD, MAHARASHTRA NAGAR, BORIVALI (W), MUMBAI",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSNU0000049",
+            "office": "BORIVALI WEST",
+            "phone": "28946010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 43 TO 48, 1ST FLOOR, JALARAM COMPLEX, NEAR SARDAR PATEL CIRCLE",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "GOZARIYA",
+            "district": "MEHSANA",
+            "ifsc": "MSNU0000050",
+            "office": "GOZARIYA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "45 AMRAPALI AXIOM, BOPAL CROSS ROAD, SP RING ROAD, NEAR SANKALP RESTAURANT, AMBALI",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000051",
+            "office": "BOPAL",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "7/3091, GROUND FLOOR, OPP HARSH PETROL PUMP, NEAR SARDAR BUAG, SANADA ROAD",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "MORBI",
+            "district": "MORBI",
+            "ifsc": "MSNU0000052",
+            "office": "MORBI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "MAURYA ATRIYA COMPLEX, OPP. KALGI APARTMENT, NEAR JUDGES BUNGLOWS, BODAKDEV (SATELLITE)",
+            "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MSNU0000053",
+            "office": "BODAKDEV",
+            "phone": "26870563",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "fields": {
+            "address": "NOBLES BUILDING,OPP.NEHRU BRIDGE,ASHRAM ROAD",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000001",
+            "office": "RTGS-HO",
+            "phone": "26587688",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "NR.FRUIT MARKET,VIJAY MILLS,NARODA ROAD",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000002",
+            "office": "NARODA ROAD",
+            "phone": "22200979",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-1/2/3 -ABHISHEK-4,NR-ASARWA BRIDGE,ASARWA",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000003",
+            "office": "ASARWA",
+            "phone": "22120005",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "KALUPUR CIRCLE,KALUPUR",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000004",
+            "office": "KALUPUR",
+            "phone": "22124613",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "NOBLES OPP NEHRU BRIDGE,ASHRAM ROAD",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000005",
+            "office": "NEHRU BRIDGE",
+            "phone": "26584217",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "NEAR JAMALPUR DARWAJA,JAMALPUR",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000006",
+            "office": "JAMALPUR",
+            "phone": "25396160",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "RATNASAGAR SOC,CROSS ROADS,MEGHANINAGAR",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000008",
+            "office": "MEGHANINAGAR",
+            "phone": "22683242",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "OPP-R.T.O,SUBHASHBRIDGE CIRCLE",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000009",
+            "office": "SUBHASH BRIDGE",
+            "phone": "27556666",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "MANPASAND COMPLEX,B/H SAMJUBA HOSPITAL",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000010",
+            "office": "BAPUNAGAR",
+            "phone": "22749556",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "RAMNAGAR CHOWK,SABARMATI",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000011",
+            "office": "SABARMATI",
+            "phone": "27507484",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "1,FIRST FLOOR,SWENI COMPLEX,OPP RONAK PARK SOCIETY,NEAR AKHBARNAGAR",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000012",
+            "office": "AKHABARNAGAR",
+            "phone": "27643604",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "RUDRAX COMPLEX,B/H CMC ODHAV",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000013",
+            "office": "ODHAV",
+            "phone": "22874636",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "ADISWAR COMPLEX,ANKUR CHAR RASTA,NARANPURA",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000014",
+            "office": "NARANPURA",
+            "phone": "27439323",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "7/8/9.ICB FLORA,B/H.VODAPHONE TOWER,NR-HANUMANJI TAMPLE,GOTA",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000015",
+            "office": "GOTA",
+            "phone": "9426511687",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "3/3.MARUTI PARK SOCIETY,SARDAR CHOWK,OPP-MANIBA SCHOOL,NAVA NARODA",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000016",
+            "office": "NAVA NARODA",
+            "phone": "22809556",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "G/F-73,74,RUDRAX -2,PHASE -3,G.I.D.C.ROAD,VATVA",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000017",
+            "office": "VATVA",
+            "phone": "25891090",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "1,2,3.SARTHAK HEVAN,SHYAM SUKAN RESIDENC SERVICE ROAD,NR-RAYSAN PETROL PUMP,KUDASAN",
+            "bank_name": "The Vijay Co Operative Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VCOB0000018",
+            "office": "KUDASAN",
+            "phone": "29750011",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    }
+]

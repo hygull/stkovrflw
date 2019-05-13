@@ -1,0 +1,377 @@
+[
+    {
+        "fields": {
+            "address": "418/20, MAULANA AZAD ROAD,MUMBAI, 4000004",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000001",
+            "office": "HEAD OFFICE",
+            "phone": "23828488",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "418-20, MAULANA AZAD ROAD,NEAR ROUND TEMPLE, MUMBAI- 400 004",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000002",
+            "office": "GOLDEVAL",
+            "phone": "23822772",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "HIT-NIKETAN CO-OP HSG SOC ,JANGAL MANGAL ROAD, KONKAN NAGAR, BHANDUP W ,MUMBAI 400078",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000003",
+            "office": "BHANDUP KOKAN NAGAR",
+            "phone": "25941374",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "27,INTERLINK IND ESTATE,CAVES ROAD, JOGESHWARI E ,MUMBAI-400060",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000004",
+            "office": "JOGESHWARI",
+            "phone": "28240199",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "KHANNA APARTMENT,NARI SEVA SADAN MARG, ASALFA VILLAGE, GHATKOPAR W , MUMBAI -400086",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000005",
+            "office": "GHATKOPAR",
+            "phone": "25140713",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "RENBOW ASSOCIATION,SECTOR NO 10,VASHI, NAVI MUMBAI-400705",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "DMKJ0000006",
+            "office": "VASHI",
+            "phone": "27660283",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "NAHAR & SETH IND ESTATE CO-OP SOC LTD, PANNALAL COMPOUND,L B S ROAD BHANDUP W , MUMBAI 400078",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000007",
+            "office": "LBS MARG BHANDUP",
+            "phone": "25962276",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "DATTATRAY MAHARAJ KALAMBE CHOWK, \u252c\u00e1 SANT NAMDEO ROAD, PANCHGANI CITY, TAL MAHABLESHWARDIST SATARA -421805",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "DMKJ0000008",
+            "office": "PANCHGANI",
+            "phone": "240403",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "MEDHA CITY, TAL JAOLI, DIST SATARA - 415012",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "DMKJ0000009",
+            "office": "MEDHA",
+            "phone": "285568",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "BHAYANDER",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "BHAYANDER",
+            "district": "THANE",
+            "ifsc": "DMKJ0000010",
+            "office": "BHAYANDER",
+            "phone": "28198991",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "UGAM COMPLEX, SECTOR NO-40,NERUL SEA WOOD, NAVI MUMBAI-400 706",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "DMKJ0000011",
+            "office": "SEAWOOD-NERUL",
+            "phone": "27716145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "RATNAUMED RESIDENCY, PLOT NO. 117,\u252c\u00e1LOUIS WADI, PANCHPAKHADI, THANE(W)-400 604",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "DMKJ0000012",
+            "office": "THANE",
+            "phone": "25835443",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SHREE COMMERCIAL COMPLEX,UPPER GR.FLOOR, DHARMAPURI,KISANVEER CHOWK WAI CITY,DIST-SATARA. -412 803.",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "DMKJ0000013",
+            "office": "WAI",
+            "phone": "220055",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "DURGADEVI EKTA CHS LTD ,DATTA PADA ROAD, RAJENDRA NAGAR, BORIVALI E , MUMBAI -400 066",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000014",
+            "office": "BORIVALI",
+            "phone": "28708339",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "RUBY PALACE CHS LTD , SECTOR-12,PANVEL-MATHERAN ROAD,NEW PANVEL,DIST-RAIGAD PIN-410 206",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "DMKJ0000015",
+            "office": "NEW PANVEL",
+            "phone": "27480366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "PAWAR TOWER OPP.KAMANI HAUD,GURUWAR PETH ,SATARA CITY, DIST-SATARA. -415 002",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "DMKJ0000016",
+            "office": "SATARA",
+            "phone": "230556",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "RAGHUKUL HEIGHTS,DR. R.P.ROAD, RAM NAGAR, DOMBIVALI (EAST) MUMBAI-421 201",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "DMKJ0000017",
+            "office": "DOMBIVLI",
+            "phone": "2863970",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "KOHINOOR APPARTMENT,\u252c\u00e11ST FLOOR,378 N C KELKAR ROAD, ABOVE TITAN SHOWROOM, DADAR (WEST)MUMBAI-400 028.",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000018",
+            "office": "DADAR",
+            "phone": "24314231",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 1973,GOUND FLOOR,DESHMUKH NAGAR, OLD ST STAND,SHIRWAL,TAL- KHANDALA, DIST SATARA PIN-412801",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "DMKJ0000019",
+            "office": "SHIRWAL",
+            "phone": "244003",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "SHREE RAVECHI APPT. GROUND FLOOR,SHOP NO- 1& 2,PLOT NO-14/15, SECTOR NO. 20, KOPARKHAIRANE, NAVI MUMBAI -400709.",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "DMKJ0000020",
+            "office": "KOPARKHAIRANE",
+            "phone": "27547271",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SHREE GURUDATTA COMPLEX CHS LTD GROUND FLOOR,A WING SHOP NO-5,6,7,PLOT NO- 44,45 AND 46, SECTOR NO- 8A, DIVE, AIROLI, NAVI MUMBAI- 400708",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "DMKJ0000021",
+            "office": "AIROLI",
+            "phone": "27601232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "SANTOSH C H S LTD , SHOP NO 1,2, & 3, GR FLOOR, PLOT NO 7, HAVAHIRA PARK, ACHARYA DHARMA SURI MARG, KURAR VILLAGE, MALAD E MUMBAI 400 097",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000022",
+            "office": "MALAD",
+            "phone": "28405053",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "JAY GANESH VISION,UPPER GR.FLOOR, SHOP NO.2,&3, A-WING, AKURDI, PIMPRI-CHINCHWAD. PUNE- 411 035",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DMKJ0000023",
+            "office": "PIMPRI CHINCHWAD PUNE",
+            "phone": "27241199",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4, AMOGH C.H.S.LTD,WAMAN TUKARAM PATIL MARG,CHEMBUR EAST, MUMBAI 400 071",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000024",
+            "office": "CHEMBUR EAST",
+            "phone": "25213826",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 9, J K TOWER,CTS NO 281,HARIYALI VILLAGE, VIKHROLI EAST,MUMBAI 400 083",
+            "bank_name": "DMK JAOLI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DMKJ0000025",
+            "office": "VIKHROLI EAST",
+            "phone": "25740037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    }
+]

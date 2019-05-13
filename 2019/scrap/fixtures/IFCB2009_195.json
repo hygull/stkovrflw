@@ -1,0 +1,812 @@
+[
+    {
+        "fields": {
+            "address": "THODUPUZHA M&E BRANCH,THODUPUZHA P.O,PIN 685 584",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THODUPUZHA M AND E",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000002",
+            "office": "THODUPUZHA M AND E",
+            "phone": "8547800108",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "KATTAPPANA MAIN BRANCH,KATTAPPANA P.O,PIN 685 508",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KATTAPPANA MAIN",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000003",
+            "office": "KATTAPPANA MAIN",
+            "phone": "8547800104",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "ADIMALI MAIN BRANCH,ADIMALI P.O,PIN 685 561",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ADIMALY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000004",
+            "office": "ADIMALY",
+            "phone": "8547800102",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "MUNNAR MAIN BRANCH,MUNNAR P.O,PIN 685 612",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUNNAR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000005",
+            "office": "MUNNAR",
+            "phone": "8547800103",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "VANDIPERIYAR BRANCH,VANDIPERIYAR P.O,PIN 685 533",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VANDIPERIYAR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000006",
+            "office": "VANDIPERIYAR",
+            "phone": "8547800107",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "VAZHATHOPE BRANCH,THADIYAMPADU P.O,PIN 685 602",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VAZHATHOPE",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000007",
+            "office": "VAZHATHOPE",
+            "phone": "8547800105",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "MUNDIYERUMA BRANCH,THOOKKUPALAM,K.P.COLONY P.O,PIN 685 552",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUNDIYERUMA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000008",
+            "office": "MUNDIYERUMA",
+            "phone": "8547800106",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "MUNDAKKAYAM EAST BRANCH,MUNDAKKAYAM EAST P.O,PIN 686 513",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUNDAKAYAM EAST",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000009",
+            "office": "MUNDAKAYAM EAST",
+            "phone": "8547800109",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "KALIYAR BRANCH,VANNAPPURAM P.O,PIN 685 582",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KALIYAR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000010",
+            "office": "KALIYAR",
+            "phone": "8547800110",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "THODUPUZHA MAIN BRANCH,THODUPUZHA P.O,PIN 685 584",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THODUPUZHA MAIN",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000011",
+            "office": "THODUPUZHA MAIN",
+            "phone": "8547800101",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "KUNCHITHANNY BRANCH,KUNCHITHANNY P.O,PIN 685 565",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUNCHITHANNI",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000012",
+            "office": "KUNCHITHANNI",
+            "phone": "8547800112",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SANTHANPARA BRANCH,SANTHANPARA P.O,PIN 685 619",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SANTHAPARA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000013",
+            "office": "SANTHAPARA",
+            "phone": "8547800113",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "NEDUMKANDOM BRANCH,NEDUMKANDOM P.O,PIN 685 553",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NEDUMKANDAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000014",
+            "office": "NEDUMKANDAM",
+            "phone": "8547800115",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KUMILY MAIN BRANCH,KUMILY P.O,PIN 685 509",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMILY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000015",
+            "office": "KUMILY",
+            "phone": "8547800116",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "MURICKASSERY BRANCH,MURICKASSERY P.O,PIN 685 604",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MURICKASSERY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000016",
+            "office": "MURICKASSERY",
+            "phone": "8547800114",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "VAZHITHALA BRANCH,VAZHITHALA P.O,PIN 685 583",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VAZHITHALA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000017",
+            "office": "VAZHITHALA",
+            "phone": "8547800117",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "UDUMBANNOOR BRANCH,UDUMBANNOOR P.O,PIN 685 595",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "UDUMBANOOR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000018",
+            "office": "UDUMBANOOR",
+            "phone": "8547800118",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "KATTAPPANA EVENING BRANCH,KATTAPPANA P.O,PIN 685 508",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KATTAPPANA EVG",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000019",
+            "office": "KATTAPPANA EVG",
+            "phone": "8547800119",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "UPPUTHARA BRANCH,UPPUTHARA P.O,PIN 685 505",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "UPPUTHARA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000020",
+            "office": "UPPUTHARA",
+            "phone": "8547800120",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "KARIMKUNNAM BRANCH,KARIMKUNNAM P.O,PIN 685 586",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KARIMKUNNAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000021",
+            "office": "KARIMKUNNAM",
+            "phone": "8547800121",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RAJAKKADU BRANCH,RAJAKKADU P.O,PIN 685 566",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJAKKAD",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000022",
+            "office": "RAJAKKAD",
+            "phone": "8547800122",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "VANDANMEDU BRANCH,VANDANMEDU P.O,PIN 685 551",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VANDANMEDU",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000023",
+            "office": "VANDANMEDU",
+            "phone": "8547800123",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "ELAPPARA BRANCH,ELAPPARA P.O,PIN 685 501",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ELAPPARA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000024",
+            "office": "ELAPPARA",
+            "phone": "8547800124",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "MUTTOM BRANCH,MUTTOM P.O,PIN 685 587",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUTTOM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000025",
+            "office": "MUTTOM",
+            "phone": "8547800125",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "KAMBILIKANDOM BRANCH,KAMBILIKANDOM P.O,PIN 685 571",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KAMBILIKANDAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000026",
+            "office": "KAMBILIKANDAM",
+            "phone": "8547800126",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "KANJIKUZHY BRANCH,IDUKKI KANJIKUZHY P.O,PIN 685606",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KANJIKUZHI",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000027",
+            "office": "KANJIKUZHI",
+            "phone": "8547800127",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "CHEMMANNAR BRANCH,CHEMMANNAR P.O,PIN 685 554",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHEMMANNAR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000028",
+            "office": "CHEMMANNAR",
+            "phone": "8547800128",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "ANAKKARA BRANCH,ANAKKARA P.O,PIN 685 512",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ANAKKARA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000029",
+            "office": "ANAKKARA",
+            "phone": "8547800129",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "KUMILY EVENING BRANCH,KUMILY P.O,PIN 685 509",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUMILY EVG",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000030",
+            "office": "KUMILY EVG",
+            "phone": "8547800130",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "THANKAMANY BRANCH,THANKAMANY P.O,PIN 685 609",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THANKAMANY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000031",
+            "office": "THANKAMANY",
+            "phone": "8547800131",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "THODUPUZHA TOWN BRANCH,THODUPUZHA P.O,PIN 685 584",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THODUPUZHA TOWN",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000032",
+            "office": "THODUPUZHA TOWN",
+            "phone": "8547800132",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "KARIMANNOOR BRANCH,KARIMANNOOR P.O,PIN 685 581",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KARIMANNOOR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000033",
+            "office": "KARIMANNOOR",
+            "phone": "8547800133",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "CHERUTHONY EXTENSION COUNTER,IDUKKI COLONY P.O,PIN 685 602",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "CHERUTHONY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000034",
+            "office": "CHERUTHONY",
+            "phone": "8547800134",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "RAJAKUMARY BRANCH,RAJAKUMARY SOUTH P.O,PIN 685 619",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAJAKUMARY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000035",
+            "office": "RAJAKUMARY",
+            "phone": "8547800135",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "KANJAR BRANCH,KANJAR P.O,PIN 685 592",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KANJAR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000036",
+            "office": "KANJAR",
+            "phone": "8547800136",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "KUTTIKKANAM BRANCH,KUTTIKKANAM P.O,PIN 685 531",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KUTTIKKANAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000037",
+            "office": "KUTTIKKANAM",
+            "phone": "8547800137",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "MANKULAM BRANCH,MANKULAM P.O,PIN 685 565",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANKULAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000038",
+            "office": "MANKULAM",
+            "phone": "8547800138",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "POOPPARA EXTENSION COUNTER,POOPPARA P.O,PIN 685 619",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "POOPPARA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000039",
+            "office": "POOPPARA",
+            "phone": "8547800139",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "VATTAVADA BRANCH,KOVILOOR P.O,PIN 685 615",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VATTAVADA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000040",
+            "office": "VATTAVADA",
+            "phone": "8547800140",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "MUNNAR EVENING BRANCH,MUNNAR P.O,PIN 685 612",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUNNAR EVG",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000041",
+            "office": "MUNNAR EVG",
+            "phone": "8547800141",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "WEST KODIKKULAM BRANCH,KODIKULAM P.O,PIN 685 582",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "WEST KODIKULAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000042",
+            "office": "WEST KODIKULAM",
+            "phone": "8547800142",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "MANGATTUKAVALA BRANCH,THODUPUZHA EAST P.O,PIN 685 585",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MANGATTUKAVALA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000043",
+            "office": "MANGATTUKAVALA",
+            "phone": "8547800143",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "ADIMALI EVENING BRANCH,ADIMALI P.O,PIN 685 561",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "ADIMALY EVENING",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000044",
+            "office": "ADIMALY EVENING",
+            "phone": "8547800144",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VELLIAMATTOM BRANCH,PANNIMATTAM P.O,PIN 685 588",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VELLIAMATTOM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000045",
+            "office": "VELLIAMATTOM",
+            "phone": "8547800145",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "NEYYASSERY BRANCH,NEYYASSERY P.O,PIN 685 581",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NEYYASSERY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000046",
+            "office": "NEYYASSERY",
+            "phone": "8547800146",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "THOPRAMKUDY BRANCH,THOPRAMKUDY P.O,PIN 685 515",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "THOPRAMKUDY",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000047",
+            "office": "THOPRAMKUDY",
+            "phone": "8547880200",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "LABBAKADA BRANCH,KALTHOTTY P.O,PIN 685 507",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LABBAKKADA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000048",
+            "office": "LABBAKKADA",
+            "phone": "8547880201",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "VENGALLOOR BRANCH,VENGALLOOR P.O,PIN 685 608",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "VENGALLOOR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000049",
+            "office": "VENGALLOOR",
+            "phone": "8547880216",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "PATTAYAMKAVALA BRANCH,MUTHALAKODAM P.O.PIN 685 605",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "PATTAYAMKAVALA",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000050",
+            "office": "PATTAYAMKAVALA",
+            "phone": "8547880228",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "IRUMPUPALAM BRANCH,VALARA P.O.PIN 685 561",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "IRUMPUPALAM",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000051",
+            "office": "IRUMPUPALAM",
+            "phone": "8547880243",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "NEDUMKANDOM TOWN BRANCH,NEDUMKANDOM P.O,PIN 685 553",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NEDUMKANDAM TOWN",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000052",
+            "office": "NEDUMKANDAM TOWN",
+            "phone": "8547880235",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "KATTAPPANA TOWN",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KATTAPPANA TOWN",
+            "district": "IDDUKI",
+            "ifsc": "IDUK0000053",
+            "office": "KATTAPPANA TOWN",
+            "phone": "8547880234",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "MARAYOOR BRANCH,MARAYOOR P.O.PIN 685 620",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MARAYOOR",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000054",
+            "office": "MARAYOOR",
+            "phone": "8547880237",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "HEAD OFFICE,IDUKKI,P.B.NO.2,IDUKKI COLONY P.O.PIN 685 602",
+            "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HEAD OFFICE",
+            "district": "IDUKKI",
+            "ifsc": "IDUK0000055",
+            "office": "HEAD OFFICE",
+            "phone": "235292",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    }
+]

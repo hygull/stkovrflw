@@ -12,7 +12,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 16336
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 16337
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 16338
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 16339
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 16340
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 16341
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 16342
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 16343
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 16344
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 16345
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 16346
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 16347
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 16348
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 16349
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 16350
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 16351
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 16352
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 16353
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 16354
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 16355
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 16356
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 16357
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 16358
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 16359
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 16360
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 16361
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 16362
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 16363
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 16364
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 16365
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 16366
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 16367
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 16368
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 16369
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 16370
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 16371
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 16372
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 16373
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 16374
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 16375
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 16376
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 16377
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 16378
     },
     {
         "fields": {
@@ -657,6 +657,6 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 16379
     }
 ]

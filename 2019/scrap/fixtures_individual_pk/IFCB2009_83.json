@@ -1,0 +1,1367 @@
+[
+    {
+        "fields": {
+            "address": "NO.1, UTHUNGA, PAMPAMAHAKAVI RAOD, CHAMARAJPET, BANGALORE - 560018",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0000001",
+            "office": "RTGS-HO",
+            "phone": "22676614",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "JANATHA BAZAR BUILDING,K G ROAD,GANDHINAGAR,BANGALORE 560009",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001002",
+            "office": "GANDHINAGAR",
+            "phone": "22976662",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "DR AMBEDKAR VEEDI,VIDHANA SOUDHA,BANGALORE 560001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001003",
+            "office": "VIDHANA SOUDHA",
+            "phone": "22976661",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "9TH MAIN,JAYANAGAR 4TH BLOCK,BANGALORE 560011",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001004",
+            "office": "JAYANAGAR MARKET COMPLEX",
+            "phone": "22976665",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "ANSARI BUILDING,NO 26/3,OPP SULTAN SHAH MASJID,BOWRING HOSPITAL ROAD SHIVAJINAGAR BANGALORE 560001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001005",
+            "office": "SHIVAJINAGAR",
+            "phone": "22946667",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "NO 491,64TH CROSS,5TH BLOCK,NEAR BASHAM CIRCLE,RAJAJINAGAR,BANGALORE 560010",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001006",
+            "office": "RAJAJI NAGAR",
+            "phone": "22976666",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "NO 108/13,50 FEET ROAD,SRINAGAR,2ND BLOCK,BSK 1ST STAGE,BANGALORE 560050",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001009",
+            "office": "BANASHANKARI",
+            "phone": "22976663",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "PUBLIC UTILITY BUILDING,M G ROAD,BANGALORE 560001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001011",
+            "office": "PUBLIC UTILITY BUILDING",
+            "phone": "22976677",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "NO 117,2ND STAGE,WEST OF CHORD ROAD,BANGALORE 560086",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001012",
+            "office": "MAHALAKSHMI PURAM",
+            "phone": "22976675",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "NO 29,ANUGRAHA COMPLEX,12TH MAIN ROAD,SUDHEENDRA NAGAR,GUTTAHALLI,MALLESHWARAM,BANGALORE 560003",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001014",
+            "office": "VYALIKAVAL",
+            "phone": "22976669",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "NO 310,100 FEET ROAD,INDIRANAGAR,1ST STAGE,BANGALORE 560038",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001015",
+            "office": "INDIRANAGAR",
+            "phone": "22976670",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "NO 1/7,1ST BLOCK,JAYANAGAR,BANGALORE 560050",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001016",
+            "office": "ASHOKA PILLAR",
+            "phone": "22976671",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "NO AC-17,1ST MAIN,VIJAYANAGAR,BANGALORE 560040",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001017",
+            "office": "VIJAYANAGAR",
+            "phone": "22976672",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "NO 29,MS RAMAIAH ROAD,MATHIKERE,BANGALORE 560054",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001020",
+            "office": "GOKULA",
+            "phone": "22976673",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "NO 70,11TH CROSS,MAGADI ROAD,BANGALORE 560023",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001021",
+            "office": "MAGADI ROAD",
+            "phone": "22976674",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "NO 257/03,13TH CROSS,WILSON GARDEN,HOSUR MAIN ROAD,BANGALORE 560027",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001022",
+            "office": "LAKKASANDRA",
+            "phone": "22976668",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "NO 487/109,EAST END ROAD,JAYANAGAR 9TH BLOCK,BANGALORE 560069",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001023",
+            "office": "JAYANAGAR NINTH BLOCK",
+            "phone": "22976676",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "NO 1,1ST MAIN,3RD STAGE,3RD BLOCK,BASAVESHWARA NAGAR,BANGALORE 560079",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001024",
+            "office": "BASAVESHWARA NAGAR",
+            "phone": "22976664",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "NO 18/2,5TH MAIN ROAD,GANGENAHALLI LAYOUT,BANGALORE 560032",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001025",
+            "office": "GANGANAGAR",
+            "phone": "22976678",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "LEGISLATORS HOME BUILDING,BANGALORE 560001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001026",
+            "office": "LEGISLATORS HOME",
+            "phone": "22976679",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "NO 120/A,KHB COLONY,KORMANGALA,BANGALORE 560095",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001028",
+            "office": "KORAMANGALA",
+            "phone": "22976680",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "COOPERATIVE TRAINING COLLEGE PREMISES,PADMANABHA NAGAR,BANGALORE 560070",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001029",
+            "office": "PADMANABHA NAGAR",
+            "phone": "22976681",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "DR AMBEDKAR VEEDI,BANGALORE 560001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001030",
+            "office": "MULTI STORED BUILDING",
+            "phone": "22976682",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "NO 404,80 FEET ROAD,GIRINAGAR,BANGALORE 560085",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001031",
+            "office": "GIRINAGAR",
+            "phone": "22976683",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "NO 128/117,2ND PHASE,J P NAGAR,BANGALORE 560078",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001032",
+            "office": "J P NAGAR",
+            "phone": "22976684",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "NO 259,RING ROAD,HSR LAYOUT,AGARA VILLAGE,BANGALORE 560034",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001033",
+            "office": "AGARA",
+            "phone": "22976685",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "NO 199,9TH B MAIN ROAD,PIPELINE ROAD,VIJAYANAGAR,RPC LAYOUT,BANGALORE 560040",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001034",
+            "office": "RPC LAYOUT",
+            "phone": "22976686",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "NO 63,NEAR SHREYA HOSPITAL,BDA KENGERI SATELLITE TOWN,BANGALORE 560060",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001035",
+            "office": "KENGERI SATTELITE TOWN",
+            "phone": "22976687",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "NO 32,8TH CROSS,CHANDRA LAYOUT,BANGALORE 560040",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001036",
+            "office": "CHANDRA LAYOUT",
+            "phone": "22976688",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "V C EXTENSION,DR RAJKUMAR ROAD,RAJAJINAGAR,BANGALORE 560055",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001037",
+            "office": "VIVEKANANDA COLLEGE EXTENSION",
+            "phone": "22976689",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "NO 19/4&3,DINNUR MAIN ROAD, R T NAGAR,BANGALORE 560032",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001038",
+            "office": "R T NAGAR",
+            "phone": "22976690",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "NO 80/1,HEROHALLI VILLAGE,YESHWANTHAPURA HOBLI,BANGALORE NORTH TALUK,BANGALORE 560091",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001039",
+            "office": "SUNKADAKATTE",
+            "phone": "22976691",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "NO17,POOJA COMPLEX,K R PURAM HOBLI,OLD MADRAS ROAD,BANGALORE EAST TALUK,BANGALORE 560036",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001040",
+            "office": "KRISHNARAJA PURAM",
+            "phone": "22976692",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 191,NO 49&54,HOODI NAGAPPA LAYOUT,BASAVANNA NAGAR ROAD,HOODI VILLAGE,K R PURAM HOBLI,BANGALORE EAST 560048",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001041",
+            "office": "MAHADEVAPURA",
+            "phone": "22976699",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "NO 1461,MUNIKOTI,1ST MAIN NEHRU NAGAR,YELAHANKA,BANGALORE 560064",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001042",
+            "office": "YELAHANKA",
+            "phone": "22976693",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "NO 10&21,KITHINGANAHALLI,HENNAGARA GATE,NH 7 ANEKAL TALUK,BANGALORE 560099",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001043",
+            "office": "BOMMASANDRA",
+            "phone": "22976632",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "NO 19&43,SRI LAKSHMINARASIMHA COMPLEX BUILDING,HEASARAGHATTA MAIN ROAD,WARD NO 14,DASARAHALLI,BANGALORE 560057",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001044",
+            "office": "T DASARAHALLI",
+            "phone": "22976695",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "NO 569,3RD PHASE,3RD BLOCK,BDA LAYOUT,BSK 3RD STAGE,BANGALORE 560085",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001045",
+            "office": "BANASHANKARI THIRD STAGE",
+            "phone": "22976700",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "NO 18,100 FEET RING ROAD,1ST PHASE 2ND STAGE,BTM LAYOUT,BANGALORE 560076",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001046",
+            "office": "BTM LAYOUT",
+            "phone": "22976696",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "NO 3926/3900/3840/13,5TH A STAGE,HALAGEVADRAHALLY VILLAGE,KENGERI HOBLI,BANGALORE SOUTH TALUK,BANGALORE 560098",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001047",
+            "office": "RAJARAJESHWARI NAGAR",
+            "phone": "22976697",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "NO 107/108,1ST FLOOR,SRI LAKSHMI VENKATESHWARA ARCADE,SHIVARAM KARANTH NAGAR,THANISANDRA,BANGALORE 560077",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001048",
+            "office": "THANISANDRA",
+            "phone": "25446554",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "NO 24,NGEF EAST,KASTURINAGAR,BENNIGANA HALLI,BANGALORE 560043",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0001049",
+            "office": "NGEF",
+            "phone": "22976634",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "NO.951,1ST FLOOR, OPP. TO BEL WHITE SQUARE APARTMENT,VIDAYARANYAPURAM MAIN ROAD, BENGALURU-560097",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001050",
+            "office": "VIDHYARANYAPURAM",
+            "phone": "22976635",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "NO.21, GOWRI COMPLEX, ULLAL MAIN ROAD, MANGANAHALLI CROSS, VISHVESHWARAIAH LAYOUT, 5TH BLOCK, OPPOSITE BUS STOP, BENGALURU-560056.",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001051",
+            "office": "SIR M VISHWESHWARAIAH LAYOUT",
+            "phone": "23240450",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "NO.1061, BILEKAHALLI VILLAGE, BEGUR HOBLI, BANNERGHATTA ROAD, BENGALURU SOUTH TALUK, BENGALURU-560076.",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001052",
+            "office": "BANNERUGHATTA ROAD BRANCH",
+            "phone": "22976636",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "NO.5, KHATHA NO 90/2, VAJARAHALLI TO KANAKAPURA MAIN ROAD, UTHARAHALLI HOBLI, BENGALURU SOUTH TALUK, BENGALURU - 560109",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001053",
+            "office": "TALAGHATAPURA BRANCH",
+            "phone": "22976637",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "NO.2388/A,12TH MAIN ROAD,A-BLOCK,SUBRAMANYANAGAR MAIN ROAD,RAJAJINAGAR,2ND STAGE,BENGALURU-560010",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001054",
+            "office": "GAYATHRINAGAR",
+            "phone": "22976628",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "NO 1348, 29TH MAIN ROAD, POORNAPRAJNA HBCS LAYOUT, VADDARAPALYA VILLAGE, UTTARAHALLI HOBLI, BENGALURU 560061",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KSCB0001055",
+            "office": "UTTARAHALLI",
+            "phone": "22976629",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "NO 6,LAKSHMISADANA,5TH MAIN ROAD,CHAMARAJPET, BANGALORE 560018",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "KSCB0002001",
+            "office": "BANGALORE RURAL RAMANAGAR COOP BANK",
+            "phone": "22427940",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "AMMAVARIPET,KOLAR 563101",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "KOLAR",
+            "district": "KOLAR",
+            "ifsc": "KSCB0003001",
+            "office": "KOLAR CHIKKABALLAPUR CO-OP BANK LTD",
+            "phone": "222042",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "D C OFFICE ROAD,CHITRADURGA 577501",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "CHITRADURGA",
+            "district": "CHITRADURGA",
+            "ifsc": "KSCB0004001",
+            "office": "CHITRADURGA CENTRAL CO-OP BANK LTD",
+            "phone": "422546",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "BALARAJ URS ROAD,SHIMOGA 577201",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "SHIMOGA",
+            "district": "SHIMOGA",
+            "ifsc": "KSCB0005001",
+            "office": "SHIMOGA CENTRAL CO-OP BANK LTD",
+            "phone": "222396",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "P B NO 44,TOWN POLICE STATION ROAD,TUMKUR 572101",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006001",
+            "office": "TUMKUR DISTRICT COOP BANK LTD",
+            "phone": "2278418",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,S S PURAM BRANCH,S S PURAM MAIN ROAD TUMKUR-572102",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006002",
+            "office": "TUMKUR DCC BANK LTD , S.S PURAM BR",
+            "phone": "2274059",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,KORATAGERE BR,KORATAGERE BUS STAND,KORATAGERE TUMKUR DIST TUMKUR-572129",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006003",
+            "office": "TUMKUR DCC BANK LTD , KORATAGERE BR",
+            "phone": "232143",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,MADHUGIRI BR,NEAR HIGH SCHOOL CIRCLE MADHUGIRI TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006004",
+            "office": "TUMKUR DCC BANK LTD , MADHUGIRI BR",
+            "phone": "282368",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,PAVAGADA BR,BELLARY ROAD PAVAGADA TQ,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006005",
+            "office": "TUMKUR DCC BANK LTD , PAVAGADA BR",
+            "phone": "244277",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,SIRA BR,OPP MUNICIPAL OFFICE SIRA,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006006",
+            "office": "TUMKUR DCC BANK LTD , SIRA BR",
+            "phone": "275224",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,TIPTUR BR,B.H ROAD,TIPTUR,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006008",
+            "office": "TUMKUR DCC BANK LTD , TIPTUR BR",
+            "phone": "251160",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,TURUVEKERE BR,DABBEGATTA ROAD,BESIDE TALUK OFFICE TURUVEKERE,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006009",
+            "office": "TUMKUR DCC BANK LTD , TURUVEKERE BR",
+            "phone": "287332",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,C.N HALLI BR,B.H ROAD,OPP IDGA MOHALLA C.N.HALLI TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006010",
+            "office": "TUMKUR DCC BANK LTD , C N HALLI BR",
+            "phone": "267228",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,KUNIGAL BR,OPP M MHOSPITAL,BM ROAD,KUNIGAL,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006011",
+            "office": "TUMKUR DCC BANK LTD , KUNIGAL BR",
+            "phone": "220247",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,KODIGENAHALLI BR,NEAR BUS STAND KODEGENAHALLI,MADHUGIRI TQ TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006012",
+            "office": "TUMKUR DCC BANK LTD , KODIGENAHALLI BR",
+            "phone": "279524",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,YN HOSAKOTE BR,YN HOSAKOTE PAVAGADA TQ,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006013",
+            "office": "TUMKUR DCC BANK LTD , Y N HOSAKOTE BR",
+            "phone": "247243",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,NONAVINAKERE BR,YT ROAD,NONAVINAKERE ,TIPTUR TQ,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006015",
+            "office": "TUMKUR DCC BANK LTD , NONAVINAKERE BR",
+            "phone": "258102",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,DANDINASHIVARA BR,NEAR BUS STAND,D.SHIVARA,T.V.KERE TQ,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006016",
+            "office": "TUMKUR DCC BANK LTD , DANDINASHIVARA BR",
+            "phone": "278329",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,HANDANAKERE BR,NEAR VSSN C.N.HALLI TQ,TUMKUR DIST",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006018",
+            "office": "TUMKUR DCC BANK LTD , HANDANAKERE BR",
+            "phone": "257742",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD., BYALYA BR,BYALYA,MADHUGIRI TQ,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006019",
+            "office": "TUMKUR DCC BANK LTD , BYALYA BR",
+            "phone": "280521",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,KYATHSANDRA BR,B.H ROAD,KYATHSANDRA,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006020",
+            "office": "TUMKUR DCC BANK LTD ,KYATHSANDRA BR",
+            "phone": "2284735",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,HULIYURDURGA BR,KUNIGAL MADDURU ROAD,HULIYUR DURGA,KUNIGAL TQ TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006021",
+            "office": "TUMKUR DCC BANK LTD , HULIYURDURGA BR",
+            "phone": "223452",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,BARGUR BR,BARGUR SIRA TQ TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006022",
+            "office": "TUMKUR DCC BANK LTD , BARAGURU BR",
+            "phone": "270764",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,NAGAVALLI BR,KUNIGAL MAIN ROAD,NAGAVALLI TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006023",
+            "office": "TUMKUR DCC BANK LTD , NAGAVALLI BR",
+            "phone": "2248074",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,HULIYAR BR,BH ROAD,HULIYAR,CN HALLI TQ,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006024",
+            "office": "TUMKUR DCC BANK LTD ,HULIYAR BR",
+            "phone": "256774",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,BARGUR COMPLEX,B.H ROAD,TUMKUR-572103",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006026",
+            "office": "TUMKUR DCC BANK LTD , B H ROAD BR",
+            "phone": "284575",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,SIRA ROAD,G.H.R COMPLEX,BADAVANAHALLI MADHUGIRI TQ,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006027",
+            "office": "TUMKUR DCC BANK LTD , BADAVANAHALLI BR",
+            "phone": "284575",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,MALLASANDRA BR,TUMUL ADMINISTRATION BUILDING,MALLASANDRA TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006028",
+            "office": "TUMKUR DCC BANK LTD , MALLASANDRA BR",
+            "phone": "8095595586",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD.,APMC BR,NEW VEGETABLE MARKET,TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006029",
+            "office": "TUMKUR DCC BANK LTD , APMC BR",
+            "phone": "2211331",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCCB LTD., ARASIKERE NIDGAL HOBLI PAVAGADA TQ TUMKUR",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006030",
+            "office": "TUMKUR DCC BANK LTD , ARASIKERE BR",
+            "phone": "248477",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "TUMKUR DCC BANK LTD.,HOLAVANAHALLI BRANCH,TUMKUR ROAD KORATAGERE TQ TUMKUR-572121",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "KSCB0006031",
+            "office": "TUMKUR DCC BANK LTD , HOLAVANAHALLI BR",
+            "phone": "234111",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "NEHRU CIRCLE,ASHOKA ROAD,MYSORE 570001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "KSCB0007001",
+            "office": "MYSORE CHAMARAJANAGAR CO-OP BANK",
+            "phone": "2520836",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "P B NO 14, H O MANDYA 571401",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "MANDYA",
+            "district": "MANDYA",
+            "ifsc": "KSCB0008001",
+            "office": "MANDYA DISTRICT COOP BANK LTD",
+            "phone": "226010",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "M G ROAD,NEAR G T CIRCLE,MADIKERI 571201",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "MADIKERI",
+            "district": "MADIKERI",
+            "ifsc": "KSCB0011001",
+            "office": "KODAGU CENTRAL CO-OP BANK LTD",
+            "phone": "228590",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "RATHNAGIRI ROAD,CHIKMAGALUR 577101",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "CHIKAMGALUR",
+            "district": "CHIKAMGALUR",
+            "ifsc": "KSCB0012001",
+            "office": "CHIKMAGALUR DISTRICT COOP BANK LTD",
+            "phone": "231240",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "K C NAGAR,SHOLAPUR ROAD,BIJAPUR 586103",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BIJAPUR",
+            "district": "BIJAPUR",
+            "ifsc": "KSCB0014001",
+            "office": "BIJAPUR CO-OP CENTRAL BANK LTD",
+            "phone": "261142",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "SUBASH ROAD,DHARWAD 580001",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "KSCB0015001",
+            "office": "KARNATAKA CENTRAL COOP BANK LTD",
+            "phone": "2444864",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "KANARA DISTRICT CENTRAL COOPERATIVE BANK LTD, NEW MARKET YARD, SIRSI, UTTARA KANNADA DISTRICT 581402",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "SIRSI",
+            "district": "UTTARA KANNADA",
+            "ifsc": "KSCB0016001",
+            "office": "KANARA DISTRICT CENTRAL CO-OP BANK",
+            "phone": "236304",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "JAGAT CIRCLE,MAIN ROAD,GULBARGA 585101",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "GULBARGA",
+            "district": "GULBARGA",
+            "ifsc": "KSCB0017001",
+            "office": "GULBARGA YADAGIR CO-OP BANK LTD",
+            "phone": "221894",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "THE DISTRICT COOP CENTRAL BANK LTD,BASAVESHWAR CHOWK,BIDAR 585401",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BIDAR",
+            "district": "BIDAR",
+            "ifsc": "KSCB0018001",
+            "office": "THE DISTRICT COOP CENTRAL BANK LTD BIDAR",
+            "phone": "226402",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.17,STATION ROAD,HEAD OFFICE,HOSPETE",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "HOSAPETE",
+            "district": "BALLARI",
+            "ifsc": "KSCB0020001",
+            "office": "THE BALLARI DISTRICT COOP CENTRAL BANK LTD,HO,HOSAPETE",
+            "phone": "228208",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "NO 311,A BLOCK,SRI D DEVARAJ URS LAYOUT,P B ROAD,DAVANAGERE 577006",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "DAVANAGERE",
+            "district": "DAVANAGERE",
+            "ifsc": "KSCB0701001",
+            "office": "DAVANAGERE CENTRAL CO-OP BANK LTD",
+            "phone": "237691",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "SECTOR NO 24,NAVANAGAR,BAGALKOT 587102",
+            "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+            "branch": "",
+            "city": "BAGALKOT",
+            "district": "BAGALKOT",
+            "ifsc": "KSCB0702001",
+            "office": "BAGALKOT DISTRICT CENTRAL COOP BANK",
+            "phone": "236443",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    }
+]

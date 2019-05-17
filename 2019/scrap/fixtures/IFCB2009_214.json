@@ -12,7 +12,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 15951
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 15952
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 15953
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 15954
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 15955
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 15956
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 15957
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 15958
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 15959
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 15960
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "TRIPURA"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 15961
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "SIKKIM"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 15962
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 15963
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 15964
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 15965
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 15966
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 15967
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 15968
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 15969
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 15970
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 15971
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 15972
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "SIKKIM"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 15973
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 15974
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 15975
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 15976
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "TRIPURA"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 15977
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "TRIPURA"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 15978
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 15979
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 15980
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 15981
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 15982
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 15983
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 15984
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 15985
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 15986
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 15987
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 15988
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 15989
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 15990
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 15991
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 15992
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 15993
     },
     {
         "fields": {
@@ -657,7 +657,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 15994
     },
     {
         "fields": {
@@ -672,7 +672,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 45
+        "pk": 15995
     },
     {
         "fields": {
@@ -687,7 +687,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 46
+        "pk": 15996
     },
     {
         "fields": {
@@ -702,7 +702,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 47
+        "pk": 15997
     },
     {
         "fields": {
@@ -717,7 +717,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 48
+        "pk": 15998
     },
     {
         "fields": {
@@ -732,7 +732,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 49
+        "pk": 15999
     },
     {
         "fields": {
@@ -747,7 +747,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 50
+        "pk": 16000
     },
     {
         "fields": {
@@ -762,7 +762,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 51
+        "pk": 16001
     },
     {
         "fields": {
@@ -777,7 +777,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 52
+        "pk": 16002
     },
     {
         "fields": {
@@ -792,7 +792,7 @@
             "state": "TRIPURA"
         },
         "model": "masterdata.ifsc",
-        "pk": 53
+        "pk": 16003
     },
     {
         "fields": {
@@ -807,7 +807,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 54
+        "pk": 16004
     },
     {
         "fields": {
@@ -822,7 +822,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 55
+        "pk": 16005
     },
     {
         "fields": {
@@ -837,7 +837,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 56
+        "pk": 16006
     },
     {
         "fields": {
@@ -852,7 +852,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 57
+        "pk": 16007
     },
     {
         "fields": {
@@ -867,7 +867,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 58
+        "pk": 16008
     },
     {
         "fields": {
@@ -882,7 +882,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 59
+        "pk": 16009
     },
     {
         "fields": {
@@ -897,7 +897,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 60
+        "pk": 16010
     },
     {
         "fields": {
@@ -912,7 +912,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 61
+        "pk": 16011
     },
     {
         "fields": {
@@ -927,7 +927,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 62
+        "pk": 16012
     },
     {
         "fields": {
@@ -942,7 +942,7 @@
             "state": "ARUNACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 63
+        "pk": 16013
     },
     {
         "fields": {
@@ -957,7 +957,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 64
+        "pk": 16014
     },
     {
         "fields": {
@@ -972,7 +972,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 65
+        "pk": 16015
     },
     {
         "fields": {
@@ -987,7 +987,7 @@
             "state": "ARUNACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 66
+        "pk": 16016
     },
     {
         "fields": {
@@ -1002,7 +1002,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 67
+        "pk": 16017
     },
     {
         "fields": {
@@ -1017,7 +1017,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 68
+        "pk": 16018
     },
     {
         "fields": {
@@ -1032,7 +1032,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 69
+        "pk": 16019
     },
     {
         "fields": {
@@ -1047,7 +1047,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 70
+        "pk": 16020
     },
     {
         "fields": {
@@ -1062,7 +1062,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 71
+        "pk": 16021
     },
     {
         "fields": {
@@ -1077,7 +1077,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 72
+        "pk": 16022
     },
     {
         "fields": {
@@ -1092,7 +1092,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 73
+        "pk": 16023
     },
     {
         "fields": {
@@ -1107,7 +1107,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 74
+        "pk": 16024
     },
     {
         "fields": {
@@ -1122,7 +1122,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 75
+        "pk": 16025
     },
     {
         "fields": {
@@ -1137,7 +1137,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 76
+        "pk": 16026
     },
     {
         "fields": {
@@ -1152,7 +1152,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 77
+        "pk": 16027
     },
     {
         "fields": {
@@ -1167,7 +1167,7 @@
             "state": "ARUNACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 78
+        "pk": 16028
     },
     {
         "fields": {
@@ -1182,7 +1182,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 79
+        "pk": 16029
     },
     {
         "fields": {
@@ -1197,7 +1197,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 80
+        "pk": 16030
     },
     {
         "fields": {
@@ -1212,7 +1212,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 81
+        "pk": 16031
     },
     {
         "fields": {
@@ -1227,7 +1227,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 82
+        "pk": 16032
     },
     {
         "fields": {
@@ -1242,7 +1242,7 @@
             "state": "MANIPUR"
         },
         "model": "masterdata.ifsc",
-        "pk": 83
+        "pk": 16033
     },
     {
         "fields": {
@@ -1257,7 +1257,7 @@
             "state": "MANIPUR"
         },
         "model": "masterdata.ifsc",
-        "pk": 84
+        "pk": 16034
     },
     {
         "fields": {
@@ -1272,7 +1272,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 85
+        "pk": 16035
     },
     {
         "fields": {
@@ -1287,7 +1287,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 86
+        "pk": 16036
     },
     {
         "fields": {
@@ -1302,7 +1302,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 87
+        "pk": 16037
     },
     {
         "fields": {
@@ -1317,7 +1317,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 88
+        "pk": 16038
     },
     {
         "fields": {
@@ -1332,7 +1332,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 89
+        "pk": 16039
     },
     {
         "fields": {
@@ -1347,7 +1347,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 90
+        "pk": 16040
     },
     {
         "fields": {
@@ -1362,7 +1362,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 91
+        "pk": 16041
     },
     {
         "fields": {
@@ -1377,7 +1377,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 92
+        "pk": 16042
     },
     {
         "fields": {
@@ -1392,6 +1392,6 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 93
+        "pk": 16043
     }
 ]

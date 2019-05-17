@@ -12,7 +12,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 131573
     },
     {
         "fields": {
@@ -27,6 +27,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 131574
     }
 ]

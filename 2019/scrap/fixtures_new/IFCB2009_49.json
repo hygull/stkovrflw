@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "1305, RAHEJA CENTRE,13TH FLOOR",
+            "bank_name": "MASHREQBANK PSC",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "NARIMAN POINT",
+            "ifsc": "MSHQ0000001",
+            "office": "RTGS-HO",
+            "phone": "66327200",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38067
+    }
+]

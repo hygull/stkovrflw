@@ -1,0 +1,602 @@
+[
+    {
+        "fields": {
+            "address": "152,POLAN PETH DANA BAZAR,",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000001",
+            "office": "RTGS-HO",
+            "phone": "2227711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36590
+    },
+    {
+        "fields": {
+            "address": "RING ROAD, SHIKSHAK WADI.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000002",
+            "office": "JILHA PETH",
+            "phone": "2240645",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36591
+    },
+    {
+        "fields": {
+            "address": "7,DIXIT WADI,OPP: TOL KATA.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000003",
+            "office": "GANESH WADI",
+            "phone": "2237714",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36592
+    },
+    {
+        "fields": {
+            "address": "CST NO 159/3A , VITTHAL PETH.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000004",
+            "office": "VITTHAL PETH",
+            "phone": "2227718",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36593
+    },
+    {
+        "fields": {
+            "address": "SHRIPATI COMPOUND,",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000005",
+            "office": "M.I.D.C.",
+            "phone": "2272811",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36594
+    },
+    {
+        "fields": {
+            "address": "BALAJI SANKUL,",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000006",
+            "office": "GANESH COLONY",
+            "phone": "2252704",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36595
+    },
+    {
+        "fields": {
+            "address": "M.J.COLLEGE CAMPUS",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000007",
+            "office": "M.J.COLLEGE",
+            "phone": "2227703",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36596
+    },
+    {
+        "fields": {
+            "address": "AT POST: NASHIRABAD,",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIRABAD",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000008",
+            "office": "NASHIRABAD",
+            "phone": "2356254",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36597
+    },
+    {
+        "fields": {
+            "address": "AT POST:  ASODA , TAL: JALGAON.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ASODA",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000009",
+            "office": "ASODA",
+            "phone": "2357517",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36598
+    },
+    {
+        "fields": {
+            "address": "AT POST:  BHADALI , TAL: JALGAON.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHADALI",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000010",
+            "office": "BHADALI",
+            "phone": "2465629",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36599
+    },
+    {
+        "fields": {
+            "address": "AT POST:  KANALDA , TAL: JALGAON.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANALDA",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000011",
+            "office": "KANALDA",
+            "phone": "2467512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36600
+    },
+    {
+        "fields": {
+            "address": "NEAR MAHABAL POLICE CHOWKY.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000012",
+            "office": "MAHABAL COLONY",
+            "phone": "2261512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36601
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1,2,3 & 4, NISARG PLAZA, JAMNER ROAD",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHUSAWAL",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000013",
+            "office": "BHUSAWAL",
+            "phone": "229988",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36602
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 15, LAXMI PLAZA,",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PACHORA",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000014",
+            "office": "PACHORA",
+            "phone": "240185",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36603
+    },
+    {
+        "fields": {
+            "address": "LEWA BOARDING SHOPPING COMPLEX",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000015",
+            "office": "LEWA BOARDING",
+            "phone": "2240649",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36604
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 6, ANNAPURNA TOWER,ADALAT ROAD",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JPCB0000016",
+            "office": "AURANGABAD",
+            "phone": "2346713",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36605
+    },
+    {
+        "fields": {
+            "address": "KAMALA CROSS ROAD, SHOP NO.1-4",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000017",
+            "office": "PIMPRI",
+            "phone": "27424490",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36606
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO.104, S.NO.84, VAIBHAV COMMERCIAL COMPLEX",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000018",
+            "office": "HADAPSAR",
+            "phone": "26812852",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36607
+    },
+    {
+        "fields": {
+            "address": "4773 / C, GARUD BAG, DHULE.",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "JPCB0000019",
+            "office": "DHULE",
+            "phone": "235487",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36608
+    },
+    {
+        "fields": {
+            "address": "S.NO. 135/12 B, PLOT NO. 1, PRABHA SOC.PAUD RAOAD",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000020",
+            "office": "PAUD ROAD",
+            "phone": "25447893",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36609
+    },
+    {
+        "fields": {
+            "address": "BHADSAWLE BUGLOW, AGARKAR ROAD",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "JPCB0000021",
+            "office": "DOMBIVALI",
+            "phone": "2430166",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36610
+    },
+    {
+        "fields": {
+            "address": "OMKAR HEIGHTS, VIDYA NAGAR,NEW SANGVI",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000022",
+            "office": "SANGVI",
+            "phone": "27250196",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36611
+    },
+    {
+        "fields": {
+            "address": "MADHURA TOWERS, BEHIND CITY MALL, KHETVANI NAGAR",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "JPCB0000023",
+            "office": "NASIK",
+            "phone": "2370727",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36612
+    },
+    {
+        "fields": {
+            "address": "PARMAR HOUSE, PLOT NO. 236,OPP. OLD TELEPHONE EXCH",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "JPCB0000024",
+            "office": "PANVEL",
+            "phone": "27453817",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36613
+    },
+    {
+        "fields": {
+            "address": "C.S. NO. 2528/2529, NEAR AMBEDKAR STATUE",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHOPDA",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000025",
+            "office": "CHOPDA",
+            "phone": "222033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36614
+    },
+    {
+        "fields": {
+            "address": "C-64, APMC MARKET, SECTOR-19,VASHI, NAVI MUMBAI",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASHI",
+            "district": "THANE",
+            "ifsc": "JPCB0000026",
+            "office": "VASHI BRANCH",
+            "phone": "27882791",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36615
+    },
+    {
+        "fields": {
+            "address": "AUM SUPREME,SHOP NO.8,RAMWADI,OLD BAIL BAZARQ",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "JPCB0000027",
+            "office": "KALYAN",
+            "phone": "2306865",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36616
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 4, N-9/K, S.NO 18/P,NR. TV CENTER, HUDCO",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JPCB0000028",
+            "office": "AURANGABAD HUDCO",
+            "phone": "2380355",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36617
+    },
+    {
+        "fields": {
+            "address": "GAIKWAD SANKUL, A-WING, GROUND FLOOR,GAIKWAD MALA",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "JPCB0000029",
+            "office": "NASHIK ROAD",
+            "phone": "2463727",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36618
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 GROUND FLOOR PLOT NO 525 SECTOR NO. 28 SHIKHA APARTMENT PUNE 411035",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000030",
+            "office": "AKURDI",
+            "phone": "2765117",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36619
+    },
+    {
+        "fields": {
+            "address": "SURVAY NO 47/11 NEW PLOT BEHIND SHIVAJI GARDAN AMALNER 425401",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMALNER",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000031",
+            "office": "AMALNER",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36620
+    },
+    {
+        "fields": {
+            "address": "DRUSHTI HOSPITAL GROUND FLOOR SURVAY NO 2259 RAMBAG RAVER 425508",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAVER",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000032",
+            "office": "RAVER",
+            "phone": "250082",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36621
+    },
+    {
+        "fields": {
+            "address": "CTS NO 2925 GUJRATHI GALLI PAROLA 425111",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAROLA",
+            "district": "JALGAON",
+            "ifsc": "JPCB0000033",
+            "office": "PAROLA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36622
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 TO 5 GROUND FLOOR CHAVAN MOHITE COMPLEX SURVAY NO 12 HISSA NO 1 DHYARI SINHGAD ROAD PUNE 411041",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JPCB0000034",
+            "office": "SINHGAD ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36623
+    },
+    {
+        "fields": {
+            "address": "BULDHALA ROA APPOSIT HANUMAN THEATHER MALKAPUR",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MALKAPUR",
+            "district": "BULDHANA",
+            "ifsc": "JPCB0000035",
+            "office": "MALKAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36624
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 37 PL NO 44/1,45,46/1,46/2 HOUSE NO 137 SHAH BAZAR,SHASTRI CHOWK OPP SHANI MANDIR BURHANPUR MP 450331",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BURHANPUR",
+            "district": "KHANDWA",
+            "ifsc": "JPCB0000036",
+            "office": "BURHANPUR",
+            "phone": "254218",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36625
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.7, NAJUL STREET NO 15A, KARANJA CHOWK, BULDHANA, 443001",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BULDHANA",
+            "district": "BULDHANA",
+            "ifsc": "JPCB0000037",
+            "office": "BULDHANA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36626
+    },
+    {
+        "fields": {
+            "address": "CTS 1115 E WARD SHOP NO 2 ANANT TOWER RAJARAM PURI ROAD SHAHAPURI KOLHAPUR",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "JPCB0000038",
+            "office": "KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36627
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 130 SHOP NO 39-42 FIRST FLOOR LADDHA MALL BEHIND RAJLAXMI TALKIES RAJKAMAL SQUARE AMRAVATI",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "JPCB0000039",
+            "office": "AMRAVATI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36628
+    },
+    {
+        "fields": {
+            "address": "C NO 803 5B HOUSE NO 467 AAKASH BUILDING PARESHINPURA MAIN ROAD NR ANDHALE HOSPITAL NANDURBAR",
+            "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NANDURBAR",
+            "district": "NANDURBAR",
+            "ifsc": "JPCB0000040",
+            "office": "NANDURBAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36629
+    }
+]

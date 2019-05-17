@@ -1,0 +1,287 @@
+[
+    {
+        "fields": {
+            "address": "2ND FLOOR, SURAJRAM BACHKANIWALA BHAVAN,NR.NAVJIVAN CIRCLE,UDHNA MAGDALLA RD., SURAT-395017,GUJARAT (INDIA)",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0000001",
+            "office": "RTGS-HO",
+            "phone": "2632519",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR., BANK BLOCK, SURAT TEXTILE MARKET,RING ROAD, SURAT-395002,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248002",
+            "office": "SURAT TEXTILE MARKET",
+            "phone": "2333948",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "MEGHANI MANSION GR.FLR.,STATION ROAD, SURAT-395003,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248003",
+            "office": "STATION ROAD",
+            "phone": "2402736",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "163-B,OLD GIDC, KATARGAM,SURAT-395004, GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248004",
+            "office": "KATARGAM",
+            "phone": "2407876",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "SUBHASH CHOWK, GOPIPURA,SURAT-395003,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248005",
+            "office": "GOPIPURA",
+            "phone": "2593059",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "BESIDE AASHIRWAD SOC., NR.NAVYUG COLLEGE,RANDER ROAD, SURAT-395009,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248006",
+            "office": "RANDER ROAD",
+            "phone": "2781989",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "GR.FLR., SHREYAS DIAMOND CENTRE,VARACHHA ROAD, SURAT-395006,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248007",
+            "office": "VARACHHA ROAD",
+            "phone": "2541876",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "ANJAN SALAKHA BLDG., NR.NEW DIST.COURT BLDG., ATHWALINES, SURAT-395001,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248008",
+            "office": "ATHWALINES",
+            "phone": "2254568",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "SURAJRAM BACHKANIWALA BHAVAN, GR.FLOOR,UDHNA-MAGDALLA RD., SURAT-395017,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248009",
+            "office": "UDHNA MAGDALLA ROAD",
+            "phone": "2630519",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1008, SACHIN GIDC,DIST.SURAT-394230,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248010",
+            "office": "SACHIN GIDC",
+            "phone": "2397954",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "1ST FLR., SURBHI COMPLEX, NR.POONA OCTROI NAKA, PARVAT PATIA, SURAT-394210, GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248011",
+            "office": "PARVAT PATIA",
+            "phone": "2641495",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "UG1 TO UG7, HIRA PANNA SHOPPING MALL, NR.MAHESHWARY BHAVAN,CITY LIGHT ROAD, SURAT-395007, GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248013",
+            "office": "CITY LIGHT",
+            "phone": "2256444",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "3/2249-B, PIPARDI SHERI,SALABATPURA,SURAT-395003,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248014",
+            "office": "SALABATPURA",
+            "phone": "2365608",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.C-196, KEVAL COMMERCIAL COMPLEX, PANDESARA MAIN RD, SURAT-394221,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248015",
+            "office": "PANDESARA GIDC",
+            "phone": "2894024",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "G-101, PARKING FLOOR, NEW TEXTILE MARKET,SAHARA DARWAJA, SURAT-395002,GUJARAT (INDIA).",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248016",
+            "office": "SAHARA DARWAJA",
+            "phone": "2343940",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 7 BY 8 BY 8 BY 9 UPPER GROUND FLOOR,SHREENATH CHEMEBRS,UDHNA SURAT-394210,GUJARAT (INDIA)",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248017",
+            "office": "UDHNA MAIN ROAD",
+            "phone": "2273323",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, J-9 CENTRE, NEAR STAR BAZAAR, ADAJAN ROAD",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248018",
+            "office": "ADAJAN-PAL RAOD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "G-1, SHUBH UNIVERSAL, OPP- VIJYALAXMI HALL, VESU, SURAT 395007",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248019",
+            "office": "VESU",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 26-27 , GR.FLOOR , EXIITO COMMERCIAL HUB, JAHANGIRPURA, SURAT - 395005",
+            "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SUTB0248020",
+            "office": "JAHANGIRPURA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    }
+]

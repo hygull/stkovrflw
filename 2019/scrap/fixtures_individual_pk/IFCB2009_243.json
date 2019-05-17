@@ -1,0 +1,377 @@
+[
+    {
+        "fields": {
+            "address": "URBAN BANK BUILDING,PATTABMI ROAD,PERINTHALMANNA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PERINTHALMANNA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000001",
+            "office": "RTGS-HO",
+            "phone": "226973",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "URBAN BANK BUILDING,PATTABMI ROAD,PERINTHALMANNA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PERINTHALMANNA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B1",
+            "office": "PERINTHALMANNA MAIN BRANCH",
+            "phone": "227346",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "KARINKALLATHANI,THAZHEKKODE POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "THAZHEKKODE",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B2",
+            "office": "KARINKALLATHANI BRANCH",
+            "phone": "251231",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "UPHILL,MALAPPURAM POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MALAPPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B3",
+            "office": "MALAPPURAM BRANCH",
+            "phone": "2737138",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "PUZHAKKATTIRI POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PUZHAKKATTIRI",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B4",
+            "office": "PANANGANGARA BRANCH",
+            "phone": "255505",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "CHATTIPARAMBA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "CHATTIPARAMBA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B5",
+            "office": "CHATTIPARAMBA BRANCH",
+            "phone": "2706008",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "MELATUR POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MELATUR",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B6",
+            "office": "MELATUR BRANCH",
+            "phone": "279236",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "PULAMANTHOLE POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PULAMANTHOLE",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B7",
+            "office": "PULAMANTHOLE BRANCH",
+            "phone": "267773",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "MAKKARAPARAMBA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MAKKARAPARAMBA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B8",
+            "office": "MAKKARAPARAMBA BRANCH",
+            "phone": "283371",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "KOLATHUR POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "KOLATHUR",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN00000B9",
+            "office": "KOLATHUR BRANCH",
+            "phone": "203127",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "HOSPITAL ROAD,PERINTHALMANNA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PERINTHALMANNA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B10",
+            "office": "PERINTHALMANNA EVENING BRANCH",
+            "phone": "220969",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PATTIKKAD POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PATTIKKAD",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B11",
+            "office": "PATTIKKAD BRANCH",
+            "phone": "235999",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "THOOTHA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "THOOTHA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B12",
+            "office": "THOOTHA BRANCH",
+            "phone": "206800",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "ANGADIPURAM POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "ANGADIPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B13",
+            "office": "ANGADIPURAM BRANCH",
+            "phone": "253260",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "MANKADA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MANKADA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B14",
+            "office": "MANKADA BRANCH",
+            "phone": "237200",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "DOWN HILL,MALAPPURAM POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MALAPPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B15",
+            "office": "MALAPPURAM EVENING BRANCH",
+            "phone": "2730063",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "MUTHUKURUSSI,ELAD POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "ELAD",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B16",
+            "office": "MUTHUKURUSSI BRANCH",
+            "phone": "231000",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "PADINATUMMURI POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PADINGATUMMURI",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B17",
+            "office": "KOOTILANGADI BRANCH",
+            "phone": "241200",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "POTTIKUZHI,MOORKANAD POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MOORKANAD",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B18",
+            "office": "MOORKANAD BRANCH",
+            "phone": "264400",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "THACHINGANADAM POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "THACHINGANADAM",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B19",
+            "office": "THACHINGANADAM BRANCH",
+            "phone": "271111",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "VETTATHUR POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "VETTATHUR",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B20",
+            "office": "VETTATHUR BRANCH",
+            "phone": "243300",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "PANG CHENDI POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PANG CHENDI",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B21",
+            "office": "PANG CHENDI BRANCH",
+            "phone": "246200",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "EDAPATTA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "EDAPPATA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B22",
+            "office": "EDAPPATA BRANCH",
+            "phone": "279333",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "ALATHURPADI,MELMURI POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "MELMURI",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B23",
+            "office": "ALATHURPADI BRANCH",
+            "phone": "2739888",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "THARAYIL BUSTAND BUILDING,BYE PASS,PERINTHALMANNA POST",
+            "bank_name": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+            "branch": "",
+            "city": "PERINTHALMANNA",
+            "district": "MALAPPURAM",
+            "ifsc": "URBN0000B24",
+            "office": "PERINTHALMANNA BYE PASS BRACH",
+            "phone": "222888",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    }
+]

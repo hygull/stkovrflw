@@ -12,7 +12,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 37251
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 37252
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 37253
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 37254
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 37255
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 37256
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 37257
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 37258
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 37259
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 37260
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 37261
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 37262
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 37263
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 37264
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 37265
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 37266
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 37267
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 37268
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 37269
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 37270
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 37271
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 37272
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 37273
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 37274
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 37275
     },
     {
         "fields": {
@@ -387,6 +387,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 37276
     }
 ]

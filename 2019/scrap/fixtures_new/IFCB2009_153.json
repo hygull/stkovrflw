@@ -1,0 +1,632 @@
+[
+    {
+        "fields": {
+            "address": "SHIVSMARAK  SHINDE CHOWK GOLDFINCH PETHSOLAPUR  413007",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000001",
+            "office": "RTGS-HO",
+            "phone": "2741100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121267
+    },
+    {
+        "fields": {
+            "address": "MUNCIPAL WARD 1317 TO 19 NORTH KASBA HYDRABADWALE BUILDING TILAK CHOWK SOLAPUR  431007",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000002",
+            "office": "MANGALWQAR PETH",
+            "phone": "2741115",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121268
+    },
+    {
+        "fields": {
+            "address": "SHAHCHAMBERSTEL.GIRANI CHOWK BARSHI 413401",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BARSHI",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000003",
+            "office": "BARSHI",
+            "phone": "223289",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121269
+    },
+    {
+        "fields": {
+            "address": "372  SOUTH  SADAR BAZAR ,  SONI COMPLEX SOLAPUR  413003",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000004",
+            "office": "SADAR BAZAR",
+            "phone": "2744117",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121270
+    },
+    {
+        "fields": {
+            "address": "AT POSTKASBE TADWALEDISOSMANABAD  413407",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KASBE TADWALE",
+            "district": "OSMANABAD",
+            "ifsc": "SJSB0000005",
+            "office": "KASBE TADWALE",
+            "phone": "247032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121271
+    },
+    {
+        "fields": {
+            "address": "1518 NEW PACCHA PETH NEAR VYANKATESHMANDIRSOLAPUR413005",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000006",
+            "office": "PACHA PETH",
+            "phone": "2741119",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121272
+    },
+    {
+        "fields": {
+            "address": "MALGECOMPLEX  BAJAR  LINEOMERGA.DIS.  OSMANABAD413606",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "OMERGA",
+            "district": "OSMANABAD",
+            "ifsc": "SJSB0000007",
+            "office": "OMERGA",
+            "phone": "252076",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121273
+    },
+    {
+        "fields": {
+            "address": "VIJAYTOWERS139  RLY LINES  SOLAPUR413001",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000008",
+            "office": "RLY LINE",
+            "phone": "2741123",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121274
+    },
+    {
+        "fields": {
+            "address": "OMCOMPLEXLAXMI  MARKETROAD SOUTHKASBA ,  SOLAPUR  413007",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000009",
+            "office": "SOUTH KASBA",
+            "phone": "2741121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121275
+    },
+    {
+        "fields": {
+            "address": "C- 1  SIDHESHWAR MARKET YARD  HYDRABAD ROADSOLAPUR  413005",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000010",
+            "office": "MARKET YARD",
+            "phone": "2741125",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121276
+    },
+    {
+        "fields": {
+            "address": "GURUNANAKSHOPPINGCENTER UJANINAGAR  SOLAPUR413003",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000011",
+            "office": "UJANI NGARA",
+            "phone": "2741127",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121277
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 21  MAJI SAINIKNAGARVIJAPURROAD SOLAPUR413004",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000012",
+            "office": "VIJAPUR ROAD",
+            "phone": "2741128",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121278
+    },
+    {
+        "fields": {
+            "address": "SHUKRAWARPETHAT POSTMADHADIS.  SOLAPUR 413209",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MADHA",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000013",
+            "office": "MADHA",
+            "phone": "234037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121279
+    },
+    {
+        "fields": {
+            "address": "BLOCKNO.10FIRST  FLOOR  SURAVASEAPARTMENTHOTGI ROAD  ,SOLAPUR413003",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000014",
+            "office": "ASARA NAGAR",
+            "phone": "2741130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121280
+    },
+    {
+        "fields": {
+            "address": "C S NO 114/1 BVIDHYA NAGARSHELGI SOLAPUR 413006",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000015",
+            "office": "SHELGI NAKA",
+            "phone": "2741132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121281
+    },
+    {
+        "fields": {
+            "address": "VAIBHAV SHALI CHAMBERS  1/5MURARJI  PETHPOONAROAD SOLAPUR  413001",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000016",
+            "office": "BALE",
+            "phone": "2741133",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121282
+    },
+    {
+        "fields": {
+            "address": "LAXMI  COMPLEX STATIONROAD,PANDHARPUR .  DIS SOLAPUR  413304",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000017",
+            "office": "PANDHARPUR",
+            "phone": "224301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121283
+    },
+    {
+        "fields": {
+            "address": "N.M.JOSHI MARGSHOP NO3 & 4  SAMBHAJI  NAGARMUMBAI400013",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "SJSB0000018",
+            "office": "MUMBAI",
+            "phone": "23083244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121284
+    },
+    {
+        "fields": {
+            "address": "NAGAR  PARISHADCOMPLEX SHIVAJICHOWK ,  SANGOLA .DIS SOLAPUR413307",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGOLA",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000019",
+            "office": "SANGOLA",
+            "phone": "220049",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121285
+    },
+    {
+        "fields": {
+            "address": "UDYOG BHAVAN OPPS .T. STAND UDGIR .  DIS  .LATUR  413517",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "UDGIR",
+            "district": "LATUR",
+            "ifsc": "SJSB0000020",
+            "office": "UDGIR",
+            "phone": "257446",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121286
+    },
+    {
+        "fields": {
+            "address": "D.B.MANGARULEWADA  MAIN  ROAD  AKKALKOT. DIS .SOLAPUR413216",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AKKALKOT",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000021",
+            "office": "AKKALKOT",
+            "phone": "220515",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121287
+    },
+    {
+        "fields": {
+            "address": "SWASTIKCHAMBERS ,MAINROAD. LATUR.  413513",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "SJSB0000022",
+            "office": "LATUR",
+            "phone": "244854",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121288
+    },
+    {
+        "fields": {
+            "address": "NAGARPARISHAD SHOPPING CENTERMAIN  ROAD , KALAMB DIS.OSMANABAD413507",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KALAM",
+            "district": "OSMANABAD",
+            "ifsc": "SJSB0000023",
+            "office": "KALAM",
+            "phone": "262546",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121289
+    },
+    {
+        "fields": {
+            "address": "GAVADE CHAWL MAIN  ROAD .MOHOL. DIST.SOLAPUR413213",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MOHOL",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000024",
+            "office": "MOHOL",
+            "phone": "232103",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121290
+    },
+    {
+        "fields": {
+            "address": "GANESHCHOWK  MALSHIRAS . DIST.SOLAPUR413107",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MALSHIRAS",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000025",
+            "office": "MALSHIRAS",
+            "phone": "235179",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121291
+    },
+    {
+        "fields": {
+            "address": "1561,YASHODHANCOMPEX  SADASHIVPETHPUNE  PUNE  . 411037",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SJSB0000026",
+            "office": "TILAK ROAD",
+            "phone": "24325406",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121292
+    },
+    {
+        "fields": {
+            "address": "SURYACOMPEX  MAIN ROAD, OSMANABAD.413037",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "SJSB0000027",
+            "office": "OSMANABAD",
+            "phone": "226709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121293
+    },
+    {
+        "fields": {
+            "address": "SHANTI  APRTMENT,OPP PMTBUS DEPOT ,GULTEKADIMARKETYARD,  PUNE  411034",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SJSB0000028",
+            "office": "MARKET YARD",
+            "phone": "24262410",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121294
+    },
+    {
+        "fields": {
+            "address": "INNANIBUILDINGMAIN  ROADGANJGOLAI , LATUR413512",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "SJSB0000029",
+            "office": "GANJ GOLAI",
+            "phone": "256399",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121295
+    },
+    {
+        "fields": {
+            "address": "BHAGYASHRICOMPLEX , ASHOPNO.  1 TO 3DHAYARI, PUNE  411004",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SJSB0000030",
+            "office": "DHAYARI",
+            "phone": "24393892",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121296
+    },
+    {
+        "fields": {
+            "address": "ABHISHEK  COMLEXPLOT  NO  5NEAR  WATERTANK ,  JULESOLAPUR SOLAPUR  413004",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000031",
+            "office": "JULE SOLAPUR",
+            "phone": "2741136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121297
+    },
+    {
+        "fields": {
+            "address": "DR.BABASAHEB AMBEDKAR CHOWK, BAJAJ NAGAR  ,MIDC WALUJAURANGABAD 431133",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "SJSB0000032",
+            "office": "WALUJ",
+            "phone": "2556102",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121298
+    },
+    {
+        "fields": {
+            "address": "SHOP NO  7,8,9  ROHAN  CORNERSHIVTIRTHA  NAGAR ,  PAUD  ROAD ,KOTHRUD .  PUNE",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SJSB0000033",
+            "office": "KOTHRUD",
+            "phone": "20254122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121299
+    },
+    {
+        "fields": {
+            "address": "SHOP.NO. 12TO  16  SAHILPARKBUILDING PAWAN  NAGAR ,AMBADLINK  ROAD TRIMURTI CHOWKNASHIK422008",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "SJSB0000034",
+            "office": "NASIK",
+            "phone": "2375822",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121300
+    },
+    {
+        "fields": {
+            "address": "SHOP  NO.13  TO  16  GURUDRUPABUSINESSCENTER ,GURUKRUPAMARKET  MAHAVEERCHOWKG.G.  ROAD  NANDED431601",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "SJSB0000035",
+            "office": "NANDED",
+            "phone": "232311",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121301
+    },
+    {
+        "fields": {
+            "address": "206/8 PIMPARI STATION ROAD OPP KRUP INDUSTRIES  PIPMPARI  PUNE",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PIMPARI",
+            "district": "PIMPARI CHINCHWAD",
+            "ifsc": "SJSB0000036",
+            "office": "PIMPARI",
+            "phone": "27420132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121302
+    },
+    {
+        "fields": {
+            "address": "1138 E WARD ,SAIEX EXTENTION , BHAVANI PRASAD ,RAJARAMPURIKOLHAPUR  416001",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SJSB0000037",
+            "office": "KOLHAPUR",
+            "phone": "2527299",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121303
+    },
+    {
+        "fields": {
+            "address": "C.S. NO. 892/1A/2 & 921, WARD NO. III, SANGHVI NIVAS, SIDDHESHWAR MANDIR ROAD, VIJAYPUR (VIJAPUR)- 586 101",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VIJAPUR",
+            "district": "KARNATAKA",
+            "ifsc": "SJSB0000038",
+            "office": "SOLAPUR JANATA SAHAKARI BANK LTD",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121304
+    },
+    {
+        "fields": {
+            "address": "SHRI HEIGHTS APARTMENT, GROUND FLOOR, SHOP NO. L, 2 & 3, CS NO. L474, WARD NO.1, GAT NO.5, BEED DIST BEED - 431122",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "SJSB0000039",
+            "office": "SOLAPUR JANATA SAHAKARI BANK LTD",
+            "phone": "242223055",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121305
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO. 230/A/18/1, SUB PLOT NO.43, JYOTI NAGAR, MAJEREWADI, DIST. SOLAPUR - 413 006",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000040",
+            "office": "SOLAPUR JANATA SAHAKARI BANK LTD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121306
+    },
+    {
+        "fields": {
+            "address": "NEW GAT NO. 843, DESHMUKH PLOT, SHIVAJI NAGAR, UPLAI ROAD, BARSHI, DIST. SOLAPUR - 413 411",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BARSHI",
+            "district": "BARSHI",
+            "ifsc": "SJSB0000041",
+            "office": "SOLAPUR JANATA SAHAKARI BANK LTD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121307
+    },
+    {
+        "fields": {
+            "address": "SHIVSMARAK  SHINDE CHOWK GOLDFINCH PETHSOLAPUR  413007",
+            "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SJSB0000099",
+            "office": "NAVI PETH",
+            "phone": "2741112",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121308
+    }
+]

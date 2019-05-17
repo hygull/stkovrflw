@@ -1,0 +1,482 @@
+[
+    {
+        "fields": {
+            "address": "II FLOOR,JACKSON GATE BUILDING LENIN SARANI,AGARTALA",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "AGARTALA",
+            "city": "AGARTALA",
+            "district": "TRIPURA",
+            "ifsc": "RBIS0AGPA01",
+            "office": "",
+            "phone": "2381051",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "ASST. GENERAL MANAGER,GST CELL,RESERVE BANK OF INDIA,MUMBAI REGIONAL OFFICE,FORT,MUMBAI - 400001",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RBI NEFT RTGS GST COLLECTION",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RBIS0GSTPMT",
+            "office": "",
+            "phone": "22642836",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "LRSYZALTK",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "GANGTOK",
+            "city": "GANGTOK",
+            "district": "SIKKIM",
+            "ifsc": "RBIS0GTPA01",
+            "office": "",
+            "phone": "281117",
+            "state": "SIKKIM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "GANESH KHIND ROAD, NEAR ESQUARE",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "CAB PUNE",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RBIS0PUPA01",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA, BENGALURU",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "SAMADHAN - HR OPERATIONS UNIT",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "RBIS0SAMADN",
+            "office": "",
+            "phone": "22180100",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "5,ANNASALAI,TEYNAMPET,CHENNAI",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RESERVE BANK STAFF COLLEGE RBSC CHENNAI",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RBIS0SCPA01",
+            "office": "",
+            "phone": "24302700",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "APPHIRA BUILDING,FRUIT GARDEN,SHILLONG JOWAI ROAD,SHILLONG",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "SHILLONG",
+            "city": "SHILLONG",
+            "district": "MEGHALAYA",
+            "ifsc": "RBIS0SLPA01",
+            "office": "",
+            "phone": "2501839",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "PAD,AHMEDABAD MAIN OFFICE,AHMEDABAD",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "AHMEDABAD REGIONAL OFFICE",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "RBIS0AHPA01",
+            "office": "",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "PAD BHUBANESWAR, BHUBANESWAR",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD BHUBANESWAR",
+            "city": "KHURDA",
+            "district": "BHUBANESWAR",
+            "ifsc": "RBIS0BBPA01",
+            "office": "",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "10 BY 3 BY 8, NRUPTHUNGA ROAD, BANGALORE-560 001",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "BANGALORE REGIONAL OFFICE",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "RBIS0BGPA01",
+            "office": "",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "PAD BHOPAL,BHOPAL",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD BHOPAL",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "RBIS0BLPA01",
+            "office": "",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PAD CHANDIGARH,CHANDIGARH",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD CHANDIGARH",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "RBIS0CGPA01",
+            "office": "",
+            "phone": "0",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PAD,CHENNAI MAIN OFFICE,CHENNAI",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "CHENNAI REGIONAL OFFICE",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RBIS0CNPA01",
+            "office": "",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "74 BY 1,RAJPUR ROAD,DEHRADUN",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "DEHRADUN",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "RBIS0DNPA01",
+            "office": "",
+            "phone": "0",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "PAD GUWAHATI",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD GUWAHATI",
+            "city": "GUWAHATI",
+            "district": "GUWAHATI",
+            "ifsc": "RBIS0GWPA01",
+            "office": "",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA,JAMMU",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "JAMMU",
+            "city": "JAMMU",
+            "district": "JAMMU",
+            "ifsc": "RBIS0JMPA01",
+            "office": "",
+            "phone": "0",
+            "state": "JAMMU AND KASHMIR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "RAMBAGH CIRCLE,TONK ROAD,JAIPUR-302004",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PUBLIC ACCOUNTS DEPT",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "RBIS0JPPA01",
+            "office": "",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "FOREIGN EXCHANGE DEPARTMENT , RESERVE BANK OF INDIA, ERNAKULAM NORTH, KOCHI 682018",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "KOCHI",
+            "city": "ERNAKULAM",
+            "district": "KOCHI",
+            "ifsc": "RBIS0KCPA01",
+            "office": "",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "RBI PAD,KOLKATA",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RBI PAD KOLKATA",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RBIS0KLPA01",
+            "office": "",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "PAD KANPUR,KANPUR",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD KANPUR",
+            "city": "KANPUR",
+            "district": "KANPUR",
+            "ifsc": "RBIS0KNPA01",
+            "office": "",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RBI PAD, LUCKNOW.",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RBI PAD LUCKNOW",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "RBIS0LKPA01",
+            "office": "",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "PAD ,GROUND FLOOR,MAIN BUILDING ,FORT MUMBAI- 400001",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD MUMBAI",
+            "city": "GREATER BOMBAY",
+            "district": "MUMBAI",
+            "ifsc": "RBIS0MBPA04",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "6, SANSAD MARG , NEW DELHI 110001",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD NEW DELHI",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "RBIS0NDPA01",
+            "office": "",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "RBI,LAKDIKAPUL,HYDERABAD",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RBI PAD",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "RBIS0NEFTHY",
+            "office": "",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "PAD NAGPUR,NAGPUR",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD NAGPUR",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "RBIS0NGPA01",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.3,SECTOR 10,H.H. NIRMALADEVI MARG,CBD,BELAPUR, NAVI MUMBAI 400614",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "CBD BELAPUR",
+            "city": "NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "RBIS0NMPA01",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "GERAS IMPERIUM II 7TH FLOOR 70706 PATTO PANAJI GOA 403001",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PANAJI",
+            "city": "PANAJI",
+            "district": "PANAJI",
+            "ifsc": "RBIS0PJPA01",
+            "office": "",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "PAD PATNA,PATNA",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "PAD PATNA",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "RBIS0PTPA01",
+            "office": "",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "4TH FLOOR.RRDA BUILDING.KATCHEHRI ROAD,RANCHI 834001. JHARKHAND",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RANCHI",
+            "city": "RANCHI",
+            "district": "RANCHI",
+            "ifsc": "RBIS0RNPA01",
+            "office": "",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "54 BY 949,SUBHASHISH PARISAR,SATYA PREM VIHAR,MAHADEV GHAT ROAD,SUNDAR NAGAR,RAIPUR 492 013",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "RAIPUR",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "RBIS0RPPA01",
+            "office": "",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "RURAL PLANNING AND CREDIT DEPARTMENT , B 478, SECTOR IV, NEW SHIMLA, SHIMLA 171009",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "SHIMLA",
+            "city": "SHIMLA",
+            "district": "NEW SHIMLA",
+            "ifsc": "RBIS0SMPA01",
+            "office": "",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA,TRIVANDRUM",
+            "bank_name": "RESERVE BANK OF INDIA , PAD",
+            "branch": "TRIVANDRUM",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "TRIVANDRUM",
+            "ifsc": "RBIS0THPA01",
+            "office": "",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    }
+]

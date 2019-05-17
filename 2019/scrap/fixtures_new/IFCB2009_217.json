@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "MSME DEVELOPMENT CENTRE, PLOT NO. C-11, G-BLOCK, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI-400051",
+            "bank_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "SIDB0TREMHO",
+            "office": "SERVICE CENTER",
+            "phone": "67531299",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 24678
+    }
+]

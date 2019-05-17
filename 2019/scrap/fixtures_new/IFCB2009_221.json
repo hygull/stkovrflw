@@ -1,0 +1,152 @@
+[
+    {
+        "fields": {
+            "address": "CENTRAL ADMINISTRATION DIVISION, HUMAN RESOURCE MANAGEMENT DEPARTMENT, CENTRAL OFFICE, AMAR BUILDING, 3RD FLOOR, SIR P M ROAD, MUMBAI 400001",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0COD001",
+            "office": "",
+            "phone": "",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137770
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA,6/1/56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOAPEP",
+            "office": "",
+            "phone": "",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137771
+    },
+    {
+        "fields": {
+            "address": "6-1-56, SECRETARIAT ROAD, SAIFABAD, HYDERABAD",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOAPER",
+            "office": "",
+            "phone": "",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137772
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA, NEAR GANDHI BRIDGE, INCOME TAX CIRCLE, ASHRAM ROAD, AHMEDABAD - 380014",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOGJEP",
+            "office": "",
+            "phone": "",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137773
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA, 10/3/8, NRUPTHUNGA ROAD, BENGALURU-560 001",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOKAER",
+            "office": "",
+            "phone": "",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137774
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA,BANKING DEPT,MAIN BUILDING,MUMBAI REGIONAL OFFICE,FORT,MUMBAI,400 001",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOMHEP",
+            "office": "",
+            "phone": "",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137775
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA, CENTRAL VISTA, SECTOR 17, CHANDIGARH - 160 017",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOPNEP",
+            "office": "",
+            "phone": "",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137776
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA, RAMBAGH CIRCLE, TONK ROAD, JAIPUR - 302 004",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GORJEP",
+            "office": "",
+            "phone": "",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137777
+    },
+    {
+        "fields": {
+            "address": "RESERVE BANK OF INDIA,6-1-56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOTGEP",
+            "office": "",
+            "phone": "",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137778
+    },
+    {
+        "fields": {
+            "address": "Reserve Bank of India, Post Box No. 82/142, M.G. Road, Kanpur - 208 001",
+            "bank_name": "RBI PAD, AHMEDABAD",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIS0GOUPEP",
+            "office": "",
+            "phone": "",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137779
+    }
+]

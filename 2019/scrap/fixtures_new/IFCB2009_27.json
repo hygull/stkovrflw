@@ -1,0 +1,437 @@
+[
+    {
+        "fields": {
+            "address": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DEUT0000PBC",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137628
+    },
+    {
+        "fields": {
+            "address": "221-B / 1B, E WARD, TARABAI PARK,, KOLHAPUR - 416003",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DEUT0273PBC",
+            "office": "KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137629
+    },
+    {
+        "fields": {
+            "address": "A-2, GROUND FLOOR, AURANGABAD BUSINESS CENTRE, DR.RAJENDRA PRASAD MARG, ADALAT ROAD, AURANGABAD - 431005",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEUT0274PBC",
+            "office": "AURANGABAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137630
+    },
+    {
+        "fields": {
+            "address": "F4 & F5, SECTOR 18, NOIDA - 201301",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "NOIDA",
+            "ifsc": "DEUT0278PBC",
+            "office": "NOIDA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137631
+    },
+    {
+        "fields": {
+            "address": "DLF-INFINITY, TOWER A, GROUND FLOOR, SECTOR 25A, DLF PHASE II, DLF CITY, GURGAON - 122002",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "DEUT0279PBC",
+            "office": "GURGAON",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137632
+    },
+    {
+        "fields": {
+            "address": "RJ PLAZA, NO.5, KATPADI MAIN ROAD,VILLAGE VIRUTHAMPET, VELLORE - 632 006",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "VELLORE",
+            "district": "VELLORE",
+            "ifsc": "DEUT0401PBC",
+            "office": "VELLORE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137633
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.9 & 10, VENKATATHRI NILAYAM, YERCAUD, ROAD, KARAN KURCHI POST, SALEM - 636 008",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "DEUT0402PBC",
+            "office": "SALEM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137634
+    },
+    {
+        "fields": {
+            "address": "8TH KM. STONE, DELHI ROAD,, OPP. NAYA MORADABAD, MANGUPURA, MORADABAD - 244001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MORADABAD",
+            "district": "MORADABAD",
+            "ifsc": "DEUT0403PBC",
+            "office": "MORADABAD",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137635
+    },
+    {
+        "fields": {
+            "address": "SCO 9-10,GREEN PARK AVENUE,, CANAL COLONY, PAKHOWAL ROAD, LUDHIANA - 141002",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "DEUT0404PBC",
+            "office": "LUDHIANA",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137636
+    },
+    {
+        "fields": {
+            "address": "124, RAJMAL LAKHICHAND BUILDING, GHOD DOD ROAD, SURAT - 395007",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "DEUT0405PBC",
+            "office": "SURAT",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137637
+    },
+    {
+        "fields": {
+            "address": "637, GULBAI TEKRA OPP. CII HOUSE, NEAR PANCHVATI CROSSROADS, AHMEDABAD - 380006",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "DEUT0406AMD",
+            "office": "AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137638
+    },
+    {
+        "fields": {
+            "address": "637, GROUND FLOOR-B, GULBAI TEKRA, OFF C.G.ROAD, AHMEDABAD - 380006",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "DEUT0406PBC",
+            "office": "AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137639
+    },
+    {
+        "fields": {
+            "address": "SUPREM,\u252c\u00f6CTS NO. 1337/2, S.NO. 133/1 +2 & 134 / 2, MAIN ITI ROAD, AUNDH, PUNE -411007",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DEUT0537PUN",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137640
+    },
+    {
+        "fields": {
+            "address": "DR. D.N.ROAD, FORT,MUMBAI, INDIA 400001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "DEUT0784BBY",
+            "office": "MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137641
+    },
+    {
+        "fields": {
+            "address": "DR. D.N.ROAD, FORT,MUMBAI, INDIA 400001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "DEUT0784DCO",
+            "office": "MUMBAI DOMESTIC CUSTODY",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137642
+    },
+    {
+        "fields": {
+            "address": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DEUT0784DSO",
+            "office": "MUMBAI  DEBT MARKET BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137643
+    },
+    {
+        "fields": {
+            "address": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DEUT0784MMT",
+            "office": "MUMBAI  MONEY MARKET BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137644
+    },
+    {
+        "fields": {
+            "address": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DEUT0784OPT",
+            "office": "MUMBAI  OPTIONS BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137645
+    },
+    {
+        "fields": {
+            "address": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DEUT0784OTC",
+            "office": "MUMBAI  DERIVATIVES BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137646
+    },
+    {
+        "fields": {
+            "address": "110, SIDRAH, S V ROAD, KHAR, MUMBAI\u252c\u00e1- 400052.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "KHAR",
+            "district": "GREATER MUMBAI",
+            "ifsc": "DEUT0784PBC",
+            "office": "KHAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137647
+    },
+    {
+        "fields": {
+            "address": "DR. D.N.ROAD, FORT,MUMBAI, INDIA 400001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "DEUT0784TRS",
+            "office": "MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137648
+    },
+    {
+        "fields": {
+            "address": "ECE HOUSE , 28 - K G MARG  NEW DELHI, INDIA",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "DEUT0796DEL",
+            "office": "DELHI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137649
+    },
+    {
+        "fields": {
+            "address": "ECE HOUSE , 28 - K G MARG  NEW DELHI, INDIA",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "DEUT0796TRS",
+            "office": "DELHI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137650
+    },
+    {
+        "fields": {
+            "address": "RAHEJA TOWERS, 26-27, M G ROAD, BANGALORE - 560 001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "DEUT0797BGL",
+            "office": "BANGALORE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137651
+    },
+    {
+        "fields": {
+            "address": "RAHEJA TOWERS, 26-27, M G ROAD, BANGALORE - 560 001",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "DEUT0797TRS",
+            "office": "BANGALORE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137652
+    },
+    {
+        "fields": {
+            "address": "4-4A WESTERN TOWERS, SHAFI MOHAMMAD ROAD,",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DEUT0916CNN",
+            "office": "CHENNAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137653
+    },
+    {
+        "fields": {
+            "address": "4-4A WESTERN TOWERS, SHAFI MOHAMMAD ROAD,",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DEUT0916TRS",
+            "office": "CHENNAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137654
+    },
+    {
+        "fields": {
+            "address": "BROOKE HOUSE, 9, SHAKESPEARE SARANI, KOLKATTA - 700 071.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "KOLKATTA",
+            "district": "KOLKATA",
+            "ifsc": "DEUT0917CAL",
+            "office": "KOLKATTA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137655
+    },
+    {
+        "fields": {
+            "address": "BROOKE HOUSE, 9, SHAKESPEARE SARANI, KOLKATTA - 700 071.",
+            "bank_name": "DEUSTCHE BANK",
+            "branch": "",
+            "city": "KOLKATTA",
+            "district": "KOLKATA",
+            "ifsc": "DEUT0917TRS",
+            "office": "KOLKATTA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137656
+    }
+]

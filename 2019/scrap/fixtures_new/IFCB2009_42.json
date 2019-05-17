@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "156,GANDHI CHOWK,HADAPSAR PUNE-411028",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000001",
+            "office": "RTGS-HO",
+            "phone": "24440097",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61950
+    },
+    {
+        "fields": {
+            "address": "AGARWAL TOWERS,SOLAPUR ROAD HADAPSAR PUNE  411028",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000002",
+            "office": "HADAPSAR",
+            "phone": "26999810",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61951
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,MAHALAXMI MARKET,1482 SHUKRAWAR PETH ,SHANIPAR CHOWK PUNE-411 002",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000003",
+            "office": "SHANIPAR",
+            "phone": "24491735",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61952
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 365/66, GULTEKADI, MARKET YARD PUNE  411037",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000004",
+            "office": "MARKETYARD",
+            "phone": "24260392",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61953
+    },
+    {
+        "fields": {
+            "address": "PARMAR PARK,MAHADAJI SHINDE CHOWK, WANWADI PUNE  411040",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000005",
+            "office": "NETAJINAGAR-WANWADI",
+            "phone": "26856144",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61954
+    },
+    {
+        "fields": {
+            "address": "DIPAK PARK HOUSING SOCIETY, KALYANINAGAR, NAGAR ROAD, RAMWADI PUNE  411014",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000006",
+            "office": "RAMWADI",
+            "phone": "26680735",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61955
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 1153/A,LANDGE BUILDING, MAIN ROAD, SASWAD, TALUKA - PURANDAR  412301",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SASWAD",
+            "district": "SASWAD",
+            "ifsc": "JANA0000007",
+            "office": "SASWAD",
+            "phone": "222630",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61956
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE S. T. STAND, SHIKRAPUR, TALUKA - SHIRUR  412208",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIKRAPUR",
+            "district": "SHIKRAPUR",
+            "ifsc": "JANA0000008",
+            "office": "SHIKRAPUR",
+            "phone": "272311",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61957
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 19/A, KUMAR TRADE CENTER, SATARA ROAD, DHANKAWADI PUNE  411043",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000009",
+            "office": "DHANKAWADI",
+            "phone": "24373859",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61958
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 232/2, GANESH MANGAL KARYALAY, NASHIK ROAD, BHOSARI PUNE  411039",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000010",
+            "office": "BHOSARI",
+            "phone": "27110070",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61959
+    },
+    {
+        "fields": {
+            "address": "CHAUDHARI BUILDING, MAIN ROAD, WARJE PUNE  411052",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000011",
+            "office": "WARJE",
+            "phone": "25230326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61960
+    },
+    {
+        "fields": {
+            "address": "537, SARDAR PATEL ROAD, CENTER STREET, CAMP PUNE  411001",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000012",
+            "office": "CAMP",
+            "phone": "26347751",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61961
+    },
+    {
+        "fields": {
+            "address": "BHAVVARSHA, ANAND NAGAR, SINHAGAD ROAD PUNE  411051",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000013",
+            "office": "MANIKBAUG",
+            "phone": "24354608",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61962
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO. 28 YASHRAJ COMPLEX, 1ST FLOOR, SASANENAGAR, HADAPSAR PUNE  411028",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000014",
+            "office": "SASANE NAGAR",
+            "phone": "26811904",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61963
+    },
+    {
+        "fields": {
+            "address": "A, DHANLAXMI PARK HOUSING SOCIETY, UJAVI BHUSARI COLONY, KOTHRUD DEPO CHOWK,PUNE  411038",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000015",
+            "office": "BHUSARI COLONY (KOTHRUD)",
+            "phone": "25285486",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61964
+    },
+    {
+        "fields": {
+            "address": "GULBAHAR BUILDING,SURVEY NO. 175/2/2 & 175 B,RAVIWAR PETH,POWAI NAKA,SATARA-415 002",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "JANA0000016",
+            "office": "SATARA",
+            "phone": "229478",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61965
+    },
+    {
+        "fields": {
+            "address": "1,SUKHWANI PRIDE,SANT DNYANESHWAR NAGAR(MHADA), AJMERA-MASULAKAR COLONY ROAD,MORWADI,PIMPRI PUNE  411018",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000017",
+            "office": "M.I.D.C. (BHOSARI)",
+            "phone": "27459144",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61966
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 669, PLOT NO. 3, SNEHSADAN, BIBWEWADI PUNE  411037",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000018",
+            "office": "BIBWEWADI",
+            "phone": "24280505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61967
+    },
+    {
+        "fields": {
+            "address": "34/8, PARSHURAM PROCES COMPOUND, NEAR MEHENDALE GARAGE PUNE  411004",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000019",
+            "office": "SHIVAJINAGAR -DECCAN GYMKHANA",
+            "phone": "25420251",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61968
+    },
+    {
+        "fields": {
+            "address": "RAHIMATPUR ROAD, OPP. TAHASIL OFFICE. AT POST -TALUKA- KOREGAON KOREGAON  415501",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOREGAON",
+            "district": "KOREGAON",
+            "ifsc": "JANA0000020",
+            "office": "KOREGAON (SATARA)",
+            "phone": "220248",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61969
+    },
+    {
+        "fields": {
+            "address": "S. R. CHAMBERS,PLOT NO. 2 A.  NAGRAS ROAD, NEAR MEDIPOINT HOSPITAL, AUNDH PUNE  411007",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000021",
+            "office": "AUNDH",
+            "phone": "25881588",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61970
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 325, SHOP NO. G 3 & 14, SHREEJI ARCADE, ALMEDA ROAD, OPP. NITIN COMPANY, PACHPAKHADI THANE  400630",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JANA0000022",
+            "office": "THANE",
+            "phone": "25336535",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61971
+    },
+    {
+        "fields": {
+            "address": "GAT NO. 377,NEAR SHIRWAL S. T. STAND, TALUKA - KHANDALA SHIRWAL  412801",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIRWAL",
+            "district": "SHIRWAL",
+            "ifsc": "JANA0000023",
+            "office": "SHIRWAL",
+            "phone": "244072",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61972
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,3,4,5 SHIWANI HEIGHTS KATRAJ KONDHAWA ROAD KHADI MACHINE CHOWK KONDHAWA BUDRUK KONDHAWA  411048",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000024",
+            "office": "KONDHAWA",
+            "phone": "26930001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61973
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2 & 3, MITHILI MAHI CO.OP.HSG SOCIETY LTD SECTOR NO 12 PLOT NO 188 VASHI NAVI MUMBAI  4000703",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JANA0000025",
+            "office": "VASHI NAVI MUMBAI",
+            "phone": "27809090",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61974
+    },
+    {
+        "fields": {
+            "address": "RAMSETU' MATHURA NAGAR NEAR SHIVAJI STATUE KHARADI ROAD WARD NO 3-45/46 CHANDANNAGAR PUNE  411014",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000026",
+            "office": "KHARADI BRANCH",
+            "phone": "27019021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61975
+    },
+    {
+        "fields": {
+            "address": "GAT NO 1146 GHOTAWADE PHATA CHOWK NEAR SHRIKRIPA HOSPITAL PAUD ROAD PUNE  412115",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PIRANGUT",
+            "district": "PIRANGUT",
+            "ifsc": "JANA0000027",
+            "office": "PIRANGUT BRANCH",
+            "phone": "22922010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61976
+    },
+    {
+        "fields": {
+            "address": "S NO 145,HISSA NO 28 1 1 61994,PUNE SASWAD ROAD,POST BHEKARAI NAGAR,FURSUNGI,HAVELI,PUNE 412308",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000028",
+            "office": "FURSUNGI",
+            "phone": "26980146",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61977
+    },
+    {
+        "fields": {
+            "address": "40 BY 2 SHIVSHAMBHO KRUPA HISSA NO.1 C BY 4,DHUDHANE VASHTI,KESHAV NAGAR MUDHAWA,PUNE 411036",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JANA0000029",
+            "office": "KESHAVNAGAR MUNDHAVA",
+            "phone": "26818999",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61978
+    },
+    {
+        "fields": {
+            "address": "GLOBAL COMMERCIAL COMPLEX,CHANKAN TALEGAON ROAD,NANEKAR WADI KHARABWADI,PUNE 410501",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "CHAKAN",
+            "ifsc": "JANA0000030",
+            "office": "CHAKAN",
+            "phone": "278827",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61979
+    },
+    {
+        "fields": {
+            "address": "N.M.C HOUSE 707 BY 1363,BY A,PLOT NO.223,SARVE NO 728 BY 1 TO 10,MAHATMA NAGER,NASHIK 422007",
+            "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "JANA0000031",
+            "office": "NASHIK",
+            "phone": "2355547",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61980
+    }
+]

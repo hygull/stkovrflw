@@ -1,0 +1,182 @@
+[
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, KANGRA BHAWAN, 1916, CHUNA MANDI , PAHARGANJ, NEW DELHI -110055",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000001",
+            "office": "RTGS-HO",
+            "phone": "9013568412",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2355
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, 73 A , A- BLOCK, JAGATPURI DELHI -110051",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000002",
+            "office": "JAGATPURI",
+            "phone": "9013568409",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2356
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, C-29, COMMUNITY CENTRE , PANKHA ROAD , JANAKPURI, NEW DELHI -110058",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000003",
+            "office": "JANAKPURI",
+            "phone": "9013568411",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2357
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, A-50, NAHARPUR MAIN MARKET , OPP. POCKET - E 5,SECTOR -7, ROHINI, DELHI -110085",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000004",
+            "office": "ROHINI",
+            "phone": "9013568414",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2358
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, 1/7, MAIN ROAD, GOVINDPURI, NEW DELHI -110019",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000005",
+            "office": "GOVINDPURI",
+            "phone": "9013568410",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2359
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, C 4/17, ACHARYA NIKETAN, MAYUR VIHAR PHASE- 1, DELHI -110091",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000006",
+            "office": "MAYUR VIHAR",
+            "phone": "9013568428",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2360
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA COOPERATIVE BANK LTD, 1, KHUSHAL COMPLEX , B - BLOCK , SANT NAGAR, BURARI , DELHI -110084",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000007",
+            "office": "SANT NAGAR, BURARI",
+            "phone": "9013568417",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2361
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.B 183,UPPER GROUND FLOOR,MB ROAD,PUL PEHLADPUR,NEW DELHI 110044",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000008",
+            "office": "PUL PEHLADPUR",
+            "phone": "9013568416",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2362
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 397, GROUND FLOOR, BLOCK  F, KASRA NO. 103, KHAJOORI KHAS,WARIRABAD ROAD, BHAJANPURA CHOWK",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000009",
+            "office": "BHAJANPURA",
+            "phone": "9013568416",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2363
+    },
+    {
+        "fields": {
+            "address": "WZ-C-21,C-22 GROUND FLOOR,POKECT-A PATEL NAGAR GARDEN,UTTAM NAGAR-110059",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "KANG0000010",
+            "office": "UTTAM NAGAR BRANCH",
+            "phone": "65263111",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2364
+    },
+    {
+        "fields": {
+            "address": "LOWER GROUND FLOOR, PLOT NO- 34/105, KHASRA NUMBER-774/599/36, VILLAGE- KHAMPUR, RANJIT NAGAR, MAIN PATEL NAGAR ROAD- 110008",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "CENTRAL DELHI",
+            "ifsc": "KANG0000011",
+            "office": "RANJIT NAGAR BRANCH",
+            "phone": "65263111",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2365
+    },
+    {
+        "fields": {
+            "address": "THE KANGRA CO-OPERATIVE BANK LIMITED,PLOT NO-19,1ST FLOOR,KHASRA NO-36/20/1,RAJINDRA PARK,SECTRO-1,MAIN ROHTAK ROAD,NANGLOI,NEW DELHI-110041",
+            "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "KANG0000012",
+            "office": "NANGLOI BRANCH",
+            "phone": "25941551",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2366
+    }
+]

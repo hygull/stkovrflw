@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "GOPAL DAS BHAVAN, BARAKHAMABA RD, NEW DELHI",
+            "bank_name": "THE BANK OF NOVA SCOTIA",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "NOSC0000DEL",
+            "office": "DELHI",
+            "phone": "49199999",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38065
+    },
+    {
+        "fields": {
+            "address": "MITTAL TOWER , B WING NARIMAN",
+            "bank_name": "THE BANK OF NOVA SCOTIA",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NOSC0000MUM",
+            "office": "RTGS-HO",
+            "phone": "66364000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38066
+    }
+]

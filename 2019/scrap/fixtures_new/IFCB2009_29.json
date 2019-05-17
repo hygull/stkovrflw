@@ -1,0 +1,4217 @@
+[
+    {
+        "fields": {
+            "address": "NAICKANAL JUNCTION THE ROUND THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000001",
+            "office": "THRISSUR MAIN",
+            "phone": "6453962",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1377
+    },
+    {
+        "fields": {
+            "address": "C/40/664(2), ALEX BUILDG , SHANMUGHAM ROAD, ERNAKULAM-31",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000002",
+            "office": "EKM-SHANMUGAM ROAD",
+            "phone": "6453521",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1378
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, HAJEE COMPLEX, MARKET ROAD, PALAKKAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "DLXB0000003",
+            "office": "PALAKKAD-BIG BAZAR",
+            "phone": "6452289",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1379
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR DHANALAKSHMI COMPLEX, DHANALAKSHMI BUILDINGS PUNKUNNAM,THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000004",
+            "office": "THRISSUR-PUSPAGIRI",
+            "phone": "6453956",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1380
+    },
+    {
+        "fields": {
+            "address": "VEMBANAT BUILDING EAST NADA, TRIPRAYAR PERINGOTTUKARA THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VALAPAD",
+            "district": "VALAPAD",
+            "ifsc": "DLXB0000005",
+            "office": "PERINGOTTUKARA",
+            "phone": "6454004",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1381
+    },
+    {
+        "fields": {
+            "address": "I/359, THOTUPURA SN BLDG., KANJANY CENTRE, VADANAPPILLY ROAD , THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VADANAPPALLY",
+            "district": "VADANAPPALLY",
+            "ifsc": "DLXB0000006",
+            "office": "KANJANY",
+            "phone": "2630227",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1382
+    },
+    {
+        "fields": {
+            "address": "KALPARAMBA, , ARIPALAM (P O), VIA IRANJALAGUDA TRICHUR DIST KERALA STATE, 680688",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KALPARAMBA",
+            "district": "KALPARAMBA",
+            "ifsc": "DLXB0000007",
+            "office": "KALPARAMBA",
+            "phone": "9287276494",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1383
+    },
+    {
+        "fields": {
+            "address": "IST FLOOR, K.R.COMPLEX, KODAKARA, THRISSUR.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KODAKARA",
+            "district": "KODAKARA",
+            "ifsc": "DLXB0000008",
+            "office": "KODAKARA",
+            "phone": "9287276617",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1384
+    },
+    {
+        "fields": {
+            "address": "XXV/1103 HIGH ROAD, THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000009",
+            "office": "THRISSUR-HIGH ROAD",
+            "phone": "6453960",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1385
+    },
+    {
+        "fields": {
+            "address": "1/804-M WADAKKANCHERY ROAD P.B.NO.26 KUNNAMKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KUNNAMKULAM",
+            "district": "KUNNAMKULAM",
+            "ifsc": "DLXB0000010",
+            "office": "KUNNAMKULAM",
+            "phone": "9287276525",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1386
+    },
+    {
+        "fields": {
+            "address": "PAZHANJI-KATTAKAMPAL ROAD PAZHANJI THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PAZHANJI",
+            "district": "PAZHANJI",
+            "ifsc": "DLXB0000011",
+            "office": "PAZHANJI",
+            "phone": "9287202447",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1387
+    },
+    {
+        "fields": {
+            "address": "PB NO:14,DOOR NO XIX/546H CHITTILAPPILLY TOWERS, OPP TOWN HALL, NEAR BUS STAN, IRINJALAKUDA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "IRINJALAKUDA",
+            "district": "IRINJALAKUDA",
+            "ifsc": "DLXB0000012",
+            "office": "IRINJALAKUDA",
+            "phone": "6450165",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1388
+    },
+    {
+        "fields": {
+            "address": "CMC IV/165 A BMG COMPLEX, NORTH GATE KARTHIAYINI TEMPLE ROAD CHERTHALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHERTHALA",
+            "district": "CHERTHALA",
+            "ifsc": "DLXB0000013",
+            "office": "CHERTHALA",
+            "phone": "6450232",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1389
+    },
+    {
+        "fields": {
+            "address": "KUTHIYATHODE, FIRST FLOOR R K COMPLEX, ALLEPPY DIST KERALA STATE, 688533",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KUTHIATHODE",
+            "district": "KUTHIATHODE",
+            "ifsc": "DLXB0000014",
+            "office": "KUTHIATHODE",
+            "phone": "6450272",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1390
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR \"\"PATHAYAPURA\"\" PARAMEKKAVU DEVSWOM BUILD ROUND SOUTH THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000015",
+            "office": "THRISSUR-ROUND SOUTH",
+            "phone": "6453959",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1391
+    },
+    {
+        "fields": {
+            "address": "VII/146 SHORNUR ROAD PARLI PALAKKAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PARLI",
+            "district": "PARLI",
+            "ifsc": "DLXB0000016",
+            "office": "PARLI",
+            "phone": "6452283",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1392
+    },
+    {
+        "fields": {
+            "address": "P B NO:303, VI/368 ANAVATHIL, MATTANCHERRY EKM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000017",
+            "office": "MATTANCHERRY",
+            "phone": "6453463",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1393
+    },
+    {
+        "fields": {
+            "address": "23/2642 C ASB ESTATE. PALLURUTHY ERNAKULAM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000018",
+            "office": "PALLURUTHY",
+            "phone": "6453526",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1394
+    },
+    {
+        "fields": {
+            "address": "NO:III/901-H,FIRST FLOOR SHAH TOWERS VADAKKENCHERRY PALAKKAD DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VADAKKANCHERI",
+            "district": "VADAKKANCHERI",
+            "ifsc": "DLXB0000019",
+            "office": "VADAKKENCHERRY",
+            "phone": "9287276592",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1395
+    },
+    {
+        "fields": {
+            "address": "6/485 PALGHAT ROAD P.B.NO.2 EDAPPAL, MALAPPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "EDAPPAL",
+            "district": "EDAPPAL",
+            "ifsc": "DLXB0000020",
+            "office": "EDAPPAL",
+            "phone": "6450260",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1396
+    },
+    {
+        "fields": {
+            "address": "IX/139, MAIN ROAD, CHERUTHURUTHY, THRISSUR DIST.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHERUTHURUTHY",
+            "district": "CHERUTHURUTHY",
+            "ifsc": "DLXB0000021",
+            "office": "CHERUTHURUTHY",
+            "phone": "9287276482",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1397
+    },
+    {
+        "fields": {
+            "address": "PB NO.3,DOOR NO.5/1672, 1ST FLOOR, YEMKAY TRADE CENTRE, MAIN ROAD, PATTAMBI 679 303",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PATTAMBI",
+            "district": "PATTAMBI",
+            "ifsc": "DLXB0000022",
+            "office": "PATTAMBI",
+            "phone": "9287276560",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1398
+    },
+    {
+        "fields": {
+            "address": "PB NO;9, 1ST FLOOR, PRABHALA SHOPPING COMPLEX MAIN ROAD,PAZHAYANNUR THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PAZHAYANNUR",
+            "district": "PAZHAYANNUR",
+            "ifsc": "DLXB0000023",
+            "office": "PAZHAYANNUR",
+            "phone": "4225023",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1399
+    },
+    {
+        "fields": {
+            "address": "SRI BALAKRISHNA SWAMY DEWASOM COMP, VYPEEN MUNAMBAM ROAD AYYANPILLY P O KUZHUPPALLI KERALA STATE, 682501",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KUZHUPILLY",
+            "district": "KUZHUPILLY",
+            "ifsc": "DLXB0000024",
+            "office": "KUZHUPALLY",
+            "phone": "6453454",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1400
+    },
+    {
+        "fields": {
+            "address": "P.BNO:1, SREE MURUGAN BLDG.,TION NEAR TOWN HALL JUNCTION HARIPAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HARIPAD",
+            "district": "HARIPAD",
+            "ifsc": "DLXB0000025",
+            "office": "HARIPAD",
+            "phone": "6452295",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1401
+    },
+    {
+        "fields": {
+            "address": "KRISHNA BUILDING, MAIN ROAD KONGAD PALAKKAD DIST. KONGAD, KERALA, 678631",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KONGAD",
+            "district": "KONGAD",
+            "ifsc": "DLXB0000026",
+            "office": "KONGAD",
+            "phone": "6452278",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1402
+    },
+    {
+        "fields": {
+            "address": "287, MAIN ROAD, SL PURAM P O SL PURAM KANJIKKUZHI,ALPPUZHA, KERALA, 688523",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KANJIKUZHI",
+            "district": "KANJIKUZHI",
+            "ifsc": "DLXB0000027",
+            "office": "S L PURAM",
+            "phone": "6450276",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1403
+    },
+    {
+        "fields": {
+            "address": "P B NO. 17 863 A ,DHARMARAJ BUILDING SRINGAPURAM,KODUGALLUR TRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "KODUNGALLUR",
+            "ifsc": "DLXB0000028",
+            "office": "THIRUVANCHIKULAM",
+            "phone": "6450245",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1404
+    },
+    {
+        "fields": {
+            "address": "ALATTUR PALAKKAD ROAD, KUNNISSERY PALAKKAD DIST, KERALA, 678681",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KUNISSERY",
+            "district": "KUNISSERY",
+            "ifsc": "DLXB0000029",
+            "office": "KUNISSERY",
+            "phone": "2234248",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1405
+    },
+    {
+        "fields": {
+            "address": "6/407 THOLUR PANCHAYATH, PARAPPUR JUNCTION PARAPPUR TRICHUR, KERALA, 680552",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PARAPPUR",
+            "district": "PARAPPUR",
+            "ifsc": "DLXB0000030",
+            "office": "PARAPPUR",
+            "phone": "2285678",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1406
+    },
+    {
+        "fields": {
+            "address": "VIA EDAPPALLY ERNAKULAM DIST.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000031",
+            "office": "CHERANELLUR",
+            "phone": "6453401",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1407
+    },
+    {
+        "fields": {
+            "address": "BLDG.NO:TP 9/371A, PC ROAD, SRP MARKET, NEAR SAG THEATRE,THAZHAVA KOLLAM.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MYNAGAPALLY",
+            "district": "MYNAGAPALLY",
+            "ifsc": "DLXB0000032",
+            "office": "THAZHAVA",
+            "phone": "2664323",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1408
+    },
+    {
+        "fields": {
+            "address": "THUNDIL COMPLEX, CALICUT ROAD THACHAMPARA , KERALA, 678593",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TACHAMPARA",
+            "district": "TACHAMPARA",
+            "ifsc": "DLXB0000033",
+            "office": "THACHAMPARA",
+            "phone": "9287276583",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1409
+    },
+    {
+        "fields": {
+            "address": "577 G, FIRST FLOOR ST.JOSEPH CHURCH SHOPPING COMPLEX,NEAR ESI DISPENSARY, ALOOR ,TCR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KODAKARA",
+            "district": "KODAKARA",
+            "ifsc": "DLXB0000034",
+            "office": "ALOOR",
+            "phone": "6450161",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1410
+    },
+    {
+        "fields": {
+            "address": "BUILDING NO 96/5, KAINAKARI ALAPUZHA DIST. KAINAKARI, KERALA, 688501",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KAINAKARY",
+            "district": "KAINAKARY",
+            "ifsc": "DLXB0000035",
+            "office": "KAINAKARY",
+            "phone": "6451327",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1411
+    },
+    {
+        "fields": {
+            "address": "PULINKUNNU P.O. PUNNAKUNNAM ALAPUZHA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PULINCUNNOO",
+            "district": "PULINCUNNOO",
+            "ifsc": "DLXB0000036",
+            "office": "PUNNAKUNNAM",
+            "phone": "6451362",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1412
+    },
+    {
+        "fields": {
+            "address": "HDFC HOUSE VAZHUTHACAUD THIRUVANANTHAPURAM PIN - 695 010.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "DLXB0000037",
+            "office": "TVM-VAZHUTHACAUD",
+            "phone": "6451153",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1413
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,K M M BUILDI 32/2383 A-1,OP.KSEB OFFIC S N JUNCTION PALARIVATTOM ERNAMKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000038",
+            "office": "EKM-PALARIVATTOM",
+            "phone": "6453440",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1414
+    },
+    {
+        "fields": {
+            "address": "KP/1024 A,KRP BLDGS., PALAM JUNCTION,VAZHAYILA, KARAKULAM, THIRUVANANTHAPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KARAKULAM",
+            "district": "KARAKULAM",
+            "ifsc": "DLXB0000040",
+            "office": "KARAKULAM",
+            "phone": "2371288",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1415
+    },
+    {
+        "fields": {
+            "address": "17/1341 H,RAM MOHAN ROAD, CHINTHAVALAPPU, KOZHIKODE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CALICUT",
+            "district": "CALICUT",
+            "ifsc": "DLXB0000041",
+            "office": "KOZHIKODE",
+            "phone": "6453463",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1416
+    },
+    {
+        "fields": {
+            "address": "SAHABA COMPLEX,1ST FLOOR TRICHUR GURUVAYUR ROAD MUNDUR THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000042",
+            "office": "MUNDUR",
+            "phone": "2211252",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1417
+    },
+    {
+        "fields": {
+            "address": "PAYYAPPILLY BUILDINGS MURINGOOR JUNCTION NH 47, MURINGOOR THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHALAKUDY",
+            "district": "CHALAKUDY",
+            "ifsc": "DLXB0000044",
+            "office": "MURINGOOR",
+            "phone": "2702657",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1418
+    },
+    {
+        "fields": {
+            "address": "ARYANAD, AP 585, ARYANAD THIRUVANANTHAPURAM KERALA STATE, 695542",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ARYANAD",
+            "district": "ARYANAD",
+            "ifsc": "DLXB0000045",
+            "office": "ARYANAD",
+            "phone": "2852036",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1419
+    },
+    {
+        "fields": {
+            "address": "11/122 PUDUKKAD MAPRANAM ROAD THOTTIPAL, THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THOTTIPPAL",
+            "district": "THOTTIPPAL",
+            "ifsc": "DLXB0000046",
+            "office": "THOTTIPPAL",
+            "phone": "2791483",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1420
+    },
+    {
+        "fields": {
+            "address": "P.B.NO:2 KAVALAM BLDG., S.B COLLEGE ROAD CHANGANACHERRY, KOTTAYAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHANGANASSERY",
+            "district": "CHANGANASSERY",
+            "ifsc": "DLXB0000047",
+            "office": "CHANGANACHERRY",
+            "phone": "6452343",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1421
+    },
+    {
+        "fields": {
+            "address": "P.B.NO 1 VAIKOM KOTTAYAM KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VAIKOM",
+            "district": "VAIKOM",
+            "ifsc": "DLXB0000048",
+            "office": "VAIKOM",
+            "phone": "9287276764",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1422
+    },
+    {
+        "fields": {
+            "address": "168, TRICHUR-SHORANUR ROAD, ATHANI, THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MINALUR (ATHANI)",
+            "district": "MINALUR (ATHANI)",
+            "ifsc": "DLXB0000049",
+            "office": "ATHANI",
+            "phone": "2200259",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1423
+    },
+    {
+        "fields": {
+            "address": "V/47-A,GROUND FLOOR I.G.TOWERS NEMMARA PALAKKAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ALATHUR",
+            "district": "ALATHUR",
+            "ifsc": "DLXB0000050",
+            "office": "VALLANGI-NEMMARA",
+            "phone": "9287276540",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1424
+    },
+    {
+        "fields": {
+            "address": "WARD NO.17 P B 261 KANIANTHARA HEIGHTS BAKER JUNCTION KOTTAYAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOTTAYAM",
+            "district": "KOTTAYAM",
+            "ifsc": "DLXB0000051",
+            "office": "KOTTAYAM",
+            "phone": "6452349",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1425
+    },
+    {
+        "fields": {
+            "address": "13/7 DEWASOOM BUILDING, ALAPUZHA ROAD ALAPUZHA DIST. KANICHIKULANGARA, KERALA STATE, 984011",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KANICHIKULANGARA",
+            "district": "KANICHIKULANGARA",
+            "ifsc": "DLXB0000052",
+            "office": "KANICHIKULANGARA",
+            "phone": "6450254",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1426
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR KAKANAT TOWERS PUTHUR THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000053",
+            "office": "PUTHUR",
+            "phone": "6454115",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1427
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.359 163,OM SAKTHI TOWER ANNA SALAI CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000054",
+            "office": "CHENNAI-MOUNT ROAD",
+            "phone": "49037004",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1428
+    },
+    {
+        "fields": {
+            "address": "P.B.NO:1150, XL/252 HOSPITAL ROAD, ERNAKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000055",
+            "office": "EKM-HOSPITAL ROAD",
+            "phone": "6453294",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1429
+    },
+    {
+        "fields": {
+            "address": "LAKSHMI PLAZA COIMBATORE ROAD SULTANPET PALAKKAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "DLXB0000056",
+            "office": "PALAKKAD-SULTANPET",
+            "phone": "6452286",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1430
+    },
+    {
+        "fields": {
+            "address": "P.B.NO 5067 KARIMPANAL ARCADE FORT THIRUVANANTHAPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "DLXB0000057",
+            "office": "TVM-FORT",
+            "phone": "6451079",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1431
+    },
+    {
+        "fields": {
+            "address": "III-507, T.PUZHA-THOTTAPILLY, PALLIPATTUMURY ALAPUZHA THRIKUNNAPUZHA, KERALA, 690515",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRIKKUNNAPUZHA",
+            "district": "THRIKKUNNAPUZHA",
+            "ifsc": "DLXB0000058",
+            "office": "THRIKKUNNAPUZHA",
+            "phone": "9287276586",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1432
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GANGOTHRI TOWERS, NEAR IRON BRIDGE KOLLAM - 691 001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "DLXB0000059",
+            "office": "KOLLAM",
+            "phone": "6451344",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1433
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.14, III 541 A III 541 B, EAST NADA, GURUVAYOOR, KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GURUVAYUR",
+            "district": "GURUVAYUR",
+            "ifsc": "DLXB0000060",
+            "office": "GURUVAYOOR",
+            "phone": "6453977",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1434
+    },
+    {
+        "fields": {
+            "address": "PERINKULAM, BANK ROAD ALLATHUR, PALAKKAD DIST. KERALA STATE, 678541",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ALATHUR",
+            "district": "ALATHUR",
+            "ifsc": "DLXB0000061",
+            "office": "PERINKULAM",
+            "phone": "9287276571",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1435
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.2951 268, CROSS CUT ROAD GANDHIPURAM COIMBATORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DLXB0000062",
+            "office": "COIMBATORE",
+            "phone": "6450975",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1436
+    },
+    {
+        "fields": {
+            "address": "P.B.NO. 21 NO.84,COIMBATORE ROAD POLLACHI T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "POLLACHI",
+            "district": "POLLACHI",
+            "ifsc": "DLXB0000063",
+            "office": "POLLACHI",
+            "phone": "4942984",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1437
+    },
+    {
+        "fields": {
+            "address": "IV/788 KOVENDA CHURCH BUILDING,VARANDARAPPILLY THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VARANDRAPALLY",
+            "district": "VARANDRAPALLY",
+            "ifsc": "DLXB0000064",
+            "office": "VARANDARAPPILLY",
+            "phone": "2760166",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1438
+    },
+    {
+        "fields": {
+            "address": "THERATHENAL BUILDING, TRIKKARIYOOR ERNAKULAM DISTRICT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOTHAMANGALAM",
+            "district": "KOTHAMANGALAM",
+            "ifsc": "DLXB0000065",
+            "office": "THRIKKARIYOOR",
+            "phone": "2822563",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1439
+    },
+    {
+        "fields": {
+            "address": "P.B.NO:60,DOOR NO:2471, WARD CC/XXIX,1ST FLOOR, SHAAN BLDG., J S PAUL JN. M A RAOD, KANNUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CANNUR",
+            "district": "CANNUR",
+            "ifsc": "DLXB0000066",
+            "office": "KANNUR",
+            "phone": "6450424",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1440
+    },
+    {
+        "fields": {
+            "address": "MP/IX/2728 -F CHALAKKAL KRISHNAN SON ALUVA-MUNNAR ROAD, MUNNAR, KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUNNAR",
+            "district": "MUNNAR",
+            "ifsc": "DLXB0000067",
+            "office": "MUNNAR",
+            "phone": "9287276537",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1441
+    },
+    {
+        "fields": {
+            "address": "NO:34, CSM PLAZA,V.K.ROAD MANDVELI, CHENNAI CHENNAI, T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000068",
+            "office": "CHENNAI-MANDAVELI",
+            "phone": "64530731",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1442
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.4214 NO.9,DICKENSON ROAD, BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000069",
+            "office": "BGR-DICKNSON ROAD",
+            "phone": "64548689",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1443
+    },
+    {
+        "fields": {
+            "address": "DHINDA CHAMBERS,GROUND FLOOR,NO.5-5-301/3 M G ROAD,OPP:S D M LAW COLLAGE,MANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "MANGALORE",
+            "ifsc": "DLXB0000070",
+            "office": "MANGALORE",
+            "phone": "2497730",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1444
+    },
+    {
+        "fields": {
+            "address": "VIII/1023 TRICHUR-SHORNUR ROAD KUMARANELLUR-OTTUPPARA WADAKKANCHERY, TCR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KUMARANELLUR",
+            "district": "KUMARANELLUR",
+            "ifsc": "DLXB0000071",
+            "office": "KUMARANELLUR",
+            "phone": "9287276523",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1445
+    },
+    {
+        "fields": {
+            "address": "III/202 NATIONAL HIGH WAY 47 DESOM ALUVA, EKM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DESOM",
+            "district": "DESOM",
+            "ifsc": "DLXB0000072",
+            "office": "DESOM",
+            "phone": "6453410",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1446
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.8 GROUND FLOOR K V VARKEY MEMORIAL COMPLEX, ANGAMALY",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ANGAMALY",
+            "district": "ANGAMALY",
+            "ifsc": "DLXB0000073",
+            "office": "ANGAMALY",
+            "phone": "6453378",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1447
+    },
+    {
+        "fields": {
+            "address": "5/657 MAIN ROAD PUDUSSERY KANJIKODE PALAKKAD DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KANJIKODE",
+            "district": "KANJIKODE",
+            "ifsc": "DLXB0000074",
+            "office": "PUDUSSERRY",
+            "phone": "2566385",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1448
+    },
+    {
+        "fields": {
+            "address": "PRIYADARSHINI NAGAR, KODUNTHIRAPPULLY PALAKKAD PALAKKAD, KERALA, 678004",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KODUNTHRIRAPALLY",
+            "district": "KODUNTHRIRAPALLY",
+            "ifsc": "DLXB0000075",
+            "office": "KODUNTHIRAPILLY",
+            "phone": "2508153",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1449
+    },
+    {
+        "fields": {
+            "address": "SREE MURALI COMPLEX PALLESSERY P.O. ARATTUPUZHA TCR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ARATTUPUZHA",
+            "district": "ARATTUPUZHA",
+            "ifsc": "DLXB0000076",
+            "office": "ARATTUPUZHA",
+            "phone": "2790228",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1450
+    },
+    {
+        "fields": {
+            "address": "3/53 V V BUILDINGS, PAZHAKUTTY P.O.NEDUMANGAD THIRUVANANTHAPURAM.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NEDUMANGAD",
+            "district": "NEDUMANGAD",
+            "ifsc": "DLXB0000077",
+            "office": "ANAD",
+            "phone": "2812248",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1451
+    },
+    {
+        "fields": {
+            "address": "DEVARAGAM BUILDING NEAR KSRTC BUS STAND CHADAYAMANGALM- 691534 KOLLAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "AYOOR",
+            "district": "AYOOR",
+            "ifsc": "DLXB0000078",
+            "office": "CHADAYAMANGALAM",
+            "phone": "2475255",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1452
+    },
+    {
+        "fields": {
+            "address": "KOPPAM, PULASSERY, KOPPAM VILLAGE PALAKKAD DIST , KERALA, 679307",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOPPAM",
+            "district": "KOPPAM",
+            "ifsc": "DLXB0000079",
+            "office": "KOPPAM",
+            "phone": "9287276511",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1453
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.9 EAST FORT GATE TRIPUNITHURA EKM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000080",
+            "office": "TRIPUNITHURA",
+            "phone": "6453550",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1454
+    },
+    {
+        "fields": {
+            "address": "MONON S COMPLEX AMMADAM/KODANNUR ROAD PALAKKAL THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHERPU",
+            "district": "CHERPU",
+            "ifsc": "DLXB0000081",
+            "office": "PALAKKAL",
+            "phone": "9287276551",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1455
+    },
+    {
+        "fields": {
+            "address": "CHEERIAN SHOPPING COMPLEX, PONGANAMKED KURICHIKKARA, KERALA STATE, 680028",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KURICHIKARA",
+            "district": "KURICHIKARA",
+            "ifsc": "DLXB0000082",
+            "office": "KURICHIKARA",
+            "phone": "2695625",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1456
+    },
+    {
+        "fields": {
+            "address": "9/IV CHITTUR-COIMBATORE ROAD CHITTUR PALAKKAD DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHITTUR",
+            "district": "CHITTUR",
+            "ifsc": "DLXB0000083",
+            "office": "CHITTUR",
+            "phone": "9287276485",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1457
+    },
+    {
+        "fields": {
+            "address": "DOOR NO: 86, 1ST FLOOR, EAST TOWER, VSK BUILDING, NAGERCOIL,KANYA KUMARI DT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NAGERCOIL",
+            "district": "NAGERCOIL",
+            "ifsc": "DLXB0000084",
+            "office": "NAGERCOIL",
+            "phone": "9244943010",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1458
+    },
+    {
+        "fields": {
+            "address": "THULASI COMPLEX, KALLAMBALAM THIRUVANANTHAPURAM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KALLAMBALAM",
+            "district": "KALLAMBALAM",
+            "ifsc": "DLXB0000085",
+            "office": "KALLAMBALAM",
+            "phone": "9287276615",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1459
+    },
+    {
+        "fields": {
+            "address": "EDAKUNNI TEMPLE ROAD, OLLUR TRICHUR DIST THAIKKATTUSSERY, KERALA STATE, 680303",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THAIKKATTUSSERY",
+            "district": "THAIKKATTUSSERY",
+            "ifsc": "DLXB0000086",
+            "office": "THAIKKATTUSSERY",
+            "phone": "6454130",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1460
+    },
+    {
+        "fields": {
+            "address": "10/508, KUNNATH BUILDING, KOTTEKKAD KUTTUR P.O THRISSUR, KERALA, 680001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOTTEKKAD",
+            "district": "KOTTEKKAD",
+            "ifsc": "DLXB0000087",
+            "office": "KOTTEKKAD",
+            "phone": "2212352",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1461
+    },
+    {
+        "fields": {
+            "address": "P.B.NO.246 1ST FLOOR, KUNDA S ESTATE ABIDS, HYDERABAD, A.P",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DLXB0000088",
+            "office": "HYDERABAD",
+            "phone": "4544549",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1462
+    },
+    {
+        "fields": {
+            "address": "VASANTH MAHAL, NO:4/106 KATAPADI-GUDIYATAM MAIN ROAD, K V KUPPAM, VELLORE DISTRICT, TN",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "K.V.KUPPAM",
+            "district": "VELLORE",
+            "ifsc": "DLXB0000089",
+            "office": "K.V.KUPPAM",
+            "phone": "1246227",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1463
+    },
+    {
+        "fields": {
+            "address": "1/327 MAIN ROAD LATHERI NORTH ARCOT, T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "LATHERI",
+            "district": "VELLORE",
+            "ifsc": "DLXB0000090",
+            "office": "LATHERI",
+            "phone": "6450921",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1464
+    },
+    {
+        "fields": {
+            "address": "NO 20, 1ST FLOOR GANDHI ROAD P.B.NO.406 VELLORE, T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VELLORE",
+            "district": "VELLORE",
+            "ifsc": "DLXB0000091",
+            "office": "VELLORE",
+            "phone": "6450507",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1465
+    },
+    {
+        "fields": {
+            "address": "C-VI/300 COLLEGE-NADAYANA ROAD SREENIVASAPURAM VARKALA TVM DT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VARKALA",
+            "district": "VARKALA",
+            "ifsc": "DLXB0000092",
+            "office": "SREENIVASAPURAM",
+            "phone": "9287276580",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1466
+    },
+    {
+        "fields": {
+            "address": "2 KUVEMPU NAGAR P.O.BLDG B.H.ROAD BATAWADI TUMKUR, KARNATAKA STATE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "DLXB0000094",
+            "office": "TUMKUR",
+            "phone": "6450183",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1467
+    },
+    {
+        "fields": {
+            "address": "26/1006 PALACE ROAD ALAPPUZHA KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ALAPPUZHA",
+            "district": "ALAPPUZHA",
+            "ifsc": "DLXB0000095",
+            "office": "ALAPPUZHA",
+            "phone": "6451255",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1468
+    },
+    {
+        "fields": {
+            "address": "SRI L N PERUMAL KOIL STREET, VAZHAIPANDAL NORTH ARCOT DIST ,VELLORE , TAMIL NADU, 600001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VAZHAIPANDAL",
+            "district": "VAZHAIPANDAL",
+            "ifsc": "DLXB0000096",
+            "office": "VAZHAIPANDAL",
+            "phone": "2244808",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1469
+    },
+    {
+        "fields": {
+            "address": "OLD NO;128,NEW NO.269 THAMBU CHETTY STRE GEORGE TOWN, CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000097",
+            "office": "CHENNAI-G.T",
+            "phone": "64547916",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1470
+    },
+    {
+        "fields": {
+            "address": "PANCHAYAT OFFICE BUILDING EDAVILANGU ROAD EDAVILANGU,KODUNGALLOOR THRISSUR DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "EDAVILANGU",
+            "district": "EDAVILANGU",
+            "ifsc": "DLXB0000098",
+            "office": "EDAVILANGU",
+            "phone": "9287276491",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1471
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, CHIRAPURATHU BUILDINGS MAIN ROAD AYARKUNNAM AYARKUNNAM, KERALA STATE, 686564",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "AYARKUNNAM",
+            "district": "AYARKUNNAM",
+            "ifsc": "DLXB0000099",
+            "office": "AYARKUNNAM",
+            "phone": "2542386",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1472
+    },
+    {
+        "fields": {
+            "address": "III- 53 K.K.ROAD KOLLATHUKULAM BLDG., CHIRAKADAVU,PONKUNNAM KOTTAYAM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PONKUNNAM",
+            "district": "PONKUNNAM",
+            "ifsc": "DLXB0000100",
+            "office": "CHIRAKADAVU",
+            "phone": "8221403",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1473
+    },
+    {
+        "fields": {
+            "address": "6/168 SHERIFF MENZIL, CHUNGAM PALAKKAD ROAD PERUVAMBA PALAKKAD DIST, KERALA, 678531",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PERUVEMBA",
+            "district": "PERUVEMBA",
+            "ifsc": "DLXB0000101",
+            "office": "PERUVAMBA",
+            "phone": "3252353",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1474
+    },
+    {
+        "fields": {
+            "address": "VATTAPPARA 678506, TRIVANDRUM DIST VATTAPPARA, KERALA STATE, 678506",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VATTAPARA",
+            "district": "VATTAPARA",
+            "ifsc": "DLXB0000102",
+            "office": "VATTAPARA",
+            "phone": "9287276626",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1475
+    },
+    {
+        "fields": {
+            "address": "27-6-177 PRAKASHAM ROAD,IST FLOOR 434 GOVERNERPET VIJAYAWADA, A.P",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "VIJAYAWADA",
+            "ifsc": "DLXB0000103",
+            "office": "VIJAYAWADA",
+            "phone": "6455460",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1476
+    },
+    {
+        "fields": {
+            "address": "1V/406 KOLLAM-KALLADA ROAD MULAVANA P O KOLLAM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHITTUMALA",
+            "district": "CHITTUMALA",
+            "ifsc": "DLXB0000104",
+            "office": "CHITTUMALA",
+            "phone": "9287276489",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1477
+    },
+    {
+        "fields": {
+            "address": "P.B.NO 451, 12 MADURAI ROAD, THIRUCHIRAPPALLAI.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TIRUCHIRAPPALLI",
+            "district": "TIRUCHIRAPPALLI",
+            "ifsc": "DLXB0000105",
+            "office": "THIRUCHIRAPPALLI",
+            "phone": "6450991",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1478
+    },
+    {
+        "fields": {
+            "address": "216-A. NETAJI ROAD MADURAI TAMIL NADU",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MADURAI",
+            "district": "MADURAI",
+            "ifsc": "DLXB0000106",
+            "office": "MADURAI",
+            "phone": "6548223",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1479
+    },
+    {
+        "fields": {
+            "address": "# 77, 1ST FLOOR, ORIENTAL SHOPPING COMPLEX A A STREET, SALEM - 1. T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "DLXB0000107",
+            "office": "SALEM",
+            "phone": "6540546",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1480
+    },
+    {
+        "fields": {
+            "address": "CHITTILANCHERRY P O, MELARCODE PALAKKAD DIST. MELARCODE, KERALA STATE, 678704",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MELARCODE",
+            "district": "MELARCODE",
+            "ifsc": "DLXB0000108",
+            "office": "MELARKODE",
+            "phone": "9287276536",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1481
+    },
+    {
+        "fields": {
+            "address": "XIX/514 M.C.ROAD PERUNNA KOTTAYAM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHANGANASSERY",
+            "district": "CHANGANASSERY",
+            "ifsc": "DLXB0000110",
+            "office": "PERUNNA",
+            "phone": "6452346",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1482
+    },
+    {
+        "fields": {
+            "address": "421 MAVELIKARA-PANDALAM ROAD KUNNAM P O, ALAPUZHA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THAZHAKKARA",
+            "district": "THAZHAKKARA",
+            "ifsc": "DLXB0000111",
+            "office": "THAZHAKKARA",
+            "phone": "6452299",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1483
+    },
+    {
+        "fields": {
+            "address": "D.NO.523, NETHAJI ROAD, ERODE, PERIYAR DIST T.N",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ERODE",
+            "district": "ERODE",
+            "ifsc": "DLXB0000112",
+            "office": "ERODE",
+            "phone": "4943013",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1484
+    },
+    {
+        "fields": {
+            "address": "17/567 M.C.ROAD THIRUVALLA KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVALLA",
+            "district": "THIRUVALLA",
+            "ifsc": "DLXB0000113",
+            "office": "THIRUVALLA",
+            "phone": "6450209",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1485
+    },
+    {
+        "fields": {
+            "address": "V/421 , MAIN ROAD P.B. NO 18 OTTAPALAM PALAKKAD DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "OTTAPALAM",
+            "district": "OTTAPALAM",
+            "ifsc": "DLXB0000114",
+            "office": "OTTAPPALAM",
+            "phone": "9287276544",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1486
+    },
+    {
+        "fields": {
+            "address": "27 B AND C, POST OFFICE ROAD ADIRAMPATTINAM TANJORE DIST, TAMIL NADU, 614701",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ADIRAMAPATTINAM",
+            "district": "ADIRAMAPATTINAM",
+            "ifsc": "DLXB0000115",
+            "office": "ADIRAMAPATTANAM",
+            "phone": "4942985",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1487
+    },
+    {
+        "fields": {
+            "address": "J C ROAD BRANCH, GROUND FLOOR, NO.92, SHIVAJI TOWERS, J C ROAD,BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000116",
+            "office": "J C ROAD,BGL",
+            "phone": "3606707",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1488
+    },
+    {
+        "fields": {
+            "address": "TRIVENI,PATHANAMTHITTA DT 689714",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "DLXB0000117",
+            "office": "PAMBA",
+            "phone": "5203465",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1489
+    },
+    {
+        "fields": {
+            "address": "T.C. 41/2343(4) MALSON TOWER MANACAUD TVM DIST",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "DLXB0000118",
+            "office": "TVM - MANACAUD",
+            "phone": "6451034",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1490
+    },
+    {
+        "fields": {
+            "address": "NSS UNION BUILDING, PERUNKULUM RANNI ROAD THOTTAMON PATHANAMTHITTA DIST., KERALA, 689672",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "RANNI",
+            "district": "RANNI",
+            "ifsc": "DLXB0000119",
+            "office": "THOTTAMON",
+            "phone": "5227497",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1491
+    },
+    {
+        "fields": {
+            "address": "PARAVOOR VARKALA ROAD, KRISHAN KOVIL ROAD KAPPIL TRIVANDRUM DIST. KAPPIL, KERALA, 695311",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VARKALA",
+            "district": "VARKALA",
+            "ifsc": "DLXB0000120",
+            "office": "KAPPIL",
+            "phone": "2661743",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1492
+    },
+    {
+        "fields": {
+            "address": "PB NO.54,CHANGAYIL BLDG COLLEGE ROAD PATHANAMTHITTA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "DLXB0000121",
+            "office": "PATHANAMTHITTA",
+            "phone": "2222702",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1493
+    },
+    {
+        "fields": {
+            "address": "XIV/242.M.C.ROAD CHENGANNUR ALAPPUZHA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENGANNUR",
+            "district": "CHENGANNUR",
+            "ifsc": "DLXB0000122",
+            "office": "CHENGANNUR",
+            "phone": "6452292",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1494
+    },
+    {
+        "fields": {
+            "address": "NO.318,SRI MUTHU PLAZA AVINASHI ROAD, TIRUPUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TIRUPUR",
+            "district": "TIRUPUR",
+            "ifsc": "DLXB0000123",
+            "office": "TIRUPUR",
+            "phone": "6450584",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1495
+    },
+    {
+        "fields": {
+            "address": "2/323-B,SUDHIR SADAN, CHANDAVARKAR ROAD , MATUNGA MUMBAI.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000124",
+            "office": "MUMBAI-MATUNGA",
+            "phone": "64531095",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1496
+    },
+    {
+        "fields": {
+            "address": "10/210, SATHY ROAD, VEERAPANCHATRAM, ERODE, TAMIL NADU",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ERODE",
+            "district": "ERODE",
+            "ifsc": "DLXB0000125",
+            "office": "VEERAPANCHATRAM",
+            "phone": "4943016",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1497
+    },
+    {
+        "fields": {
+            "address": "BALAKRISHNA BUILDING TC NO.IX/767 (1) SASTHAMANGALAM THIRUVANANTHAPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "DLXB0000126",
+            "office": "TVM-SASTHAMANGALAM",
+            "phone": "6451269",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1498
+    },
+    {
+        "fields": {
+            "address": "286, STANDARD TOWERS AVANASHI ROAD, PEELAMEDU COIMBATORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DLXB0000127",
+            "office": "PEELAMEDU",
+            "phone": "6451927",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1499
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,HOPES SHOPPING COMPLEX,7/154 LOGANS ROAD THALASSERY KANNUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THALASSERY",
+            "district": "THALASSERY",
+            "ifsc": "DLXB0000128",
+            "office": "THALASSERY",
+            "phone": "6450410",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1500
+    },
+    {
+        "fields": {
+            "address": "NO.23,SREE KRISHNA TOWERS BYE PASS ROAD,UDUMALPET COIMBATORE DT.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "UDUMALPET",
+            "district": "UDUMALPET",
+            "ifsc": "DLXB0000129",
+            "office": "UDUMALPET",
+            "phone": "4942990",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1501
+    },
+    {
+        "fields": {
+            "address": "DOOR NO.PM/5/148/13 FIRST FLOOR,CITY CENTRE, PATTAMBI ROAD, PEINTHALMANNA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PERINTALMANNA",
+            "district": "PERINTALMANNA",
+            "ifsc": "DLXB0000130",
+            "office": "PERINTHALMANNA",
+            "phone": "9287276566",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1502
+    },
+    {
+        "fields": {
+            "address": "DOOR NO.162/9 JYOTHI SUPER BAZAR P.B.NO. 36, THODUPUZHA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THODUPUZHA",
+            "district": "THODUPUZHA",
+            "ifsc": "DLXB0000131",
+            "office": "THODUPUZHA",
+            "phone": "9287276628",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1503
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR K M S TOWER THAZHEPALAM TIRUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TIRUR",
+            "district": "TIRUR",
+            "ifsc": "DLXB0000132",
+            "office": "TIRUR",
+            "phone": "6450592",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1504
+    },
+    {
+        "fields": {
+            "address": "28/648-R,WARD 28, KOYENCO SHOPPING COMPLEX, MAVOOR CALICUT ROAD, CHEVAYOOR, KOZHIKODE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CALICUT",
+            "district": "CALICUT",
+            "ifsc": "DLXB0000133",
+            "office": "CHEVARAMBALAM",
+            "phone": "6453460",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1505
+    },
+    {
+        "fields": {
+            "address": "7/859 A,1ST FLOOR AMBADY BULDGS, CHAMMARAVATTOM JN, PONNANI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PONNANI",
+            "district": "PONNANI",
+            "ifsc": "DLXB0000134",
+            "office": "PONNANI",
+            "phone": "6450495",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1506
+    },
+    {
+        "fields": {
+            "address": "XI/2734(3),VETTUKATTIL HOSPITAL COMPLEX BLDG M C ROAD, (TB JUNCTION) MUVATTUPUZHA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUVATTUPUZHA",
+            "district": "MUVATTUPUZHA",
+            "ifsc": "DLXB0000135",
+            "office": "MUVATTUPUZHA",
+            "phone": "6450327",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1507
+    },
+    {
+        "fields": {
+            "address": "214A PBNO28 OPP.BUS STAND CALICUT ROAD VALANCHERY MALAPPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VALANCHERRY",
+            "district": "VALANCHERRY",
+            "ifsc": "DLXB0000136",
+            "office": "VALANCHERY",
+            "phone": "6450687",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1508
+    },
+    {
+        "fields": {
+            "address": "47, SOUTH USMAN ROAD T.NAGAR CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000137",
+            "office": "CHENNAI-T.NAGAR",
+            "phone": "64361208",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1509
+    },
+    {
+        "fields": {
+            "address": "021044, GROUND FLOOR, KOVAI ROAD, KARUR. TAMIL NADU",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KARUR",
+            "district": "KARUR",
+            "ifsc": "DLXB0000138",
+            "office": "KARUR",
+            "phone": "4653561",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1510
+    },
+    {
+        "fields": {
+            "address": "PEENYA INDUSTRIAL ASSN BHAVAN,PEENYA TRADE CENTR 1ST CROSS,1ST STAGE PEENYA, BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PEENYA",
+            "district": "PEENYA",
+            "ifsc": "DLXB0000139",
+            "office": "PEENYA",
+            "phone": "64548691",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1511
+    },
+    {
+        "fields": {
+            "address": "DOOR NO:1,2,3GROUND FLOOR, URMILA COMPLEX,32 STATION AVENUE ROAD, CHEMBUR, MUMBAI 400071",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000140",
+            "office": "MUMBAI-CHEMBUR",
+            "phone": "25285760",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1512
+    },
+    {
+        "fields": {
+            "address": "THE DHANALAKSHMI BANK LTD., SERVICE BRANCH, CHENNAI, NO:163, OM SAKTHI TOWERS, ANNA SALAI, CHENNAI - 600002",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000141",
+            "office": "SERVICE BRANCH, CHENNAI",
+            "phone": "49037026",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1513
+    },
+    {
+        "fields": {
+            "address": "3RD FLOOR,THE SURAT VANKAR SAHAKARI SANGH BLG OPP.RESHAMWALA MARKET RING ROAD, SURAT,GUJARAT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "DLXB0000142",
+            "office": "SURAT",
+            "phone": "2350699",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1514
+    },
+    {
+        "fields": {
+            "address": "3, MOTILAL CHAMBERS INCOME TAX CIRCLE, NEAR SALES INDIA ASHRAM ROAD, AHMEDABAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "DLXB0000143",
+            "office": "AHMEDABAD",
+            "phone": "4502690",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1515
+    },
+    {
+        "fields": {
+            "address": "MUMBAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000144",
+            "office": "FORT MUMBAI",
+            "phone": "22045878",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1516
+    },
+    {
+        "fields": {
+            "address": "P.B.NO:3548, XL/7296,ADJACENT TO T.D,. EAST SANNIDHI ROAD, M G ROAD ERNAKULAM.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000145",
+            "office": "EKM-IFB",
+            "phone": "6675000",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1517
+    },
+    {
+        "fields": {
+            "address": "DHANALAKSHMI BANK LTD, MUMBAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000146",
+            "office": "RTGS-HO",
+            "phone": "61541700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1518
+    },
+    {
+        "fields": {
+            "address": "H 17,GOBIND MANSION, OUTER CIRCLE, CONNAUGHT CIRCUS, NEW DELHI -110 001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000147",
+            "office": "NEW DELHI",
+            "phone": "64544645",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1519
+    },
+    {
+        "fields": {
+            "address": "DHANALAKSHMI BANK LTD., M E S CULTURAL COMPLEX BUILDING, GROUND FLOOR, KALOOR, ERNAKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KALOOR",
+            "district": "KALOOR",
+            "ifsc": "DLXB0000148",
+            "office": "EKM-KALOOR",
+            "phone": "6453297",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1520
+    },
+    {
+        "fields": {
+            "address": "DHANALAKSHMI BANK LTD, Y-219, 2ND AVENUE, NEAR AYYAPPAN TEMPLE, ANNA NAGAR, CHENNAI-40",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000149",
+            "office": "CHENNAI-ANNA NAGAR",
+            "phone": "64547913",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1521
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR JOBEES COMPLEX KATTAKKAYAM ROAD PALAI,KOTTAYAM DT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALAI",
+            "district": "PALAI",
+            "ifsc": "DLXB0000150",
+            "office": "PALAI",
+            "phone": "9287276550",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1522
+    },
+    {
+        "fields": {
+            "address": "100, 18TH MAIN, 6TH BLOCK, KORAMANGALA , BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000151",
+            "office": "BGR-KORAMANGALA",
+            "phone": "64540467",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1523
+    },
+    {
+        "fields": {
+            "address": "SAKEENA SHOPPING COMPLEX, 1ST FLOOR, KALPETTA, WAYANAD DISTRICT, KERALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KALPETTA",
+            "district": "KALPETTA",
+            "ifsc": "DLXB0000152",
+            "office": "KALPETTA",
+            "phone": "207595",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1524
+    },
+    {
+        "fields": {
+            "address": "APSARA REGENCY COMPLEX, OPP. K S R T C BUS STAND, BANK ROAD, KASARGODE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KASARAGOD",
+            "district": "KASARAGOD",
+            "ifsc": "DLXB0000153",
+            "office": "KASARGODE",
+            "phone": "9287276561",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1525
+    },
+    {
+        "fields": {
+            "address": "IDEAL PLAZA, GROUND FLOOR, 11/1, SARAT BOSE ROAD, KOLKATA.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "DLXB0000154",
+            "office": "KOLKATA",
+            "phone": "22815100",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1526
+    },
+    {
+        "fields": {
+            "address": "THE DHANALAKSHMI BANK LTD, AMRITHA INSTITUTE OF MEDICAL SCIENCES, EDAPPALLY, KOCHI.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRIKKAKARA",
+            "district": "THRIKKAKARA",
+            "ifsc": "DLXB0000155",
+            "office": "EDAPPALLY",
+            "phone": "6453611",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1527
+    },
+    {
+        "fields": {
+            "address": "VASANTHA COMPLEX, KOLLENGODE PALAKKAD DIST. KERALA STATE, 678506",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLLENGODE I",
+            "district": "KOLLENGODE I",
+            "ifsc": "DLXB0000156",
+            "office": "KOLLANGODE",
+            "phone": "9287276509",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1528
+    },
+    {
+        "fields": {
+            "address": "THE DHANALAKSHMI BANK LTD ,XXX/147-G, N H ROAD, PALARIVATTOM, ERNAKULAM..",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000157",
+            "office": "SERVICE BRANCH, ERANAKULAM",
+            "phone": "6453278",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1529
+    },
+    {
+        "fields": {
+            "address": "THE DHANALAKSHMI BANK LTD PB NO.5067, KARIMPAMAL ARCADE, FORT, THIRUVANANTHAPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "DLXB0000158",
+            "office": "SERVICE BRANCH, THIRUVANANTHAPURAM",
+            "phone": "6451050",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1530
+    },
+    {
+        "fields": {
+            "address": "THE DHANALAKSHMI BANK LTD, DHANALAKSHMI BUILDINGS, NAICKANAL, THRISSUR.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000159",
+            "office": "SERVICE BRANCH, THRISSUR",
+            "phone": "7276687",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1531
+    },
+    {
+        "fields": {
+            "address": "SRI NANDHINI COMPLEX, 8 VENKITASAMY ROAD, R.S.PURAM, COIMBATORE - 641 002.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DLXB0000160",
+            "office": "R. S. PURAM",
+            "phone": "6451690",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1532
+    },
+    {
+        "fields": {
+            "address": "4M-407,4TH MAIN,3RD BLOCK,HRBR LAYOUT,BANGALORE-560043.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000161",
+            "office": "nan",
+            "phone": "60120001",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1533
+    },
+    {
+        "fields": {
+            "address": "VELACHERY",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000162",
+            "office": "VELACHERY",
+            "phone": "64540028",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1534
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MAR THOMA STUDENTS CENTRE, OPP NSS COLLEGE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "DLXB0000163",
+            "office": "PANDALAM",
+            "phone": "4254201",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1535
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,JANMABHOOMI BHAVAN,JANMABHOOMI MARG, FORT,MUMBAI-400 001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000164",
+            "office": "SERVICE BRANCH MUMBAI",
+            "phone": "64530976",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1536
+    },
+    {
+        "fields": {
+            "address": "BAR COUNCIL OF KER. BR. HIGH COURT CAMPUS, ERNAKULAM - 682 031.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DLXB0000165",
+            "office": "BAR COUNCIL OF KERALA",
+            "phone": "6453391",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1537
+    },
+    {
+        "fields": {
+            "address": "MOHANA BUILDING CENTRAL JUNCTION ADOOR PATHANAMTHITTA DIST.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ADOOR",
+            "district": "ADOOR",
+            "ifsc": "DLXB0000166",
+            "office": "ADOOR",
+            "phone": "9287276474",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1538
+    },
+    {
+        "fields": {
+            "address": "TREND TOWERS, GR FLOOR 8-2-289/10, ROAD NO.2 , BANJARA HILLS, HYDERABAD, ANDHRA PRADESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DLXB0000167",
+            "office": "BANJARA HILLS",
+            "phone": "4548776",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1539
+    },
+    {
+        "fields": {
+            "address": "686, VIVEKANANDA NAGAR COLONY, KUKATPALLY, HYDERABAD ANDHRA PRADESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DLXB0000168",
+            "office": "KUKATPALLY",
+            "phone": "3066221",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1540
+    },
+    {
+        "fields": {
+            "address": "THIRUMALAI HOUSE ,GROUND FLOOR, ROAD NO.29, NEAR SION HILL FORT SION (E), MUMABI.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000169",
+            "office": "SION",
+            "phone": "24018006",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1541
+    },
+    {
+        "fields": {
+            "address": "16/15, W.E.A., J.S.PLAZA , ARYA SAMAJ ROAD, KAROL BAGH, NEW DELHI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000170",
+            "office": "KAROL BAGH",
+            "phone": "64691036",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1542
+    },
+    {
+        "fields": {
+            "address": "P S COMPLEX,D.NO;4-12-40 NAIDUPET,1ST LANE, KORETIPADU MAIN ROD, GUNTUR, ANDHRA PRADESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GUNTUR",
+            "district": "GUNTUR",
+            "ifsc": "DLXB0000171",
+            "office": "GUNTUR",
+            "phone": "6450287",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1543
+    },
+    {
+        "fields": {
+            "address": "1A,NITISH BROADWAY, M G ROAD , BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000172",
+            "office": "BGL-M G ROAD",
+            "phone": "64548695",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1544
+    },
+    {
+        "fields": {
+            "address": "VIP ROAD, CBM COMPOUND VISAKHAPATNAM ANDHRA PRADESH - 530 003",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VISAKHAPATNAM",
+            "district": "VISAKHAPATNAM",
+            "ifsc": "DLXB0000173",
+            "office": "VISAKHAPATNAM",
+            "phone": "2540012",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1545
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1 C, NISHANT MILLENNIUM , SECTOR 28, VASHI NAVI, MUMBAI-400703.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NEW BOMBAY",
+            "district": "NEW BOMBAY",
+            "ifsc": "DLXB0000174",
+            "office": "MUMBAI-VASHI",
+            "phone": "27880360",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1546
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.3, TUDA LAY OUT RC ROAD, TIRUPATI ANDHRA PREDESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TIRUPATI",
+            "district": "TIRUPATI",
+            "ifsc": "DLXB0000175",
+            "office": "TIRUPATI",
+            "phone": "2245522",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1547
+    },
+    {
+        "fields": {
+            "address": "15/345,BRINDAVANAM BEHIND VIJAYA DAIRY NELLORE ANDHRA PRADESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NELLORE",
+            "district": "NELLORE",
+            "ifsc": "DLXB0000176",
+            "office": "NELLORE",
+            "phone": "6451630",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1548
+    },
+    {
+        "fields": {
+            "address": "A II/44,LAJPAT NAGAR II, LAJPAT NAGAR , NEW DELHI.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000177",
+            "office": "LAJPAT NAGAR,NEW DELHI",
+            "phone": "64500242",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1549
+    },
+    {
+        "fields": {
+            "address": "SRI GOWTHAM\"\" NEW NO.5,OLD NO.3 1ST AVENUE, ASHOK NAGAR, CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000178",
+            "office": "ASHOK NAGAR,CHENNAI",
+            "phone": "64547921",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1550
+    },
+    {
+        "fields": {
+            "address": "23A-3-28, DR.G S PRASAD HOSPITAL COMPLEX GOSAMRAKSHANA SAMITHI RD ELURU",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ELURU",
+            "district": "ELURU",
+            "ifsc": "DLXB0000179",
+            "office": "ELURU",
+            "phone": "2223433",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1551
+    },
+    {
+        "fields": {
+            "address": "59-14-8, SILPA ARCADE RAMACHANDRA NAGAR RING ROAD VIJAYAWADA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "VIJAYAWADA",
+            "ifsc": "DLXB0000180",
+            "office": "VIJAYAWADA RING ROAD",
+            "phone": "6457335",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1552
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,BAVA, ARCADE DOWN HILL MALAPPURAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MALAPPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "DLXB0000181",
+            "office": "MALAPPURAM",
+            "phone": "6450419",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1553
+    },
+    {
+        "fields": {
+            "address": "NO.26-1-12,TEMPLE STREET KAKINADA EAST GODAVARI DIST, ANDHRA PRADESH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KAKINADA",
+            "district": "KAKINADA",
+            "ifsc": "DLXB0000182",
+            "office": "KAKINADA",
+            "phone": "6451764",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1554
+    },
+    {
+        "fields": {
+            "address": "11-1-1623/2 3,SINGIDI COM PLEX,OPP.INDUR TRADERS, KANTESHWAR,ARMOOR ROAD, NIZAMABAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NIZAMABAD",
+            "district": "NIZAMABAD",
+            "ifsc": "DLXB0000183",
+            "office": "NIZAMABAD",
+            "phone": "2644960",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1555
+    },
+    {
+        "fields": {
+            "address": "ANNEXE EXCLLENCY BUILDING KARUNAGAPALLY, KOLLAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KARUNAGAPALLY",
+            "district": "KARUNAGAPALLY",
+            "ifsc": "DLXB0000184",
+            "office": "KARUNAGAPALLY",
+            "phone": "6451035",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1556
+    },
+    {
+        "fields": {
+            "address": "6-1-50, OPP.DWACRA BAZAR, WYRA ROAD, KHAMMAM, A.P.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KHAMMAM",
+            "district": "KHAMMAM",
+            "ifsc": "DLXB0000185",
+            "office": "KHAMMAM",
+            "phone": "2644919",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1557
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 88, BLOCK BE, SECTOR - 1, SALT LAKE CITY, KOLKATA - 700 064.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "DLXB0000186",
+            "office": "SALT LAKE CITY",
+            "phone": "64990588",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1558
+    },
+    {
+        "fields": {
+            "address": "23/2, B C, HARINIKETAN, MAULANA ABDUL KALAM AZAD ROAD, (DOBSON ROAD), HOWRAH, WEST BENGAL - 711 101.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HOWRAH",
+            "district": "HOWRAH",
+            "ifsc": "DLXB0000187",
+            "office": "HOWRAH",
+            "phone": "768033",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1559
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SAI SUSHMA HOMES, 23 / A, SANJEEVA REDDY NAGAR, HYDERABAD - 500 138.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DLXB0000188",
+            "office": "SANJEEVA REDDY NAGAR",
+            "phone": "4636991",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1560
+    },
+    {
+        "fields": {
+            "address": "NEW NO. 52 (OLD NO. 745), 33RD CROSS ROAD, 4TH BLOCK, JAYANAGAR, BANGALORE - 560 011.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000189",
+            "office": "JAYANAGAR",
+            "phone": "3603260",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1561
+    },
+    {
+        "fields": {
+            "address": "B-3/174, GROUND FLOOR, JANAKPURI, NEW DELHI - 110 058.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000190",
+            "office": "JANAKPURI",
+            "phone": "64644337",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1562
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BASEMENT, R 2/240, RAJNAGAR, GHAZIABAD, UTTAR PRADESH - 201 002.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "DLXB0000191",
+            "office": "GAZIABAD",
+            "phone": "6492804",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1563
+    },
+    {
+        "fields": {
+            "address": "M-72, M BLOCK MARKET, GREATER KAILASH - II, NEW DELHI-110048.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000192",
+            "office": "GREATER KAILASH",
+            "phone": "64610866",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1564
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, SKYLARK BUILDING, 60, NEHRU PLACE, NEW DELHI - 110 019.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000193",
+            "office": "NEHRU PLACE",
+            "phone": "65458371",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1565
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BASEMENT, PLOT NO. 4, POCKET A-1, SECTOR 8, ROHINI, DELHI - 110 085.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "DLXB0000194",
+            "office": "ROHINI",
+            "phone": "65458170",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1566
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SCO 17, SECTOR 14, GURGAON, HARYANA - 122 001.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "DLXB0000195",
+            "office": "GURGAON",
+            "phone": "6462186",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1567
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BASEMENT, CROWN PLAZA, SHOP NO. 2D/10B, 1 2 CHOWK, OPP. GHAZAL RESTAURANT, NIT, FARIDABAD, HARAYANA - 121 001.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "DLXB0000196",
+            "office": "FARIDABAD",
+            "phone": "6462085",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1568
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, K -23 24, SECTOR - 18, NOIDA, UTTAR PRADESH 201301.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "NOIDA",
+            "ifsc": "DLXB0000197",
+            "office": "NOIDA",
+            "phone": "6590310",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1569
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR MEZZANINE FLOOR, KOMAL PARK BLDG, GOLE MAIDAN, ULHASNAGAR, MUMBAI, MAHARASHTRA - 421 001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "ULHASNAGAR",
+            "ifsc": "DLXB0000198",
+            "office": "ULHAS NAGAR",
+            "phone": "2232813",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1570
+    },
+    {
+        "fields": {
+            "address": "RISAB MANSION, PLOT NO. 3, JAWAHAR NAGAR, S.V. ROAD, GOREGAON (W), MUMBAI - 400 069.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000199",
+            "office": "GOREGOAN",
+            "phone": "65991863",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1571
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, WARDEN HOUSE, PLOT NO. 65, SECTOR 11, CBD BELAPUR, NAVI MUMBAI, MAHARASHTRA - 400 614.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000200",
+            "office": "CBD BELAPUR",
+            "phone": "65991873",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1572
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 2, 3 4, KAPOOR APARTMENT, CHANDAVARKAR ROAD, BORIVLI (WEST), MUMBAI, MAHARASHTRA - 400 092.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000201",
+            "office": "BORIVLI",
+            "phone": "65991881",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1573
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ANGURAJ COMPLEX, NO. 41, NEW DHARAMPURAM ROAD, PALANI, TAMIL NADU - 624 601.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALANI",
+            "district": "PALANI",
+            "ifsc": "DLXB0000202",
+            "office": "PALANI",
+            "phone": "9244901061",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1574
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VAISHNAVI PLAZA, 17 18, WEST RAJA STREET, KANCHEEPURAM, TAMIL NADU - 631 502.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KANCHIPURAM",
+            "district": "KANCHIPURAM",
+            "ifsc": "DLXB0000203",
+            "office": "KANCHEEPURAM",
+            "phone": "67271578",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1575
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MORIAH COMPLEX, UDIYANKULANGARA JUNCTION, AMRAVAVILA P.O. DHANUVACHAPURAM, TRIVANDRUM, KERALA - 695 122",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DHANUVACHAPURAM",
+            "district": "DHANUVACHAPURAM",
+            "ifsc": "DLXB0000204",
+            "office": "DHANUVACHAPURAM",
+            "phone": "6455628",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1576
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, UNION BUILDING, ANCHAL ROAD, PUNALUR, KERALA - 691 305",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PUNALUR",
+            "district": "PUNALUR",
+            "ifsc": "DLXB0000205",
+            "office": "PUNALUR",
+            "phone": "9287215999",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1577
+    },
+    {
+        "fields": {
+            "address": "15 PORTUGUESE CHURCH STREET, SHAHEED NITYANAND SAHA SARANI, KOLKATA - 700 001.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "DLXB0000206",
+            "office": "BRABOURNE ROAD",
+            "phone": "64570047",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1578
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, JANAKI HERITAGE, OPP. MAXUS MALL, 150 FT. ROAD, BHAYANDER (WEST), DIST. THANE, MAHARASHTRA - 401 101.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "MIRA-BHAYANDAR",
+            "ifsc": "DLXB0000207",
+            "office": "MIRA BHAYANDAR",
+            "phone": "65991877",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1579
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 9 TO 16, OLIVE BUILDING, JIVDANI BUILDERS DEVELOPERS, PATNKAR WADI, NALLA SOPARA (WEST) 401 203",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "NALLASOPARA",
+            "ifsc": "DLXB0000208",
+            "office": "NALLASOPARA",
+            "phone": "6453376",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1580
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MIRAGE ARCADE, OPP GANESH TEMPLE, NEHRU ROAD, DOMBIVALI (EAST), MUMBAI, MAHARASHTRA - 421201.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "DOMBIVLI",
+            "ifsc": "DLXB0000209",
+            "office": "DOMBIVLI",
+            "phone": "2470033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1581
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DHAMANKAR PSD PLAZA, DHAMANKAR NAKA, AGRA ROAD, BHIWANDI, THANE DISTRICT, MUMBAI, MAHARASHTRA - 421 302",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "BHIWANDI",
+            "ifsc": "DLXB0000210",
+            "office": "BHIWANDI",
+            "phone": "2251002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1582
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR GROUND FLOOR, LAXMI SAGAR APT, PLOT NO.3-C, SHIV MANDIR ROAD, SWAMI SAMARTH CHOWK, AMBERNATH (EAST), DIST THANE, MAHARASHTRA - 421501",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "DLXB0000211",
+            "office": "AMBERNATH",
+            "phone": "6543263",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1583
+    },
+    {
+        "fields": {
+            "address": "GROUND 1ST FLOOR,SHOP NO.12-13-14,OFFICE NO.104,105,106,NAVJIVAN COMMERCIAL PREMISES CO-OP.SOC.LTD, MUMBAI CENTRAL,MUMBAI, MAHARASHTRA -400 008",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000212",
+            "office": "MUMBAI CENTRAL",
+            "phone": "64557852",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1584
+    },
+    {
+        "fields": {
+            "address": "SHINE PLAZA, OPP. PASABHAI PARK, NEAR NATUBHAI CIRCLE, RACE COURSE ROAD, VADODARA, GUJARAT - 390 007",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "DLXB0000213",
+            "office": "VADODARA",
+            "phone": "6450362",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1585
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, 6/1015, RAILWAY STATION ROAD, RAJAMPET, KADAPA DIST, ANDHRA PRADESH \u252c\u2510 516 115",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "RAJAMPET",
+            "district": "RAJAMPET",
+            "ifsc": "DLXB0000214",
+            "office": "RAJAMPET",
+            "phone": "9247015103",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1586
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHRI RANG PLAZA, SARDAR CHOWK, NEAR POLICE STATION, BARDOLI, GUJARAT - 394 601",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "BARDOLI",
+            "ifsc": "DLXB0000215",
+            "office": "BARDOLI",
+            "phone": "2650232",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1587
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BASEMENT, HALWASIYA HOUSE NO. 11, M.G. ROAD, HAZRATGANJ, LUCKNOW, UTTAR PRADESH - 226 001",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "DLXB0000216",
+            "office": "LUCKNOW",
+            "phone": "6569040",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1588
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, RANGA PLAZA, PARAMATHY ROAD, NAMAKKAL",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NAMAKKAL",
+            "district": "NAMAKKAL",
+            "ifsc": "DLXB0000217",
+            "office": "NAMAKKAL",
+            "phone": "6644117",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1589
+    },
+    {
+        "fields": {
+            "address": "G - 3/4/5/6/7, ROYAL WORLD, OPP. CITY CENTRE, SANSAR CHAND ROAD, JAIPUR, RAJASTHAN - 302 001.\u252c\u2510",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "DLXB0000218",
+            "office": "JAIPUR",
+            "phone": "6501791",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1590
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, RAI BUILDING, SECTOR - 17, NEAR K C CINEMA, CHANDIGARH - 160 017.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "DLXB0000219",
+            "office": "CHANDIGARH",
+            "phone": "6538924",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1591
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 465 - A, NEW JAWAHAR NAGAR, JALANDHAR, PUNJAB - 144 021.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "DLXB0000220",
+            "office": "JALANDHAR",
+            "phone": "6450562",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1592
+    },
+    {
+        "fields": {
+            "address": "NEW BUILDING, GROUND FLOOR, SHANTI MARKET, GT ROAD, JAGDISHPUR - 227809",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "JAGDISHPUR",
+            "district": "JAGDISHPUR",
+            "ifsc": "DLXB0000221",
+            "office": "JAGDISHPUR",
+            "phone": "5409029",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1593
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHAKTI SIKHA COMPLEX, SIGRA, VARANASI, UTTAR PRADESH - 221 010",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VARANASI",
+            "district": "VARANASI",
+            "ifsc": "DLXB0000222",
+            "office": "VARANASI",
+            "phone": "6452494",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1594
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NO. 14, 4TH MAIN, 8TH CROSS, KAMAKSHI HOSPITAL ROAD, SARSWATHIPURAM, MYSORE, KARNATAKA - 570 009.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "DLXB0000223",
+            "office": "MYSORE",
+            "phone": "6450493",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1595
+    },
+    {
+        "fields": {
+            "address": "PALANPUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALANPUR",
+            "district": "PALANPUR",
+            "ifsc": "DLXB0000224",
+            "office": "PALANPUR",
+            "phone": "2645809",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1596
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 102, SREE GURU TOWERS, OLD NO. 3-632, GOPURAM ROAD, ANANTPUR DIST, PUTTAPARTHI - 515 134, ANDHRA PRADESH.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PUTTAPARTHI",
+            "district": "PUTTAPARTHI",
+            "ifsc": "DLXB0000225",
+            "office": "PUTTAPARTI",
+            "phone": "5286192",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1597
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VNV PLAZA, PLOT NO. 6, ZONE - II, MAHARANA PRATAP NAGAR, BHOPAL, MADHYA PRADESH - 462 001.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "DLXB0000226",
+            "office": "BHOPAL",
+            "phone": "2555019",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1598
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, GALAZEE SHAHID KHUDIRAM SARANI, CITY CENTER, DURGAPUR, WEST BENGAL - 713 216.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "DURGAPUR",
+            "ifsc": "DLXB0000227",
+            "office": "DURGAPUR",
+            "phone": "6450522",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1599
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NO. 1143, MIG, 16TH \"\"B\"\" MAIN ROAD, YELAHANKA NEW TOWN, BANGALORE, KARNATAKA - 560 064.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "YELAHANKA",
+            "district": "YELAHANKA",
+            "ifsc": "DLXB0000228",
+            "office": "YELAHANKA",
+            "phone": "64531843",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1600
+    },
+    {
+        "fields": {
+            "address": "A-WING, RAJYOG RESIDENCY, DR.RAJENDRA PRASAD ROAD, OPP. VARDHAMAN NAGAR, MULUND (WEST), MUMBAI, MAHARASHTRA - 400 080",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000229",
+            "office": "MULUND",
+            "phone": "64531653",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1601
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GRAND BELLEVISTA, OPP.BANDRA TALAO, S.V.ROAD, BANDRA (WEST), MUMBAI-400050.",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BHANDARA",
+            "district": "BHANDARA",
+            "ifsc": "DLXB0000230",
+            "office": "BANDRA",
+            "phone": "64509908",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1602
+    },
+    {
+        "fields": {
+            "address": "PUNE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DLXB0000231",
+            "office": "PUNE",
+            "phone": "4500220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1603
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 18/71, OLD POLICE LANE STREET, VEERABADRASWAMY KOIL/STREET, RAMESWARAM, RAMANATHAPURAM DISTRICT, TAMIL NADU - 623 526",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "RAMESWARAM",
+            "district": "RAMESWARAM",
+            "ifsc": "DLXB0000232",
+            "office": "RAMESWARAM",
+            "phone": "3221033",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1604
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NEW BUILDING, NEAR RAILWAY GATE, MAIN ROAD, UDMA, KASARGODE DISTRICT, KERALA - 671 319",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "UDMA",
+            "district": "UDMA",
+            "ifsc": "DLXB0000233",
+            "office": "UDMA",
+            "phone": "265320",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1605
+    },
+    {
+        "fields": {
+            "address": "MUMBAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000234",
+            "office": "GHATKOPAR",
+            "phone": "65409017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1606
+    },
+    {
+        "fields": {
+            "address": "CHIDAMBARAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHIDAMBARAM",
+            "district": "CHIDAMBARAM",
+            "ifsc": "DLXB0000235",
+            "office": "CHIDAMBARAM",
+            "phone": "4651912",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1607
+    },
+    {
+        "fields": {
+            "address": "GUJARAT",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VIRAVAL",
+            "district": "VIRAVAL",
+            "ifsc": "DLXB0000236",
+            "office": "VERAVAL",
+            "phone": "6242301",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1608
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KORAMBAYIL COPERATE MALL, CENTRAL BAZAR, CALICUT ROAD, MANJERI, MALAPPURAM DISTRICT, KERALA - 676 121",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MANJERI",
+            "district": "MANJERI",
+            "ifsc": "DLXB0000237",
+            "office": "MANJERI",
+            "phone": "9287276847",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1609
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND, CENTER PLAZA, KATTAMPALLY ROAD, PUTHIYATHERU, KANNUR, KERALA - 670 011",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KATTAMPALLY",
+            "district": "KATTAMPALLY",
+            "ifsc": "DLXB0000238",
+            "office": "KATTAMPALLY",
+            "phone": "450608",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1610
+    },
+    {
+        "fields": {
+            "address": "THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000239",
+            "office": "KAYYUR",
+            "phone": "2250666",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1611
+    },
+    {
+        "fields": {
+            "address": "THRIKKAKARA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRIKKAKARA",
+            "district": "THRIKKAKARA",
+            "ifsc": "DLXB0000240",
+            "office": "THRIKKAKARA",
+            "phone": "6450772",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1612
+    },
+    {
+        "fields": {
+            "address": "VADAKARA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VADAKARA",
+            "district": "VADAKARA",
+            "ifsc": "DLXB0000241",
+            "office": "VADAKARA",
+            "phone": "6451169",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1613
+    },
+    {
+        "fields": {
+            "address": "KANHANGAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KANHANGAD",
+            "district": "KANHANGAD",
+            "ifsc": "DLXB0000242",
+            "office": "KANHANGAD",
+            "phone": "2200911",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1614
+    },
+    {
+        "fields": {
+            "address": "PUNJABI BAGH",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "DLXB0000243",
+            "office": "PUNJABI BAGH",
+            "phone": "65101115",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1615
+    },
+    {
+        "fields": {
+            "address": "KURUPPAMPADY",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KURUPPAMPADY",
+            "district": "KURUPPAMPADY",
+            "ifsc": "DLXB0000244",
+            "office": "KURUPPAMPADY",
+            "phone": "2593428",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1616
+    },
+    {
+        "fields": {
+            "address": "CPC HYDERABAD",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DLXB0000245",
+            "office": "CPC HYDERABAD",
+            "phone": "4500796",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1617
+    },
+    {
+        "fields": {
+            "address": "PANAJI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GOA",
+            "district": "PANAJI",
+            "ifsc": "DLXB0000246",
+            "office": "PANAJI",
+            "phone": "6451033",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1618
+    },
+    {
+        "fields": {
+            "address": "MUMBAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000247",
+            "office": "ANDHERI BRANCH",
+            "phone": "64500501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1619
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR & BASEMENT, WEST VIEW CO-OP HOUSING SOCIETYLTD, 485 VEER SAVARKAR MARG, PRABHADEVI MUMBAI -400025",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000248",
+            "office": "PRABHADEVI",
+            "phone": "64500502",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1620
+    },
+    {
+        "fields": {
+            "address": "THANE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "DLXB0000249",
+            "office": "VASAI",
+            "phone": "2330486",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1621
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR VIVA GOKUL ARCADE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DLXB0000250",
+            "office": "VIRAR",
+            "phone": "6450245",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1622
+    },
+    {
+        "fields": {
+            "address": "CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000251",
+            "office": "AMRUTHA INSTITUTE OF COMPUTER TECH, SALIGRAMAM",
+            "phone": "64509226",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1623
+    },
+    {
+        "fields": {
+            "address": "CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000252",
+            "office": "S.N.SCHOOL & COLLEGE, WEST MAMBALAM",
+            "phone": "65450573",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1624
+    },
+    {
+        "fields": {
+            "address": "COIMBATORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DLXB0000253",
+            "office": "AMRITA INSTITUTE OF TECHNOLOGY ETTIMADAI",
+            "phone": "2652335",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1625
+    },
+    {
+        "fields": {
+            "address": "CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000254",
+            "office": "MGR ADARSH METRICULATION HIGH SCHOOL, MOGAPPAIR",
+            "phone": "65450574",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1626
+    },
+    {
+        "fields": {
+            "address": "NAGERCOIL",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NAGERCOIL",
+            "district": "KANYAKUMARI",
+            "ifsc": "DLXB0000255",
+            "office": "S.T.HINDU COLLEGE, NAGERCOIL",
+            "phone": "2223475",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1627
+    },
+    {
+        "fields": {
+            "address": "CHENNAI",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DLXB0000256",
+            "office": "AMRUTHANJAN LIMITED, MYLAPORE",
+            "phone": "64508185",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1628
+    },
+    {
+        "fields": {
+            "address": "VIJAYAWADA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "VIJAYAWADA",
+            "ifsc": "DLXB0000257",
+            "office": "NRI MEDICAL COLLEGE CHINNA KAKKANI",
+            "phone": "9247060807",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1629
+    },
+    {
+        "fields": {
+            "address": "BANGALORE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DLXB0000258",
+            "office": "AMRITA INSTITUTE OF TECHNOLOGY KORAMANGALA",
+            "phone": "64540470",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1630
+    },
+    {
+        "fields": {
+            "address": "GURUVAYOOR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "GURUVAYOOR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000259",
+            "office": "GURUVAYOOR DEVASWOM GURUVAYOOR",
+            "phone": "6453980",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1631
+    },
+    {
+        "fields": {
+            "address": "KOLLAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "DLXB0000260",
+            "office": "M.A.MATH, VALLIKAVU",
+            "phone": "9287276643",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1632
+    },
+    {
+        "fields": {
+            "address": "KOZHIKODE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "DLXB0000261",
+            "office": "MALABAR INSTITUTE OF MEDICAL SCIENCE, KOZHIKODE",
+            "phone": "6453515",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1633
+    },
+    {
+        "fields": {
+            "address": "THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000262",
+            "office": "MEDICAL COLLEGE, MULAKUNNATHUKAVU",
+            "phone": "2206179",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1634
+    },
+    {
+        "fields": {
+            "address": "TRIVANDRAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TRIVANDRAM",
+            "district": "TRIVANDRAM",
+            "ifsc": "DLXB0000263",
+            "office": "MUNCIPALITY, MUNCIPAL BUILDING, VARKALA",
+            "phone": "9287276647",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1635
+    },
+    {
+        "fields": {
+            "address": "KOTTARAKARA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOTTARAKARA",
+            "district": "KOTTARAKARA",
+            "ifsc": "DLXB0000264",
+            "office": "NSS TALUK UNION,KOTTARAKARA",
+            "phone": "9287276646",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1636
+    },
+    {
+        "fields": {
+            "address": "CHERTHALA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "CHERTHALA",
+            "district": "CHERTHALA",
+            "ifsc": "DLXB0000265",
+            "office": "S.N.COLLEGE, CHERTHALA",
+            "phone": "6450278",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1637
+    },
+    {
+        "fields": {
+            "address": "MAVELIKKARA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "MAVELIKKARA",
+            "district": "MAVELIKKARA",
+            "ifsc": "DLXB0000266",
+            "office": "T.D.B OFFICE, MAVELIKKARA",
+            "phone": "6540458",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1638
+    },
+    {
+        "fields": {
+            "address": "ETTUMANOOR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ETTUMANOOR",
+            "district": "ETTUMANOOR",
+            "ifsc": "DLXB0000267",
+            "office": "T.D.B OFFICE. ETTUMANOOR",
+            "phone": "6452392",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1639
+    },
+    {
+        "fields": {
+            "address": "ALUVA",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ALUVA",
+            "district": "ALUVA",
+            "ifsc": "DLXB0000268",
+            "office": "VIDYADHIRAJA VIDYA BHAVAN, CHEERAKADA",
+            "phone": "6453593",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1640
+    },
+    {
+        "fields": {
+            "address": "TRIVANDRAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "TRIVANDRAM",
+            "district": "TRIVANDRAM",
+            "ifsc": "DLXB0000269",
+            "office": "ATTUKKAL TEMPLE",
+            "phone": "6451280",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1641
+    },
+    {
+        "fields": {
+            "address": "VANCHIYOOR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "VANCHIYOOR",
+            "district": "VANCHIYOOR",
+            "ifsc": "DLXB0000270",
+            "office": "BAR COUNCIL, VANCHIYOOR",
+            "phone": "6451287",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1642
+    },
+    {
+        "fields": {
+            "address": "KOLLAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "DLXB0000271",
+            "office": "DR.NAIRS HOSPITAL, KOLLAM",
+            "phone": "6451307",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1643
+    },
+    {
+        "fields": {
+            "address": "ERNAKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "DLXB0000272",
+            "office": "G.C.D.A, ERNAKULAM",
+            "phone": "6453579",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1644
+    },
+    {
+        "fields": {
+            "address": "ERNAKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "DLXB0000273",
+            "office": "S.D.COLLEGE, ALAPPUZHA",
+            "phone": "2268537",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1645
+    },
+    {
+        "fields": {
+            "address": "KOLLAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "DLXB0000274",
+            "office": "SHANKERS HOSPITAL, KOLLAM",
+            "phone": "6451308",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1646
+    },
+    {
+        "fields": {
+            "address": "NANTHANCODE",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "NANTHANCODE",
+            "district": "NANTHANCODE",
+            "ifsc": "DLXB0000275",
+            "office": "T.D.B OFFICE.NANTHANCODE",
+            "phone": "6451276",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1647
+    },
+    {
+        "fields": {
+            "address": "ERNAKULAM",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "DLXB0000276",
+            "office": "WELCARE HOSPITAL, VYTTILA",
+            "phone": "6453585",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1648
+    },
+    {
+        "fields": {
+            "address": "MG ROAD THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000277",
+            "office": "CPC THRISSUR",
+            "phone": "6454246",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1649
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 76,GROUND FLOOR,LK TOWER, CHOPASANI ROAD,JODHPUR -342002",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "DLXB0000278",
+            "office": "JODHPUR",
+            "phone": "2610140",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1650
+    },
+    {
+        "fields": {
+            "address": "G.F,1160,JANAKPURI,OPP PRABHAT NAGAR GATE,BAREILLY - 243122",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "BAREILLY",
+            "district": "BAREILLY",
+            "ifsc": "DLXB0000279",
+            "office": "BAREILLY",
+            "phone": "6450119",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1651
+    },
+    {
+        "fields": {
+            "address": "ANANDLOK BUILDING,1ST FLOOR,B BLOCK,227,AJC BOSE ROAD,KOLKATA 700020",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "DLXB0000905",
+            "office": "RPC KOLKATA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1652
+    },
+    {
+        "fields": {
+            "address": "286,STANDARD TOWERS, AVINASHI ROAD,PEELAMEDU,COIMBATORE 641004",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DLXB0000993",
+            "office": "RPC COIMBATORE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1653
+    },
+    {
+        "fields": {
+            "address": "1 FLOOR,KRISHNA ARCADE,CHANDRANAGAR,PALAKKAD 678007",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "DLXB0000994",
+            "office": "RPC PALAKKAD",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1654
+    },
+    {
+        "fields": {
+            "address": "RTGS CELL",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000996",
+            "office": "RTGS CELL",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1655
+    },
+    {
+        "fields": {
+            "address": "THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000998",
+            "office": "CORPORATE OFFICE",
+            "phone": "6617000",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1656
+    },
+    {
+        "fields": {
+            "address": "THRISSUR",
+            "bank_name": "DHANALAKSHMI BANK",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "DLXB0000999",
+            "office": "DCS",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1657
+    }
+]

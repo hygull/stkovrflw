@@ -1,0 +1,1727 @@
+[
+    {
+        "fields": {
+            "address": "SHIVAJI PATH, POST BOX 19,THANE (W), PIN 400601,",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000001",
+            "office": "RTGS-HO",
+            "phone": "25333014",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109053
+    },
+    {
+        "fields": {
+            "address": "NEAR ARNALA MACHHIMAR SOCIETY LTD, KILL ROAD,AT & POST-ARNALA, TALUKA- VASAI,  PIN-401304.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ARNALA",
+            "district": "THANE",
+            "ifsc": "TDCB0000002",
+            "office": "ARNALA",
+            "phone": "2587504",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109054
+    },
+    {
+        "fields": {
+            "address": "KUBER APARTMENT, GR. FLOOR, AMBADI ROAD,VASAI ROAD (W),POST-VASAI ROAD,TAL-VASAI,  PIN- 401202.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000003",
+            "office": "VASAI ROAD",
+            "phone": "2342401",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109055
+    },
+    {
+        "fields": {
+            "address": "AT & POST CHANDIP, SHIRSAD-VAJRESHWARI ROAD, TALUKA-VASAI, PIN -401303",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000004",
+            "office": "CHANDIP",
+            "phone": "2571222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109056
+    },
+    {
+        "fields": {
+            "address": "OM GURUPRASAD,1ST FLOOR, NAIGAON-W, TALUKA-VASAI,  PIN-401207",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000005",
+            "office": "NAIGAON",
+            "phone": "2300765",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109057
+    },
+    {
+        "fields": {
+            "address": "SURYA DARSHAN,1ST FLOOR, VEER SAVARKAR MARG, VIRAR (E.) TALUKA-VASAI, PIN-401303",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000006",
+            "office": "VIRAR",
+            "phone": "2527348",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109058
+    },
+    {
+        "fields": {
+            "address": "AT & POST-VATAR, TALUKA-VASAI,  PIN-401301",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000007",
+            "office": "VATAR",
+            "phone": "2587707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109059
+    },
+    {
+        "fields": {
+            "address": "OM LAXMI CHEMBER, 1ST FLOOR,TULINJ, NALASOPARA-E , TALUKA-VASAI, PIN-401304",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "THANE",
+            "ifsc": "TDCB0000008",
+            "office": "NALASOPARA",
+            "phone": "2432673",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109060
+    },
+    {
+        "fields": {
+            "address": "GAJANAN PRASAD BUILDING, AT & POST NIRMAL, TAL-VASAI,  PIN-401304",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIRMAL",
+            "district": "THANE",
+            "ifsc": "TDCB0000009",
+            "office": "NIRMAL",
+            "phone": "2470243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109061
+    },
+    {
+        "fields": {
+            "address": "CITY CENTER BUILDING, PRABHU ALI, MANDAI, TALUKA & POST BHIWANDI, PIN-421302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000010",
+            "office": "BHIWANDI",
+            "phone": "250885",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109062
+    },
+    {
+        "fields": {
+            "address": "AT-DUGAD FATA,POST-DUGAD, TALUKA-BHIWANDI, PIN-421302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000011",
+            "office": "DUGADPHATA",
+            "phone": "288550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109063
+    },
+    {
+        "fields": {
+            "address": "WED APARTMENT,FIRST FLOOR,OPP LAXMI-NARAYAN BLDG,PADGHA-BHIWANDI RD AT & POST :PADGHA TAL:BHIWANDI DIST:THANE 421101",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PADGHA",
+            "district": "THANE",
+            "ifsc": "TDCB0000012",
+            "office": "PADGHA",
+            "phone": "268278",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109064
+    },
+    {
+        "fields": {
+            "address": "KONDU PATIL BUILDING, PURNESHWAR MANDIR ROAD, POST-KALHER, TALUKA -BHIWANDI, PIN-401302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000013",
+            "office": "PURNA",
+            "phone": "271800",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109065
+    },
+    {
+        "fields": {
+            "address": "CLASSIC ENTERPRIZES ,FIRST FLOOR,VASAI-AMBADI ROAD,AT& POST:VAJRESHWARI ,TAL:BHIWANDI.DIST THANE PIN:401204",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANESHPURI",
+            "district": "THANE",
+            "ifsc": "TDCB0000014",
+            "office": "VAJRESHWARI",
+            "phone": "261235",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109066
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KON, TALUKA-BHIWANDI, PIN-421311",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000015",
+            "office": "KON",
+            "phone": "280575",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109067
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KHARBAV, TALUKA-BHIWANDI, PIN-421302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000016",
+            "office": "KHARBAV",
+            "phone": "264310",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109068
+    },
+    {
+        "fields": {
+            "address": "AASTHA ABOD CO-OP.HOUSING SOC. LTD., GR.FLOOR,TALUKA-DAHANU, PIN-401601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "THANE",
+            "ifsc": "TDCB0000017",
+            "office": "DAHANU",
+            "phone": "222308",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109069
+    },
+    {
+        "fields": {
+            "address": "OM DATTA NARAYAN BAG CO-OP. HOUSING SOC.LTD., GALA NO 8 & 11, NEAR POST OFFICE, DAHANU RD, TALUKA- DAHANU, PIN-401602",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU ROAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000018",
+            "office": "DAHANU ROAD",
+            "phone": "222452",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109070
+    },
+    {
+        "fields": {
+            "address": "BORDI BAZAR, POST-BORDI, TALUKA-DAHANU, PIN-401701",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BORDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000019",
+            "office": "BORDI",
+            "phone": "254042",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109071
+    },
+    {
+        "fields": {
+            "address": "GRAMPANCHAYAT BUILDING, 1ST FLOOR, AT & POST-CHINCHANI, TALUKA- DAHANU, PIN-401503",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "THANE",
+            "ifsc": "TDCB0000020",
+            "office": "CHINCHANI",
+            "phone": "242156",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109072
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KASA, NEAR R.H.HOSPITAL, POST-KASA, TALUKA-DAHANU, PIN-401607",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "THANE",
+            "ifsc": "TDCB0000021",
+            "office": "KASA",
+            "phone": "264032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109073
+    },
+    {
+        "fields": {
+            "address": "MOHAN APARTMENT, 1SR FLOOR, STATION RD. POST-VANGAON,TALUKA-DAHANU, PIN-401103",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VANGAON",
+            "district": "THANE",
+            "ifsc": "TDCB0000022",
+            "office": "VANGAON",
+            "phone": "244022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109074
+    },
+    {
+        "fields": {
+            "address": "CHHATRAPATI SHIVAJI PATH, AT & POST-JAWHAR, PIN-401603",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000023",
+            "office": "JAWHAR",
+            "phone": "222424",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109075
+    },
+    {
+        "fields": {
+            "address": "AT & POST-VIKRAMGAD, TALUKA-VIKRAMGAD, PIN-401605",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIKRAMGAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000024",
+            "office": "VIKRAMGAD",
+            "phone": "240024",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109076
+    },
+    {
+        "fields": {
+            "address": "SAI VIHAR BUILDING, NEW SHIVAJI PATH, TAL.KALYAN PIN CODE-421 301.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000025",
+            "office": "KALYAN",
+            "phone": "2315062",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109077
+    },
+    {
+        "fields": {
+            "address": "GANPATI MANDIR ROAD, SIDHRAJ APPT. MANDA-TITWALA(E),TAL.KALYAN  PIN CODE-421 605.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000026",
+            "office": "MANDA-TITWALA",
+            "phone": "2381203",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109078
+    },
+    {
+        "fields": {
+            "address": "M.G.ROAD,OM TRIMURTI BLDG, VISHNUNAGAR, TAL.KALYAN  PIN CODE-421 202.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "TDCB0000027",
+            "office": "DOMBIVALI (W)",
+            "phone": "2485979",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109079
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI UDYOG NAGAR, MANPADA ROAD,DOMBIVALI,  TAL.KALYAN, PIN CODE-421 201.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "TDCB0000028",
+            "office": "DOMBIVALI ( E )",
+            "phone": "2448561",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109080
+    },
+    {
+        "fields": {
+            "address": "MURBAD TAL. SHETKARI  SANGH LTD. MURBAD BUILDING, 1ST  FLOOR,  OPP. MARATHI SCHOOL , MAIN ROAD, TALUKA MURBAD, PIN-421402",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000029",
+            "office": "MURBAD",
+            "phone": "222238",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109081
+    },
+    {
+        "fields": {
+            "address": "AT.PO.DHASAI, TAL.MURBAD,  PIN CODE-421 402.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000030",
+            "office": "DHASAI",
+            "phone": "244044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109082
+    },
+    {
+        "fields": {
+            "address": "SHREE KRUPA BUILDING,  KALYAN NAGAR ROAD, PO.SARALGAON, TAL.MURBAD,  PIN CODE-421 401.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SARALGAON",
+            "district": "THANE",
+            "ifsc": "TDCB0000031",
+            "office": "SARALGAON",
+            "phone": "240175",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109083
+    },
+    {
+        "fields": {
+            "address": "SHRUSTI PRIDE CHS LTD, FLAT NO. 102,RAM MARUTI ROAD, THANE (WEST) PIN CODE-400 602.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000032",
+            "office": "RAM MARUTI ROAD",
+            "phone": "25402272",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109084
+    },
+    {
+        "fields": {
+            "address": "CHHATRAPATI SHIVAJI PATH, P.O.NO.19, THANE (W) PIN CODE-400 601.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000033",
+            "office": "THANE TOWN",
+            "phone": "25363042",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109085
+    },
+    {
+        "fields": {
+            "address": "SAHKAR JYOT, CROSS CORNER, 1ST FLOOR, NEAR MIRA \u252c\u00fb BHAYANDAR MAHANAGAR PALIKA, BHAYANDAR (W)",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000034",
+            "office": "BHAYANDER",
+            "phone": "8192529",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109086
+    },
+    {
+        "fields": {
+            "address": "OPP.NAVI MUMBAI MAHANAGAR PALIKA SCHOOL NO.31, PRABHAKAR PATIL CHAWL, THANE BELAPUR ROAD, GHANSOLI, PIN-400701",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000035",
+            "office": "GHANSOLI",
+            "phone": "27692324",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109087
+    },
+    {
+        "fields": {
+            "address": "OPP.MUMBRA POLICE STATION, AT & POST MUMBRA.  PIN CODE-400 612",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000036",
+            "office": "MUMBRA",
+            "phone": "25462026",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109088
+    },
+    {
+        "fields": {
+            "address": "APMC FRUIT MARKET, CENTRAL FACILITIES BUILDING., GROUND FLOOR, SECTOR \u252c\u00fb 19, TURBHE,NAVI MUMBAI, PIN-400705",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000037",
+            "office": "TURBHE",
+            "phone": "27832511",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109089
+    },
+    {
+        "fields": {
+            "address": "DHYAN HOUSE BUILDING, SHIVAJI NAGAR ROAD NO.3,WAGLE ESTATE, PIN CODE-400 604.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000038",
+            "office": "WAGLE ESTATE",
+            "phone": "400604",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109090
+    },
+    {
+        "fields": {
+            "address": "BHARTI CHEMBER, OLD BELAPUR ROAD, KALWA  PIN CODE-400 605.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000039",
+            "office": "KALWA",
+            "phone": "25347314",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109091
+    },
+    {
+        "fields": {
+            "address": "SAI TIRTH BUILDING, OFFICE NO. 1/12,  1ST FLOOR, B,WING, SIDDHARTH NAGAR,  KOPARI, THANE-E, PIN-400603",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000040",
+            "office": "KOPRI COLONY",
+            "phone": "25320527",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109092
+    },
+    {
+        "fields": {
+            "address": "SAGAR DARSHAN, UTTAN PALI ROAD, AT. POST.,UTTAN, PIN -401 106.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000041",
+            "office": "UTTAN",
+            "phone": "28450116",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109093
+    },
+    {
+        "fields": {
+            "address": "O T SECTION OPP.MALERIYA OFFICE ULHASNAGAR-4,DIST-THANE. PIN -421 004.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000042",
+            "office": "ULHASNAGAR - 4",
+            "phone": "2581232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109094
+    },
+    {
+        "fields": {
+            "address": "SHIV TIRTH, NEAR RAILWAY STAION, TAL-AMBARNATH, PIN -421 503.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000043",
+            "office": "KULGAON",
+            "phone": "2690045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109095
+    },
+    {
+        "fields": {
+            "address": "SAI DATTA BUILDING  SURYODAY CHS.PLOT NO. \u252c\u00fb 10,  NEAR STATE BANK, AMBARNATH ( EAST )  PIN-421 501.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000044",
+            "office": "AMBERNATH",
+            "phone": "2602050",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109096
+    },
+    {
+        "fields": {
+            "address": "SHRI RAM NIWAS KALYAN AMBERNATH ROAD, ULHASNAGAR-3, PIN CODE-421 003.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000045",
+            "office": "ULHASNAGAR-3",
+            "phone": "2734229",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109097
+    },
+    {
+        "fields": {
+            "address": "KALPANA KUNJ,VANGANI,TAL AMBARNATH,DIST THANE PIN CODE 421 503",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMBARNATH",
+            "district": "THANE",
+            "ifsc": "TDCB0000046",
+            "office": "VANGANI",
+            "phone": "2660404",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109098
+    },
+    {
+        "fields": {
+            "address": "PALGHAR BRANCH KACHERI ROAD, CONGRESS BHAVAN, LST FLOOR, TAL.PALGHAR, PIN CODE-401 404.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000047",
+            "office": "PALGHAR",
+            "phone": "252029",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109099
+    },
+    {
+        "fields": {
+            "address": "PARAS PLAZA BUILDING, NEAR BOISAR RAILY STATION",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000048",
+            "office": "BOISAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109100
+    },
+    {
+        "fields": {
+            "address": "AT TARAPUR MIDC,GOGATE NAKA",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TARAPUR MIDC",
+            "district": "THANE",
+            "ifsc": "TDCB0000049",
+            "office": "TARAPUR MIDC",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109101
+    },
+    {
+        "fields": {
+            "address": "KELWA MARKET, PALGHAR (W), TALUKA-PALGHAR, PIN-401 401.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KELWA",
+            "district": "THANE",
+            "ifsc": "TDCB0000050",
+            "office": "KELWA",
+            "phone": "222045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109102
+    },
+    {
+        "fields": {
+            "address": "FAIMA BLDG., BEHIND S.T.STAND AT & POST-MANOR, TAL.PALGHAR  PIN-401 403.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANOR",
+            "district": "THANE",
+            "ifsc": "TDCB0000051",
+            "office": "MANOR",
+            "phone": "237032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109103
+    },
+    {
+        "fields": {
+            "address": "GRAMPANCHAYAT BUILDING, AT- SAFALA-EAST, TALUKA-PALGHAR,PIN-401 102.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000052",
+            "office": "SAFALA",
+            "phone": "230160",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109104
+    },
+    {
+        "fields": {
+            "address": "NEAR RAM MANDIR STOP, AT & POST-SATPATI, TALUKA-PALGHAR, PIN-401 405.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000053",
+            "office": "SATPATI",
+            "phone": "224040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109105
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, SAI DATTA POOJA BUILDING, TARAPUR VILLAGE, TAL-PALGHAR, DIST-THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000054",
+            "office": "TARAPUR",
+            "phone": "280016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109106
+    },
+    {
+        "fields": {
+            "address": "SAI PLAZA BLDG, PANDIT NAKA, GOTHEGHAR  TALUKA.SHAHAPUR, PIN -421 601.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000055",
+            "office": "SHAHAPUR",
+            "phone": "272021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109107
+    },
+    {
+        "fields": {
+            "address": "BANK COLONY 3 B, BHATSANAGAR BAJAR PETH ROAD, AT..BHATSANAGAR, TAL.SHAHAPUR , PIN CODE-421 301.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000056",
+            "office": "BHATSANAGAR",
+            "phone": "249585",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109108
+    },
+    {
+        "fields": {
+            "address": "AT & POST.DOLKHAMB,  TALUKA-SHAHAPUR,PIN 421 601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000057",
+            "office": "DOLKHAMB",
+            "phone": "234054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109109
+    },
+    {
+        "fields": {
+            "address": "MALTI NIWAS, BAZAR PETH, MUMBAI NASIK ROAD, AT & PO.KASARA,  TALUKA-SHAHAPUR,  PIN -421 601.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KASARA",
+            "district": "THANE",
+            "ifsc": "TDCB0000058",
+            "office": "KASARA",
+            "phone": "246069",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109110
+    },
+    {
+        "fields": {
+            "address": "NEAR RAILWAY STATION, AT & POST-KHARDI, TALUKA-SHAHAPUR, PIN-421 304.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHARDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000059",
+            "office": "KHARDI",
+            "phone": "244036",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109111
+    },
+    {
+        "fields": {
+            "address": "KINHAVALI VIBHAG SHETKARI BHAT GIRNI SOCIETY.BUILDING,SHAHAPUR SARALGAON ROAD,AT-KINHAVALI,POST-KINHAVALI, TALUKA-SHAHAPUR, PIN-421401",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KINHAVALI",
+            "district": "THANE",
+            "ifsc": "TDCB0000060",
+            "office": "KINHAVALI",
+            "phone": "232030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109112
+    },
+    {
+        "fields": {
+            "address": "OPP.KHATIVALI VASIND SEVA STY AT & POST-VASIND,TALUKA-SHAHAPUR DIST.THANE. PIN-421604",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WASHIND",
+            "district": "THANE",
+            "ifsc": "TDCB0000061",
+            "office": "WASHIND",
+            "phone": "220046",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109113
+    },
+    {
+        "fields": {
+            "address": "SHENAVA NAKA, KINHAVALI SHAHAPUR ROAD, AT & POST-SHENVA, TALUKA-SHAHAPUR,  PIN-421 601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000062",
+            "office": "SHENVA",
+            "phone": "230088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109114
+    },
+    {
+        "fields": {
+            "address": "DAHE SOCIETY BUILDING, LST FLOOR, MAIN ROAD, OPP.KAILASH TALKIES  AT & POST.TALUKA-WADA, PIN-421303",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WADA",
+            "district": "THANE",
+            "ifsc": "TDCB0000063",
+            "office": "WADA",
+            "phone": "271416",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109115
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KUDUS, TALUKA-WADA,  PIN CODE- 421 312",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUDUS",
+            "district": "THANE",
+            "ifsc": "TDCB0000064",
+            "office": "KUDUS",
+            "phone": "220233",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109116
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KANCHAD, TAL.WADA,  DIST.THANE. PIN - 421 303.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANCHAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000065",
+            "office": "KANCHAD",
+            "phone": "235633",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109117
+    },
+    {
+        "fields": {
+            "address": "RAJPUT MALL, NATIONAL HIGHWAY NO. 8. AT.POST-TALUKA-TALASARI, DIST.THANE.PIN - 401 606.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TALASARI",
+            "district": "THANE",
+            "ifsc": "TDCB0000066",
+            "office": "TALASARI",
+            "phone": "220034",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109118
+    },
+    {
+        "fields": {
+            "address": "AT & POST-MOKHADA TALUKA-MOKHADA,PIN-401 604.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MOKHADA",
+            "district": "THANE",
+            "ifsc": "TDCB0000067",
+            "office": "MOKHADA",
+            "phone": "256630",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109119
+    },
+    {
+        "fields": {
+            "address": "AT &POST-KHODALA, TALUKA-MOKHADA,PIN-401 603.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHODALA",
+            "district": "THANE",
+            "ifsc": "TDCB0000068",
+            "office": "KHODALA",
+            "phone": "250073",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109120
+    },
+    {
+        "fields": {
+            "address": "HARSHAL  APARTMENT, 1 ST FLOOR,  NEAR TALATHI OFFI",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000069",
+            "office": "BADLAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109121
+    },
+    {
+        "fields": {
+            "address": "KOPRAN MACHIMAR DANDI SANSTHA AT & POST-DANDI,TALU",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000070",
+            "office": "DANDI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109122
+    },
+    {
+        "fields": {
+            "address": "NEAR GRAMPANCHAYAT OFFICE, AT & POST-NAVAPUR, TAL.PALGHAR, DIST.THANE. PIN-401 401.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000071",
+            "office": "NAVAPUR",
+            "phone": "288321",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109123
+    },
+    {
+        "fields": {
+            "address": "OPP.S.T.STAND, BALKRISHNA APARTMENT, 1ST FLOOR, POST & TALUKA -VASAI,  PIN-401201",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000072",
+            "office": "VASAI",
+            "phone": "2322045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109124
+    },
+    {
+        "fields": {
+            "address": "AT & POST-KHANIVALI, TAL.WADA, DIST.THANE. PIN-401 204.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHANIVALI",
+            "district": "THANE",
+            "ifsc": "TDCB0000073",
+            "office": "KHANIVALI",
+            "phone": "237664",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109125
+    },
+    {
+        "fields": {
+            "address": "31, DHAMANKAR PALACE BLDG. 1ST FLOOR, DHAMANKAR NAKA,TALUKA-BHIWANDI, PIN-421 302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000074",
+            "office": "DHAMANKARNAKA",
+            "phone": "255387",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109126
+    },
+    {
+        "fields": {
+            "address": "OM SHRADHA TOWER, TISGAON NAKA, KALYAN (EAST),DIST-THANE. PIN CODE-421 302.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000075",
+            "office": "KOLSEWADI (KALYAN)",
+            "phone": "2357694",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109127
+    },
+    {
+        "fields": {
+            "address": "AT & POST-ATGAON, TALUKA-SHAHAPUR, DIST.THANE.  PIN-421 301.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ATGAON",
+            "district": "THANE",
+            "ifsc": "TDCB0000076",
+            "office": "ATGAON",
+            "phone": "240293",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109128
+    },
+    {
+        "fields": {
+            "address": "AT & POST-TOKAWADE,TALUKA-MURBAD, DIST.THANE. PIN-421 402.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000077",
+            "office": "TOKAWADE",
+            "phone": "2420580",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109129
+    },
+    {
+        "fields": {
+            "address": "AT-GANDHI CAMP SHIVALE,TAL-MURBAD,PH-247097",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHIVALE EXT. COUNTER",
+            "district": "THANE",
+            "ifsc": "TDCB0000078",
+            "office": "SHIVALE EXT. COUNTER",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109130
+    },
+    {
+        "fields": {
+            "address": "SHREYA PALACE, RAMBAUG LANE  4, KALYAN (W.) TALUKA-KALYAN,  PIN- 421301",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000079",
+            "office": "RAMBAUG (KALYAN)",
+            "phone": "2210185",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109131
+    },
+    {
+        "fields": {
+            "address": "ABID PATEL HOUSE, NEAR AMAR PALACE HOTEL,  NEAR A.P. INTERNATIONAL SCHOOL , MIRAGAON  NATIONAL HIGHWAY,  PIN-401 104.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000080",
+            "office": "MIRA ROAD",
+            "phone": "28457707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109132
+    },
+    {
+        "fields": {
+            "address": "ZILLA PARIZAD COMPOUND, 1ST FLOOR, THANE (W) , TALUKA-THANE. PIN  400 601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000081",
+            "office": "Z.P.EXT. THANE",
+            "phone": "25337630",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109133
+    },
+    {
+        "fields": {
+            "address": "JIJA MATA VIKRIKAR BHAVAN,DATTA CHOWK,BELAVALI BADLAPUR W PIN 421503",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BELVALI",
+            "district": "THANE",
+            "ifsc": "TDCB0000082",
+            "office": "BADLAPUR BELAVALI EXT COUNTER",
+            "phone": "2673699",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109134
+    },
+    {
+        "fields": {
+            "address": "AT & POST \u252c\u00fb NARIVALI,  TALUKA- MURBAD,",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000083",
+            "office": "NARIVALI EXT. COUNT.",
+            "phone": "248020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109135
+    },
+    {
+        "fields": {
+            "address": "AT &POST\u252c\u00fbANGAON, TALUKA- BHIWANDI, DIST. THANE, PIN- 421 302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANGAON",
+            "district": "THANE",
+            "ifsc": "TDCB0000084",
+            "office": "ANGAON",
+            "phone": "260044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109136
+    },
+    {
+        "fields": {
+            "address": "MUKTA RESIDENSY, B-2, 1ST FLOOR, NEAR KHIDKALESHWAR MANDIR,KALYAN \u252c\u00fb SHILFATA,TALUKA-THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000085",
+            "office": "LODHA HEAVEN (SHILPHATA)",
+            "phone": "9224182032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109137
+    },
+    {
+        "fields": {
+            "address": "DHANRAJ RESIDENCY,DHANRAJ NAGAR,DIVA,THANE 400 612",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DIVA",
+            "district": "THANE",
+            "ifsc": "TDCB0000086",
+            "office": "DIVA STATION",
+            "phone": "25318380",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109138
+    },
+    {
+        "fields": {
+            "address": "ROOM NO. 281, GR FLOOR, AT. MAMNOLI,",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUNDE-MAMNOLI",
+            "district": "THANE",
+            "ifsc": "TDCB0000087",
+            "office": "KUNDE-MAMNOLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109139
+    },
+    {
+        "fields": {
+            "address": "SHREE SWAMI-SAMARTH KRUPA BLDG.,NEAR GAONDEVI MANDIR,MHARAL GAON,POST:VARAP TAL:KALYAN DIST:THANE PIN 421301",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000088",
+            "office": "MHARAL",
+            "phone": "232021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109140
+    },
+    {
+        "fields": {
+            "address": "AT & POST-UDHAVA , TALUKA- TALASARI, DIST\u252c\u00fbTHANE PIN- 401 606",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDHAWA",
+            "district": "THANE",
+            "ifsc": "TDCB0000089",
+            "office": "UDHAVA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109141
+    },
+    {
+        "fields": {
+            "address": "SHRI GANESH COMPLEX, A-1, 1ST FLOOR, ANJUR ROAD, AT. MANKOLI, POST. ANJUR, TALUKA-BHIWANDI, DIST-THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000090",
+            "office": "MANKOLI",
+            "phone": "9226745828",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109142
+    },
+    {
+        "fields": {
+            "address": "AT DHAKTI DAHANU,MITAN ALI, POST-DAHANU,TAL. DAHANU, DIST-THANE, PIN- 421 601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "THANE",
+            "ifsc": "TDCB0000091",
+            "office": "DHAKTI DAHANU",
+            "phone": "247474",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109143
+    },
+    {
+        "fields": {
+            "address": "MAHIM VIVIDHA KARYAKARI,SAH.SOCIETY,MAHIM,AT AND POST MAHIM,TAL PALGHAR,DIST THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHIM",
+            "district": "THANE",
+            "ifsc": "TDCB0000092",
+            "office": "MAHIM",
+            "phone": "220866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109144
+    },
+    {
+        "fields": {
+            "address": "AGHAI AT & POST-AGHAI, TALUKA-SHAHAPUR, DIST-THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AGHAI",
+            "district": "THANE",
+            "ifsc": "TDCB0000093",
+            "office": "AGHAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109145
+    },
+    {
+        "fields": {
+            "address": "AT & POST AALONDE, TAL- VIKRAMGAD, DIST THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIKRAMGAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000094",
+            "office": "AALONDE",
+            "phone": "9764236712",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109146
+    },
+    {
+        "fields": {
+            "address": "PITASHRI,SHREE SWAMI SAMARTH,CHOWK,STATION ROAD,ASANGAON W,TAL SHAHAPUR,DIST THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ASANGAON",
+            "district": "THANE",
+            "ifsc": "TDCB0000095",
+            "office": "ASANGAON",
+            "phone": "9270862260",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109147
+    },
+    {
+        "fields": {
+            "address": "SAI SANGAT BLDG,FIRST FLOOR,PLOT NO.4,SECTOR 3,SANPADA,NAVI MUMBAI 400705,022 27757911",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANPADA",
+            "district": "THANE",
+            "ifsc": "TDCB0000096",
+            "office": "SANPADA",
+            "phone": "27757911",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109148
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.75, GROUND FLOOR, VILLAGE JAMASAR, TAL-JAWHAR, DIST-THANE.",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWHAR",
+            "district": "THANE",
+            "ifsc": "TDCB0000097",
+            "office": "JAMSAR",
+            "phone": "9403698313",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109149
+    },
+    {
+        "fields": {
+            "address": "POST MANGRUL,TAL-AMERNATH",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEWALI NAKA",
+            "district": "THANE",
+            "ifsc": "TDCB0000098",
+            "office": "NEWALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109150
+    },
+    {
+        "fields": {
+            "address": "MANGALMURTI APARTMENT, B-WING, FLAT NO.13 & 14, GROUND FLOOR, NEAR KHADAWALI STATION, KHADAWALI , (E),  TAL-KALYAN, DIST-THANE. PIN-431301",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000099",
+            "office": "KHADAVALI",
+            "phone": "2370999",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109151
+    },
+    {
+        "fields": {
+            "address": "MAYUR APARTMENT,SHOP NO 7,GROUND FLOOR,FLAT NO 18,KOPARKHAIRANE,NAVI MUMBAI,TAL BY DIST THANE",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOPARKHAIRANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000100",
+            "office": "KOPARKHAIRANE",
+            "phone": "27542426",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109152
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.439, GROUND FLOOR, KALYAN-MURBAD ROAD, GOVELI, TAL-KALYAN, DIST-THANE. PIN 421301",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TDCB0000101",
+            "office": "GOVELI",
+            "phone": "2390949",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109153
+    },
+    {
+        "fields": {
+            "address": "GITANJALI NIWAS-1', GROUND FLOOR,SHOP NO. 1 & 2, YASHODHAN NAGAR, MTNL, WARD NO.4, LOKMANYANAGAR, PADA NO.2, THANE (W).",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000102",
+            "office": "VARTAK NAGAR",
+            "phone": "25882369",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109154
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 744, GROUND FLOOR, AT SHENDRUN, POST-LENAD (KHU.),TAL-SHAHAPUR, DIST-THANE, PIN-421601",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TDCB0000103",
+            "office": "SHENDRUN",
+            "phone": "9260276292",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109155
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 349, 1ST FLOOR, AT PIMPARI DAHISAR,MUMBRA-PANVEL ROAD, TAL-DIST-THANE, PIN 400612",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TDCB0000104",
+            "office": "DAHISAR",
+            "phone": "7718967730",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109156
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 127(B), GROUND FLOOR, AMBADI NAKA, AMBADI, POST-DIGHASHI, TAL-BHIWANDI, DIST-THANE, PIN 421302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000105",
+            "office": "AMBADI",
+            "phone": "9112434955",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109157
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 333(11)B 333(155), ZUNJARRAO COMPLEX,1ST FLOOR,AT & POST-MHASA, TAL- MURBAD, DIST-THANE, PIN-421401",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "TDCB0000106",
+            "office": "MHASA",
+            "phone": "7038276677",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109158
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 700, GROUND FLOOR, SHRI RAM MADIR SABHAGRUH, EDVAN, TAL & DIST-PALGHAR, PIN 401404",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000107",
+            "office": "EDVAN",
+            "phone": "9730165440",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109159
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 623, GR. FLOOR, AMAGAON, TAL-TALASARI, DIST-THANE PIN 401606",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TALASARI",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000108",
+            "office": "AMGAON",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109160
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 1087, GR. FLOOR, AT SAIWAN , TAL DAHANU DIST-PALGHAR PIN 401602",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000109",
+            "office": "SAIWAN",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109161
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 660/B, MADHUBAN APARTMENT, IST FLOOR,AT KUDAN, TAL & DIST- PALGHAR 401501",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000110",
+            "office": "PACHMARG",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109162
+    },
+    {
+        "fields": {
+            "address": "BLDG NO 2, 1ST FLOOR, SARVE NO 265,GAVTHAN AREA VIRAR (W) TAL VASAI, PALGHAR 401303",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000111",
+            "office": "VIRAR W",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109163
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 1878, 1ST FLOOR, AT POST KAMAN, TAL-VASAI, DIST-PALGHAR 401208",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000112",
+            "office": "KAMAN",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109164
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 756 SHIRISHPADA, POST KONE, TAL WADA DIST-PALGHAR PIN 421303",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHIRISHPADA",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000113",
+            "office": "SHIRISHPADA",
+            "phone": "25397846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109165
+    },
+    {
+        "fields": {
+            "address": "SHOP-16,17,18,19,1ST FLOOR,HIRA ARCADE,KALHER,TAL-BHIWANDI,THAN-421302",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "TDCB0000114",
+            "office": "KALHER",
+            "phone": "21582015",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109166
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO,GR FLOOR,NEAR TAHASILDAR OFFICE,YASHWANT NAGAR-MORCHA,JAWHAR,PALGHAR,401603",
+            "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAWHAR",
+            "district": "PALGHAR",
+            "ifsc": "TDCB0000115",
+            "office": "YASHWANT NAGAR MORCHA",
+            "phone": "21582016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 109167
+    }
+]

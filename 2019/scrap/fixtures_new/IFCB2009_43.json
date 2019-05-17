@@ -1,0 +1,257 @@
+[
+    {
+        "fields": {
+            "address": "127, SAMRUDHHI BUILDING, 1ST FLOOR, VALLABHBHAI ROAD, VILE PARLE WEST , MUMBAI - 400 056",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "ADMINISTRATIVE OFFICE",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL00BRN01",
+            "office": "",
+            "phone": "26125906",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62253
+    },
+    {
+        "fields": {
+            "address": "U1-U2, METRO TOWER, RING ROAD, SURAT - 395 003",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "SURAT",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCBL0000102",
+            "office": "",
+            "phone": "2346777",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62254
+    },
+    {
+        "fields": {
+            "address": "1402/1403, DALAMAL TOWER, 211, FREE PRESS ROAD, NARIMAN POINT, MUMBAI 400021",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "ADMINISTRATIVE OFFICE",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL00000SC",
+            "office": "",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62255
+    },
+    {
+        "fields": {
+            "address": "SYNDICATE CHAMBER, 1ST FLOOR, 21, SAHAR ROAD, ANDHERI (E) - MUMBAI - 400 069",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "ANDHERI (EAST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000015",
+            "office": "",
+            "phone": "26833520",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62256
+    },
+    {
+        "fields": {
+            "address": "K-32, SECTOR -19, APMC MASALA MARKET, TURBE, NAVI MUMBAI - 400 019",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "VASHI (TURBE)",
+            "city": "MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "KCBL0000014",
+            "office": "",
+            "phone": "27895901",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62257
+    },
+    {
+        "fields": {
+            "address": "VITHALDAS CHAMBER, GROUND FLOOR, 8, HOMI MODY STREET, FORT, MUMBAI - 400 001",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "FORT",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000013",
+            "office": "",
+            "phone": "22046204",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62258
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3,4,5, JAY COMMERCIAL PLAZA, S.L.ROAD, MULUND  (W)- MUMBAI - 400 086",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "MULUND (WEST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000012",
+            "office": "",
+            "phone": "25923640",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62259
+    },
+    {
+        "fields": {
+            "address": "107/108, SHYAM KAMAL BLDG. NEAR B.N.AGRAWAL MARKET, VILE PARLE(E)-MUMBAI- 400 069",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "VILE PARLE (EAST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000011",
+            "office": "",
+            "phone": "26630181",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62260
+    },
+    {
+        "fields": {
+            "address": "GODDEO NAKA, TULSI PRASAD CHAMBER, 1ST FLOOR, OPP: SHIV SENA OFF. BHAYANDER (E), THANE - 401105",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "BHAYANDER (EAST)",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "KCBL0000010",
+            "office": "",
+            "phone": "28046462",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62261
+    },
+    {
+        "fields": {
+            "address": "ROYAL HOUSE, 1ST FLOOR, MATHURADAS ROAD, KANDIVALI (W), MUMBAI - 400 067",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "KANDIVALI (WEST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000009",
+            "office": "",
+            "phone": "28014468",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62262
+    },
+    {
+        "fields": {
+            "address": "MEHTA CHAMBERS, ARCHOLE RD, NALASOPARA (E)- THANE",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "NALASOPARA (EAST)",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "KCBL0000008",
+            "office": "",
+            "phone": "2434132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62263
+    },
+    {
+        "fields": {
+            "address": "BHANDARKAR BHAVAN, S.V.ROAD, BORIVALI (W), MUMBAI - 400 092",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "BORIVALI (WEST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000007",
+            "office": "",
+            "phone": "28905891",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62264
+    },
+    {
+        "fields": {
+            "address": "19/21, PICKET X ROAD, KAPOL BANK BLDG. KALBADEVI, MUMBAI - 400 002",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "KALBADEVI",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000006",
+            "office": "",
+            "phone": "22082653",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62265
+    },
+    {
+        "fields": {
+            "address": "LADKORBAI KAPOL WADI, GHATKOPAR (W), MUMBAI - 4000 86",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "GHATKOPAR (EAST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000005",
+            "office": "",
+            "phone": "25132193",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62266
+    },
+    {
+        "fields": {
+            "address": "KAPOL WADI, MARVE ROAD, MALAD (W), MUMBAI - 400 064",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "MALAD (WEST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000004",
+            "office": "",
+            "phone": "28010899",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62267
+    },
+    {
+        "fields": {
+            "address": "SAMRUDHHI BUILDING, GROUND FLOOR, PLOT NO 127, VALLABHBHAI ROAD, VILE PARLE (W) MUMBAI - 400 056",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "VILE PARLE (WEST)",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000003",
+            "office": "",
+            "phone": "26125906",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62268
+    },
+    {
+        "fields": {
+            "address": "STEEL CENTRE, SANT TUKARAM ROAD, MASJID BANDAR, MUMBAI - 400 009",
+            "bank_name": "KAPOL COOPERATIVE BANK LIMITED",
+            "branch": "LOKHAND JATHA",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCBL0000002",
+            "office": "",
+            "phone": "23485695",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62269
+    }
+]

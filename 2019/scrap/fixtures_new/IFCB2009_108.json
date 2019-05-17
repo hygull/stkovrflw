@@ -1,0 +1,932 @@
+[
+    {
+        "fields": {
+            "address": "MIDAS CORPORATE PARK, 3RD FLOOR, 37, G.T. ROAD, JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "RTGS-HO",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000001",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104778
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND, V. & P.O. SAMRAI-144032, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "SAMRAI",
+            "city": "SAMRAI",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000002",
+            "office": "",
+            "phone": "275880",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104779
+    },
+    {
+        "fields": {
+            "address": "14-A, MODEL TOWN, G.T. ROAD, PHAGWARA - 144401, DISTT. KAPURTHALA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "PHAGWARA",
+            "city": "PHAGWARA",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000003",
+            "office": "",
+            "phone": "500602",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104780
+    },
+    {
+        "fields": {
+            "address": "204-L, MODEL TOWN, BUS STAND ROAD, HOSHIARPUR -146001",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "HOSHIARPUR",
+            "city": "HOSHIARPUR",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000004",
+            "office": "",
+            "phone": "520314",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104781
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, NEAR BUS STAND, MAHILPUR-146105, DISTT. HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "MAHILPUR",
+            "city": "MAHALPUR",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000005",
+            "office": "",
+            "phone": "500836",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104782
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, NEAR BUS STAND, MEHATPUR-144041, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "MEHATPUR",
+            "city": "MAHATPUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000006",
+            "office": "",
+            "phone": "250004",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104783
+    },
+    {
+        "fields": {
+            "address": "JALANDHAR ROAD, NEAR BUS STAND, KAPURTHALA-144601",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "KAPURTHALA",
+            "city": "KAPURTHALA",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000007",
+            "office": "",
+            "phone": "502829",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104784
+    },
+    {
+        "fields": {
+            "address": "SHAHKOT ROAD, NEAR BUS STAND, MALSIAN - 144701, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "MALSIAN",
+            "city": "MALSIAN",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000008",
+            "office": "",
+            "phone": "502744",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104785
+    },
+    {
+        "fields": {
+            "address": "G.T. ROAD, GORAYA-144409, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "GORAYA",
+            "city": "GORAYA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000009",
+            "office": "",
+            "phone": "501893",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104786
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, NURMAHAL - 144039, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "NURMAHAL",
+            "city": "NURMAHAL",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000010",
+            "office": "",
+            "phone": "503307",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104787
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND, V. & P.O. SHANKAR - 144042, TEHSIL NAKODAR, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "SHANKAR",
+            "city": "SHANKER",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000011",
+            "office": "",
+            "phone": "246489",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104788
+    },
+    {
+        "fields": {
+            "address": "MAIN CHOWK, V. & P.O. RURKI-141311, TEHSIL PHILLAUR, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "RURKI",
+            "city": "ROURKA KALAN",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000012",
+            "office": "",
+            "phone": "276363",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104789
+    },
+    {
+        "fields": {
+            "address": "GOBIND NIWAS, 36, G.T. ROAD, JALANDHAR-144001",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "JALANDHAR",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000013",
+            "office": "",
+            "phone": "5050600",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104790
+    },
+    {
+        "fields": {
+            "address": "G.T. ROAD, BHOGPUR -144201, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BHOGPUR",
+            "city": "BHOGPUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000014",
+            "office": "",
+            "phone": "5060280",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104791
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, LOHIAN-144629, TEHSIL SHAHKOT, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "LOHIAN",
+            "city": "LOHIAN KHAS",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000015",
+            "office": "",
+            "phone": "501584",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104792
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, OPP. BUS STAND, V.& P.O. BEGOWAL-144621, TEHSIL BHOLATH, DISTT. KAPURTHALA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BEGOWAL",
+            "city": "BEGOWAL",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000016",
+            "office": "",
+            "phone": "502370",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104793
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND, JALANDHAR ROAD, V. &P.O. JANDIALA - 144031, TEHSIL PHILLAUR, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "JANDIALA",
+            "city": "JUNDIALA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000017",
+            "office": "",
+            "phone": "274004",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104794
+    },
+    {
+        "fields": {
+            "address": "MOGA ROAD, NEAR GRAIN MARKET, SHAHKOT-144702, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "SHAHKOT",
+            "city": "SHAHKOT",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000018",
+            "office": "",
+            "phone": "503457",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104795
+    },
+    {
+        "fields": {
+            "address": "NEAR SHAHEED UDHAM SINGH CHOWK, KAPURTHALA ROAD, SULTANPUR LODHI - 144626, DISTT. KAPURTHALA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "SULTANPUR LODHI",
+            "city": "SULTANPUR LODHI",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000019",
+            "office": "",
+            "phone": "502000",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104796
+    },
+    {
+        "fields": {
+            "address": "NEAR PATTI NELOWAL CHOWK, V.&P.O. BILGA-144036, TEHSIL PHILLAUR, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BILGA",
+            "city": "BILGA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000020",
+            "office": "",
+            "phone": "245062",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104797
+    },
+    {
+        "fields": {
+            "address": "PATHANKOT ROAD, NEAR BUS STAND, MUKERIAN - 144211, DISTT. HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "MUKERIAN",
+            "city": "MUKERIAN",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000021",
+            "office": "",
+            "phone": "502700",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104798
+    },
+    {
+        "fields": {
+            "address": "NEAR JAJA CHOWK, SRI HARGOBINDPUR ROAD, TANDA-144203, DISTT. HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "TANDA",
+            "city": "URMAR TANDA",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000022",
+            "office": "",
+            "phone": "227280",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104799
+    },
+    {
+        "fields": {
+            "address": "JALANDHAR ROAD, V. & P.O. KALA SANGHIAN - 144623, DISTT. KAPURTHALA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "KALA SANGHIAN",
+            "city": "KALA SANGIAN",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000023",
+            "office": "",
+            "phone": "258084",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104800
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND, GORAYA ROAD, V.P.O. RURKA KALAN-144031, TEHSIL PHILLAUR, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "RURKA KALAN",
+            "city": "ROURKA KALAN",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000024",
+            "office": "",
+            "phone": "276222",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104801
+    },
+    {
+        "fields": {
+            "address": "143, VIJAY NAGAR, NR. FOOTBALL CHOWK, MAHAVIR MARG, JALANDHAR-144001",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "JALANDHAR",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000025",
+            "office": "",
+            "phone": "5026666",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104802
+    },
+    {
+        "fields": {
+            "address": "PRITHVI TOWER\u252c\u00c6, NEAR BUS STAND, G.T. ROAD, PHILLAUR--144410, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "PHILLAUR",
+            "city": "PHILLAUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000026",
+            "office": "",
+            "phone": "500777",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104803
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, ADAMPUR-144103, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "ADAMPUR",
+            "city": "ADAMPUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000027",
+            "office": "",
+            "phone": "5090777",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104804
+    },
+    {
+        "fields": {
+            "address": "HOSHIARPUR ROAD, ADDA CHABBEWAL 146102, DISTT. HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CHABBEWAL",
+            "city": "CHABBEWAL",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000028",
+            "office": "",
+            "phone": "270250",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104805
+    },
+    {
+        "fields": {
+            "address": "G.T. ROAD, NEAR LIC BUILDING, DASUYA \u252c\u00fb 144205, DISTT. HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "DASUYA",
+            "city": "DASUYA",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000029",
+            "office": "",
+            "phone": "500111",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104806
+    },
+    {
+        "fields": {
+            "address": "BXX-3360, GURDEV NAGAR, (NEAR AARTI CINEMA), LUDHIANA-141001",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "LUDHIANA",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000030",
+            "office": "",
+            "phone": "5014444",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104807
+    },
+    {
+        "fields": {
+            "address": "CENTRAL MALL\u252c\u00c6, 32, MALL ROAD, AMRITSAR \u252c\u00fb 143001TEL. : 0183-5093333, 5053333",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "AMRITSAR",
+            "city": "AMRITSAR",
+            "district": "AMRITSAR",
+            "ifsc": "CLBL0000031",
+            "office": "",
+            "phone": "5255505",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104808
+    },
+    {
+        "fields": {
+            "address": "JALANDHAR CANTT ROAD,V.AND P.O.JAMSHER 144020",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "JAMSHER",
+            "city": "JAMSHER",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000032",
+            "office": "",
+            "phone": "2775111",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104809
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD,KARTARPUR 144801",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "KARTARPUR",
+            "city": "KARTARPUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000033",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104810
+    },
+    {
+        "fields": {
+            "address": "FEROZEPUR ROAD,V.AND P.O.DAKHA 141101",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "DAKHA",
+            "city": "DAKHA",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000034",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104811
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD, NEAR SHERPUR FLYOVER BRIDGE, JAGRAON",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LIMITED, JAGRAON",
+            "city": "JAGRAON",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000035",
+            "office": "",
+            "phone": "510033",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104812
+    },
+    {
+        "fields": {
+            "address": "G.T.ROAD, RAYYA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LIMITED, RAYYA",
+            "city": "RAYYA",
+            "district": "AMRITSAR",
+            "ifsc": "CLBL0000036",
+            "office": "",
+            "phone": "500333",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104813
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LIMITED,VPO NADALA -144624 TEHSIL BHOLATH",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LIMITED, NADALA",
+            "city": "NADALA",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000037",
+            "office": "",
+            "phone": "501100",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104814
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LIMITED, G.T.ROAD, NEAR OLD BUS STAND, KHANNA - 141401",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LIMITED, KHANNA",
+            "city": "KHANNA",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000038",
+            "office": "",
+            "phone": "504446",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104815
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LIMITED, NAKODAR ROAD,LAMBRA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LIMITED, LAMBRA",
+            "city": "LAMBRA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000039",
+            "office": "",
+            "phone": "2368168",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104816
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LTD., CHANDIGARH ROAD NEAR GURU GOBIND SINGH GURUDWARA, SAMRALA - 141114",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LTD. , SAMRALA",
+            "city": "SAMRALA",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000040",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104817
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LTD., MAIN ROAD, HARIANA - 144208, TEHSIL BHUNGA",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LTD., HARIANA",
+            "city": "HARIANA BHUNGA",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000041",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104818
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LTD., MEHATPUR - SHAHKOT ROAD, PARJIAN - 144041, TEHSIL NAKODAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK LTD., PARJIAN",
+            "city": "PARJIAN",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000042",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104819
+    },
+    {
+        "fields": {
+            "address": "MAHILPUR ROAD,OPP. COURT COMPLEX,GARHSHANKAR - 144527,DISTRICT HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK,GARHSHANKAR",
+            "city": "GARHSHANKAR",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000043",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104820
+    },
+    {
+        "fields": {
+            "address": "DASUYA ROAD,GARDHIWAL - 144207,DISTRICT HOSHIARPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK,GARDHIWAL",
+            "city": "GARDHIWAL",
+            "district": "HOSHIARPUR",
+            "ifsc": "CLBL0000044",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104821
+    },
+    {
+        "fields": {
+            "address": "G.T. ROAD, NEAR PETROL PUMP, JANDIALA GURU - 143115,DISTRICT AMRITSAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK,JANDIALA GURU",
+            "city": "JANDIALA GURU",
+            "district": "AMRITSAR",
+            "ifsc": "CLBL0000045",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104822
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK,KAPURTHALA-NAKODAR ROAD,TEHSIL NAKODAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK,UGGI",
+            "city": "UGGI",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000046",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104823
+    },
+    {
+        "fields": {
+            "address": "CAPITAL LOCAL AREA BANK LTD,DORAHA G.T ROAD",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "CAPITAL LOCAL AREA BANK,DORAHA",
+            "city": "DORAHA",
+            "district": "LUDHIANA",
+            "ifsc": "CLBL0000047",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104824
+    },
+    {
+        "fields": {
+            "address": "504-R MODEL TOWN,DISTT JALANDHAR,PUNJAB-144001",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "MODEL TOWN",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000048",
+            "office": "",
+            "phone": "5050759",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104825
+    },
+    {
+        "fields": {
+            "address": "VILLAGE BOOLPUR,PO NAWAN THATHA TEHSIL SULTANPUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BOOLPUR",
+            "city": "SULTANPUR LODHI",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000049",
+            "office": "",
+            "phone": "258001",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104826
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO RAZAPUR,",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "RAZAPUR",
+            "city": "KAPURTHALA",
+            "district": "KAPURTHALA",
+            "ifsc": "CLBL0000050",
+            "office": "",
+            "phone": "654001",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104827
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO NAWANPIND DONEWAL TEHSIL SHAHKOT",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "NAWANPIND DONEWAL",
+            "city": "SHAHKOT",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000051",
+            "office": "",
+            "phone": "276245",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104828
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO POONIA TEHSIL SHAHKOT",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "POONIA",
+            "city": "SHAHKOT",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000052",
+            "office": "",
+            "phone": "275123",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104829
+    },
+    {
+        "fields": {
+            "address": "VILLAGE SEECHEWAL PO CHAK CHELA,TEHSIL SHAHKOT",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "SEECHEWAL",
+            "city": "SHAHKOT",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000053",
+            "office": "",
+            "phone": "270009",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104830
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO KANGNA,TEHSIL NAKODAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "KANGNA",
+            "city": "NAKODAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000054",
+            "office": "",
+            "phone": "271184",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104831
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO KANDOLA KALAN,TEHSIL PHILLAUR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "KANDOLA KALAN",
+            "city": "PHILLAUR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000055",
+            "office": "",
+            "phone": "242273",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104832
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO DHALIWAL,TEHSIL NAKODAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "DHALIWAL",
+            "city": "NAKODAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000056",
+            "office": "",
+            "phone": "247123",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104833
+    },
+    {
+        "fields": {
+            "address": "VILLAGE & PO BOPARAI KALAN,TEHSIL NAKODAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BOPARAI KALAN",
+            "city": "NAKODAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000057",
+            "office": "",
+            "phone": "246253",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104834
+    },
+    {
+        "fields": {
+            "address": "VPO POWADRA,TEHSIL PHILLAUR PIN CODE -144036",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "POWADRA",
+            "city": "POWADRA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000058",
+            "office": "",
+            "phone": "248100",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104835
+    },
+    {
+        "fields": {
+            "address": "VPO TALWANDI SANGHERA-144703 ,TEHSIL SHAHKOT",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "TALWANDI SANGHERA",
+            "city": "TALWANDI SANGHERA",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000059",
+            "office": "",
+            "phone": "273054",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104836
+    },
+    {
+        "fields": {
+            "address": "NAWANSHAHR ROAD,BANGA-144505",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "BANGA",
+            "city": "BANGA",
+            "district": "NAWANSHAHR",
+            "ifsc": "CLBL0000060",
+            "office": "",
+            "phone": "500101",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104837
+    },
+    {
+        "fields": {
+            "address": "NEW CITY TOWER,BANGA RAOAD-144514",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "NAWANSHAHR",
+            "city": "NAWANSHAHR",
+            "district": "NAWANSHAHR",
+            "ifsc": "CLBL0000061",
+            "office": "",
+            "phone": "508222",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104838
+    },
+    {
+        "fields": {
+            "address": "NURMAHAL ROAD, NAKODAR-144040, DISTT. JALANDHAR",
+            "bank_name": "CAPITAL SMALL FINANCE BANK LIMITED",
+            "branch": "NAKODAR",
+            "city": "NAKODAR",
+            "district": "JALANDHAR",
+            "ifsc": "CLBL0000999",
+            "office": "",
+            "phone": "502101",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104839
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "SEVA BHAVAN,NEAR,SADHU VASWANI GARDEN PIMPRI PUNE",
+            "bank_name": "THE SEVA VIKAS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SVBL0000001",
+            "office": "RTGS-HO",
+            "phone": "27412289",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139575
+    }
+]

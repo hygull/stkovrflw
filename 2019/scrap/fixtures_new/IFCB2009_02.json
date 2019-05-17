@@ -1,0 +1,1682 @@
+[
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., B.NO.71, NEHRU NAGAR, KURLA (E), MUMBAI-400024",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065001",
+            "office": "RTGS-HO",
+            "phone": "25260173",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7589
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA EDUCATION SOCIETY, OPP. BLDG. NO. 18, ABHYUDAYA NAGAR, KALACHOWKY, MUMBAI - 400033",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065002",
+            "office": "ABHYUDAYA NAGAR",
+            "phone": "24702643",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7590
+    },
+    {
+        "fields": {
+            "address": "KMSPM'S SCHOOL, WADIA ESTATE, BAIL BAZAR-KURLA(W), MUMBAI-400070",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065003",
+            "office": "BAIL BAZAR",
+            "phone": "25032202",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7591
+    },
+    {
+        "fields": {
+            "address": "CHETNA APARTMENTS, J.M.ROAD, BHANDUP, MUMBAI-400078",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065004",
+            "office": "BHANDUP",
+            "phone": "25963157",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7592
+    },
+    {
+        "fields": {
+            "address": "POTIA IND.ESTATE, REAY ROAD (E), DARUKHANA, MUMBAI-400010",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065005",
+            "office": "DARUKHANA",
+            "phone": "23778164",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7593
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., 251, PERIN NARIMAN STREET, FORT, MUMBAI-400001",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065006",
+            "office": "FORT",
+            "phone": "22614468",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7594
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 2 & 3, SILVER HARMONY BLDG,NEW MANIKLAL ESTATE, GHATKOPAR (WEST), MUMBAI-400086",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065007",
+            "office": "GHATKOPAR",
+            "phone": "25116673",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7595
+    },
+    {
+        "fields": {
+            "address": "BHANDARI CO-OP. HSG. SOCIETY, KANJUR VILLAGE, KANJUR (EAST), MUMBAI-400078",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065008",
+            "office": "KANJUR",
+            "phone": "25783519",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7596
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., B.NO.71, NEHRU NAGAR, KURLA (E), MUMBAI-400024",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065009",
+            "office": "NEHRU NAGAR",
+            "phone": "25222386",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7597
+    },
+    {
+        "fields": {
+            "address": "SHRAMA SAFALYA, 63 G.D.AMBEKAR MARG, PAREL VILLAGE, MUMBAI-400012",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065010",
+            "office": "PAREL",
+            "phone": "24137707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7598
+    },
+    {
+        "fields": {
+            "address": "NAVNIDHI INDUSTRIAL ESTATE, ACHARYA DONDHE MARG, SEWRI, MUMBAI-400015",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065011",
+            "office": "SEWRI",
+            "phone": "24136008",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7599
+    },
+    {
+        "fields": {
+            "address": "B.P.T.MARKET BLDG., NADKARNI PARK, WADALA (EAST), MUMBAI-400037",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065012",
+            "office": "WADALA",
+            "phone": "24184512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7600
+    },
+    {
+        "fields": {
+            "address": "LANDMARK,NEXT TO MAHINDRA TOWERS, PLOT NO.1, J M BHOSLE MARG, WORLI, MUMBAI-400018",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065013",
+            "office": "WORLI",
+            "phone": "24921104",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7601
+    },
+    {
+        "fields": {
+            "address": "RIZVI APARTMENTS, OPP. RAILWAY STATION, MUMBRA-400612",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065014",
+            "office": "MUMBRA",
+            "phone": "25462172",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7602
+    },
+    {
+        "fields": {
+            "address": "A.P.M.C.MARKET, ADMINISTRATIVE BLDG, TURBHE, NAVI MUMBAI-400705",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065015",
+            "office": "TURBHE",
+            "phone": "27888044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7603
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., SECTOR 17, VASHI, NAVI MUMBAI-400705",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065016",
+            "office": "VASHI",
+            "phone": "27892458",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7604
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., SECTOR 17, VASHI, NAVI MUMBAI-400703",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065017",
+            "office": "MOBILE BANK",
+            "phone": "27892444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7605
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., SECTOR 17, NEW PANVEL-410206",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065018",
+            "office": "NEW PANVEL",
+            "phone": "27453585",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7606
+    },
+    {
+        "fields": {
+            "address": "BLDG F-4, SHOP NO 17-20, SECTOR 3 EB, KALAMBOLI, NAVI MUMBAI-410218",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065019",
+            "office": "KALAMBOLI",
+            "phone": "27420148",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7607
+    },
+    {
+        "fields": {
+            "address": "WESTERN INDIA TANNERIES, SION DHARAVI ROAD, MUMBAI-400017",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065020",
+            "office": "DHARAVI",
+            "phone": "24077126",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7608
+    },
+    {
+        "fields": {
+            "address": "148 ELLORA SHOPPING CENTRE, DAFTARY ROAD, MALAD (EAST), MUMBAI-400097",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065021",
+            "office": "MALAD EAST",
+            "phone": "28800272",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7609
+    },
+    {
+        "fields": {
+            "address": "SECTOR-3, CHANAKYA SHOPPING CENTRE, BELAPUR (CBD), NAVI MUMBAI-400614",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065022",
+            "office": "CBD BELAPUR",
+            "phone": "27572179",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7610
+    },
+    {
+        "fields": {
+            "address": "BLDG F-1,GOPAL NAGAR,BHIWANDI-KALYAN ROAD, BHIWANDI, 421302",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065023",
+            "office": "BHIWANDI",
+            "phone": "251852",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7611
+    },
+    {
+        "fields": {
+            "address": "RATNADEEP APARTMENTS, CARTER ROAD NO.1, BORIVLI (EAST), MUMBAI-400066",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065024",
+            "office": "BORIVALI",
+            "phone": "28636529",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7612
+    },
+    {
+        "fields": {
+            "address": "HILL-N-DALE, HILL ROAD, NR.BANDRA POLICE STATION, BANDRA (W), MUMBAI-400050",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065025",
+            "office": "HILL ROAD",
+            "phone": "26402597",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7613
+    },
+    {
+        "fields": {
+            "address": "JANATA EDUCATION SOC. PREMISES, KHER NAGAR, BANDRA (E), MUMBAI-400051",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065026",
+            "office": "KHER NAGAR",
+            "phone": "26473470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7614
+    },
+    {
+        "fields": {
+            "address": "GUNDECHA INDL.COMPLEX, AKURLI RD, KANDIVLI (E), MUMBAI-400101",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065027",
+            "office": "KANDIVLI-EAST",
+            "phone": "28851962",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7615
+    },
+    {
+        "fields": {
+            "address": "KHAIR HOUSE, SHERLY RAJAN RD, BANDRA (WEST), MUMBAI-400050",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065028",
+            "office": "SHERLY RAJAN",
+            "phone": "26047905",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7616
+    },
+    {
+        "fields": {
+            "address": "NAVJIVAN VIDYA MANDIR, GANESH NAGAR, BHANDUP (W), MUMBAI-400078.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065029",
+            "office": "GANESH NAGAR",
+            "phone": "25951049",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7617
+    },
+    {
+        "fields": {
+            "address": "ST.JUDE'S HIGH SCHOOL, KHARODI, MALAD(W), MUMBAI,400095",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065030",
+            "office": "MALAD WEST",
+            "phone": "28073539",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7618
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG. PLOT NO.3A, SECTOR 15, NERUL, NAVI MUMBAI-400706",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065031",
+            "office": "NERUL",
+            "phone": "27717823",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7619
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAYA BANK BLDG., PLOT NO.26 SECTOR 17, AIROLI, NAVI MUMBAI-400701",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065032",
+            "office": "AIROLI",
+            "phone": "27792043",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7620
+    },
+    {
+        "fields": {
+            "address": "SHRADHA SHOPPING CENTRE, OLD NAGARDAS ROAD, ANDHERI (E), MUMBAI-400069",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065034",
+            "office": "ANDHERI",
+            "phone": "26833207",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7621
+    },
+    {
+        "fields": {
+            "address": "J.N.P.T. SHOPPING COMPLEX, NHAVA SHEVA, NAVI MUMBAI-400707",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065035",
+            "office": "NHAVA SHEVA",
+            "phone": "27471237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7622
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.7 SECTOR 19, PHASE II, APMC, VASHI, NAVI MUMBAI-400705",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065036",
+            "office": "BANKING COMPLEX",
+            "phone": "27830425",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7623
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.1, PLOT 24-25 SECTOR 6, KOPARKHAIRANE, NAVI MUMBAI-400701",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065037",
+            "office": "KOPARKHAIRNE",
+            "phone": "27544040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7624
+    },
+    {
+        "fields": {
+            "address": "GURUKRIPA CHS LTD., OPP. PLAZA CINEMA, DADAR (W), MUMBAI-400028.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065038",
+            "office": "DADAR",
+            "phone": "24325136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7625
+    },
+    {
+        "fields": {
+            "address": "NEELKANTHDHARA, NETAJI SUBHASHCHANDRA ROAD, MULUND (W), MUMBAI-400080.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065039",
+            "office": "MULUND",
+            "phone": "25641442",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7626
+    },
+    {
+        "fields": {
+            "address": "MUMBA DEVI APT., JOSHIWADA, CHARAI, VEER SAVARKAR PATH, THANE WEST 400601",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065040",
+            "office": "CHARAI",
+            "phone": "25447077",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7627
+    },
+    {
+        "fields": {
+            "address": "PANCHPAKHADI SAMARTHA CHS LTD., LOKMANYA NAGAR, THANE (W)-400608",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065041",
+            "office": "LOKMANYA NAGAR",
+            "phone": "25806049",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7628
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 66/67, PATEL HERITAGE, PLOT NO 15/17, SECTOR 7, KHARGHAR, NAVI MUMBAI 410210",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065042",
+            "office": "KHARGHAR",
+            "phone": "27741002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7629
+    },
+    {
+        "fields": {
+            "address": "OM SHIVSHAKTI COMPLEX, VAJRESHWARI ROAD, VALIV VILLAGE, VASAI ROAD (EAST), VASAI 401208",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "ABHY0065043",
+            "office": "VASAI",
+            "phone": "2452512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7630
+    },
+    {
+        "fields": {
+            "address": "SHREE MANOSHI COMPLEX, PLOT NO.5& 6, SECTOR-3, GHANSOLI, NAVI MUMBAI GHANSOLI- 410 701.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "ABHY0065044",
+            "office": "GHANSOLI",
+            "phone": "27549124",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7631
+    },
+    {
+        "fields": {
+            "address": "DHARTI COMPLEX, SHOP NO.7,8,9310 & 11, PLOT NO. 60/61, SECTOR 18, KAMOTHE II, PANVEL-",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065045",
+            "office": "KAMOTHE",
+            "phone": "65298847",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7632
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 7,8,9,&107 TO 111 ON GR. FLOOR & 1ST FLOOR. MALHAR ARCADE, CODDEV VILLAGE, NAVGHAR PHATAK ROAD, BHAYANDAR (E), DIST. THANE, 401101",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065046",
+            "office": "BHAYANDAR",
+            "phone": "28140964",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7633
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR, MADHURAM HALL, HARISHANKAR JOSHI ROAD, DAHISAR (E), MUMBAI - 400 068",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065047",
+            "office": "DAHISAR EAST",
+            "phone": "28480321",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7634
+    },
+    {
+        "fields": {
+            "address": "FLOWER VALLEY, KHADAKPADA, KALYAN (W), DIST. THANE 421 301",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065048",
+            "office": "KALYAN-WEST",
+            "phone": "2203321",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7635
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, JAIKUL ARCADE, MANPADA ROAD, DOMBIVLI (E) 421201",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065049",
+            "office": "DOMBIVLI EAST",
+            "phone": "2489860",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7636
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 & 2, KANAK VITHAL, PLOT NO.25, OLD PANVEL, DIST RAIGAD 410 206",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAIGAD",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065050",
+            "office": "OLD PANVEL",
+            "phone": "27459656",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7637
+    },
+    {
+        "fields": {
+            "address": "KANDIVLI (W) BRANCH, SHOP NO.7, VIJAYBHARTI CO-OP. HSG. SOCIETY, SECTOR - II CHARKOP, KANDIVALI (W), MUMBAI 400067",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ABHY0065051",
+            "office": "KANDIVALI (WEST)",
+            "phone": "28678031",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7638
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 6,7 & 8, GROUND FLOOR, BUILDING NO. A-63, SECTOR - 1, SHANTI NAGAR, MIRA ROAD (E), DIST THANE 401107.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "ABHY0065052",
+            "office": "MIRA ROAD (EAST)",
+            "phone": "28555244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7639
+    },
+    {
+        "fields": {
+            "address": "KULGAON GRIHNIRMAN SOCIETY, PLOT NO. 36, GANDHI CHOWK, NEAR KATDHARE HALL, KULGAON, BADLAPUR (E), DIST. THANE 421503",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "ABHY0065053",
+            "office": "BADLAPUR (EAST)",
+            "phone": "2693726",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7640
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.12 TO 19, BLDG. NO. 2, TILAKNAGAR SHRAMIK CO-OP HSG SOCIETY LTD., TILAKNAGAR, CHEMBUR, MUMBAI 400089.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065054",
+            "office": "CHEMBUR",
+            "phone": "25262390",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7641
+    },
+    {
+        "fields": {
+            "address": "GRND & 1ST FLOOR, MATAJI KRUPA, OPP. MAHANAGARPALIKA LIBRARY, PHOOL PADA ROAD,VIRAR (E), DIST THANE 401303",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065055",
+            "office": "VIRAR",
+            "phone": "2524161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7642
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 13 TO 15, GIRIRAJ CO-OP HSG SOCIETY LTD., PLOT NO.7&8, SECTOR NO.44, NRI SEAWOOD ROAD, SEAWOOD, NERUL 400706",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065056",
+            "office": "SEAWOOD",
+            "phone": "27719879",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7643
+    },
+    {
+        "fields": {
+            "address": "SIDDHIVINAYAK ARCADE, KAILASH TOWER, OWALE VILLAGE, OWALA NAKA, GHODBUNDER ROAD, THANE 400605.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065057",
+            "office": "GHODBUNDER ROAD",
+            "phone": "25971586",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7644
+    },
+    {
+        "fields": {
+            "address": "SHOP NO..34 & 35, GROUND FLOOR, BLDG NO. B-2, KALPAK ESTATE, SHAIKH MISTRY ROAD, ANTOP HILL, MUMBAI 400037",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065058",
+            "office": "ANTOP HILL",
+            "phone": "24092210",
+            "state": "MUMBAI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7645
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 & 2, GROUND FLOOR, OLIVE APARTMENT, BLDG.NO.06, SECTOR VII, NALLASOPARA, TAL VASAI, DIST THANE.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065059",
+            "office": "NALLASOPARA",
+            "phone": "3290277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7646
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8A & 9, GROUND FLOOR, SAI SANGAM, SECTOR-15, SAKAL BHAVAN MARG, CBD BELAPUR, NAVI MUMBAI 400 614",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "ABHY0065060",
+            "office": "DIVALE CBD",
+            "phone": "27563509",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7647
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.30 TO 33, GROUND FLOOR, SHREEJI SANGH, SECTOR - 7, PLOT NO. 15/16 KHANDA COLONY, PANVEL 410206",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065061",
+            "office": "KHANDA COLONY",
+            "phone": "27490760",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7648
+    },
+    {
+        "fields": {
+            "address": "MILESTONE CORPORATE PARK, DATTAWADI, OLD MUMBAI ROAD, KALWA (W) DIST. THANE 400 605",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065062",
+            "office": "KALWA",
+            "phone": "25406301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7649
+    },
+    {
+        "fields": {
+            "address": "JANKI HEIGHTS OPP. SHIV SENA SHAKA, DEENDAYAL ROAD, DOMBIVALI (WEST), DIS THANE 421202",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "ABHY0065063",
+            "office": "DOMBIVLI (WEST)",
+            "phone": "2489860",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7650
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,3,5 & 6A, VRINDAVAN CHS LTD., BUILDING NO.9, SHASTRI NAGAR ROAD NO.1, GOREGAON (W), MUMBAI 400 104.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065064",
+            "office": "GOREGAON WEST",
+            "phone": "28711793",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7651
+    },
+    {
+        "fields": {
+            "address": "BAL VIKAS SCHOOL BUILDING, GROUND FLOOR, MHADA COLONY, SARVODAYA NAGAR, JOGESHWARI (E), MUMBAI 400 060",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065065",
+            "office": "JOGESHWARI (E)",
+            "phone": "28320628",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7652
+    },
+    {
+        "fields": {
+            "address": "KHUSHI HEIGHTS, POONA LINK ROAD, OPP. NITIN RAJ HOTEL, KATEMANIVALI, KALYAN (E), DIST. THANE - 421 306.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "ABHY0065066",
+            "office": "KALYAN (E)",
+            "phone": "2362365",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7653
+    },
+    {
+        "fields": {
+            "address": "SHREE KRISHNA PARK, NEAR SHIV SENA SHAKA, DIVA (E), DIST. THANE - 400 612.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065067",
+            "office": "DIVA (E)",
+            "phone": "25318101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7654
+    },
+    {
+        "fields": {
+            "address": "SOM SHIV PLAZA, ANJUR PHATA, KAMATGHAR, AGRA ROAD, BHIWANDI - 421 302.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "ABHY0065068",
+            "office": "ANJUR PHATA",
+            "phone": "278055",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7655
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. S-109, RAJIV GANDHI COMMERCIAL COMPLEX, EKTA NAGAR, CHARKOP MARVE LINK ROAD, KANDIVLI (W), MUMBAI - 400 067",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065069",
+            "office": "MARVE LINK ROAD",
+            "phone": "28680471",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7656
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO.12, GROUND FLOOR, DHANRAJ MILL COMPOUND, SITARAM JADHAV MARG, LOWER PAREL, MUMBAI - 400 013.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065070",
+            "office": "LOWER PAREL",
+            "phone": "28680471",
+            "state": "MUMBAI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7657
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 6, 7, 8 & 9, GROUND FLOOR, \"TAMBAWALA BUILDING NO.1\", 205, KALACHOWKY ROAD, D. L. MARG, LALBAUG, MUMBAI - 400 012",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065071",
+            "office": "LALBAUG",
+            "phone": "23742274",
+            "state": "MUMBAI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7658
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3, B WING, BUILDING NO. 87, \"KANNAMWAR NAGAR RAIGAD CO-OP. HSG. SOC. LTD., KANNAMWAR NAGAR, VIKHROLI (E), MUMBAI - 400 083",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065072",
+            "office": "VIKHROLI (EAST)",
+            "phone": "25791070",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7659
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, MAYFIAR SYMPHONY SPRING, PARKSITE, GODREJ, HIRANANDANI LINK RD., VIKHROLI WEST, MUMBAI 400079",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065073",
+            "office": "VIKHROLI W",
+            "phone": "25174388",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7660
+    },
+    {
+        "fields": {
+            "address": "VIRANI BUSINESS CENTRE, SHOP NO. 1,2,3,4, PLOT NO. 96 BY 2, OPP BHARAT GEARS CO., KAUSA, DIST-THANE- 400612",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ABHY0065074",
+            "office": "KAUSA MUMBRA",
+            "phone": "25495095",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7661
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1,2,3 PRATHMESH PRIDE, PLOT NO. 06, SECTOR 19, ULWE, TAL  PANVEL, DIST RAIGAD  410206",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065075",
+            "office": "ULWE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7662
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 AND 2, SANGHAVI PALACE, BELGRAMI ROAD, KURLA W, MUMBAI - 400070",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ABHY0065076",
+            "office": "KURLA (W)",
+            "phone": "26503002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7663
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 AND 6, REDWOOD CITY PLAZA, PLOT NO. C 13, SURVEY NO 242B, ICE FACTORY, PEN 402107.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PEN",
+            "district": "RAIGAD",
+            "ifsc": "ABHY0065077",
+            "office": "PEN",
+            "phone": "24140961",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7664
+    },
+    {
+        "fields": {
+            "address": "355, NANA PETH, PUNE-411002",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065102",
+            "office": "NANA PETH",
+            "phone": "26356923",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7665
+    },
+    {
+        "fields": {
+            "address": "867, BUDHWAR PETH, LAXMI ROAD, PUNE-411002",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065103",
+            "office": "LAXMI ROAD",
+            "phone": "24470805",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7666
+    },
+    {
+        "fields": {
+            "address": "OM MAHAVIR CHS, SHOP NO. D1-2-3, SURVEY NO. 1-A, PUNE NAGAR RD., YERWADA, PUNE-411006",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065104",
+            "office": "YERWADA",
+            "phone": "26613493",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7667
+    },
+    {
+        "fields": {
+            "address": "SUNSHINE MARKS, CTS NO.4840, MUMBAI-PUNE RD, OPP B AMBEDKAR STATUE, PIMPRI, PUNE-411018",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065105",
+            "office": "PIMPRI",
+            "phone": "27426288",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7668
+    },
+    {
+        "fields": {
+            "address": "MANGALAM CHAMBERS, ERANDWANA, PAUD ROAD, PUNE-411038",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065106",
+            "office": "PAUD PHATA",
+            "phone": "25446729",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7669
+    },
+    {
+        "fields": {
+            "address": "TEJAS ETERNITY, S. NO. 134, H. NO.5,6/1, BANER BALEWADI RD, BANER, PUNE 411045",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065107",
+            "office": "BANER ROAD",
+            "phone": "27290321",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7670
+    },
+    {
+        "fields": {
+            "address": "SHIVSMARAK SAMITI, PUNE-SATARA ROAD,DHANKWADI, PUNE-411037",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065108",
+            "office": "DHANKAWADI",
+            "phone": "24377083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7671
+    },
+    {
+        "fields": {
+            "address": "620, PUNE NAGAR ROAD, WAGHOLI, TAL.HAVELI, PUNE-412207",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065109",
+            "office": "WAGHOLI",
+            "phone": "27051700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7672
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO. 1 AND 3, SUNIT RIDDHI BLDG, PLOT NO. 2B, FINAL PLOT NO. 545, S. NO. 120A, 120B, PARVATI, SINHAGAD RD, PUNE 411030",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065110",
+            "office": "SINHAGAD ROAD",
+            "phone": "24308301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7673
+    },
+    {
+        "fields": {
+            "address": "AMIT SAMRUDDHI, OFF. J.M.ROAD, SHIVAJI NAGAR, PUNE-411004",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065111",
+            "office": "DECCAN GYMKHANA",
+            "phone": "25513670",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7674
+    },
+    {
+        "fields": {
+            "address": "BHAGVAN HOUSE, GROUND FLOOR, WARDHA ROAD, WARDHA ROAD, NAGPUR WARDHA ROAD, NAGPUR",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "ABHY0065112",
+            "office": "NAGPUR",
+            "phone": "22244715",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7675
+    },
+    {
+        "fields": {
+            "address": "AMDANI CHAMBERS, GROUND FLOOR, NEW GULMANDI ROAD, DALAL WADI, AURANGABAD- 431 001.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "ABHY0065113",
+            "office": "AURANGABAD",
+            "phone": "2346043",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7676
+    },
+    {
+        "fields": {
+            "address": "3/16, A-1-B, GROUND FLOOR, HISSA NO.29, SURVEY NO.204, MUMABAI GOA HIGHWAY, AT AND POST - KANKAVLI, DIST - SINDHUDURG 416602",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANKAVLI",
+            "district": "SINDHUDURG",
+            "ifsc": "ABHY0065114",
+            "office": "KANKAVLI",
+            "phone": "231160",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7677
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3 & 4 & OFFICE NO.4,5 & 6 LUCKY PALACE APARTMENTS, CANARA CORNER, SHARANPUR TRIMBAK ROAD, NASHIK 422 005",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "ABHY0065115",
+            "office": "NASHIK",
+            "phone": "2232031",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7678
+    },
+    {
+        "fields": {
+            "address": "ANAND BUILDING, MAIN BAZAR PETH, NEAR CHAKAN S.T. STAND, OLD PUNE NASHIK ROAD, CHAKAN, DIST PUNE 410 501",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "ABHY0065116",
+            "office": "CHAKAN BRANCH",
+            "phone": "252001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7679
+    },
+    {
+        "fields": {
+            "address": "SHO NO.1-5, LOTUS PLAZA, TRIMURTI CHOWK, AMBAD-LINK ROAD, CIDCO, NEW NASHIK NASHIK-422008",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "ABHY0065117",
+            "office": "AMBAD",
+            "phone": "2399714",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7680
+    },
+    {
+        "fields": {
+            "address": "RAJAN COMPLEX, DATTA MANDIR STOP, NASHIK-PUNE HIGHWAY, NASHIK 422 101",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "ABHY0065118",
+            "office": "NASHIK ROAD",
+            "phone": "2459921",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7681
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 & 2, MALANI CHAMBERS, PLOT NO.5, SHIVAJI NAGAR ROAD, GARKHEDA, AURANGABAD 431005",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "ABHY0065119",
+            "office": "GARKHEDA",
+            "phone": "2405659",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7682
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 69, ASHOKNAGAR, WORKSHOP-BHAGYANAGAR ROAD, NANDED, DIST NANDED - 431605",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "ABHY0065120",
+            "office": "ASHOK NAGAR",
+            "phone": "254030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7683
+    },
+    {
+        "fields": {
+            "address": "GANDHI GRAIN MARKET, OLD BAGADGANJ LAYOUT, CHAPRU CHOWK, CENTRAL AVENUE ROAD, NAGPUR - 440 008.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "ABHY0065121",
+            "office": "C.A. ROAD",
+            "phone": "2739918",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7684
+    },
+    {
+        "fields": {
+            "address": "AMBIKA CORNER APARTMENT, PLOT NO. 6 & 7, LAXMIBAUG COLONY, TALEGAON DABHADE TAL. MAWAL, DIST. PUNE - 410506",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TALEGAONDABHADE",
+            "district": "PUNE",
+            "ifsc": "ABHY0065122",
+            "office": "DABHADE TALEGAON",
+            "phone": "224460",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7685
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 10, 11, 12(D), THE NANDED TOWN MARKET AREA, SAMRAT NAGAR, NEAR ANNABHAU SATHE CHOWK, NANDED - 431 602.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "ABHY0065123",
+            "office": "SAMRAT NAGAR",
+            "phone": "284030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7686
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MADHUSUDAN PARK, C BUILDING, WADALA PATHARDI ROAD, INDIRA NAGAR, NASHIK - 422 009",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "ABHY0065124",
+            "office": "INDIRA NAGAR",
+            "phone": "2329560",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7687
+    },
+    {
+        "fields": {
+            "address": "4614, LAXMI RESIDENCY, PETH ROAD, PANCHAVATI, NASHIK - 422 003.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "ABHY0065125",
+            "office": "PANCHAVATI",
+            "phone": "2629916",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7688
+    },
+    {
+        "fields": {
+            "address": "SAI MIDAS TOUCH, SHOP NO. 7 AND 8, PLOT NO. 101 SLASH 86, NAGAR MANMAD ROAD, SAVEDI ROAD, AHMEDNAGAR 414003",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "ABHY0065126",
+            "office": "AHMEDNAGAR",
+            "phone": "2356588",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7689
+    },
+    {
+        "fields": {
+            "address": "SHREE KRISHNA BHAVAN, NEAR CHAMPANER GATE,  3259 BANK ROAD, VADODARA 390006,",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "ABHY0065201",
+            "office": "MANDVI",
+            "phone": "2424149",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7690
+    },
+    {
+        "fields": {
+            "address": "JAYMANGAL HOUSE, BLOCK B, NEAR GANDHIGRAM RLY, STATION, ELLISBRIDGE, AHMEDABAD- 380 009.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "ABHY0065202",
+            "office": "MITHAKHALI",
+            "phone": "26589676",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7691
+    },
+    {
+        "fields": {
+            "address": "DAHINI KHADKI, MANEKCHOWK, AHMEDABAD- 380 221.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "ABHY0065203",
+            "office": "MANEKCHOWK",
+            "phone": "22143710",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7692
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO.E/1, GHANTAKARNA MAHAVIR CLOTH MARKET, RAIPUR, AHMEDABAD- 380 002.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "ABHY0065204",
+            "office": "RAIPUR",
+            "phone": "22142022",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7693
+    },
+    {
+        "fields": {
+            "address": "HARSHAD CHAMBERS, OPP. VALLABHNAGAR, ODHAV, AHMEDABAD - 380 021",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "ABHY0065205",
+            "office": "ODHAV",
+            "phone": "22871977",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7694
+    },
+    {
+        "fields": {
+            "address": "1, SATYAM, MANJUSHRI SOCIETY, GHATLODIA, AHMEDABAD- 380 061.",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "ABHY0065208",
+            "office": "GHATLODIYA",
+            "phone": "27475098",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7695
+    },
+    {
+        "fields": {
+            "address": "SRI KANIYOOR BLDG, CAR STREET, UDUPI,  TEH. UDUPI, 576 101",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "UDUPI",
+            "ifsc": "ABHY0065301",
+            "office": "MAIN BR UDUPI",
+            "phone": "2520117",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7696
+    },
+    {
+        "fields": {
+            "address": "SHAMBHAVI FORTUNE, BEHIND K S R T C BUS STAND, UDUPI -576101",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "UDUPI",
+            "ifsc": "ABHY0065302",
+            "office": "CITY",
+            "phone": "2520117",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7697
+    },
+    {
+        "fields": {
+            "address": "SHIRVA, TEH. UDUPI, 574 116",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "UDUPI",
+            "ifsc": "ABHY0065304",
+            "office": "SHIRVA",
+            "phone": "2554287",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7698
+    },
+    {
+        "fields": {
+            "address": "SHRI SHAKTHI COMPLEX, NH-66, NADSAL VILLAGE, PADUBIDRI, UDUPI-DIST, 574111",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "DAKSHINA KANNADA",
+            "ifsc": "ABHY0065305",
+            "office": "PADUBIDRI",
+            "phone": "2556177",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7699
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 4, JANVI PLAZA, NEAR BUNTS HOSTEL, KARANGLAPADY, MANGALORE-575003",
+            "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHINA KANNADA",
+            "ifsc": "ABHY0065306",
+            "office": "MANGALORE",
+            "phone": "2423067",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7700
+    }
+]

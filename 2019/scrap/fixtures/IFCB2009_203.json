@@ -12,7 +12,7 @@
             "state": "GUJRAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 24673
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 24674
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 24675
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 24676
     },
     {
         "fields": {
@@ -72,6 +72,6 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 24677
     }
 ]

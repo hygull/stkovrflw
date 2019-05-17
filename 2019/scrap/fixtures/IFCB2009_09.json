@@ -12,7 +12,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 110158
     },
     {
         "fields": {
@@ -27,6 +27,6 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 110159
     }
 ]

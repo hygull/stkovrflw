@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "PLOT C-24,G BLOCK,BANDRA KURLA COMPLEX,BKC ROAD,BANDRA EAST,MUMBAI,MAHARASHTRA 400051",
+            "bank_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NBRD0000002",
+            "office": "HEAD OFFICE",
+            "phone": "26530095",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145737
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "GROUND FLOOR,5TH NORTH AVENUE,MAKER MAXITY,BKC,BANDRA ( EAST),MUMBAI 400051",
+            "bank_name": "EMIRATES NBD BANK P J S C",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "EBIL0000001",
+            "office": "RTGS-HO",
+            "phone": "61532330",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7078
+    }
+]

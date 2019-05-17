@@ -1,0 +1,4952 @@
+[
+    {
+        "fields": {
+            "address": "FIFTH SIXTH FLOOR SUNNY BIG JUNCTION STC KHASRA NO 64 TO 67 GRAM SUKHAIPURA NEW ATISH MARKET JAIPUR 302020",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002011",
+            "office": "JAIPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6748
+    },
+    {
+        "fields": {
+            "address": "2E22 JHANDEWALAN EXTENSION NEAR JHANDEWALAN METRO STATION NEW DELHI 110055",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "AUBL0002016",
+            "office": "DELHI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6749
+    },
+    {
+        "fields": {
+            "address": "SCO 23-24, G floor Ambala Zirakpur highway near corporation Bank Zirakpur Punjab",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MOHALI",
+            "district": "MOHALI",
+            "ifsc": "AUBL0002017",
+            "office": "CHANDIGARH ZIRAKPUR",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6750
+    },
+    {
+        "fields": {
+            "address": "ABOVE BANDHAN BANK RANI BAZAR BIKANER RAJASTHAN 334001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002018",
+            "office": "BIKANER",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6751
+    },
+    {
+        "fields": {
+            "address": "PLOT NO18 FIRST FLOOR ABOVE ICICI BANK JHALAWAR ROAD KOTRI CIRCLE KOTA RAJASTHAN 324007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTA",
+            "district": "KOTA",
+            "ifsc": "AUBL0002019",
+            "office": "KOTA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6752
+    },
+    {
+        "fields": {
+            "address": "BUILDING NO 24 PLOT NO 24 SECTOR 12A DWARKA NEW DELHI 110075",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "AUBL0002100",
+            "office": "DELHI-DWARKA",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6753
+    },
+    {
+        "fields": {
+            "address": "A8 PRIYADARSHNI VIHAR PATPARGANJ ROAD LAXMI NAGAR NEW DELHI 110092",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "AUBL0002101",
+            "office": "DELHI-LAXMI NAGAR",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6754
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 28 POCKET E2 SECTOR 7 ROHINI NEW DELHI 110085",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "AUBL0002102",
+            "office": "DELHI-ROHINI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6755
+    },
+    {
+        "fields": {
+            "address": "X/200, B/M Gurudwara Road, Nai Walan,Karol Bhag , Bikaner Sweet,Delhi",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "AUBL0002103",
+            "office": "DELHI-KAROL BAGH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6756
+    },
+    {
+        "fields": {
+            "address": "F 4 EAST OF KAILASH NEAR METRO STATION NEW DELHI 65 110048",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "AUBL0002104",
+            "office": "DELHI EAST OF KAILASH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6757
+    },
+    {
+        "fields": {
+            "address": "C 29 RDC RAJ NAGAR GHAZIABAD 201002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "AUBL0002105",
+            "office": "GHAZIABAD-RAJ NAGAR",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6758
+    },
+    {
+        "fields": {
+            "address": "SCO 47 COMMERICAL SECTOR OLD JUDICIAL COMPLEX URBAN ESTATE 007 GURGAON HARYANA 122001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "AUBL0002106",
+            "office": "GURGAON-URBAN ESTATE-",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6759
+    },
+    {
+        "fields": {
+            "address": "OPP DISTRICT LIBRARY REWARI ROAD NEAR SBI BANK NARNAUL 123001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAHENDRAGARH",
+            "district": "MAHENDRAGARH",
+            "ifsc": "AUBL0002107",
+            "office": "NARNAUL-REWARI ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6760
+    },
+    {
+        "fields": {
+            "address": "JLZOPPNEWANJMNDIHILYMNDITUDIODTUDI122503",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "AUBL0002108",
+            "office": "PATAUDI-HAILYMANDI",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6761
+    },
+    {
+        "fields": {
+            "address": "6393 E 1 OPP HERO SHOWROOM NEAR DHARUHEDA CHUNGI CIRCULAR ROAD REWARI 123401",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "REWARI",
+            "district": "REWARI",
+            "ifsc": "AUBL0002109",
+            "office": "REWARI-CIRCULAR ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6762
+    },
+    {
+        "fields": {
+            "address": "6351 15 16 NICHOLSON ROAD AMBALA CANTT AMBALA 134003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AMBALA",
+            "district": "AMBALA",
+            "ifsc": "AUBL0002110",
+            "office": "AMBALA-NICHOLSON ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6763
+    },
+    {
+        "fields": {
+            "address": "SCO 181 AREA IN SECTOR C U E I RED SQUARE MARKET HISAR 125001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HISAR",
+            "district": "HISAR",
+            "ifsc": "AUBL0002111",
+            "office": "HISAR-RED SQUARE MARKET",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6764
+    },
+    {
+        "fields": {
+            "address": "WARD NO 15 RAJ ARJUN PLAZA 943 11 OPP SNAJIVNI HOSPITAL AMBALA ROAD KAITHAL 136027",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KAITHAL",
+            "district": "KAITHAL",
+            "ifsc": "AUBL0002112",
+            "office": "KAITHAL-AMBALA ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6765
+    },
+    {
+        "fields": {
+            "address": "SCO NO 240 SECTOR 12 PART 1 URBAN ESTATE KARNAL HARYANA 132001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KARNAL",
+            "district": "KARNAL",
+            "ifsc": "AUBL0002113",
+            "office": "KARNAL-URBAN ESTATE",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6766
+    },
+    {
+        "fields": {
+            "address": "OPP VISHKARMA MANDHIR RAILWAY ROAD KURUKSHETRA 136118",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KURUKSHETRA",
+            "district": "KURUKSHETRA",
+            "ifsc": "AUBL0002114",
+            "office": "KURUKSHETRA-RAILWAY ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6767
+    },
+    {
+        "fields": {
+            "address": "WARD NO 19 DAYAL PROPERTY G T ROAD NEAR MIS TOWN HOTEL PANIPATH HARYANA 132103",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PANIPATH",
+            "district": "PANIPATH",
+            "ifsc": "AUBL0002115",
+            "office": "PANIPAT-G.T. ROAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6768
+    },
+    {
+        "fields": {
+            "address": "PROPERTY NO B16 1106 1105 KAR HOUSE OPP BAJAJ SHOWROOM DABWALI SIRSA HARYANA 125055",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIRSA",
+            "district": "SIRSA",
+            "ifsc": "AUBL0002116",
+            "office": "SIRSA-KAR HOUSE",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6769
+    },
+    {
+        "fields": {
+            "address": "SCO 179 HUDA SECTOR 17 BARLABE BYPASS ROAD JAGADHARI DISTT YAMUNANAGAR 135003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "YAMUNANAGAR",
+            "district": "YAMUNANAGAR",
+            "ifsc": "AUBL0002117",
+            "office": "YAMUNANAGAR-JAGADHARI",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6770
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Plot No - 15, Sector - 16,Faridabad , Haryana - 121002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "AUBL0002118",
+            "office": "FARIDABAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6771
+    },
+    {
+        "fields": {
+            "address": "F32 SECTOR 18 NOIDA 201301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GAUTAM BUDDHA NAGAR",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "AUBL0002119",
+            "office": "NOIDA-SECTOR",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6772
+    },
+    {
+        "fields": {
+            "address": "WARD NO SHEET NO 233 CITY SURVEY NO 687 HOUSE NO 7 47 GUJARAT HOUSING BOARD BHUJ 370001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KACHCHH",
+            "district": "KACHCHH",
+            "ifsc": "AUBL0002120",
+            "office": "BHUJ",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6773
+    },
+    {
+        "fields": {
+            "address": "SAI COMPLEX GROUND FLOOR DBZ S 137 NEAR BANKING CIRCLE GANDHIDHAM 370201",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KACHCHH",
+            "district": "KACHCHH",
+            "ifsc": "AUBL0002121",
+            "office": "GANDHIDHAM-BANKING CIRCLE",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6774
+    },
+    {
+        "fields": {
+            "address": "MADHAV SQUARE GROUND FLOOR SHOP NO 4 5 NEAR LIMDA LINE 361001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAMNAGAR",
+            "district": "JAMNAGAR",
+            "ifsc": "AUBL0002122",
+            "office": "JAMNAGAR-MADHAV SQUARE",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6775
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 62 CITY SURVEY NO 2031 A FIRST FLOOR ABOVE ICICI BANK OPP HDFC BANK KANAKIYA PLOT JETPUR 360370",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "AUBL0002123",
+            "office": "JETPUR-KANAKIYA PLOT",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6776
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 11C UNIT C KALPAVRUSH COMMERICAL COMPLEX ZAZARAD ROAD JUNAGADH 362001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JUNAGADH",
+            "district": "JUNAGADH",
+            "ifsc": "AUBL0002124",
+            "office": "JUNAGARH-ZAZARAD ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6777
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 4 CITY SURVEY NO 2451 2452 2453 P CHALTA NO 39 40 41 MORBI 363642",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MORBI",
+            "district": "MORBI",
+            "ifsc": "AUBL0002125",
+            "office": "MORBI-SANALA ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6778
+    },
+    {
+        "fields": {
+            "address": "NAVA MAVA REVENUE SURVEY NO 27 P TP NO 7 FP NO 31 2 J 1 BUILDING GROUND FLOOR FLOOR SADAR PATEL MARG NEAR HDFC BANK 150 FEET RING ROAD RAJKOT 360005",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "AUBL0002126",
+            "office": "RAJKOT",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6779
+    },
+    {
+        "fields": {
+            "address": "Shop No 3 AND 4 Benison Complex,Opp, Rajlakshmi Complex,OP Road,Vadodara",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "AUBL0002127",
+            "office": "VADODARA-BENNYSON COMPLEX",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6780
+    },
+    {
+        "fields": {
+            "address": "HPN1213OMKARIICMPLEXTATINRADNEARHTELLRDSGIDCAREAANKALESHWAR393002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHARUCH",
+            "district": "BHARUCH",
+            "ifsc": "AUBL0002129",
+            "office": "ANKALESHWAR STATION ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6781
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 4 NEAR HDFC BODELI 391135",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHHOTA UDAIPUR",
+            "district": "CHHOTA UDAIPUR",
+            "ifsc": "AUBL0002130",
+            "office": "BODELI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6782
+    },
+    {
+        "fields": {
+            "address": "WARD NO 9 1 SHOP NO G 1 G 2 G 3 G 4 ROCKIES APARTMENT CO OPP HOUSING SOCIETY LTD NAVSARI 396445",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAVSARI",
+            "district": "NAVSARI",
+            "ifsc": "AUBL0002131",
+            "office": "NAVSARI-HOUSING SOCIETY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6783
+    },
+    {
+        "fields": {
+            "address": "SHOP NO G 1 T P 8 UMARVADA CITY SURVEY NO 2032 SARKARTEXTILE MARKET NEAR SAHARA DARWAJI RING ROAD SURAT 395002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "AUBL0002132",
+            "office": "SURAT-I",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6784
+    },
+    {
+        "fields": {
+            "address": "SHOP NO G9 GROUND FLOOR SNS PLATINA OPP RELIANCE MART VESU SURAT 395007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "AUBL0002133",
+            "office": "SURAT-VESU",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6785
+    },
+    {
+        "fields": {
+            "address": "DHARATI COMPLEX NH8 GUNJAN DAMAN ROAD VAPI 396191",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VALSAD",
+            "district": "VALSAD",
+            "ifsc": "AUBL0002134",
+            "office": "VAPI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6786
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 16 17 18 19 20 SHREEJI DADA COMPLEX NEAR MARKET YARD MODASSA KAPADWAJ ROAD BAYAD 383325",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ARAVALLI",
+            "district": "ARAVALLI",
+            "ifsc": "AUBL0002135",
+            "office": "BAYAD-MARKET YARD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6787
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 7 8 9 BELOW YES BANK SECTOR 1 NEAR AU FINANCERS PITHAM CITY PLAZA COMPLEX DEESA 385535",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANASKANTHA",
+            "district": "BANASKANTHA",
+            "ifsc": "AUBL0002136",
+            "office": "DEESA-PITHAM CITY PLAZA COMPLEX",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6788
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 21 22 NEAR GOVERNMENT GUEST HOUSE AND TAXI STAND ADJACENT TO SBBJ ALRAM PARK SOCIETY POLICE STATION ROAD DEODAR 385330",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANASKANTHA",
+            "district": "BANASKANTHA",
+            "ifsc": "AUBL0002137",
+            "office": "DEODAR-ALRAM PARK SOCIETY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6789
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 TO 5 GROUND FLOOR ASHOK VATIKA SAHKARI JIN ROAD NEAR RBL BANK HIMMATNAGAR 383001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SABARKANTHA",
+            "district": "SABARKANTHA",
+            "ifsc": "AUBL0002139",
+            "office": "HIMATNAGAR-SAHKARI JIN ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6790
+    },
+    {
+        "fields": {
+            "address": "SATYAM COMPLEX C S NO 6615 6616 6617 6617 6618 6619 6620 MOUJE IDAR MAIN AMBAJI HGHWAY IDAR 383430",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SABARKANTHA",
+            "district": "SABARKANTHA",
+            "ifsc": "AUBL0002140",
+            "office": "IDAR-MAIN AMBAJI HIGHWAY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6791
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 3A SHEET NO 18 CHALTA NO 138 CITY SURVEY NO 5598 NEXT TO ICICI BANK AHMEDABAD HIGHWAY MEHSANA 382721",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAHESANA",
+            "district": "MAHESANA",
+            "ifsc": "AUBL0002141",
+            "office": "MEHSANA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6792
+    },
+    {
+        "fields": {
+            "address": "SHOP NO A7 A8 CTS NO 509 PAIKI 1 SHAMALAJI ROAD MODASA 383315",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ARAVALLI",
+            "district": "ARAVALLI",
+            "ifsc": "AUBL0002142",
+            "office": "MODASA-SHAMALAJI ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6793
+    },
+    {
+        "fields": {
+            "address": "TRIMURTI COMPLEX OPP INCOME TAX OFFICE NEAR SBI BANK ABU NATIONAL HIGHWAY PALANPUR 385001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANASKANTHA",
+            "district": "BANASKANTHA",
+            "ifsc": "AUBL0002143",
+            "office": "PALANPUR-ABU NATIONAL HIGHWAY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6794
+    },
+    {
+        "fields": {
+            "address": "CITY SURVEY NO 1639 SHEET NO 131 SANTOKBA HALL OF GUNAGADIPARTI RAJMAHAL STATION ROAD NEAR PATAN RAILWAY STATION PATAN 384265",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATAN",
+            "district": "PATAN",
+            "ifsc": "AUBL0002144",
+            "office": "PATAN-RAJMAHAL STATION ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6795
+    },
+    {
+        "fields": {
+            "address": "AMAR COMPLEX FIRST FLOOR GROUND FLOOR HIGH WAY CHOWKDI WAJAGADH THARAD 385565",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANAS KANTHA",
+            "district": "BANAS KANTHA",
+            "ifsc": "AUBL0002145",
+            "office": "THARAD WAJAGADH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6796
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 171 SHOP NO 1 2 3 4 5 101 102 SHUBH COMPLEX SECTOR 21 GANDHINAGAR OPP GALLOPS MOTOR 382421",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "AUBL0002146",
+            "office": "GANDHINAGAR-SHUBH COMPLEX-SECTOR",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6797
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8 9 MEHUL R PATEL HUF B T MALL NAVJEEVAN MILL COMPOUND KALOL 382721",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "AUBL0002147",
+            "office": "KALOL-BT MALL",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6798
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 20 21 MADHAV COMPLEX NEAR SWAGAT HOTEL AHMEDABAD ROAD KATHLAL 387630",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KHEDA",
+            "district": "KHEDA",
+            "ifsc": "AUBL0002148",
+            "office": "KATHLAL-AHMEDABAD ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6799
+    },
+    {
+        "fields": {
+            "address": "BESIDE CORPORATION BANK OPP LILAVATI HOSPITAL GODHRA LUNAVADA 389230",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAHISAGAR",
+            "district": "MAHISAGAR",
+            "ifsc": "AUBL0002149",
+            "office": "LUNAWADA-GODHRA ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6800
+    },
+    {
+        "fields": {
+            "address": "103 GRAVITY COMPLEX OPP AMBA ASHRAM AANAND ROAD NADIAD 387001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KHEDA",
+            "district": "KHEDA",
+            "ifsc": "AUBL0002150",
+            "office": "NADIAD-AANAND ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6801
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 4 5 CITY SURVEY NO 4012 WARD NO 2 BEHIND BANK OF MAHARASHTRA OPP MP SHAH ARTS AND SCIENCE COLLEGE BUS STAND ROAD WADHWAN SURENDRANAGAR 363001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SURENDRANAGAR",
+            "district": "SURENDRANAGAR",
+            "ifsc": "AUBL0002151",
+            "office": "SURENDRANAGAR-CITY CENTER",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6802
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SHEETAL VASHA SHIVRANJANI CROSS ROADS SATELLITE AHMEDABAD 380015",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AUBL0002152",
+            "office": "AHMEDABAD-SHIVRANJANAI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6803
+    },
+    {
+        "fields": {
+            "address": "City Survey 13, 14, 15 and 16 Ground Floor, Central Business Space,Opp Fortune Landmark Hotel, Usmanpura,Ashram Road,Ahmedabad",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AUBL0002153",
+            "office": "AHMEDABAD-ASHRAM ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6804
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 1641 OFFICE NO A 1 2 3 4 5 SHREE RAM ARCEDE STATION ROAD ANAND 388001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANAND",
+            "district": "ANAND",
+            "ifsc": "AUBL0002154",
+            "office": "ANAND-STATION ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6805
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 105 106 107 SILVER PLAZA COMPLEX SURVEY NO 1572 PAIKKI CITY SURVEY NO 264 275 PAKKI OF MOUJE BAVLA 382220",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AUBL0002155",
+            "office": "BAVLA-SILVER PLAZA COMPLEX",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6806
+    },
+    {
+        "fields": {
+            "address": "Plot 8B, Shop No 1 AND 2,,Sappire Prime,Opp Daxinamurti School,Waghawadi Raod,Bhavnagar",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHAVNAGAR",
+            "district": "BHAVNAGAR",
+            "ifsc": "AUBL0002156",
+            "office": "BHAVNAGAR-WAGHAWADI ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6807
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR NEAR RATAN PARK SOCIETY BUS STAND BORSAD 388540",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANAND",
+            "district": "ANAND",
+            "ifsc": "AUBL0002157",
+            "office": "BORSAD-RATAN PARK SOCIETY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6808
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR GLK TOWER OPP AXIS BANK NEAR BUS DEPOT STATION ROAD DAHOD 389151",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DAHOD",
+            "district": "DAHOD",
+            "ifsc": "AUBL0002158",
+            "office": "DAHOD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6809
+    },
+    {
+        "fields": {
+            "address": "SHOP NO F 5 F 6 GROUND FLOOR LANDMARK COMPLEX RS NO 226 227 PUKKI C S NO 419 1 8 AND 419 5 GODHRA PANCHMAHAL GUJARAT 389001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PANCH MAHALS",
+            "district": "PANCH MAHALS",
+            "ifsc": "AUBL0002159",
+            "office": "GODHRA-LANDMARK COMPLEX",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6810
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 12A 14 15 16 17 ON GROUND FLOOR SHOP NO 110B 110A 11A 11B 109 ON FIRST FLOOR RELIEF ARCADE OLD RELIEF CINEMA RELIEF ROAD AHMEDABAD 380001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AUBL0002160",
+            "office": "AHMEDABAD-RELIEF ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6811
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 B GROUND FLOOR SATVA SHAKTI PUSHPAKUNJ CIRCLE KANKARIA MANINAGAR AHMEDABAD 380008",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AUBL0002161",
+            "office": "AHMEDABAD-MANI NAGAR",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6812
+    },
+    {
+        "fields": {
+            "address": "WARD 10 CHOUDHARY PLAZA ADJOINING TO HDFCBANK BANDIKUI 303313",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DAUSA",
+            "district": "DAUSA",
+            "ifsc": "AUBL0002162",
+            "office": "BANDIKUI-CHOUDHARY PLAZA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6813
+    },
+    {
+        "fields": {
+            "address": "C 55 SUBH LAXMI NEAR MAHARISHI ARVIND INSTITUTE AMBABARI JAIPUR 302039",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002163",
+            "office": "JAIPUR-AMBABARI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6814
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 13 14 15 BASANT PLAZA MORIJA ROAD NEAR KRISHIMANDI CHOMU 303702",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002164",
+            "office": "CHOMU-NEW ANAJ MANDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6815
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 40 1 40 2 N H 11 AGRA ROAD KHASRA NO 1423 DAUSA 303303",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DAUSA",
+            "district": "DAUSA",
+            "ifsc": "AUBL0002165",
+            "office": "DAUSA-AGRA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6816
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 305 306 JOHRI BAZAR GROUND FLOOR AND FIRST FLOOR HOUSE NO 3946 BARATHI BHAWAN MSB KA RASTA JAIPUR 302003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002167",
+            "office": "JAIPUR-JOHARI BAZAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6817
+    },
+    {
+        "fields": {
+            "address": "SHOP NO G1 ARG NORTH AVENUE SIKAR ROAD VKI JAIPUR 302013",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002168",
+            "office": "JAIPUR-VKI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6818
+    },
+    {
+        "fields": {
+            "address": "59,60,61,62,MAINBUS STAND,JAMWA RAMGARH ROAD,HEERAWALA,Jamwa Ramgarh",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002169",
+            "office": "HEERAWALA-JAMWA RAMGARH ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6819
+    },
+    {
+        "fields": {
+            "address": "WARD NO 14 OPPOSITE POLICE STATION JAKHAR COMPLEX KALWAR ROAD JOBNER 303328",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002170",
+            "office": "JOBNER-KALWAR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6820
+    },
+    {
+        "fields": {
+            "address": "LAKHASRA NO 2363 1 NEAR SANTOSH TRACTOR CHOMU ROAD KHEJROLI 303803",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002171",
+            "office": "KHEJROLI-CHOMU ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6821
+    },
+    {
+        "fields": {
+            "address": "WARD NO8 NEAR SBBJ BANK POST BIDASAR DISTRICT CHURU 331501",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002172",
+            "office": "BIDASAR-WARD NO",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6822
+    },
+    {
+        "fields": {
+            "address": "WARD NO 10 NEAR HOSPITAL MAIN DARWAJA MAIN MARKET DANTARAMGARH 332702",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002173",
+            "office": "DANTARAMGARH-MAIN DARWAJA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6823
+    },
+    {
+        "fields": {
+            "address": "NEAR AXIS BANK OLD EDGAH ROAD DIDWANA 341308",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002174",
+            "office": "DIDWANA-EDGAH ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6824
+    },
+    {
+        "fields": {
+            "address": "NEAR BANK OF INDIA REENGUS BUS STAND ROAD REENGUS 332404",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002176",
+            "office": "REENGUS-BUS STAND ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6825
+    },
+    {
+        "fields": {
+            "address": "NEAR TAPARIA BAGICHEE STATION ROAD NEXT TO JANANA HOSPITAL SIKAR 332001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002177",
+            "office": "SIKAR-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6826
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD WARD NO 7 SHRIMADHOPUR 332715",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002179",
+            "office": "SRI MADHOPUR-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6827
+    },
+    {
+        "fields": {
+            "address": "WARD NO 29 STATION ROAD NEAR HDFC BANK SUJANGARH 331507",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002180",
+            "office": "SUJANGARH-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6828
+    },
+    {
+        "fields": {
+            "address": "NAVIN TOWER OPP AXIX BANK PILANI ROAD CHIRAWA 333026",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "AUBL0002181",
+            "office": "CHIRAWA-PILANI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6829
+    },
+    {
+        "fields": {
+            "address": "WARD NO 24 NR HOTEL NATRAJ PURANI SADAK CHURU 331001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002182",
+            "office": "CHURU-PURANI SADAK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6830
+    },
+    {
+        "fields": {
+            "address": "WARD NO 19 OLD 17 NEW PARTURAM JI CHAKKI KE PASS J P TOWER OPP HDFC BANK FATHEPUR 332301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002183",
+            "office": "FATEHPUR-JP TOWER",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6831
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 5 6 7 8 VINAYAK COMPLEX NEAR MAHARAJA HOTEL GHANDI CHOWK JHUNJHUNU 333001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "AUBL0002184",
+            "office": "JHUNJHUNU-GANDHI CHOWK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6832
+    },
+    {
+        "fields": {
+            "address": "WARD NO 6 NAHARSINGH PARK KE PASS MAIN MARKET NAWALGARH 333042",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "AUBL0002185",
+            "office": "NAWALGARH-MAIN MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6833
+    },
+    {
+        "fields": {
+            "address": "WARD NO 16 NEAR OLD BUS STAND OPPOSITE AU OFFICE SAHWA TARANAGAR CHURU RAJASTHAN 331302",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002186",
+            "office": "SAHWA-OLD BUS STAND",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6834
+    },
+    {
+        "fields": {
+            "address": "WARD NO 3 SHEETLA CHOWK TARANAGAR 331304",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002187",
+            "office": "TARANAGAR-SHEETLA CHOWK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6835
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 1701 NEAR GHUMCHAKKAR JHUNJHUNU ROAD UDAIPURWATI 333307",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "AUBL0002188",
+            "office": "UDAIPURWATI-JHUNJHUNU ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6836
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 2150 2151 2152 201 RAGHU MARG LAKHANDA WALA KUA RAJ VILLA OPPOSITE GOVT CHILDREN HOSPITAL ALWAR 301001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002189",
+            "office": "ALWAR-RAGHU MARG",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6837
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 24 NEAR HDFC BAANK NARAYANPUR ROAD BANSUR 301402",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002190",
+            "office": "BANSUR-NARAYANPUR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6838
+    },
+    {
+        "fields": {
+            "address": "GOSWAMI SADAN WARD NO 7 NEAR ICICI BANK BEHROR ALWAR RAJASTHAN 301701",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002191",
+            "office": "BEHROR-GOSWAMI SADAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6839
+    },
+    {
+        "fields": {
+            "address": "A 2 SHAKUNTALAM TOWER BHAGAT SINGH COLONY NEAR RBL BANK BHIWADI 301019",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002192",
+            "office": "BHIWADI-BHAGAT SINGH COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6840
+    },
+    {
+        "fields": {
+            "address": "DEEP HOUSE GHATWARI NEAR OLS BUS STAND 303120",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002193",
+            "office": "GATHWARI-DEEP HOUSE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6841
+    },
+    {
+        "fields": {
+            "address": "KHASRANO132BARSINGHPURAROADKHANDELABYPASSKHANDELA332709",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002194",
+            "office": "KHANDELA-BARSINGHPURA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6842
+    },
+    {
+        "fields": {
+            "address": "WARD NO 16 KHETRI DIST JHUNJHUNU RAJASTHAN 333503",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "AUBL0002195",
+            "office": "KHETRI-WARD NO",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6843
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 512 NEAR PNB BANK TIJARA ROAD KISHANGARH BAS ALWAR 301405",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002196",
+            "office": "KISHANGARH BAS-TIJARA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6844
+    },
+    {
+        "fields": {
+            "address": "SHRI GANESH ENTERPRISES OPP NAGAR PALIKA PARK PUNJABI SINDHI COLONY NEAR ICICI BANK KOTHPUTLI JAIPUR 303108",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002197",
+            "office": "KOTPUTLI-PUNJABI SINDHI COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6845
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 16 ZONRE B SHIVAM PLAZA KAPIL MANDI NEAR DHARM KATA NEEM KA THANA 332713",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002198",
+            "office": "NEEM KA THANA-KAPIL MANDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6846
+    },
+    {
+        "fields": {
+            "address": "NH 8 NEAR BUS STAND PAOTA KOTPUTLI 303106",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002199",
+            "office": "PAOTA-NH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6847
+    },
+    {
+        "fields": {
+            "address": "HANUMANT PLAZA OLD DELHI ROAD OPP NAGAR PALIKA SHAHPURA 303103",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002200",
+            "office": "SHAHPURA-OLD DELHI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6848
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 2588 OLD NO 2347 MAIN BUS STAND ALWAR ROAD THANAGAZI 301022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002201",
+            "office": "THANAGAZI-ALWAR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6849
+    },
+    {
+        "fields": {
+            "address": "ADNO10LOHAOOKAMOHALLANEABAODAGAMBANKTHOI332719",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002202",
+            "office": "THOI-LOHAROO KA MOHALLA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6850
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 703 BABA MARKET LINK ROAD BAGRU 303007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002203",
+            "office": "BAGRU-BABA MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6851
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 36 NEAR HDFC BANK NEER SAGAR MARKET BHANKROTA 302026",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002204",
+            "office": "BHANKROTA-NEER SAGAR MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6852
+    },
+    {
+        "fields": {
+            "address": "SHIV AUTO AGENCY DUDU MAIN CHAURAHA JAIPUR ROAD 303008",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002205",
+            "office": "DUDU-MAIN CHAURAHA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6853
+    },
+    {
+        "fields": {
+            "address": "10 SHIVRAJ NIKETAN OPP SBBJ BANK GAUTAM MARG VAISHALI NAGAR JAIPUR 302021",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002206",
+            "office": "JAIPUR-VAISHALI NAGAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6854
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5 6 AT GF AXIS MALL BHAGWAN DAS ROAD C SCHEME JAIPUR 302007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002207",
+            "office": "JAIPUR-C-SCHEME",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6855
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 3 JEN ENCLAVE CALGIRI ROAD MALVIYA NAGAR JAIPUR 302017",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002208",
+            "office": "JAIPUR MALVIYA NAGAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6856
+    },
+    {
+        "fields": {
+            "address": "B22 -23 Badjatya Complex ,Janta store Central market ,Bapu Nagar Jaipur",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002209",
+            "office": "JAIPUR-SANTOKBA DURLABJI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6857
+    },
+    {
+        "fields": {
+            "address": "WARD NO 13 CHOMU BAZAR ROAD AGRASEN MARKET RENWAL 303603",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002210",
+            "office": "RENWAL-AGRASEN MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6858
+    },
+    {
+        "fields": {
+            "address": "MAIN MARKET BARNA 305801",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002211",
+            "office": "BARNA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6859
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 1070 1071 KHADI GRAM UDYOG SADAN VIKAS SAMITI BASSI JAIPUR 303301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002212",
+            "office": "BASSI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6860
+    },
+    {
+        "fields": {
+            "address": "KOTKHAVADA MOD NEAR SHYAM TOWER CHAKSU 303901",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002213",
+            "office": "CHAKSU-KOTKHAVADA MOD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6861
+    },
+    {
+        "fields": {
+            "address": "SHOPING CENTRE SECTOR 9 MADHYAM MARG 302020",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002214",
+            "office": "JAIPUR-MANSAROVAR MADHYAM MARG",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6862
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 22 TO 25 91 92 GOPAL NAGAR A ASHOK VIHAR EXT GOPALPURA BYPASS JAIPUR 302018",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002215",
+            "office": "JAIPUR GOPALPURA BYE PASS",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6863
+    },
+    {
+        "fields": {
+            "address": "PLOT NO A SECTOR 8 HALDIGHATI MARG MAIN TONK ROAD PRATAP NAGAR 302033",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002216",
+            "office": "JAIPUR PRATAP NAGAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6864
+    },
+    {
+        "fields": {
+            "address": "BUSINESS AVENUE B12 GOVIND MARG RAJA PARK JAIPUR 302004",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002217",
+            "office": "JAIPUR RAJA PARK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6865
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 93 JAIPUR ROAD NEAR UCO BANK PHAGI 303005",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002218",
+            "office": "PHAGI-JAIPUR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6866
+    },
+    {
+        "fields": {
+            "address": "NAZAR BAG ROAD SUNARO KA MANDIR TONK 304001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TONK",
+            "district": "TONK",
+            "ifsc": "AUBL0002219",
+            "office": "TONK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6867
+    },
+    {
+        "fields": {
+            "address": "GURUKRIPA BUILDING ANASAGAR ROAD CHAUPATI KE SAMNE AJMER 305001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002220",
+            "office": "AJMER-ANASAGAR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6868
+    },
+    {
+        "fields": {
+            "address": "8 243 GALI NO 6 MAHAVEER GANJ ALSO KNOWN AS AANAD GRAH NO 2 PLOT NO B HOTEL GANGAPUR JODHPUR ROAD BEAWAR 305901",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002221",
+            "office": "BEAWAR-JODHPUR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6869
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 29 PLOT NO 25 NEAR RAILWAY PHATAK GULAB PURA ROAD MILL ROAD BIJAY NAGAR 305624",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002222",
+            "office": "BIJAINAGAR-MILL ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6870
+    },
+    {
+        "fields": {
+            "address": "SAPANDA ROAD PLOT NO 242 WARD NO 27 KEKRI 305404",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002223",
+            "office": "KEKRI-SAPANDA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6871
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 9 10 BHATT GUEST HOUSE JAIPUR ROAD MADAN GANJ KISHANGARH RAJASTHAN 305801",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002224",
+            "office": "KISHANGARH-MADANGANJ",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6872
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1204 SUBHASH GANJ ANAJ MANDI NASIRABAD 305601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002225",
+            "office": "NASIRABAD-SUBHASH GANJ",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6873
+    },
+    {
+        "fields": {
+            "address": "SHREE RAM SADAN JAIPUR SIKAR ROAD 341509",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002226",
+            "office": "NAWA-SHREE RAM SADAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6874
+    },
+    {
+        "fields": {
+            "address": "WARD NO 13 SHYAM COLONY RAMA PEER COMPLEX KISHANGARH ROAD PARBATSAR RAJASTHAN 341512",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002227",
+            "office": "PARBATSAR-KISHANGARH ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6875
+    },
+    {
+        "fields": {
+            "address": "WARD NO 1 LINK ROAD SARWAR 305403",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "AUBL0002228",
+            "office": "SARWAR-LINK ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6876
+    },
+    {
+        "fields": {
+            "address": "WARD NO 14 PANCHAYAT SAMITI ROAD OPP PANCHAYAT SAMITI BEEM ROAD AASHIND RAJASTHAN 311301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHILWARA",
+            "district": "BHILWARA",
+            "ifsc": "AUBL0002229",
+            "office": "ASIND-PANCHAYAT SAMITI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6877
+    },
+    {
+        "fields": {
+            "address": "KHEMKA BUILDING KHASRA NO 372 180 TEHSIL ROAD BEGUN 312023",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHITTORGARH",
+            "district": "CHITTORGARH",
+            "ifsc": "AUBL0002230",
+            "office": "BEGUN-TEHSIL ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6878
+    },
+    {
+        "fields": {
+            "address": "PLOT NO C1 C 2 C3 C 4 HIRA PANNA MARKET PUR ROAD BHILWARA 311001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHILWARA",
+            "district": "BHILWARA",
+            "ifsc": "AUBL0002231",
+            "office": "BHILWARA-HIRA PANNA MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6879
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 333 NEAR BUS STAND BIJOLIA 342301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHILWARA",
+            "district": "BHILWARA",
+            "ifsc": "AUBL0002232",
+            "office": "BIJOLIA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6880
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 14 15 C KUMBHA NAGAR CHITTORGARH 302001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHITTORGARH",
+            "district": "CHITTORGARH",
+            "ifsc": "AUBL0002233",
+            "office": "CHITTORGARH-KUMBHANAGAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6881
+    },
+    {
+        "fields": {
+            "address": "WARD NO 8 SHOP NO 1 2 3 4 5 BHUT BAVJI KE PASS GALI NO 3 GANGAPUR RAJASTHAN 311801",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHILWARA",
+            "district": "BHILWARA",
+            "ifsc": "AUBL0002234",
+            "office": "GANGAPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6882
+    },
+    {
+        "fields": {
+            "address": "B 2 OPP PUNJAB NATIONAL BANK HIGH SCHOOL ROAD ZERO MILE ROAD ABOVE AXIS BANK PRATAPGARH 312605",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PRATAPGARH",
+            "district": "PRATAPGARH",
+            "ifsc": "AUBL0002235",
+            "office": "PRATAPGARH-HIGH SCHOOL ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6883
+    },
+    {
+        "fields": {
+            "address": "WARD NO 18 OPPOSITE SURABHI COMPLEX JALEHAKKI NATHDWARA ROAD KANKROLI RAJSAMAND 313324",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJSAMAND",
+            "district": "RAJSAMAND",
+            "ifsc": "AUBL0002236",
+            "office": "RAJSAMAND-KANKROLI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6884
+    },
+    {
+        "fields": {
+            "address": "MOHAN COLONY OPP SHRI NATH ASHRAM UDAIPUR ROAD BANSWARA 327001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANSWARA",
+            "district": "BANSWARA",
+            "ifsc": "AUBL0002237",
+            "office": "BANSWARA-MOHAN COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6885
+    },
+    {
+        "fields": {
+            "address": "WARD NO 20 CHANDRA LOK TALKIES KE PASS STATION ROAD MAIN BHINDER ROAD BHINDER 313603",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0002238",
+            "office": "BHINDER-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6886
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 220 KHASRA NO 1030 5 51 DUNGARPUR NEAR BUS STAND DUNGARPUR 314001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DUNGARPUR",
+            "district": "DUNGARPUR",
+            "ifsc": "AUBL0002239",
+            "office": "DUNGARPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6887
+    },
+    {
+        "fields": {
+            "address": "Ward No- 12, At Post Office Road,Near Post Office, Fatehnagar,Distt- Udaipur,Fatehnagar",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0002240",
+            "office": "FATEHNAGAR-POST OFFICE ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6888
+    },
+    {
+        "fields": {
+            "address": "NEAR SBI BANK DUNGARPUR ROAD 314025",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DUNGARPUR",
+            "district": "DUNGARPUR",
+            "ifsc": "AUBL0002241",
+            "office": "SAGWARA-DUNGARPUR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6889
+    },
+    {
+        "fields": {
+            "address": "NEAR HIGH SECONDARY SCHOOL WARD NO 2 MATA KI SER SALUMBER 313027",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0002242",
+            "office": "SALUMBER",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6890
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 168 ASHWINI MARG NEAR DELHI GATE UDAIPUR RAJASTHAN 313001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0002243",
+            "office": "UDAIPUR-DELHI GATE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6891
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE ICICI BANK CHARMURTI CIRCLE KOTA ROAD BARAN 325205",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARAN",
+            "district": "BARAN",
+            "ifsc": "AUBL0002244",
+            "office": "BARAN-CHARMURTI CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6892
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 1738 160 1741 161 NEAR KHOJA GATE CIRCLE CIVIL LINE ROAD BUNDI 323001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BUNDI",
+            "district": "BUNDI",
+            "ifsc": "AUBL0002245",
+            "office": "BUNDI-CIVIL LINE ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6893
+    },
+    {
+        "fields": {
+            "address": "MAIN LAKHERI BUNDI ROAD VILLAGE CHAMAVALI 323603",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BUNDI",
+            "district": "BUNDI",
+            "ifsc": "AUBL0002246",
+            "office": "CHAMAWALI-BUNDI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6894
+    },
+    {
+        "fields": {
+            "address": "OPP KRISHI UPAJ MANDI STATION ROAD CHHABRA 325220",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARAN",
+            "district": "BARAN",
+            "ifsc": "AUBL0002247",
+            "office": "CHHABRA-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6895
+    },
+    {
+        "fields": {
+            "address": "WARD NO 16 PLOT NO 22 OPPOSITE SBBJ BANK MAIN ROAD DEOLI 304023",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TONK",
+            "district": "TONK",
+            "ifsc": "AUBL0002248",
+            "office": "DEOLI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6896
+    },
+    {
+        "fields": {
+            "address": "NEAR NIRBHAY SINGH CIRCLE JHALAWAR 326001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JHALAWAR",
+            "district": "JHALAWAR",
+            "ifsc": "AUBL0002249",
+            "office": "JHALAWAR-NIRBHAY SINGH CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6897
+    },
+    {
+        "fields": {
+            "address": "PLOT NO385 SHOOPING CENTER GHODEWALA CIRCLE KOTA 324007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTA",
+            "district": "KOTA",
+            "ifsc": "AUBL0002250",
+            "office": "KOTA-GHODEWALA CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6898
+    },
+    {
+        "fields": {
+            "address": "2 C 7 TALWANDI CIRCLE KOTA 324005",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTA",
+            "district": "KOTA",
+            "ifsc": "AUBL0002251",
+            "office": "KOTA-TALWANDI CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6899
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 61 RAONSLI CIRCLE BAZAR NO 1 PANCHMUKHI ROAD OPPOSITE ANAJMANDI RAMGANJMANDI 326519",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTA",
+            "district": "KOTA",
+            "ifsc": "AUBL0002252",
+            "office": "RAMGANJ MANDI-RAONSLI CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6900
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 789 WARD NO 8 NEAR SBBJ BANK KOTA ROAD SANGOD 325601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTA",
+            "district": "KOTA",
+            "ifsc": "AUBL0002253",
+            "office": "SANGOD-KOTA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6901
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 331 PLOT NO 20 A INDIRA COLONY SAWAI MADHOPUR 322001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SAWAIMADHOPUR",
+            "district": "SAWAIMADHOPUR",
+            "ifsc": "AUBL0002254",
+            "office": "SAWAI MADHOPUR-INDIRA COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6902
+    },
+    {
+        "fields": {
+            "address": "KILAK COMPLEX OPPOSITE MIDDLE GIRLS SCHOOL NEAR DEPUTY OFFICE DEGANA 341503",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002255",
+            "office": "DEGANA-KILAK COMPLEX",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6903
+    },
+    {
+        "fields": {
+            "address": "GOTAN STATION MERTA CITY ROAD GOTAN MERTA RAJASTHAN 342902",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002256",
+            "office": "GOTAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6904
+    },
+    {
+        "fields": {
+            "address": "SATARA PLAZA NAI SADAK JODHPUR 342001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002257",
+            "office": "JODHPUR-NAI SADAK",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6905
+    },
+    {
+        "fields": {
+            "address": "CENTRE POINT PWD COLONY OPP YES BANK JODHPUR 342001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002258",
+            "office": "JODHPUR-II",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6906
+    },
+    {
+        "fields": {
+            "address": "KHASARA NO 907 908 KUCHAMAN DEEDWANA ROAD ADJOINING BANDHAN BANK KUCHAMAN 341508",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002259",
+            "office": "KUCHAMAN CITY-KUCHAMAN DEEDWANA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6907
+    },
+    {
+        "fields": {
+            "address": "KRISHIMANDI ROAD NAGAUR CHOKI MERTA CITY 341510",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002260",
+            "office": "MERTA CITY-KRISHIMANDI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6908
+    },
+    {
+        "fields": {
+            "address": "MAIN STATION ROAD NEAR POST OFFICE GANPATI PLAZA OSIAN JODHPUR 342303",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002261",
+            "office": "OSIAN-MAIN STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6909
+    },
+    {
+        "fields": {
+            "address": "JANGIR PLAZA NAGAUR ROAD PHALODI JODHPUR 342301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002262",
+            "office": "PHALODI-JANGIR PLAZA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6910
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 2281 89 AMBEDKAR CIRCLE OPPOSITE OLD BUS STAND KHEJRALA ROAD JODHPUR 342601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002263",
+            "office": "PIPAR-AMBEDKAR CIRCLE",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6911
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 172 HOTEL LAXMI RESIDENCY IN FRONT OF RAILWAY BRIDGE RANI BAZAR BIKANER 334001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002264",
+            "office": "BIKANER-RANI BAZAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6912
+    },
+    {
+        "fields": {
+            "address": "B K 9 PAWAN PURI BIKANER 334003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002265",
+            "office": "BIKANER-PAWAN PURI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6913
+    },
+    {
+        "fields": {
+            "address": "WARD NO 11 STATION ROAD NEAR OLD POWER HOUSE SRI DUNGARGARH 331803",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002266",
+            "office": "DUNGARGARH-STATION ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6914
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 443 MISAL NO 24 OPPOSITE GOVERNMENT HOSPITAL SRI KOLAYAT 334302",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002267",
+            "office": "KOLAYAT",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6915
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 152 NEW DHAN MANDI LUNKARANSAR 334603",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002268",
+            "office": "LUNKARANSAR-NEW DHAN MANDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6916
+    },
+    {
+        "fields": {
+            "address": "OPP CENTRAL BANK AJMER ROAD NAGAUR 341001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAUR",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002269",
+            "office": "NAGAUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6917
+    },
+    {
+        "fields": {
+            "address": "SOUTHERN PART OF HOUSE NO 728 OPPOSITE JANTA DHARMKANTA BIKANER ROAD NOKHA 334803",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIKANER",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002270",
+            "office": "NOKHA-BIKANER ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6918
+    },
+    {
+        "fields": {
+            "address": "NEAR MONAHAR DAS JI KI SAMADI LINK ROAD RATANGARH 331022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002271",
+            "office": "RATANGARH-LINK ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6919
+    },
+    {
+        "fields": {
+            "address": "OPP ROADWAYS BUS STAND SARDARSHAHAR 331403",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHURU",
+            "district": "CHURU",
+            "ifsc": "AUBL0002272",
+            "office": "SARDARSHAHAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6920
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 5 NEAR SHANTI KUNJ BAGICHA PATTA NO 3 4 SADAR BAZAR ABU ROAD 307026",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIROHI",
+            "district": "SIROHI",
+            "ifsc": "AUBL0002273",
+            "office": "ABU ROAD-SADAR BAZAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6921
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 4 5 AND 6 PATTA NO 300 OPP ICICI BANK SAI COMPLEX KRISHI MANDI ROAD BHINMAL 343029",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALORE",
+            "district": "JALORE",
+            "ifsc": "AUBL0002274",
+            "office": "BHINMAL-KRISHI MANDI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6922
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE SBI BANK NAMAJ ROAD JAITARAN 306302",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALI",
+            "district": "PALI",
+            "ifsc": "AUBL0002275",
+            "office": "JAITARAN-NAMAJ ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6923
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 6 OPP YES BANK BAGODA ROAD KASTURBA COLONY JALORE 343001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALORE",
+            "district": "JALORE",
+            "ifsc": "AUBL0002276",
+            "office": "JALORE-BAGODA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6924
+    },
+    {
+        "fields": {
+            "address": "24 MAHAVEER MARG TOWN HALL KE SAMNE WARD NO 25 PALI 306401",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALI",
+            "district": "PALI",
+            "ifsc": "AUBL0002277",
+            "office": "PALI-MAHAVEER MARG",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6925
+    },
+    {
+        "fields": {
+            "address": "PATTA NO 94 NEAR SBBJ MEGA HIGHWAY REODAR DIST SIROHI 307514",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIROHI",
+            "district": "SIROHI",
+            "ifsc": "AUBL0002278",
+            "office": "REODAR-MEGA HIGHWAY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6926
+    },
+    {
+        "fields": {
+            "address": "KP TOWER GROUND FLOOR SIROHI ROAD OPP SANJIVINI HOSPITAL SIROHI 307022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIROHI",
+            "district": "SIROHI",
+            "ifsc": "AUBL0002279",
+            "office": "SIROHI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6927
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 7 8 ABOVE ICICI BANK FIRST FLOOR PALI ROAD SUMERPUR 306902",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALI",
+            "district": "PALI",
+            "ifsc": "AUBL0002280",
+            "office": "SUMERPUR-PALI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6928
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 18 NEAR GANESH IRON STORE BIKANER ROAD ANUPGRAH RAJASTHAN 335701",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGANAGAR",
+            "district": "GANGANAGAR",
+            "ifsc": "AUBL0002281",
+            "office": "ANUPGARH-BIKANER ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6929
+    },
+    {
+        "fields": {
+            "address": "THAKURJI KE MANDIR KE PASS BISRASAR 335524",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HANUMANGARH",
+            "district": "HANUMANGARH",
+            "ifsc": "AUBL0002282",
+            "office": "BISRASAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6930
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 3 DILLON COMPLEX DEEP COLONY NEAR IDBI BANK HANUMANGARH 335512",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HANUMANGARH",
+            "district": "HANUMANGARH",
+            "ifsc": "AUBL0002283",
+            "office": "HANUMANGARH-DEEP COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6931
+    },
+    {
+        "fields": {
+            "address": "WARD NO 22 BHIHANI ROAD OPP AXIS BANK NOHAR 335523",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HANUMANGARH",
+            "district": "HANUMANGARH",
+            "ifsc": "AUBL0002284",
+            "office": "NOHAR-BIHANI ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6932
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 82 83 GRAIN MARKET RAISINGHNAGAR 335051",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGANAGAR",
+            "district": "GANGANAGAR",
+            "ifsc": "AUBL0002285",
+            "office": "RAISINGHNAGAR-GRAIN MARKET",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6933
+    },
+    {
+        "fields": {
+            "address": "PLOT 12 EASTERN PART DHANMANDI NEAR HDFC BANK HANUMAN GARH ROAD RAWATSAR 335524",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HANUMANGARH",
+            "district": "HANUMANGARH",
+            "ifsc": "AUBL0002286",
+            "office": "RAWATSAR-DHANMANDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6934
+    },
+    {
+        "fields": {
+            "address": "MELODY HOUSE 25A PUBLIC PARK RAVINDRA PATH SRI GANGANAGAR 335001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGANAGAR",
+            "district": "GANGANAGAR",
+            "ifsc": "AUBL0002287",
+            "office": "SRI GANGANAGAR-RAVINDRA PATH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6935
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 28 GOL BAZAR NEAR PD ARORA HOSPITAL SRIVIJAYNAGAR 335704",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGANAGAR",
+            "district": "GANGANAGAR",
+            "ifsc": "AUBL0002288",
+            "office": "SRI VIJAYNAGAR-GOL BAZAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6936
+    },
+    {
+        "fields": {
+            "address": "NEAR HDFCBANK BIKANER ROAD SURATGARH 335804",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGANAGAR",
+            "district": "GANGANAGAR",
+            "ifsc": "AUBL0002289",
+            "office": "SURATGARH-BIKANER ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6937
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 843 NEAR JODHPUR HOSPITAL NH 114 BALESAR JODHPUR 342023",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0002290",
+            "office": "BALESAR-NH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6938
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 326 2 WARD NO 20 PACHPADRA ROAD BALOTRA 344022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARMER",
+            "district": "BARMER",
+            "ifsc": "AUBL0002291",
+            "office": "BALOTRA-PACHPADRA ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6939
+    },
+    {
+        "fields": {
+            "address": "AT GROUND FLOOR 2 FLOOR DEV TOWER OPPOSITE BANK OF MAHARASTRA NEAR CMHO OFFICE ROY COLONY ROAD BARMER RAJ 344001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARMER",
+            "district": "BARMER",
+            "ifsc": "AUBL0002292",
+            "office": "BARMER-ROY COLONY",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6940
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD PEPLI CHOWK NEAR BANK OF BARODA CHOTHAN 344702",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARMER",
+            "district": "BARMER",
+            "ifsc": "AUBL0002293",
+            "office": "CHOHTAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6941
+    },
+    {
+        "fields": {
+            "address": "SATYA KUNJ SHIV ROAD JAISALMER 345001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAISALMER",
+            "district": "JAISALMER",
+            "ifsc": "AUBL0002294",
+            "office": "JAISALMER-SATYA KUNJ",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6942
+    },
+    {
+        "fields": {
+            "address": "JODHPUR ROAD POKRAN 345021",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAISALMER",
+            "district": "JAISALMER",
+            "ifsc": "AUBL0002295",
+            "office": "POKARAN-JODHPUR ROAD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6943
+    },
+    {
+        "fields": {
+            "address": "KANNOD ROAD NEAR MANN CAF ASHTA 466116",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SEHORE",
+            "district": "SEHORE",
+            "ifsc": "AUBL0002296",
+            "office": "ASHTA-KANNOD ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6944
+    },
+    {
+        "fields": {
+            "address": "WARD NO 2 JAIN CYCLE STORE NEAR BUS STAND MAIN ROAD BARELI M P 464668",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAISEN",
+            "district": "RAISEN",
+            "ifsc": "AUBL0002297",
+            "office": "BARAILY-BUS STAND MAIN ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6945
+    },
+    {
+        "fields": {
+            "address": "NAZUL SHEET NO 19 28 PLOT NO 6 8 3 2 GANESH WARD BETUL ABHA SHREE HOTEL CIVIL LINES BETUL 460001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BETUL",
+            "district": "BETUL",
+            "ifsc": "AUBL0002298",
+            "office": "BETUL-CIVIL LINES",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6946
+    },
+    {
+        "fields": {
+            "address": "ALANKAR COMPLEX PLOT NO 10 BESIDE ICICI BANK MP NAGAR ZONE 2 BHOPAL 462011",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "AUBL0002299",
+            "office": "BHOPAL-MP NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6947
+    },
+    {
+        "fields": {
+            "address": "8 B GOVING GARDEN OLD KANODIA MARKET RAISEN ROAD NEW JINDAL AEKED BHOPAL 462023",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "AUBL0002300",
+            "office": "BHOPAL-RAISEN ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6948
+    },
+    {
+        "fields": {
+            "address": "NEAR GUNA NAKA OLSD AB ROAD BIAORA 465674",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJGARH",
+            "district": "RAJGARH",
+            "ifsc": "AUBL0002301",
+            "office": "BIAORA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6949
+    },
+    {
+        "fields": {
+            "address": "WARD NO 7 PLOT NO 2020 2021 2022 SAWAMI VIVEKANAND WARD HAR GANGA MANGLIK BHAWAN OPP BHARAT MATA CONVENT SCHOOL BARETH ROAD GANJ BASODA 464221",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VIDISHA",
+            "district": "VIDISHA",
+            "ifsc": "AUBL0002302",
+            "office": "GANJ BASODA-BARETH ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6950
+    },
+    {
+        "fields": {
+            "address": "AL HAFEEZ TOWER PLOT NO 34 21 SHEET NO 41 ANAND NAGAR HOSHANGABAD 461001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "AUBL0002303",
+            "office": "HOSHANGABAD-ANAND NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6951
+    },
+    {
+        "fields": {
+            "address": "WARD NO 15 ADJ TO EXISTING AUFIN BRANCH RISHI NAGAR BHOPAL ROAD NASRULLAGANJ 466331",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SEHORE",
+            "district": "SEHORE",
+            "ifsc": "AUBL0002304",
+            "office": "NASRULLAGANJ-RISHI NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6952
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 217 31 SHASTRI WARD NEAR HOTEL ADITYA RESIDENCY BUS STAND PANDURNA 480334",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHHINDWARA",
+            "district": "CHHINDWARA",
+            "ifsc": "AUBL0002305",
+            "office": "PANDHURNA-SHASTRI WARD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6953
+    },
+    {
+        "fields": {
+            "address": "WARD NO 15 KHASRA NO 193 ARJUN NAGAR SAGAR ROAD RAISEN 464551",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAISEN",
+            "district": "RAISEN",
+            "ifsc": "AUBL0002306",
+            "office": "RAISEN-ARJUN NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6954
+    },
+    {
+        "fields": {
+            "address": "WARD NO 17 M G ROAD OPP HDFC BANK SHUJALPUR 465333",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHAJAPUR",
+            "district": "SHAJAPUR",
+            "ifsc": "AUBL0002307",
+            "office": "SHUJALPUR-M G ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6955
+    },
+    {
+        "fields": {
+            "address": "WARD NO 21 SUBHASH PATH KHARI PHATAK ROAD VIDISHA 464001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VIDISHA",
+            "district": "VIDISHA",
+            "ifsc": "AUBL0002308",
+            "office": "VIDISHA-SUBHASH PATH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6956
+    },
+    {
+        "fields": {
+            "address": "CITY CENTRE SURVEY NO 341 1 1 CHAWANI CHARAHA 465441",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AGAR-MALWA",
+            "district": "AGAR-MALWA",
+            "ifsc": "AUBL0002309",
+            "office": "AGAR MALWA-CITY CENTRE",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6957
+    },
+    {
+        "fields": {
+            "address": "98 10 D KUNDIA PALACE MG ROAD NEAR AXIS BANK BADWANI 451551",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARWANI",
+            "district": "BARWANI",
+            "ifsc": "AUBL0002310",
+            "office": "BARWANI-MG ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6958
+    },
+    {
+        "fields": {
+            "address": "GULAB SHREE SHOP 18 19 20 JAWAHAR NAGAR INDORE DEWAS ROAD DEWAS 455001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DEWAS",
+            "district": "DEWAS",
+            "ifsc": "AUBL0002311",
+            "office": "DEWAS-JAWAHAR NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6959
+    },
+    {
+        "fields": {
+            "address": "MAGAJPURA ROAD A 1 A 2 SAINT TERESA CAMPUS DHAR INDORE ROAD DHAR 454001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "AUBL0002312",
+            "office": "DHAR-MAGAJPURA ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6960
+    },
+    {
+        "fields": {
+            "address": "SD ARCADE UPPER GROUND FLOOR PLOT 5 PO 3 SCHEME 54 AB ROAD INDORE 462044",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "AUBL0002313",
+            "office": "INDORE- AB ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6961
+    },
+    {
+        "fields": {
+            "address": "G 16 G 22 G 17 G 21 ON GROUND FLOOR OF VEDA COMPLEX BUILTED ON LAND BEARING KHASRA NO 1619 3 1619 4 1619 5 VEDA COMPLEX NEAR APPLE HOSPITAL BHANWAR KUA ROAD INDORE 452001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "AUBL0002314",
+            "office": "INDORE-BHANWAR KUAN ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6962
+    },
+    {
+        "fields": {
+            "address": "ANAND NAGAR WARD NO 50 ANAND NAGAR MAIN ROAD KHANDWA 450001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "EAST NIMAR",
+            "district": "EAST NIMAR",
+            "ifsc": "AUBL0002315",
+            "office": "KHANDWA-ANAND NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6963
+    },
+    {
+        "fields": {
+            "address": "SHOP NO C 13 RADHA VALLABH MARKET KHARGAON 451001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WEST NIMAR",
+            "district": "WEST NIMAR",
+            "ifsc": "AUBL0002316",
+            "office": "KHARGONE-RADHA VALLABH MARKET",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6964
+    },
+    {
+        "fields": {
+            "address": "NH 59A NARMADA MARG KANNOD ROAD IN FRONT OF BHARAT PETROL PUMP KHATEGAON 455336",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DEWAS",
+            "district": "DEWAS",
+            "ifsc": "AUBL0002317",
+            "office": "KHATEGAON-NARMADA MARG",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6965
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 82 83 SANSKAR VALLEY PLOT NO 11 WARD NO 10 BELOW YES BANK SECTOR 1 NEAR AU FINANCIERS OFFICE PITHAMPUR 454775",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "AUBL0002318",
+            "office": "PITHAMPUR-SANSKAR VALLEY",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6966
+    },
+    {
+        "fields": {
+            "address": "TARANA HOUSE 34 4 5 6 SHANKU MARG TOWER CHOWK FREE GANJ UJJAIN 456010",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UJJAIN",
+            "district": "UJJAIN",
+            "ifsc": "AUBL0002319",
+            "office": "UJJAIN",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6967
+    },
+    {
+        "fields": {
+            "address": "WARD NO 1 MALGODWN ROAD DHAKARD TRADE CENTER KARGIL CHOHRAYA STATION ROAD ALOTE M P 457114",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RATLAM",
+            "district": "RATLAM",
+            "ifsc": "AUBL0002320",
+            "office": "ALOT-MALGODOWN ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6968
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD NEAR ICICI BANK MANDSAUR 458001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANDSAUR",
+            "district": "MANDSAUR",
+            "ifsc": "AUBL0002321",
+            "office": "MANDSAUR-STATION ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6969
+    },
+    {
+        "fields": {
+            "address": "WARD NO 28 AMBEDKAR ROAD COLONY NO 14 3 PLOT 51 NEAR LIC OFFICE NEEMUCH 458441",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NEEMUCH",
+            "district": "NEEMUCH",
+            "ifsc": "AUBL0002322",
+            "office": "NEEMUCH-AMBEDKAR ROAD COLONY",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6970
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 3 NAZAR BAGH BANK COLONY RATLAM MADHYA PRADESH 457001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RATLAM",
+            "district": "RATLAM",
+            "ifsc": "AUBL0002323",
+            "office": "RATLAM-NAZAR BAGH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6971
+    },
+    {
+        "fields": {
+            "address": "CHOUDHARY COMPLEX GAROTH ROAD SHAMGARH 458883",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANDSAUR",
+            "district": "MANDSAUR",
+            "ifsc": "AUBL0002324",
+            "office": "SHAMGARH-GAROTH ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6972
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 3103 2 PLOT NO 187 188 189 WARD NO 30 CRISTAL HOUSE TIRAHA JAWAHAR ROAD CHHATERPUR M P 471001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHATTARPUR",
+            "district": "CHATTARPUR",
+            "ifsc": "AUBL0002325",
+            "office": "CHHATARPUR-JAWAHAR ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6973
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 107 69 108 69 109 69 107 27 108 27 109 27 107 142 108 142 109 142 SHREE KRISHNA TOWER ADARSH NAGAR PARASIA RD CHHINDWARA 480001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHHINDWARA",
+            "district": "CHHINDWARA",
+            "ifsc": "AUBL0002326",
+            "office": "CHHINDWARA-ADARSH NAGAR PARASIA ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6974
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 6 2 H NO 780 1 DIVERSION PLOT NO 864 DIVERSION SHEET NO 255 WARD NO 3 SWAMI DAYANAND SARASWATI JABALPUR 482001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JABALPUR",
+            "district": "JABALPUR",
+            "ifsc": "AUBL0002327",
+            "office": "JABALPUR-SWAMI DAYANAND SARASWATI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6975
+    },
+    {
+        "fields": {
+            "address": "WARD NO 29 PLOT NO 45 1 NEW 42 JABALPUR ROAD BARGAWN KATNI 483501",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KATNI",
+            "district": "KATNI",
+            "ifsc": "AUBL0002328",
+            "office": "KATNI-JABALPUR ROAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6976
+    },
+    {
+        "fields": {
+            "address": "32 C HEDGEWAR NAGAR IN FRONT OF RADIO COLONY 486001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "REWA",
+            "district": "EA",
+            "ifsc": "AUBL0002329",
+            "office": "REWA-HEDGEWAR NAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6977
+    },
+    {
+        "fields": {
+            "address": "SATNA PLAZA REWA ROAD SATNA 485001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SATNA",
+            "district": "SATNA",
+            "ifsc": "AUBL0002330",
+            "office": "SATNA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6978
+    },
+    {
+        "fields": {
+            "address": "TIKAMGARH KILA KHASRA NO 142 MIN8 142 MIN 19 WARD NO 18 TIKAMGARH 472001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TIKAMGARH",
+            "district": "TIKAMGARH",
+            "ifsc": "AUBL0002331",
+            "office": "TIKAMGARH-TIKAMGARH KILA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6979
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 7 WARD NO 5 DAHSHIN GANGOTRI SUPELA DURG BHILAI 490001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DURG",
+            "district": "DURG",
+            "ifsc": "AUBL0002333",
+            "office": "BHILAI-SUPELA",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6980
+    },
+    {
+        "fields": {
+            "address": "MAUJA TALAPARA PH NO 35 A WARD NO 101 OPP GUMBER PETROL TALAPARA BHARTI NAGAR CHOWK VYAPAR VIHAR ROAD GAYATRI NAGAR BILASPUR 495001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BILASPUR",
+            "district": "BILASPUR",
+            "ifsc": "AUBL0002334",
+            "office": "BILASPUR-GAYATRI NAGAR",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6981
+    },
+    {
+        "fields": {
+            "address": "VIJAY PLAZA BESIDE MENONOTE CHURCH BASTAR ROAD DHAMTARI 493773",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHAMTARI",
+            "district": "DHAMTARI",
+            "ifsc": "AUBL0002335",
+            "office": "DHAMTARI-BASTAR ROAD",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6982
+    },
+    {
+        "fields": {
+            "address": "PLOT 82 INDIRA COMMERCIAL RESIDENTIAL COMPLEX TP NAGAR KORBA 495677",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KORBA",
+            "district": "KORBA",
+            "ifsc": "AUBL0002336",
+            "office": "KORBA-TP NAGAR",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6983
+    },
+    {
+        "fields": {
+            "address": "NEHRU SMARAK CIVILI LINES MANDLA 481661",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANDLA",
+            "district": "MANDLA",
+            "ifsc": "AUBL0002337",
+            "office": "MANDLA-CIVIL LINES",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6984
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 22 SHEET NO 9 NEAR DAGA PETROL PUMP FAFADIH CHOWK RAIPUR 492001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "AUBL0002338",
+            "office": "RAIPUR-FAFADIK CHOWK",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6985
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 16 GROUND FLOOR 5TH FLOOR UNIT NO 21 22 23 40 41 KANAKIA ZILLION JUNCTION OF CTS ROAD LBS MARG KURLA WEST 400070",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "AUBL0002340",
+            "office": "MUMBAI-ANDHERI KURLA ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6986
+    },
+    {
+        "fields": {
+            "address": "CTS NO 637 637 1 2 NEW CTS NO 637A CHANDA WARKAR ROAD BOREVALI MUMBAI 400092",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "AUBL0002341",
+            "office": "MUMBAI-BORIVALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6987
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8 TO 12 GROUND FLOOR MADINA MANZIL BUILDING SV ROAD GEROGOAN WEST MUMBAI 400104",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "AUBL0002342",
+            "office": "MUMBAI-SV ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6988
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 LANDMARK TOWER PUSHPKUNJ COPERATIVE HOUSING SOCIETY OPPOSITE BISHOPS HOUSE VASAI ROAD WEST 401202",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "AUBL0002343",
+            "office": "VASAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6989
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR WHITE HOUSE BELOW HDFC BOISAR TARAPUR ROAD 401501",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "AUBL0002345",
+            "office": "BOISAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6990
+    },
+    {
+        "fields": {
+            "address": "SHOP NO A 1A BUILDING NO 3 HEESA NO 237 3 276 4 276 5 281 CHARMS STAR CTS NO 3434 3433 3431 3430 3427 NEAR FORTIS KALYAN WEST THANE 421301",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "AUBL0002346",
+            "office": "KALYAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6991
+    },
+    {
+        "fields": {
+            "address": "SH 6 RUSHIRAJ HEIGHTS MAHATMA NAGAR NASHIK 422007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "AUBL0002347",
+            "office": "NASHIK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6992
+    },
+    {
+        "fields": {
+            "address": "M S ACE CONSTRUCTIONS ACE AVIANA THANE MUMBAI 400615",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "AUBL0002348",
+            "office": "THANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6993
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND SHOP NO 2 GROUND FLOOR AVDHOOT PLAZA SURVEY NO 279 1 B BARMATI PUNE MAHARASHTRA 413102",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0002349",
+            "office": "BARAMATI BHIGVAN ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6994
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 10 SURVEY NO 8 9 CONSTRUCTED NO 8 3 9 1 1 WING NO B KAUL SPACE OPPOSITE RELIANCE MART KHARADI PUNE 411014",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0002350",
+            "office": "HADAPSAR KHARADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6995
+    },
+    {
+        "fields": {
+            "address": "S NO 292 264 2B 3 SOMVANSHI BUILDING NR CANARA BANK PUNE NASIK HIGHWAY NARAINGAON TAL JUNNAR PUNE 410504",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0002351",
+            "office": "NARAYANGAON PUNE NASIK HIGHWAY",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6996
+    },
+    {
+        "fields": {
+            "address": "Shop No. 102 AND 103, Plot No. 96/2+97, CTS No. 1132, 1133, Old Survey No. 129, New Survey No. 184, Anand Park, Aundh, Pune- 411007",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0002353",
+            "office": "PIMPRI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6997
+    },
+    {
+        "fields": {
+            "address": "Nandadeep Apartment, City Survey No.1195/1, FP No.551/1, Shivajinagar, Near Tukaram Paduka Chowk, FC Road, Pune-411004",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0002354",
+            "office": "PUNE FC ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6998
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 CITY CORNER II MURARJI PETH SARASWATI CHOWK SOLAPUR 413002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "AUBL0002355",
+            "office": "SOLAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 6999
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 101 83 FINAL PLOT NO 101 IN T P SCHEME NO 4 VILLAGE SAVEDI SAIDEEP EXECUTIVE GROUND FLOOR SAVEDI AHMEDNAGAR 414001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AUBL0002356",
+            "office": "AHMEDNAGAR SAVEDI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7000
+    },
+    {
+        "fields": {
+            "address": "SMS ARCADE PLOT 1 2 3 CTS NO 15187 A 1 VIDHYA VIJAYNAGAR SEVENHILLS JALNA ROAD AURANGABAD 431001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "AUBL0002357",
+            "office": "AURANGABAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7001
+    },
+    {
+        "fields": {
+            "address": "LANE NO 6 GANESH PLAZA CITY SURVEY NO 2101 HOUSE NO 386 OPP D Y MAHAYAN HOSPITAL DHULE 422001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "AUBL0002358",
+            "office": "DHULE GANESH PLAZA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7002
+    },
+    {
+        "fields": {
+            "address": "64 JILLHA PETH NEAR LUNKA TOWER JALGAON 425001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "AUBL0002359",
+            "office": "JALGAON JILLHA PETH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7003
+    },
+    {
+        "fields": {
+            "address": "RAJ BUILDING HEAD POST OFFICE OPPOSITE AMBER HOTEL NEAR AXIS BANK SHIVAJI PUTLA JALNA 431203",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "AUBL0002360",
+            "office": "JALNA SHIVAJI PUTLA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7004
+    },
+    {
+        "fields": {
+            "address": "CITY SY 9909 2 DEENESH SALES CORPORATION OPP HAUNMAN MANDIR NEAR WATER TANK BARSHI ROAD LATUR 413513",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "AUBL0002361",
+            "office": "LATUR BARSHI ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7005
+    },
+    {
+        "fields": {
+            "address": "CITY SURVEY NO 3330 SHEET NO 203 GILDA COMPLEX OPP SP OFFICE VAZIBAD NEAR WOODLAND NANDED 131601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "AUBL0002362",
+            "office": "NANDED VAZIBAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7006
+    },
+    {
+        "fields": {
+            "address": "DATTASHILLACOMPLEXOPPFIRSTFLOORMALPANIPLAZAJANTARIYAROADSANGAMNER422605",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AUBL0002363",
+            "office": "SANGAMNER-JANTARIYA ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7007
+    },
+    {
+        "fields": {
+            "address": "CTS NO 1370A 9 FINAL PLOT NO 1180 HOTEL SUNMOON BANDUKGAR SAGAMNER ROAD SHRIRAMPUR AHMADNAGAR MAHARASHTRA 413709",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AUBL0002364",
+            "office": "SHRIRAMPUR-SAGAMNER ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7008
+    },
+    {
+        "fields": {
+            "address": "MADHUMATI VIHAR GROUND FLOOR NECKLACE ROAD RATANLAL PLOT AKOLA 444005",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AUBL0002365",
+            "office": "AKOLA NECKLACE ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7009
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 3 8 SHEET NO 66 66 CAND UPPER GROUND FLOOR SHEWALKAR COMPLEX RAJAPETH CHOWK BADNERA ROAD AMRAWATI 444701",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AMRAWATI",
+            "district": "AMRAWATI",
+            "ifsc": "AUBL0002366",
+            "office": "AMRAVATI RAJAPETH CHOWK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7010
+    },
+    {
+        "fields": {
+            "address": "C O PH AUTOMOBILES OPP POLICE HEADQUATERS CHANDRAPUR 442401",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHANDRAPUR",
+            "district": "CHANDRAPUR",
+            "ifsc": "AUBL0002367",
+            "office": "CHANDRAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7011
+    },
+    {
+        "fields": {
+            "address": "P A MILLS COMPOUND GOVUIND PUR ROAD GONDIA 441601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GONDIA",
+            "district": "GONDIA",
+            "ifsc": "AUBL0002368",
+            "office": "GONDIA GOVIND PUR ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7012
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 4 25 GANDHI GRAIN MARKET CA ROAD TELEPHONE EXCHANGE SQUARE NAGPUR 440008",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "AUBL0002369",
+            "office": "NAGPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7013
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 3 SHEET NO 7 B ABOVE SBI OPP TO SAI MANDIR SAI MANDIR CHOWK WANI YAVATMAL 445304",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "YAVATMAL",
+            "district": "YAVATMAL",
+            "ifsc": "AUBL0002370",
+            "office": "WANI SAI MANDIR CHOWK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7014
+    },
+    {
+        "fields": {
+            "address": "WARD NO 7 NEW 22 OLD HAVING HOUSE NO 228 N0 28 NAZUL SHEET NO 50 PLOT NO 144 BALAJI TOWER GHANDHI NAGAR ARVI ROAD WARDHA 442001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WARDHA",
+            "district": "WARDHA",
+            "ifsc": "AUBL0002371",
+            "office": "WARDHA GANDHI NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7015
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 3 NAZUL SHEET NO 47 A MITTAL AGENCIES OPP TIMBER BHAVAN NEAR SBI SQ DHAMANGAON ROAD YAVATMAL 445001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "YAVATMAL",
+            "district": "YAVATMAL",
+            "ifsc": "AUBL0002372",
+            "office": "YAVATMAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7016
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 4 TAMHANE CHAMBERS VIRESHWAR DARSHN VIRESHWR COLONY CHIPLUN 415605",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "AUBL0002373",
+            "office": "CHIPLUN-TAMHANE CHAMBERS",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7017
+    },
+    {
+        "fields": {
+            "address": "MUNICIPAL HOUSE NO 499 B 3 MUNICIPAL HOUSE NO 499 A 1 OPP PRANT OFFICE KANKAVALI DISTT SINDHUDURG 416602",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SINDHUDURG",
+            "district": "SINDHUDURG",
+            "ifsc": "AUBL0002374",
+            "office": "KANKAVLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7018
+    },
+    {
+        "fields": {
+            "address": "CTS NO 517 SHOP NO 83 84 85 93 94 95 96 GEMSTONE BUILDING VICHARE COMPLEX E WARD NEW SHAHUPURI NEAR CENTRAL BUS STAND KOLAHPUR 416001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "AUBL0002375",
+            "office": "KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7019
+    },
+    {
+        "fields": {
+            "address": "SHOP NO UGF 11 12 VASANTA ARACADE MATRIZ NO 1317 MARGAO CITY SURVEY OFFICE CHALTA NO 96 SHEET NO 214 COMBA BOGTANCHO DANDO 403515",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "GOA",
+            "ifsc": "AUBL0002376",
+            "office": "MARGAO GOA",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7020
+    },
+    {
+        "fields": {
+            "address": "SIDHI VINAYAK RESIDENCY SHOP NO 1 2 B WING AIRPORT ROAD ZAADGAON RATNAGITI 415612",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "AUBL0002377",
+            "office": "RATNAGIRI-SIDHI VINAYAK RESIDENCY",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7021
+    },
+    {
+        "fields": {
+            "address": "City Survey No. 1076, North Shivaji Nagar, College Corner, Opp. Punjab AND Sindh Bank, Sangli-416416",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "AUBL0002378",
+            "office": "SANGLI NORTH SHIVAJI NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7022
+    },
+    {
+        "fields": {
+            "address": "7 12 SURVEY NO 311 20 3 RADHIKA ROAD OPP KANCHAN APARTMENT PARSHWA VAIBHAV PROPERTIES SATARA 415001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "AUBL0002379",
+            "office": "SATARA-RADHIKA ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7023
+    },
+    {
+        "fields": {
+            "address": "KATHURA S 604 MODEL TOWN GURUDWARA SAHIB JALANDHAR 144003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "AUBL0002380",
+            "office": "JALANDHAR-MODEL TOWN",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7024
+    },
+    {
+        "fields": {
+            "address": "2 ARGGLE HOUSE THE MALL ROAD SHIMLA 171001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "AUBL0002381",
+            "office": "SHIMLA-MALL ROAD",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7025
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 538 416 16 529 416 16 528 416 16 KHATA KHATUNI NO 162 166 162 167 FAUJI COMPLEX BANK SAQUARE SAI ROAD MOJA BILLANWALI LABANA TEC BADDI 173205",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SOLAN",
+            "district": "SOLAN",
+            "ifsc": "AUBL0002382",
+            "office": "BADDI-BANK SQUARE SAI ROAD",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7026
+    },
+    {
+        "fields": {
+            "address": "SCO 45 46 SECTOR 8C CHANDIGARH 160008",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "AUBL0002383",
+            "office": "CHANDIGARH-SECTOR C",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7027
+    },
+    {
+        "fields": {
+            "address": "SCF 20 PHASE NO VII SAS NAGAR MOHALI PUNJAB 160059",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SAHIBZADA AJIT SINGH NAGAR",
+            "district": "SAHIBZADA AJIT SINGH NAGAR",
+            "ifsc": "AUBL0002384",
+            "office": "MOHALI-PHASE NO. VII",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7028
+    },
+    {
+        "fields": {
+            "address": "COMMERCIAL PROPERTY SCO NO 8 GROUND FLOOR RAM BAGH NEAR LEELA BHAWAN CHOWK PATIALA 147001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATIALA",
+            "district": "PATIALA",
+            "ifsc": "AUBL0002385",
+            "office": "PATIALA-RAM BAGH",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7029
+    },
+    {
+        "fields": {
+            "address": "GLOBAL ELECTRONICS RAJGARH ROAD SOLAN 173212",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SOLAN",
+            "district": "SOLAN",
+            "ifsc": "AUBL0002386",
+            "office": "SOLAN-RAJGARH ROAD",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7030
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 3710 2496 3714 2497 2 3721 3346 2500 WARD NO 3 KAMLA COMPLEX NEAR VIJAY BANK HAMIRPUR ROAD UNA 174303",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "UNA",
+            "ifsc": "AUBL0002387",
+            "office": "UNA-HAMIRPUR ROAD",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7031
+    },
+    {
+        "fields": {
+            "address": "M C NO B 6 65 MIN MOHALLA TALAAB FARIDKOT 151203",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FARIDKOT",
+            "district": "FARIDKOT",
+            "ifsc": "AUBL0002388",
+            "office": "FARIDKOT-MOHALLA TALAAB",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7032
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO ES 22 22 BAGDADI GATE CIRCULAR ROAD FEROZPUR 152002",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FIROZPUR",
+            "district": "FIROZPUR",
+            "ifsc": "AUBL0002389",
+            "office": "FIROZPUR-CIRCULAR ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7033
+    },
+    {
+        "fields": {
+            "address": "SCHEME NO 11 PREMGARH CHANDIGARH ROAD HOSHIARPUR 146001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HOSHIARPUR",
+            "district": "HOSHIARPUR",
+            "ifsc": "AUBL0002390",
+            "office": "HOSHIARPUR",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7034
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 1 A WARD NO 23 NEAR PANESAR KANDA MUNICIPAL COUNSIL AREA KHANNA 141401",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "AUBL0002391",
+            "office": "KHANNA-MUNICIPAL COUNCIL AREA",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7035
+    },
+    {
+        "fields": {
+            "address": "SCO No- 1-C, Kanal Colony, Karabara, Pakhowal Road, Ludhiana",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "AUBL0002392",
+            "office": "LUDHIANA-PAHOWAL ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7036
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 25 SCHEME NO 3 TRUST STAND MOGA FEROZPUR ROAD VILLAGE MEHLA SINGH TEHSIL MOGA 142001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MOGA",
+            "district": "MOGA",
+            "ifsc": "AUBL0002393",
+            "office": "MOGA-IMPROVEMENT TRUST MARKET",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7037
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 620 0 11 KHEWAT NO 1320 1358 KHATUNI NO 1505 NURMAHAL ROAD NAKODAR 1 H B NO 31 JALANDHAR 144040",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "AUBL0002394",
+            "office": "NAKODAR-NURMAHAL ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7038
+    },
+    {
+        "fields": {
+            "address": "GUJJAR PUR KALAN ADJOINING CENTRAL BANK OF INDIA BANGA ROAD NAWANSHAHR 144514",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHEED BHAGAT SINGH NAGAR",
+            "district": "SHAHEED BHAGAT SINGH NAGAR",
+            "ifsc": "AUBL0002395",
+            "office": "NAWANSHAHR-BANGA ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7039
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 702 KHEWATI NO 1661 KHATONI NO 2277 DURGA COMPLEX STREET NO 9 CIRCULAR ROAD ABOHAR 152116",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FAZILKA",
+            "district": "FAZILKA",
+            "ifsc": "AUBL0002396",
+            "office": "ABOHAR-CIRCULAR ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7040
+    },
+    {
+        "fields": {
+            "address": "C326 NEAR OLD BUS STAND COLLEGE ROAD BARNALA 148101",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARNALA",
+            "district": "BARNALA",
+            "ifsc": "AUBL0002397",
+            "office": "BARNALA-COLLEGE ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7041
+    },
+    {
+        "fields": {
+            "address": "DEEP COMPLEX NEAR HANUMAN CHAOWK GURKASHI MARG BHATINDA 151001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BATHINDA",
+            "district": "BATHINDA",
+            "ifsc": "AUBL0002398",
+            "office": "BATHINDA-GURKASHI MARG",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7042
+    },
+    {
+        "fields": {
+            "address": "PROPERTY NO 41 KHASRA NO 48 23 1 24 SITUATED AT RADHASWAMI COLONY PAINCHAN WALI NEAR PNB BANK TEHSIL FAZILKA PUNJAB 152123",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FAZILKA",
+            "district": "FAZILKA",
+            "ifsc": "AUBL0002399",
+            "office": "FAZILKA-RADHASWAMI COLONY",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7043
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 670 0 17 K K NO 532 1341 WATER WORKS ROAD OPPOSITE MANSA CLUB MANSA PUNJAB 151505",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANSA",
+            "district": "MANSA",
+            "ifsc": "AUBL0002400",
+            "office": "MANSA-WATER WORKS ROAD",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7044
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 2974 103 8 KHEWAT KHATUNI NO 1886 3255 NEW GRAIN MARKET MUKTSAR 152026",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SRI MUKTSAR SAHIB",
+            "district": "SRI MUKTSAR SAHIB",
+            "ifsc": "AUBL0002401",
+            "office": "MUKTSAR-NEW GRAIN MARKET",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7045
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 1988 2 3 0 10 1 4 1988 3 2 0 6 1 4 191 2 3 MIN0 4 1 4 GAUSHALA ROAD OPP GRAIN MARKET SANGRUR PUNJAB 148001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SANGRUR",
+            "district": "SANGRUR",
+            "ifsc": "AUBL0002402",
+            "office": "SANGRUR-GRAIN MARKET",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7046
+    },
+    {
+        "fields": {
+            "address": "GF 5 6 7 NINEX CITY MART SECTOR 49 SOHNA ROAD GURGAON 122101",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "AUBL0002403",
+            "office": "GURGAON-II",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7047
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.6 C-6, HARIKISHAN SOMANI MARG, AJMER ROAD JAIPUR",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002404",
+            "office": "JAIPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7048
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 2131 RAKBA 1.57 JAWANPURA BUS STAND JAWANPURA VIRATNAGAR 303119",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002405",
+            "office": "JAWANPURA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7049
+    },
+    {
+        "fields": {
+            "address": "MAIN BUS STAND THIKARIA WARD NO 11 TEHSIL JAIPUR 303106",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002406",
+            "office": "THEEKARIA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7050
+    },
+    {
+        "fields": {
+            "address": "NEW BUS STAND VILLAGE AND POST PAALDI TEHSIL VIRATNAGAR 303003",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002407",
+            "office": "PAALDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7051
+    },
+    {
+        "fields": {
+            "address": "WARD NO 8 DHANOTA WALON KA MOHALLA VILLAGE HANUTHPURA TEHSIL SHAHPURA 303120",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002408",
+            "office": "HANUTHPURA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7052
+    },
+    {
+        "fields": {
+            "address": "MAIN BUS STAND HATHIDEH 332705",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002409",
+            "office": "HATHIDEH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7053
+    },
+    {
+        "fields": {
+            "address": "MAIN BUS STAND CHHARSA MODE 303120",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002410",
+            "office": "CHHARSA MOD",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7054
+    },
+    {
+        "fields": {
+            "address": "RAIWANA TALWANA SUB TEHSIL NEEMRANA TEHSIL BEHROR ALWAR 301703",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002411",
+            "office": "RAIWANA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7055
+    },
+    {
+        "fields": {
+            "address": "MAIN BUS STAND CHAKWADA 303005",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002412",
+            "office": "CHAKWADA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7056
+    },
+    {
+        "fields": {
+            "address": "NH11 KHURI CHHOTI KHURI BADI RAJASTHAN",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "AUBL0002413",
+            "office": "KHURI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7057
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 304 MAIN BUS STAND VPO GAILPUR TEHSIL TIJARA 301707",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "AUBL0002414",
+            "office": "GAILPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7058
+    },
+    {
+        "fields": {
+            "address": "IN FRONT OF K P AUTOMOTIVEMANGAL BHAWAN N H 8 BIDARA MOD SHAHPURA",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHPURA",
+            "district": "SHAHPURA",
+            "ifsc": "AUBL0002415",
+            "office": "BIDARA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7059
+    },
+    {
+        "fields": {
+            "address": "VILLAGE-FAIZABAD,TEHSIL-NARNAULDISTRICTMAHENDRAGARH HARYANA",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "FAIZABAD",
+            "district": "MAHENDRAGARH",
+            "ifsc": "AUBL0002416",
+            "office": "FAIZABAD",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7060
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE GOVERNMENT HOSPITALNAND,PUSHKAR TEHSIL AJMER -305022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAND",
+            "district": "AJMER",
+            "ifsc": "AUBL0002417",
+            "office": "NAND",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7061
+    },
+    {
+        "fields": {
+            "address": "PIPALIYA ROAD,BUDIWARABARMER,RAJASTHAN-344022",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BUDIWARA",
+            "district": "BARMER",
+            "ifsc": "AUBL0002418",
+            "office": "REHNAL BHIWANDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7062
+    },
+    {
+        "fields": {
+            "address": "SHEVRI DHARAMSHALA,GUMANPURASARDARPUR,DHAR-MP",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUMANPURA",
+            "district": "DHAR",
+            "ifsc": "AUBL0002419",
+            "office": "GUMAN PURA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7063
+    },
+    {
+        "fields": {
+            "address": "4TH FLOOR,PATHERA ROADRAJEPUR,INDRI,KARNAL",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJAPUR",
+            "district": "KARNAL",
+            "ifsc": "AUBL0002420",
+            "office": "RAJAPUR",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7064
+    },
+    {
+        "fields": {
+            "address": "KUMHAO KA BAS,GRAM POST,CHOKRI KALA,CHOKARI KALAN,JODHPUR,RAJASTHAN 342601",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "OHU",
+            "ifsc": "AUBL0002421",
+            "office": "CHOKDI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7065
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR RENWAL ROAD YADAV DHABA KE PASS MAIN BUS STAND PACHKODIYA 303328",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JOBANER",
+            "district": "JAIPUR",
+            "ifsc": "AUBL0002422",
+            "office": "PACHKODIYA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7066
+    },
+    {
+        "fields": {
+            "address": "C/O MITTULAL JAIN KEER KI CHOWKI,BHINDER 313603",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHINDER",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0002423",
+            "office": "KEER KI CHOWKI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7067
+    },
+    {
+        "fields": {
+            "address": "WARD NO.8,JHANWARLAL JI KA MAKAN MATA JI K MANDIR K PASS,SAHAJRASAR,BIKANER 334602",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "LUNKARANSAR",
+            "district": "BIKANER",
+            "ifsc": "AUBL0002424",
+            "office": "SAHAJRASAR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7068
+    },
+    {
+        "fields": {
+            "address": "MAVAL ABU ROAD,SIROHI 307026",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ABU ROAD",
+            "district": "SIROHI",
+            "ifsc": "AUBL0002425",
+            "office": "MAVAL",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7069
+    },
+    {
+        "fields": {
+            "address": "BUS STAND BHUNAS,SAHARA,BHILWARA(DISTRICT ) 311802",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGAPUR",
+            "district": "BHILWARA",
+            "ifsc": "AUBL0002426",
+            "office": "BHUNAS",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7070
+    },
+    {
+        "fields": {
+            "address": "GRAM JAISWAN,POST - KELWARA TEHSIL-KISHANGANJ,DISTRICT BARAN 325216",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARAN",
+            "district": "BARAN",
+            "ifsc": "AUBL0002427",
+            "office": "JAISWAN",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7071
+    },
+    {
+        "fields": {
+            "address": "S/O BHIMA RAM,MANDOLI NAGAR MANDOLI,DISTRICT - JALORE 307803",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHINMAL",
+            "district": "JALORE",
+            "ifsc": "AUBL0002428",
+            "office": "MANDOLI",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7072
+    },
+    {
+        "fields": {
+            "address": "165,BASSI KA BASS,KALWA BARA BORAWAR,NAGAUR,TH.MAKRANA 341502",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KUCHAMAN",
+            "district": "NAGAUR",
+            "ifsc": "AUBL0002429",
+            "office": "KALWA BARA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7073
+    },
+    {
+        "fields": {
+            "address": "VILLAGE& POST JAWASHIYA,TEHSIL - GANGRARA 312901",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGRARA",
+            "district": "CHITTORGARH",
+            "ifsc": "AUBL0002430",
+            "office": "JAWASIYA",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7074
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR KESAV TOWER NEAR BARODA NARSARI OPP PANDIT PARATHA SAVINA MAIN ROAD HIRAN MAGRI SECTOR 8 UDAIPUR RAJASTHAN 313008",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "AUBL0009010",
+            "office": "UDAIPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7075
+    },
+    {
+        "fields": {
+            "address": "3RDFLOORSUNDERVILLAABOVEVODAFONESTORE12THROADCROSSRESIDENCYROADJODHPURRAJASTHAN342001",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "AUBL0009034",
+            "office": "JODHPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7076
+    },
+    {
+        "fields": {
+            "address": "WING 4TH FLOOR OFFICE NO 504 505 506 MEGA CENTER PUNE SOLAPUR ROAD HADAPSAR PUNE MAHARASHTRA 411028",
+            "bank_name": "AU SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AUBL0009116",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 7077
+    }
+]

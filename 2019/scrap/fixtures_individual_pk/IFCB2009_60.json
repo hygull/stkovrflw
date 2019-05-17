@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "NAGARIK BHAVAN NO. 1, DHEBARBHAI ROAD, RAJKOT- 360 001",
+            "bank_name": "RAJKOT NAGRIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "RNSB0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

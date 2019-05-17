@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "13TH FLOOR, HINDUSTAN TIMES HOUSE, 18-20, KG MARG,NEW DELHI - 110001",
+            "bank_name": "SUMITOMO MITSUI BANKING CORPORATION",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SMBC0000001",
+            "office": "RTGS-HO",
+            "phone": "47689111",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131573
+    },
+    {
+        "fields": {
+            "address": "UNIT 601, 6TH FLOOR, PLATINA BUILDING, PLOT NO C-59, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI - 400051",
+            "bank_name": "SUMITOMO MITSUI BANKING CORPORATION",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "SMBC0000002",
+            "office": "MUMBAI",
+            "phone": "62295000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131574
+    }
+]

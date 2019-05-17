@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "201, RAHEJA CENTRE, FREE PRESS, JOURNAL MARG, NARIMAN POINT, MUMBAI 400 021",
+            "bank_name": "OMAN INTERNATIONAL BANK SAOG",
+            "branch": "",
+            "city": "66324848",
+            "district": "MUMBAI",
+            "ifsc": "",
+            "office": "",
+            "phone": "nan",
+            "state": "GREATER MUMBAI "
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 68998
+    }
+]

@@ -1,0 +1,557 @@
+[
+    {
+        "fields": {
+            "address": "NEAR BHARGAVRAM UDYNA (TALYA SHEJARI), NEW KACHERI ROAD, INDAPUR, DIST-PUNE 413106",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "INDAPUR",
+            "district": "PUNE",
+            "ifsc": "BARA0000002",
+            "office": "INDAPUR",
+            "phone": "223277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2367
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD AT POST BHIGWAN TAL. INDAPUR-413105 DIST.PUNE",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BHIGWAN",
+            "district": "PUNE",
+            "ifsc": "BARA0000003",
+            "office": "BHIGWAN",
+            "phone": "246205",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2368
+    },
+    {
+        "fields": {
+            "address": "CITY CENTRE BUILDING, SAHAKAR CHOWK, DAUND, DIST.PUNE413801",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "DAUND",
+            "district": "PUNE",
+            "ifsc": "BARA0000004",
+            "office": "DAUND",
+            "phone": "264959",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2369
+    },
+    {
+        "fields": {
+            "address": "LAXMI APPT. PLOT NO 9 S.NO.170-176,NEAR ELPRO CO CHINCHWAD GAON PUNE-411033",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000005",
+            "office": "CHINCHWAD",
+            "phone": "27450110",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2370
+    },
+    {
+        "fields": {
+            "address": "YUGAL SURYASHAIL, GUJRATH COLONY, NEAR I.D.B.I BANK, PAUD ROAD, KOTHRUD PUNE 411029",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000006",
+            "office": "KOTHRUD",
+            "phone": "25395200",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2371
+    },
+    {
+        "fields": {
+            "address": "SHRINIWAS TOWER, PUNE-SATARA ROAD, DHANKWADI PUNE 411043",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000007",
+            "office": "DHANKAWADI",
+            "phone": "24360966",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2372
+    },
+    {
+        "fields": {
+            "address": "ASHISH PLAZA,BARAMATI NIRA ROAD,NIRA TAL-PURANDHAR 412102,DIST.PUNE",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "NIRA",
+            "district": "PUNE",
+            "ifsc": "BARA0000008",
+            "office": "NIRA",
+            "phone": "242477",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2373
+    },
+    {
+        "fields": {
+            "address": "PRATHMESH HEIGHTS, LAXMINAGER, PHALTAN,DIST-SATARA 415523",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PHALTAN",
+            "district": "SATARA",
+            "ifsc": "BARA0000009",
+            "office": "PHALTAN",
+            "phone": "222777",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2374
+    },
+    {
+        "fields": {
+            "address": "PHULSUNDAR CHOWK, KARMALA DIST-SOLAPUR 413203",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KARMALA",
+            "district": "SOLAPUR",
+            "ifsc": "BARA0000010",
+            "office": "KARMALA",
+            "phone": "220977",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2375
+    },
+    {
+        "fields": {
+            "address": "BAFNA COMPLEX, EAINAPUR ROAD, BARSHI, DIST-SOLAPUR 413401",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BARSHI",
+            "district": "SOLAPUR",
+            "ifsc": "BARA0000011",
+            "office": "BARSHI",
+            "phone": "222089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2376
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.43, ASHOKNAGAR CHANDANNAGER, KHARADI NAGAR ROAD, PUNE 411014",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000012",
+            "office": "PUNE NAGAR ROAD",
+            "phone": "27011937",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2377
+    },
+    {
+        "fields": {
+            "address": "MORANGAONKAR ARIHANT MARKET, SADASHIV PETH, PUNE 411002",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000013",
+            "office": "LAXMI ROAD",
+            "phone": "24455517",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2378
+    },
+    {
+        "fields": {
+            "address": "KRUSHNALILA COMPLEX,GROUND FLOOR,SHOP NO.1,PUNE-SASWAD ROAD,HADPSAR,PUNE-412208",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000014",
+            "office": "HADAPSAR",
+            "phone": "26981866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2379
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 239-A, PLOT NO. 29, SHOP NO.LG-1AND LG-2, SATARA CITY BUSINESS CENTRE, OPP. HOTEL SAGAR DELUXE, RADHIKA ROAD, SATARA 415002",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "BARA0000015",
+            "office": "SATARA",
+            "phone": "237955",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2380
+    },
+    {
+        "fields": {
+            "address": "SAISATYAM HEIGHTS, 27 B BHAWANI PETH, SOLAPUR 413002",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "BARA0000016",
+            "office": "SOLAPUR",
+            "phone": "2729266",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2381
+    },
+    {
+        "fields": {
+            "address": "BHIGWAN ROAD, JALOCHI, BARAMATI, DIST PUNE 413102",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BARAMATI",
+            "district": "PUNE",
+            "ifsc": "BARA0000017",
+            "office": "JALOCHI",
+            "phone": "224865",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2382
+    },
+    {
+        "fields": {
+            "address": "KRUPANIDHI GROUND FLOOR,C.S.NO.805,SANT TUKARAM MARG,TAL-SANGAMNER,DIST.AHEMADNAGAR-422605",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SANGAMNER",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BARA0000018",
+            "office": "SANGAMNER",
+            "phone": "222701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2383
+    },
+    {
+        "fields": {
+            "address": "BARAVKAR CHAMBER,1 FLOOR,PUNE-NASHIK HIGHWAY,AMBETHAN CHOWK,CHAKAN,DIST.PUNE-410501",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000019",
+            "office": "CHAKAN",
+            "phone": "249112",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2384
+    },
+    {
+        "fields": {
+            "address": "RATHOD HEIGHTS, C. S. NO. 6512, SARJEPURA, M. G. ROAD, AHMEDNAGAR. 414001",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BARA0000020",
+            "office": "AHMEDNAGAR",
+            "phone": "2327701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2385
+    },
+    {
+        "fields": {
+            "address": "LOKHANDE COMPLEX, NEAR POST OFFICE SHIRUR-NAGAR ROAD, SHIRUR, DIST.PUNE 412210",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000021",
+            "office": "SHIRUR",
+            "phone": "222266",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2386
+    },
+    {
+        "fields": {
+            "address": "CITY SERVE NO. 44/2/7, ASHIRWAD BUILDING, OPP. RAM MOTORS, NEAR GAYATRI BHEL, NAVI SANGAVI, PUNE. 411027",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000022",
+            "office": "NAVI SANGVI",
+            "phone": "27203088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2387
+    },
+    {
+        "fields": {
+            "address": "BHAMBURDEKAR PLAZA, SERVE NO. 232/1/3 PUNE-NASHIK HIGHWAY, CHANDANI CHOWK, BHOSARI, PUNE. 411039",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000023",
+            "office": "BHOSARI",
+            "phone": "27110016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2388
+    },
+    {
+        "fields": {
+            "address": "FUN TIME CINEMA BUILDING, SINHGAD ROAD, VADGAON BK. 411041",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000024",
+            "office": "SINHGAD ROAD",
+            "phone": "24355155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2389
+    },
+    {
+        "fields": {
+            "address": "C.S. NO. 1031, TARU COMPLEX, BHOI GALLI, SHIRWAL, TAL. KHANDALA, DIST. SATARA 412801",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SHIRWAL",
+            "district": "SATARA",
+            "ifsc": "BARA0000025",
+            "office": "SHIRWAL",
+            "phone": "245244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2390
+    },
+    {
+        "fields": {
+            "address": "BHOSALE PATIL COMPLEX, DAUND-A.NAGAR ROAD, KASHTI, TAL-SHRIGONDA, DIST. A.NAGAR PIN - 414701",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "KASHTI",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BARA0000026",
+            "office": "KASHTI",
+            "phone": "231177",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2391
+    },
+    {
+        "fields": {
+            "address": "ROHIT SAMRUDDHI, MASKARNES COLONY, CITY SURVEY NO. 363, LIMB PHATA CORNER, TALEGAON, TAL. MAWAL, DIST. PUNE 410506",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000027",
+            "office": "TALEGAON",
+            "phone": "222844",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2392
+    },
+    {
+        "fields": {
+            "address": "SR. NO. 143, SWAPNIL PLAZA, SHIVAJI CHOWK, HINJEWADI, TAL.MAWAL, DIST. PUNE 411057",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000028",
+            "office": "HINJEWADI",
+            "phone": "22934646",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2393
+    },
+    {
+        "fields": {
+            "address": "TEMBHURNI KARMALA ROAD, NEAR PUSHPAK MANGAL KARYALAY. TEMBHURNI, TAL.MADHA, DIST. SOLAPUR 413211",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "TEMBHURNI",
+            "district": "SOLAPUR",
+            "ifsc": "BARA0000029",
+            "office": "TEMBHURNI",
+            "phone": "231977",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2394
+    },
+    {
+        "fields": {
+            "address": "SANGALE COMPLEX, 14 CHOWKACHA WADA, SINNER, TAL. SINNER, DIST. NASHIK 422103",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SINNAR",
+            "district": "NASHIK",
+            "ifsc": "BARA0000030",
+            "office": "SINNAR",
+            "phone": "222666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2395
+    },
+    {
+        "fields": {
+            "address": "C.S. NO. 1001, TEKAWADE BUILDING, SHIVAJI ROAD, SHRIRAMPUR, DIST. AHEMADNAGAR 413709",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SHRIRAMPUR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BARA0000031",
+            "office": "SHRIRAMPUR",
+            "phone": "9922444204",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2396
+    },
+    {
+        "fields": {
+            "address": "GAT NO. 737/2/B/1/A, KOKATE BUILDING, MOHOL, DIST. SOLAPUR 413213",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "MOHOL",
+            "district": "SOLAPUR",
+            "ifsc": "BARA0000032",
+            "office": "MOHOL",
+            "phone": "9890830879",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2397
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 161, SHOP NO.1, SHRI SAHAYA CLASSIC BUILDING, MCCH, PANVEL, DIST. RAIGAD 410206",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "BARA0000033",
+            "office": "PANVEL",
+            "phone": "9922444181",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2398
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 66, RAJE AMARSINH COLONY, MALEGAON BK. TAL.BARAMATI, DIST.PUNE 413115",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BARAMATI",
+            "district": "PUNE",
+            "ifsc": "BARA0000034",
+            "office": "MALEGAON BK",
+            "phone": "9822870567",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2399
+    },
+    {
+        "fields": {
+            "address": "C.S.NO. 12/2/4/2, SHIV COMPLEX, KONDHVA BK. PUNE 48",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BARA0000035",
+            "office": "KONDHAWA",
+            "phone": "9922911370",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2400
+    },
+    {
+        "fields": {
+            "address": "C.S.NO. 922, SAYALI COMPLEX, WAI, TAL. WAI, DIST. SATARA 412803",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "WAI",
+            "district": "SATARA",
+            "ifsc": "BARA0000036",
+            "office": "WAI",
+            "phone": "9922444209",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2401
+    },
+    {
+        "fields": {
+            "address": "BHIGWAN CHOWK, BARAMATI, DIST PUNE 413102",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BARAMATI",
+            "district": "PUNE",
+            "ifsc": "BARA0000100",
+            "office": "BARAMATI",
+            "phone": "227701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2402
+    },
+    {
+        "fields": {
+            "address": "TEXTILE PARK SHOPPING CENTER, MIDC, BARAMATI, DIST. PUNE 413102",
+            "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "BARAMATI",
+            "district": "PUNE",
+            "ifsc": "BARA0000101",
+            "office": "TEXTILE PARK",
+            "phone": "244254",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2403
+    }
+]

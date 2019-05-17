@@ -1,0 +1,2057 @@
+[
+    {
+        "fields": {
+            "address": "SHREE SAWAM KNOWLEDGE PARK,PLOT NO D 507, SECOND FLOOR, MIDC TURBHE NAVI MUMBAI 400705",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "FINO0000001",
+            "office": "JUINAGAR",
+            "phone": "71047054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1131
+    },
+    {
+        "fields": {
+            "address": "SHOP N.15& 25,GROUND FLOOR,ISTIYAK COMPLEX,S.NO.54,H.NO.D,VILLAGE SATIVALI,VASAI EAST,THANE-400 208",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "THANA",
+            "district": "THANA",
+            "ifsc": "FINO0001001",
+            "office": "SATIVALI",
+            "phone": "7045695400",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1132
+    },
+    {
+        "fields": {
+            "address": "34/2,KHANPUR DEVLI ROAD,NEW DELHI-110062",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NORTH WEST DELHI",
+            "district": "NORTH WEST DELHI",
+            "ifsc": "FINO0001002",
+            "office": "DEVLI",
+            "phone": "9210828074",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1133
+    },
+    {
+        "fields": {
+            "address": "H NO 2-058/11,PORTION NO 13,FRONT SIDE,OPP NARAYAN HRUDALAYA HOSPITAL,SURARAM,RANGAREDDY,TELANGANA-501401",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "RANGAREDDI",
+            "district": "RANGAREDDI",
+            "ifsc": "FINO0001005",
+            "office": "SURARAM",
+            "phone": "9949050744",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1134
+    },
+    {
+        "fields": {
+            "address": "F 12,ALISHAN COMPLEX,NH ROAD,DANILIMBDA,AHMEDABAD -380043",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "FINO0001008",
+            "office": "DANILIMBDA",
+            "phone": "7069013958",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1135
+    },
+    {
+        "fields": {
+            "address": "ASHIRWAD NIVAS,NEAR ICICI BANK,DHOKI ROAD,KALAMB 413507",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001010",
+            "office": "KALAMB",
+            "phone": "9850412704",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1136
+    },
+    {
+        "fields": {
+            "address": "MILL ROAD,KHAGARIA,DIST -KHAGARIA,BIHAR -841204",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KHAGARIA",
+            "district": "KHAGARIA",
+            "ifsc": "FINO0001012",
+            "office": "LABHGAON",
+            "phone": "9708681922",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1137
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD DIGHWARA BUS STAND,FRONT OF BOI,DIGHARA,DIST -SARAN,BIHAR -841207",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SARAN",
+            "district": "SARAN",
+            "ifsc": "FINO0001023",
+            "office": "DIGHWARA",
+            "phone": "9835421803",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1138
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-201,SILVER POINT,PLOT NO-42/2,GIDC,UMBERGAON,VALSAD-396130",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VALSAD",
+            "district": "VALSAD",
+            "ifsc": "FINO0001024",
+            "office": "UMBERGAON GIDC",
+            "phone": "9687631267",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1139
+    },
+    {
+        "fields": {
+            "address": "48-303,SHOP NO 6,OPP.HDFC BANK,GANESH NAGAR,CHINTAL - 500054",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "FINO0001025",
+            "office": "CHINTAL",
+            "phone": "9951591504",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1140
+    },
+    {
+        "fields": {
+            "address": "1-23-113,PLOT NO.2,SHREE NILAYAM,BHOODEVI NAGAR,ALWAL,SECUNDARABAD -500015",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "FINO0001028",
+            "office": "ALWAL",
+            "phone": "9502744735",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1141
+    },
+    {
+        "fields": {
+            "address": "SRT 311,7-2-532,I H COLONY,SANATHNAGAR,HYDERABAD -500018",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "FINO0001029",
+            "office": "SANATHNAGAR",
+            "phone": "9866621202",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1142
+    },
+    {
+        "fields": {
+            "address": "SAKINABAI CHAWL,S.V.ROAD,ABOVE GOODWILLMOTER STORE,AMBAWADI,DAHISAREAST",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001042",
+            "office": "AMBAWADI",
+            "phone": "8097349650",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1143
+    },
+    {
+        "fields": {
+            "address": "SANT KUTEER NAGAR NIGAM ROAD,  SANGANEER BAZAAR, JAIPUR 302029",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGANEER",
+            "district": "SANGANEER",
+            "ifsc": "FINO0001043",
+            "office": "SANGANEER",
+            "phone": "9928873757",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1144
+    },
+    {
+        "fields": {
+            "address": "H.NO.136,SHOP NO.2,ABOVE PUNJABI DHABHA,CBA COMPLEX,NEAR SALARPUR GATE NO.1,DADRI ROAD,BHANGEL-NOIDA,NOIDA-201301",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GAUTAM BUDDHA NAGAR",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "FINO0001044",
+            "office": "BHANGEL",
+            "phone": "9643331694",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1145
+    },
+    {
+        "fields": {
+            "address": "SHOP PREMISES NO.2,NAVDEEP CHS,OPP.MALHAR ARCADE,NEAR VIMAL DAIRY,BHAYANDAR TAL.BHAYNADAR& DIST.THANE -401105",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "THANA",
+            "district": "THANA",
+            "ifsc": "FINO0001045",
+            "office": "BHAYANDER",
+            "phone": "9930902568",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1146
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.03,GROUND FLOOR,DASHRATH APARTMENT,OPP.DATTA MANDIR,KALYAN PHATA,DIAGHAR ROAD,POST.PADLE,TQ. & DIST.THANE-421204",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "THANA",
+            "district": "THANA",
+            "ifsc": "FINO0001046",
+            "office": "KALYAN PHATA",
+            "phone": "8551993877",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1147
+    },
+    {
+        "fields": {
+            "address": "S.NO.100,RC 1,SHOP NO.2,NEAR SBI BANK,AKURDI,PUNE-411035",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "FINO0001047",
+            "office": "MIDC CHINCHWAD",
+            "phone": "9403427082",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1148
+    },
+    {
+        "fields": {
+            "address": "THANA ROAD,AT PO&PS PAROO,DIST -MUZAFFARPUR,BIHAR -843112",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUZAFFARPUR",
+            "district": "MUZAFFARPUR",
+            "ifsc": "FINO0001048",
+            "office": "PAROO",
+            "phone": "9507087089",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1149
+    },
+    {
+        "fields": {
+            "address": "C/O HOUSE NO2059,FATTESINGH CHOWK,NEAR IDBI BANK,MAIN ROAD AKKALKOT 413216",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001051",
+            "office": "AKKALKOT",
+            "phone": "7588386072",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1150
+    },
+    {
+        "fields": {
+            "address": "BORAVADE,MAIN CIRCLE,BEHIND HOTEL,JANATA MUDHALTITTA,MUDHALTITTA,PANCHGAON BORAVADE BO",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001052",
+            "office": "MUDHALTITTA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1151
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.12,VILLAGE MUKANDPUR,ADARSH PARK,DELHI-42",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NORTH DELHI",
+            "district": "NORTH DELHI",
+            "ifsc": "FINO0001057",
+            "office": "MUKUNDPUR",
+            "phone": "8447430746",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1152
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.A-17,YOJNA PURI COLONY,RAJASTHAN AWASAN MANDAL,BHIWADI,TEHSIL TIJARA,DISTT.ALWAR,RAJASTHAN",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "FINO0001060",
+            "office": "BHIWADI",
+            "phone": "9509412150",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1153
+    },
+    {
+        "fields": {
+            "address": "UBI BUILDING GROUND FLOOR KALI CHAK BEGUSARAI 851101",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BEGUSARAI",
+            "district": "BEGUSARAI",
+            "ifsc": "FINO0001061",
+            "office": "BEGUSARAI",
+            "phone": "9570044325",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1154
+    },
+    {
+        "fields": {
+            "address": "AT POST BAMBAWADE DIST KOLHAPUR,NEAR BUS STAND AND POLICE STATION,MAHARASHTRA 416213",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001067",
+            "office": "BAMBAVADE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1155
+    },
+    {
+        "fields": {
+            "address": "778 2 3 1,TRIMURTI COLONY,KALAMBA KOLHAPUR 416007",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001068",
+            "office": "PANCHGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1156
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.19,RAJENDRA PARK,NANGLOI,DELHI-110041",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "WEST DELHI",
+            "district": "WEST DELHI",
+            "ifsc": "FINO0001072",
+            "office": "NANGLOI",
+            "phone": "8447437374",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1157
+    },
+    {
+        "fields": {
+            "address": "H.NO.2217/14,WARD NO-5,DOCTOR KAUSHIK GALI,JAWAHAR COLONY,N.I.T,FARIDABAD,SECTOR 22,HARYANA-121005",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "FINO0001076",
+            "office": "DABUA COLONY",
+            "phone": "9810150043",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1158
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-1-17B,G/F DEV NAGAR KAROL BAGH-110005",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "CENTRAL DELHI",
+            "district": "CENTRAL DELHI",
+            "ifsc": "FINO0001086",
+            "office": "KAROL BAGH",
+            "phone": "9654163537",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1159
+    },
+    {
+        "fields": {
+            "address": "H NO 70, G , F, JASOLA VILLAGE, NEAR JAMIA COPERATIVE, NEW DELHI  110025",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "FINO0001089",
+            "office": "JASOLA VILLAGE",
+            "phone": "9716082250",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1160
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.B 321/1,NEAR GREEN SWEETS,NANDGRAM,GHAZIABAD,UP-201005",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "FINO0001091",
+            "office": "NANDGRAM",
+            "phone": "8802985613",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1161
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.623/10,GR.FLOOR,BHIM NAGARROAD,GURGAON,HARYANA - 122001",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "FINO0001093",
+            "office": "BHIM NAGAR",
+            "phone": "7053006989",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1162
+    },
+    {
+        "fields": {
+            "address": "GANDHI CHOWK,MALSHIRAS ROAD,FRONT OF BHARAT PETROL PUMP,AKLUJ 413101",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001097",
+            "office": "AKLUJ",
+            "phone": "8208051285",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1163
+    },
+    {
+        "fields": {
+            "address": "SHOP NO -4,SAI PALACE,NEXT TO OSWAL NAGAI TULINJ,NALASOPARA E -401209",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001100",
+            "office": "NALLASOPARA E PRAGATI NAGAR",
+            "phone": "8983618276",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1164
+    },
+    {
+        "fields": {
+            "address": "C-1254,GR FLOOR,JJ COLONY,MADANPUR KHADAR ROAD,DELHI",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOUTH DELHI",
+            "district": "SOUTH DELHI",
+            "ifsc": "FINO0001107",
+            "office": "MADANPUR KHADAR",
+            "phone": "8800512358",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1165
+    },
+    {
+        "fields": {
+            "address": "TIRLOKPUR ROAD,KALA AMB,AMBALA,HARYANA -133001",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NARAINGARH",
+            "district": "NARAINGARH",
+            "ifsc": "FINO0001108",
+            "office": "KALA AMB",
+            "phone": "8352982985",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1166
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 16,THAKUR GODASE BLD,ALANDI,TAL.KHAD,PUNE -410501",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "FINO0001109",
+            "office": "ALANDI",
+            "phone": "8055144544",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1167
+    },
+    {
+        "fields": {
+            "address": "PLOT NO-12,S.NO.495,RAJA KARMACHARI,ASHOK NAGAR,SATPUR,NASHIK -422007",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "FINO0001111",
+            "office": "ASHOK NAGAR",
+            "phone": "9146787852",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1168
+    },
+    {
+        "fields": {
+            "address": "D.NO.66-1-1A,PLOT NO 32C/396,WARD NO 27A,SIVALAYAM STREET,NTR CIRCLE,PATAMATA,KRISHNA DIST.VIJAYWADA,AP -520010",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VIJAYWADA",
+            "district": "VIJAYWADA",
+            "ifsc": "FINO0001112",
+            "office": "AUTO NAGAR",
+            "phone": "8520048256",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1169
+    },
+    {
+        "fields": {
+            "address": "WARD 3,SERAJ MANJRE,TEH BADDI DISTT.SOLAN,HP -173205",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAN",
+            "district": "SOLAN",
+            "ifsc": "FINO0001113",
+            "office": "BADDI",
+            "phone": "7831889070",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1170
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,PAGARE NIWAS,PIPE LINE,TULSHEET PADA ROAD,BHANDUP W -400078",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001115",
+            "office": "BHANDUP W PAGARE NIWAS",
+            "phone": "9890179851",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1171
+    },
+    {
+        "fields": {
+            "address": "NO.4/2,W.NO.12,HOSUR MAIN ROAD,BOMMANAHALLI,BANGALORE -560068",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "FINO0001116",
+            "office": "BOMANNAHALLI",
+            "phone": "9966689497",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1172
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1784/45,R K COMPLEX PALSANA,CHAR RASTA,PALSANA,SURAT -394327",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "FINO0001118",
+            "office": "CHAR RASTA",
+            "phone": "9978865765",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1173
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 22,GR.FLOOR,SAI NARAYAN COMPLEX,BLOCK NO.695,AT& PO-DAHEJ,TA VAGARA,BHARUCH -392130",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BHARUCH",
+            "district": "BHARUCH",
+            "ifsc": "FINO0001122",
+            "office": "DAHEJ",
+            "phone": "9574172797",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1174
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-42,GOLD FIELD PLAZA,SION BANDRA LINK ROAD,DHARAVI,MUMBAI - 400017",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001125",
+            "office": "DHARAVI",
+            "phone": "8291958145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1175
+    },
+    {
+        "fields": {
+            "address": "MEGHNA AMPAYAR,G.F SHOP NO.15,GADKHOL,TAL-ANKLESHWAR,DIST-BHARUCH,GUJRAT-393001",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "ANKLESHWAR",
+            "district": "ANKLESHWAR",
+            "ifsc": "FINO0001128",
+            "office": "GADKHOL PATIYA ANKLESSHWAR",
+            "phone": "9727118778",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1176
+    },
+    {
+        "fields": {
+            "address": "X/25006 RAGHUVARPURA NO 2,GHANDHI NAGAR - 110031",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "EAST DELHI",
+            "district": "EAST DELHI",
+            "ifsc": "FINO0001129",
+            "office": "GANDHI NAGAR",
+            "phone": "7042793001",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1177
+    },
+    {
+        "fields": {
+            "address": "SVA ROAD,NEAR SVA CHOWK,VILLAGE GIASPURA TEHSIL& DISTT.LUDHIANA-141010",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "FINO0001131",
+            "office": "GIASPURA",
+            "phone": "9115990402",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1178
+    },
+    {
+        "fields": {
+            "address": "1321/2,GR.FLR,GANESH NAGAR ROAD,OPP GANESH MANDIR,JANAKPURI TEHSIL AND DISTT.LUDHIANA,PUNJAB - 141003",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "FINO0001138",
+            "office": "JANAKPURI",
+            "phone": "9988695983",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1179
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,GR.FLOOR,IQBAL SUPER MARKET,BRINDAVN GARDEN VILLAGE,0PP AARADHNA CHOWK,PASONDA PARGNA LONI TEHSIL& DIST GHAZIABAD,UP-201005",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "FINO0001139",
+            "office": "JANAKPURI - SAHIBABAD",
+            "phone": "8802886253",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1180
+    },
+    {
+        "fields": {
+            "address": "UNIT NO F-TYPE,SHOP NO 27,SECTOR 4EA,KALAMBOLI,NAVI MUMBAI,MAHARASHTRA",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "RAIGAD",
+            "district": "RAIGAD",
+            "ifsc": "FINO0001141",
+            "office": "KALAMBOLI",
+            "phone": "7045955806",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1181
+    },
+    {
+        "fields": {
+            "address": "1652 A/15,GOVINDPURI,KALKAJI,NEW DELHI-110019",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOUTH DELHI",
+            "district": "SOUTH DELHI",
+            "ifsc": "FINO0001142",
+            "office": "GOVINDPURI KALKAJI",
+            "phone": "8130899799",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1182
+    },
+    {
+        "fields": {
+            "address": "SHOP NO9 GROUND FLOOR,ROOP SANGAM COOPERATIVE 400605",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "FINO0001143",
+            "office": "KALWA W",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1183
+    },
+    {
+        "fields": {
+            "address": "GATE NO.2912,TAL-KHED,DIST-PUNE,KHARABWADI -410505",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "FINO0001146",
+            "office": "KHARABWADI",
+            "phone": "8291958252",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1184
+    },
+    {
+        "fields": {
+            "address": "A-10/1,GROUND FLOOR,DEEPAK VIHAR,KHORA ROAD,NOIDA,UP -201008",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "NOIDA",
+            "ifsc": "FINO0001147",
+            "office": "KHORA COLONY",
+            "phone": "9990263971",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1185
+    },
+    {
+        "fields": {
+            "address": "PLOT NO - 11,NAVANAGAR,LIMBAYAT,DINDOLI,SURAT -394210",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "FINO0001150",
+            "office": "LIMBAYAT",
+            "phone": "9638695703",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1186
+    },
+    {
+        "fields": {
+            "address": "KHASHRA NO-103 VILL MANDOLI DELHI-110093",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "FINO0001156",
+            "office": "MANDOLI",
+            "phone": "9650221774",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1187
+    },
+    {
+        "fields": {
+            "address": "CEN 676,PLOT B 5,LANE - 5,MATANG,RUSHI NAGAR,G M LINK ROAD,MANKHURD-400073",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001157",
+            "office": "MANKHURD",
+            "phone": "9920392107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1188
+    },
+    {
+        "fields": {
+            "address": "HOTEL LAKEVIEW,NAROL CIRCLE,NAROL,AHMEDABAD -382405",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "FINO0001165",
+            "office": "NAROL",
+            "phone": "9712852020",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1189
+    },
+    {
+        "fields": {
+            "address": "B-24-3379/2 MAIN ROAD GALI NO 15,NEW MADHAVPURI LUDHIANA -141008",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "FINO0001167",
+            "office": "NEW MADHOPURI",
+            "phone": "9357131132",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1190
+    },
+    {
+        "fields": {
+            "address": "SHOP-4,A WING,KARVEER NAGAR CO-OPERATIVE HOUSING SOCITETY LTD,RAWALPADA,S.N.DUBEY ROAD,DAHISAR E-400068",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001177",
+            "office": "RAWALPADA",
+            "phone": "8976369060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1191
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 47,TALANGPUR ROAD,G.I.D.C.SACHIN,SURAT -394520",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "FINO0001179",
+            "office": "SACHIN GIDC",
+            "phone": "7069092674",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1192
+    },
+    {
+        "fields": {
+            "address": "RZ G-48-A F/F POLE NO 329,WEST SAGAR PUR,NEW DELHI 110046",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOUTH WEST DELHI",
+            "district": "SOUTH WEST DELHI",
+            "ifsc": "FINO0001180",
+            "office": "SAGARPUR",
+            "phone": "9311298790",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1193
+    },
+    {
+        "fields": {
+            "address": "ROOM NO.1,BUILDING NAME PLOT NO.12/Q/1,BLOCK,SECTOR GOVANDI,ROAD NEAR SHIV SENA OFFICE,GOVANDI,MUMBAI,MAHARASHTRA,400043",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0001183",
+            "office": "BAIGANWADI SHIVAJI NAGAR",
+            "phone": "9821654482",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1194
+    },
+    {
+        "fields": {
+            "address": "VAKIA RABADI,MAHAKALI NAGAR,SAIPUR,SODAL ROAD,JALAHANDAR-144004",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "FINO0001185",
+            "office": "SODAL ROAD",
+            "phone": "9878445550",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1195
+    },
+    {
+        "fields": {
+            "address": "H.NO.4-32-990,PLOT NO.A/412,GROUND FLOOR,1ST PHASE ROAD,ALWYAN COLONY,JAGATGIRIGUTTA,KUKATAPALLY VILLAGE,BALA NAGAR MANDAL,HYDERABAD-500071",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "FINO0001192",
+            "office": "VIVEKANANDA NAGAR",
+            "phone": "7097525814",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1196
+    },
+    {
+        "fields": {
+            "address": "SHRIKRISHNA BLD,OPP.BANK OF BARODA,WADKHAL,TAL - PEN,RAIGAD -402107",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "FINO0001193",
+            "office": "WADKHAL",
+            "phone": "9421726103",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1197
+    },
+    {
+        "fields": {
+            "address": "H.NO 5/1,BLOCK -C,WAZIRPUR IND AREA,DELHI - 110052",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "NORTH WEST DELHI",
+            "district": "NORTH WEST DELHI",
+            "ifsc": "FINO0001196",
+            "office": "WAZIRPUR",
+            "phone": "8882581272",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1198
+    },
+    {
+        "fields": {
+            "address": "KHAJURI ROAD,NEAR YAMUNA BHARAMANKANT,YAMUNAGAGAR,HARYANA -135001",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "YAMUNANAGAR",
+            "district": "YAMUNANAGAR",
+            "ifsc": "FINO0001198",
+            "office": "YAMUNANAGAR",
+            "phone": "9034211624",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1199
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD,DIGHI KALA,HAJIPUR,VAISHALI,BIHAR -844101",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VAISHALI",
+            "district": "VAISHALI",
+            "ifsc": "FINO0001200",
+            "office": "HAJIPUR",
+            "phone": "9263496285",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1200
+    },
+    {
+        "fields": {
+            "address": "19 110111 PRATIK PLAZA,KOLHAPUR ROAD,ICHALKARANJI 416115",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001202",
+            "office": "ICHALKARANJI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1201
+    },
+    {
+        "fields": {
+            "address": "UBI BUILDING,HOSPITAL CHOWK,IN FRONT OF SADAR HOSPITAL,STATION ROAD,GAPALGANJ BIHAR -841428",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GOPALGANJ",
+            "district": "GOPALGANJ",
+            "ifsc": "FINO0001207",
+            "office": "GOPALGANJ",
+            "phone": "8882226582",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1202
+    },
+    {
+        "fields": {
+            "address": "OLD BUS STAND,MAIN ROAD,TER,DIST-OSMANABAD,MAH-413509",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001216",
+            "office": "OSMANABAD TER",
+            "phone": "9922687785",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1203
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,NEAR KAZI MEDICAL AND GENERAL STORES,NALDURGA,TAL.TULJAPUR& DIST.OSMANABAD,MAHARASHTRA -413602",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001218",
+            "office": "NALDURGA",
+            "phone": "9665808571",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1204
+    },
+    {
+        "fields": {
+            "address": "RAJENDRA ROAD,BARAUNI,DIST -BEGUSARAI,BIHAR -851112",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BEGUSARAI",
+            "district": "BEGUSARAI",
+            "ifsc": "FINO0001219",
+            "office": "BARAUNI",
+            "phone": "7631937430",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1205
+    },
+    {
+        "fields": {
+            "address": "BAJITPUR STATION ROAD,  BARH BIHAR 803214",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001220",
+            "office": "BARH",
+            "phone": "8294166163",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1206
+    },
+    {
+        "fields": {
+            "address": "PETHIYA BAZAR,NEAR DURGA ASTHAN,PHULWARI SHARIF,DANAPUR,DIST -PATNA,BIHAR -801505",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001222",
+            "office": "DANAPUR",
+            "phone": "8287417213",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1207
+    },
+    {
+        "fields": {
+            "address": "ARYA SAMAJ ROAD,BIHTA,BIHAR -801103",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001223",
+            "office": "BIHTA",
+            "phone": "7004182207",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1208
+    },
+    {
+        "fields": {
+            "address": "GANJBAZAR,MUSTFAGANJ,MINAPUR,DIST -MUZAFFARPUR,BIHAR -843128",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUZAFFARPUR",
+            "district": "MUZAFFARPUR",
+            "ifsc": "FINO0001226",
+            "office": "GANJBAZAR",
+            "phone": "8416882768",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1209
+    },
+    {
+        "fields": {
+            "address": "G08 G09 GROUND FLOOR,COMMERCIAL BUILDING NO1 OPP BUS STAND,VIRAJ CITY KAGAL 416216",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KAGAL",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001230",
+            "office": "KAGAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1210
+    },
+    {
+        "fields": {
+            "address": "PACHHIM MOHALLA,MIRGANJ,PS -UCHAKAGAON,DIST -GOPALGANJ,BIHAR -841207",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "GOPALGANJ",
+            "district": "GOPALGANJ",
+            "ifsc": "FINO0001231",
+            "office": "MIRGANJ",
+            "phone": "9931750849",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1211
+    },
+    {
+        "fields": {
+            "address": "GOSALA ROAD,MOKAMA,BIHAR -803302",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001234",
+            "office": "MOKAMA",
+            "phone": "7050728018",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1212
+    },
+    {
+        "fields": {
+            "address": "MORE BUILDING,NEAR ST STAND,AT-POST-MALGAON,TAL-MIRAJ,DIST-SANGLI,MAHARASHTRA-416407",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001240",
+            "office": "MIRAJ MALGAON",
+            "phone": "9730139797",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1213
+    },
+    {
+        "fields": {
+            "address": "H.N.2894,NEAR ICICI BANK,PARDI ROAD,BHOOM 413504",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001253",
+            "office": "BHOOM",
+            "phone": "9881322489",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1214
+    },
+    {
+        "fields": {
+            "address": "VISHWAYUG COMPLEX,BAZAR CHOWK,NEAR BHAJI MANDAI,MANGALWEDHA,DIST-PANDHARPUR,MAHARASHTRA-413305",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001256",
+            "office": "MANGALWEDHA",
+            "phone": "8788997461",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1215
+    },
+    {
+        "fields": {
+            "address": "SHANPE HOUSE,SHIVAJI CHOUK,KURUDWADI 413208",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001257",
+            "office": "BARSHI KURDWADI",
+            "phone": "9765794442",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1216
+    },
+    {
+        "fields": {
+            "address": "1284 MAJULA BUILDING,MAIN ROAD KASBA BAWDA,KADAMWADI KOLHAPUR 416006",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001269",
+            "office": "KADAMWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1217
+    },
+    {
+        "fields": {
+            "address": "PATEL SCHOOL ROAD,MAHESHKHUNT,BIHAR -851213",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KHAGARIA",
+            "district": "KHAGARIA",
+            "ifsc": "FINO0001273",
+            "office": "MAHESHKHUNT",
+            "phone": "8051941851",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1218
+    },
+    {
+        "fields": {
+            "address": "KARAD RD,NEAR MUKTANGAN VACHANALAYA,PANDURANG COMPLEX,VITA,MAH-415311",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001281",
+            "office": "KHANAPUR VITA",
+            "phone": "8412844161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1219
+    },
+    {
+        "fields": {
+            "address": "C.S.NO.10389,P.NO.35/1D,70 VEGETABLE MARKET ROAD,SOLAPUR-413006",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001283",
+            "office": "SOLAPUR NORTH SOLAPUR",
+            "phone": "9767634387",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1220
+    },
+    {
+        "fields": {
+            "address": "KRANTIVIR COMPLEX,KALA MARUTI MANDIR ROAD,BEHIND TAJMAHAL TALKIES,OSMANABAD 413501",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001284",
+            "office": "OSMANABAD",
+            "phone": "9970990188",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1221
+    },
+    {
+        "fields": {
+            "address": "NEAR KALI MANDIR,MAIN CHOWK,BAHERI,DIST -MUZAFFARPUR,BIHAR -847105",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "DARBHANGA",
+            "district": "DARBHANGA",
+            "ifsc": "FINO0001289",
+            "office": "BAHERI",
+            "phone": "9771032823",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1222
+    },
+    {
+        "fields": {
+            "address": "C/O JANTA HOMEO HALL,STATION ROAD,BAKITIYARPUR,PATNA,BIHAR -803212",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001290",
+            "office": "BAKHTIYARPUR",
+            "phone": "8271331474",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1223
+    },
+    {
+        "fields": {
+            "address": "BEED PAREL ROAD,NEAR BUS STAND,KAIJ,MAH-431123",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001291",
+            "office": "KAIJ",
+            "phone": "8421647278",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1224
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,SHOP NO-09,KALASH PRIDE,NEAR WAI BANK,MALKAPUR,TAL-KARAD,MAH - 415110",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "FINO0001292",
+            "office": "MALKAPUR",
+            "phone": "9860555968",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1225
+    },
+    {
+        "fields": {
+            "address": "NEAR DARGHA ROAD,NEEM CHAWK,TAJPUR,SAMASTIPUR,BIHAR -848130",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SAMASTIPUR",
+            "district": "SAMASTIPUR",
+            "ifsc": "FINO0001293",
+            "office": "TAJPUR",
+            "phone": "7250811491",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1226
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.16,WARD NO.14,PATANGE RD,NEAR POST OFFICE,UMARGA-413606",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001296",
+            "office": "UMARGA",
+            "phone": "8805797737",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1227
+    },
+    {
+        "fields": {
+            "address": "SHOP 5,6,7,8,23/1,SAUTH KASABA LAXMI MARKET,SOLAPUR 413305",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001297",
+            "office": "SOLAPUR LAXMI MARKET",
+            "phone": "9096483000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1228
+    },
+    {
+        "fields": {
+            "address": "UNITED TRADING COMPANY,OPP ELECTRIC OFFICE,PADARI KI HAWELI,PATNA CITY-800008",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001298",
+            "office": "PATNA CITY",
+            "phone": "7992387590",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1229
+    },
+    {
+        "fields": {
+            "address": "BADI MASZID,SATYADEV GANJ,MAIN ROAD BUXAR,BIHAR PIN -802101",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BUXAR",
+            "district": "BUXAR",
+            "ifsc": "FINO0001299",
+            "office": "BUXAR",
+            "phone": "8507765211",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1230
+    },
+    {
+        "fields": {
+            "address": "VISWAPRIYA BLDG,OPP.BANK OF INDIA,TASGAON,MAH-416312",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001302",
+            "office": "TASGAON",
+            "phone": "9860681945",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1231
+    },
+    {
+        "fields": {
+            "address": "SARKARI BAZAR,TULSI GALI,CHHAPRA -841301",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SARAN",
+            "district": "SARAN",
+            "ifsc": "FINO0001306",
+            "office": "CHHAPARA",
+            "phone": "9308084616",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1232
+    },
+    {
+        "fields": {
+            "address": "KUER COMPLEX,GHAT NAWADA,DALSINGHSARAI,DIST -SAMASTIPUR,BIHAR -848114",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SAMASTIPUR",
+            "district": "SAMASTIPUR",
+            "ifsc": "FINO0001308",
+            "office": "DALSINGHSARAI",
+            "phone": "7277485164",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1233
+    },
+    {
+        "fields": {
+            "address": "NEAR BHOJRAJ HOTEL,OPP.DWARKADAS SHYAM KUMAR,RAVIVAR PETH,PHALTAN,MAH-415523",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "FINO0001309",
+            "office": "PHALTAN",
+            "phone": "9096410091",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1234
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.4069,TULJAPUR ROAD,NEAR SBI& BUS STAND,BARSHI-413401",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001310",
+            "office": "BARSHI",
+            "phone": "9921547893",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1235
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,PAWAR COMPLEX,AZAD CHOWK,KOREGAON,MAH-425501",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "FINO0001314",
+            "office": "KOREGAON",
+            "phone": "8830477329",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1236
+    },
+    {
+        "fields": {
+            "address": "AHILYADEVI ROAD,MAIN ROAD,BEHIND VIDHARBA KOKAN BANK,NATEPUTE,MAH-413109",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001315",
+            "office": "AKLUJ NATEPOTE",
+            "phone": "9766339391",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1237
+    },
+    {
+        "fields": {
+            "address": "MAHESH BABU CHOWK,JHURAN CHHAPRA,MUZAFFARPUR,BIHAR -842003",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUZAFFARPUR",
+            "district": "MUZAFFARPUR",
+            "ifsc": "FINO0001325",
+            "office": "MUZAFFARPUR",
+            "phone": "8877621573",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1238
+    },
+    {
+        "fields": {
+            "address": "KARI MOHALLA MARE,NEAR MAHABIR MANDIR ARA BHOJPUR BIHAR -802301",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BHOJPUR",
+            "district": "BHOJPUR",
+            "ifsc": "FINO0001326",
+            "office": "ARAH",
+            "phone": "7301507098",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1239
+    },
+    {
+        "fields": {
+            "address": "NEAR ICICI BANK,MAIN ROAD,KAVATHEMAHANKAL - 416405",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001327",
+            "office": "MIRAJ KAVATHEMAHANKAL",
+            "phone": "9595707615",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1240
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI CHOWK OLD ST STAND,PATTANKODOLI MAH 416202",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATTANKODOLI",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001335",
+            "office": "PATANKUDULI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1241
+    },
+    {
+        "fields": {
+            "address": "BALLIA BAZAR,PO.- LAKHMINIYA,DISTT.- BEGUSARAI,PIN -851211",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BEGUSARAI",
+            "district": "BEGUSARAI",
+            "ifsc": "FINO0001337",
+            "office": "BALLIA",
+            "phone": "7549007777",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1242
+    },
+    {
+        "fields": {
+            "address": "WARD NO 21,BAHADURPUR,NEAR ANUP TAKIES,SAMASTIPUR-851211",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SAMASTIPUR",
+            "district": "SAMASTIPUR",
+            "ifsc": "FINO0001339",
+            "office": "SAMASTIPUR",
+            "phone": "9471278470",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1243
+    },
+    {
+        "fields": {
+            "address": "AKBAR MALAHI,SARAI MAIN ROAD,DIST -VAISALI,BIHAR -844125",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VAISHALI",
+            "district": "VAISHALI",
+            "ifsc": "FINO0001342",
+            "office": "SARAI",
+            "phone": "9835825210",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1244
+    },
+    {
+        "fields": {
+            "address": "MOBARAK RASULPUR,MOBARAKPUR MANIKPUR,MAHUA,VAISHALI-844122",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VAISHALI",
+            "district": "VAISHALI",
+            "ifsc": "FINO0001346",
+            "office": "MAHUA",
+            "phone": "8935940958",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1245
+    },
+    {
+        "fields": {
+            "address": "NEAR STATE BANK OF INDIA ATM,BABUNIYA ROAD,SIWAN,BIHAR-841226",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SIWAN",
+            "district": "SIWAN",
+            "ifsc": "FINO0001347",
+            "office": "SIWAN",
+            "phone": "8873009006",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1246
+    },
+    {
+        "fields": {
+            "address": "MAHNA ROAD,NEAR GANDHI CHOWK,MOTIPUR,DIST-MUZAFFARPUR,BIHAR-843111",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUZAFFARPUR",
+            "district": "MUZAFFARPUR",
+            "ifsc": "FINO0001349",
+            "office": "MOTIPUR",
+            "phone": "8298808494",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1247
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI NAGAR,OPP.BHARAT GAS,WASHI,MAH-413503",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001350",
+            "office": "WASHI",
+            "phone": "9730609976",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1248
+    },
+    {
+        "fields": {
+            "address": "DESAI GALLI,MAIN ROAD,KALE MAHARASHTRA",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001351",
+            "office": "KALE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1249
+    },
+    {
+        "fields": {
+            "address": "H.N.12/56,NEAR BANK OF INDIA,PATEL COMPLEX,BARSHI ROAD,PARANDA,MAH-413502",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001354",
+            "office": "PARANDA",
+            "phone": "9730242758",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1250
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,SUNIL PLAZA,BACK SIDE OF OLD BUS STAND,BHAVANI ROAD,TULJAPUR,MAH-413601",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001355",
+            "office": "TULJAPUR",
+            "phone": "8975603151",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1251
+    },
+    {
+        "fields": {
+            "address": "1297/A2,LONAR GALLI,SHIVAJI CHOWK,PANDARPUR MAH-413304",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "FINO0001356",
+            "office": "PANDARPUR",
+            "phone": "9049041042",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1252
+    },
+    {
+        "fields": {
+            "address": "CTS NO.683,DHANYA LINE,GANDHI CHOWK,VADGAON,TAL-HATKANANGALE,DIST-KOLHAPUR,MAH-416112",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001358",
+            "office": "VADGAON",
+            "phone": "9552540610",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1253
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND,SHIVAJI CHOWK,TAL-UMARGA,DIST OSMANABAD,LOHARA-413608",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "FINO0001359",
+            "office": "LOHARA",
+            "phone": "9766141666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1254
+    },
+    {
+        "fields": {
+            "address": "PROPERTY NO.1942,SOMVAR PETH,TAL-SHIRALA,DIST-SANGLI,MAH-415408",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001360",
+            "office": "SHIRALA",
+            "phone": "7798000167",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1255
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 AMI PARK CO OP HSG SOC,156 2A 1MP 1 SOLAPUR ROAD HADAPSAR,PUNE 411028",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "FINO0001407",
+            "office": "HADAPSAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1256
+    },
+    {
+        "fields": {
+            "address": "SERVE NO - 2124,VAPI SILVASSA ROAD,TALUKA - PARDI,DI - VALSAD -396191",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VAPI",
+            "ifsc": "FINO0001414",
+            "office": "STATION RD VAPI",
+            "phone": "9099230130",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1257
+    },
+    {
+        "fields": {
+            "address": "TERHI BAZAR,OPP.POWER HOUSE,NEAR NATIONAL CINEMA,DARBHANGA-846004",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "DARBHANGA",
+            "district": "DARBHANGA",
+            "ifsc": "FINO0001422",
+            "office": "DARBHANGA",
+            "phone": "8420346056",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1258
+    },
+    {
+        "fields": {
+            "address": "SIMRI DARBHANGA, KANSI SIMRI, BIHAR, PIN 847106",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SIMRI",
+            "district": "BUXAR",
+            "ifsc": "FINO0001432",
+            "office": "SIMIRI",
+            "phone": "9525001446",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1259
+    },
+    {
+        "fields": {
+            "address": "294,ASHIRWAD BUILDING,R.K.EXTENTION,STAND ROAD,SANGLI 416416",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "FINO0001437",
+            "office": "SANGLI",
+            "phone": "9175124754",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1260
+    },
+    {
+        "fields": {
+            "address": "4TH FLOOR HOTEL D PINTO",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "FINO0001445",
+            "office": "BIHAR RO",
+            "phone": "7103500",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1261
+    },
+    {
+        "fields": {
+            "address": "SECOND FLOOR, PLOT NO 2, OPP NAMAN HOSPITAL",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "FINO0001446",
+            "office": "MP RO",
+            "phone": "4212797",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1262
+    },
+    {
+        "fields": {
+            "address": "C O S R PATIL, CS NO 510, E WARD",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "FINO0001447",
+            "office": "MAHARASHTRA RO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1263
+    },
+    {
+        "fields": {
+            "address": "NEAR IP MALL, GANESH NILAYAM",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "VARANASI",
+            "district": "VARANASI",
+            "ifsc": "FINO0001448",
+            "office": "UP RO",
+            "phone": "2410019",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1264
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR,SAWAN KNOWLEDGE PARK,TURBHE MIDC,NAVI MUMBAI 400705",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0009001",
+            "office": "HEAD OFFICE",
+            "phone": "71047054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1265
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR,SAWAN KNOWLEDGE PARK,TURBHE MIDC,NAVI MUMBAI 4000705",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0009002",
+            "office": "JUINAGAR BRANCH",
+            "phone": "71047054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1266
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR,SAWAN KNOWLEGDE PARK,TURBHE MIDC,NAVI MUMBAI 400705",
+            "bank_name": "FINO PAYMENTS BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "FINO0009003",
+            "office": "HEAD OFFICE",
+            "phone": "71047054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1267
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "2 ANTROLIKAR SHOPPING CENTER,DATTA CHWOK,4,SOLAPUR,PIN 413007,MAHARASHTRA",
+            "bank_name": "SAMARTH SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "SBLS0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121264
+    }
+]

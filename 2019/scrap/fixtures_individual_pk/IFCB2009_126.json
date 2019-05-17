@@ -1,0 +1,1547 @@
+[
+    {
+        "fields": {
+            "address": "KANPITH, NEAR CHAUTAPOOL, PINCODE : 395003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SARDAR CHOWK, TA- BARDOLI, 394601",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000002",
+            "office": "BARDOLI CITY",
+            "phone": "220030",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SHETAN STREET, MAIN ROAD, TAL. MANDVI, PINCODE : 394 160",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANDVI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000003",
+            "office": "MANDVI",
+            "phone": "221038",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "1/142, MAIN ROAD, MAIN BAZAR,TAL. BARDOLI, PINCODE : 394 340",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MADHI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000004",
+            "office": "MADHI",
+            "phone": "242050",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "OLPAD, ZAMPA FALIA, TAL. OLPAD, PINCODE : 394 540",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "OLPAD",
+            "district": "SURAT",
+            "ifsc": "SDCB0000005",
+            "office": "OLPAD",
+            "phone": "222039",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SURTI BAZAR, BANK ROAD, TAL.VYARA, PINCODE : 394 650",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000006",
+            "office": "VYARA",
+            "phone": "220047",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "NAVA BAZAR, TAL. MANGROL, PINCODE : 694 120",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOSAMBA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000007",
+            "office": "KOSAMBA",
+            "phone": "231254",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "NEAR RAMJI MANDIR,  JUNAGAM, TAL. SONGADH, PINCODE : 394 670",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SONGADH",
+            "district": "TAPI",
+            "ifsc": "SDCB0000008",
+            "office": "SONGADH",
+            "phone": "222047",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "PARSI WAD, TAL. MAHUVA, PINCODE : 394 250",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHUVA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000009",
+            "office": "MAHUVA",
+            "phone": "255724",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "NIZAR, NEAR APMC MARKET, TAL. NIZER, PINCODE : 394 370",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIZAR",
+            "district": "TAPI",
+            "ifsc": "SDCB0000010",
+            "office": "NIZAR",
+            "phone": "244227",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "NANI KARNBI WAD, AT & POST \u252c\u00fb KATHOR, TAL. KAMREJ, PINCODE : 394 150",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KATHOR",
+            "district": "SURAT",
+            "ifsc": "SDCB0000011",
+            "office": "KATHOR",
+            "phone": "256229",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "\u252c\u00f4LABDHIKUNJ\u252c\u00f6,NR. TALUKA PANCHAYAT OFFICE, STATION ROAD,  TAL. BARDOLI, PINCODE : 394 602",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000012",
+            "office": "BARDOLI STATION",
+            "phone": "225143",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "ROO BHAVAN, OPP. GABANI KIDNEY HOSPITAL, LAL DARWAJA STATION ROAD, TAL. SURAT, PINCODE : 395 003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000013",
+            "office": "SURAT STATION",
+            "phone": "2427853",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "DESAI STREET, NEAR PARAGVAD, TAL. VALOD, PINCODE : 394 640",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VALOD",
+            "district": "TAPI",
+            "ifsc": "SDCB0000014",
+            "office": "VALOD",
+            "phone": "222039",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "MAIN BAZAR, AT & POST - UCHHCHAL, TAL. UCHHAL, PINCODE : 394 375",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UCHHAL",
+            "district": "TAPI",
+            "ifsc": "SDCB0000015",
+            "office": "UCHHAL",
+            "phone": "231101",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "CHALTHAN SUGAR CAMPUS, TA.PALSANA , PINCODE : 394 305",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHALTHAN",
+            "district": "SURAT",
+            "ifsc": "SDCB0000016",
+            "office": "CHALTHAN",
+            "phone": "281080",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD, TAL. MANGROL,PINCODE : 394 410",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANGROL",
+            "district": "SURAT",
+            "ifsc": "SDCB0000017",
+            "office": "MANGROL",
+            "phone": "220253",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "KADOD- MADHI ROAD, TAL. BARDOLI, PINCODE : 394 335",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KADOD",
+            "district": "SURAT",
+            "ifsc": "SDCB0000018",
+            "office": "KADOD",
+            "phone": "246237",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "GIN COMPOUND, OPP.SADHANA HOSPITAL, TAL. OLPAD, PINCODE : 394 110",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KIM",
+            "district": "SURAT",
+            "ifsc": "SDCB0000019",
+            "office": "KIM",
+            "phone": "238393",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD, NEAR RAILWAY CROSSING, TAL.MAHUVA, PINCODE : 396 510",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANAVAL",
+            "district": "SURAT",
+            "ifsc": "SDCB0000020",
+            "office": "ANAVAL",
+            "phone": "252221",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "21,22 GOLDEN POINT, NEAR SURAJ CINEMA, FALASAWADI, RING ROADTA.SURATPINCODE : 395 003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000021",
+            "office": "SARDARMARKET",
+            "phone": "2439039",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "AT & POST- KARCHELIA, TAL. MAHUVA, PINCODE : 394 250",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARCHELIYA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000022",
+            "office": "KARCHELIYA",
+            "phone": "256828",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "SHANTI COMPLEX, SAYAN SUGAR ROAD, TAL.OLPAD, PINCODE : 394 130",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SAYAN",
+            "district": "SURAT",
+            "ifsc": "SDCB0000023",
+            "office": "SAYAN BRANCH",
+            "phone": "242134",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "KANJIBHAI DESAI SAMAJ,SHIKSHAN BAHVAN, OPP. MUSIUM, CHOWK BAZAR, PINCODE : 395 003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000024",
+            "office": "CHOWK BAZAR",
+            "phone": "2599070",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "TALAV STREET, MAIN ROAD,BUHARI  TAL. VALOD, PINCODE : 394 630",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BUHARI",
+            "district": "TAPI",
+            "ifsc": "SDCB0000025",
+            "office": "BUHARI",
+            "phone": "244251",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "HALDIA SHERI, SAGRAMPURA,  PINCODE : 395 002",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000026",
+            "office": "SAGRAMPURA",
+            "phone": "2330598",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "NEW HOLI FALIA, AT & POST VARAD, TAL. BARDOLI, PINCODE : 394 355",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VARAD",
+            "district": "SURAT",
+            "ifsc": "SDCB0000027",
+            "office": "VARAD BRANCH",
+            "phone": "255339",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "DOLVAN CHAR RASHTA, TAL. VYARA, PINCODE : 394 635",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOLVAN",
+            "district": "TAPI",
+            "ifsc": "SDCB0000028",
+            "office": "DOLVAN CHAR RASTA",
+            "phone": "251221",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "KAMREJ CHAR RASTA, TAL. KAMREJ, PINCODE : 394 185",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KAMREJ",
+            "district": "SURAT",
+            "ifsc": "SDCB0000029",
+            "office": "KAMREJ CHAR RASTA",
+            "phone": "252085",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "3/179 - ABC, WARD NO. 16A, PANCH-HATADI , TA: CHORYASI, PINCODE : 395 005",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000030",
+            "office": "RANDER",
+            "phone": "2764374",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI CHWOK, NR. BANK OF BARODA, TAL. NIZER, PINCODE : 394 380",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUKARMUNDA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000031",
+            "office": "KUKARMUNDA",
+            "phone": "223130",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "NUTAN BAGAYAT SAHAKARI MANDLI CAMPUS, AT & POST  GANGADHARA, TAL. PALSANA, PINCODE : 394 310",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANGADHARA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000032",
+            "office": "GANGADHARA",
+            "phone": "263224",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "MANMANDIR APPARTMENT,OPP. SURAT PEOPLES\u252c\u00c6S CO-OP. BANK LTD., TIMLAYAVAD,  PINCODE : 395 001",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000033",
+            "office": "NANAPURA",
+            "phone": "2470409",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SURBHI COMPLEX, OPP. LIABERY, KATARGAM,  PINCODE : 395 004",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000034",
+            "office": "KATARGAM",
+            "phone": "2482268",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "MAHUVA SUGAR FACTORY CAMPUS, TAL. MAHUVA, PINCODE : 394 246",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAMANIYA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000035",
+            "office": "BHAMANIYA",
+            "phone": "256849",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "SUMUL DAIRY ROAD, SUMUL DAIRY COMPOUND, PINCODE : 395 004",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000036",
+            "office": "PATEL NAGAR",
+            "phone": "2530859",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "GARUKRUPA BUILDING, NR. NAVYUG COLLEGE, PINCODE : 395 009",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000037",
+            "office": "NAVYUG",
+            "phone": "2784303",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "GHEEKATA ROAD, BHAVANI WAD, PINCODE : 395 003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000038",
+            "office": "HARIPURA",
+            "phone": "2423472",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "NR. CHATANIYA PARK SOCIETY, NR. VASHUDEV ARCADE,NR. RUPALI CENAL, BHATAR,PINCODE : 395 001",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000039",
+            "office": "BHATAR",
+            "phone": "2241108",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "BESIDE AMROLI VIVIDHA KALYANKARI SAHAKARI MANDLI LTD.,COLLEGE ROAD,  PINCODE : 394 107",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000040",
+            "office": "AMROLI",
+            "phone": "2499835",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "MAZADA APT., GROUND FLOOR, GHOD DOD ROAD, PINCODE : 395 001",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000041",
+            "office": "GHOD-DOD",
+            "phone": "2653477",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, TAL. PALSANA, PINCODE : 394 315",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALSANA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000042",
+            "office": "PALSANA",
+            "phone": "264243",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "NANI FALIA, PALGAM,  TA : HORYASIPINCODE : 391 045",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000044",
+            "office": "PALGAM",
+            "phone": "2840380",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "UG, 32-34, GROUND FLOOR,INDRALOK APT., OPP. CRAZY BITE HOTEL,  TA:CHORYASI, PINCODE : 395 007",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT\u252c\u00e1",
+            "district": "SURAT",
+            "ifsc": "SDCB0000046",
+            "office": "PIPLOD",
+            "phone": "2227328",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "BAJIPURA \u252c\u00fb VALOD RAOD, BAJIPURA CHARRASHTA, TAL. VALOD, PINCODE : 394 690",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAJIPURA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000047",
+            "office": "BAJIPURA",
+            "phone": "233253",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "TAL. KAMREJ, PINCODE : 394 325",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MORTHANA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000048",
+            "office": "MORTHANA",
+            "phone": "247148",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "MAHUVA ANAVAL ROAD,OPP. HANUMAN TEMPLE, MAIN BAZARA, TAL. MAHUVA, PINCODE : 394248",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VALVADA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000049",
+            "office": "VALVADA",
+            "phone": "251249",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "TAL. MANDVI, PINCODE : 394 140",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAUDHAN",
+            "district": "SURAT",
+            "ifsc": "SDCB0000051",
+            "office": "BHAUDHAN",
+            "phone": "251251",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "VAID FALIA,AT & POST SARBHON, TAL. BARDOLI, PINCODE : 394 350",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SARBHON",
+            "district": "SURAT",
+            "ifsc": "SDCB0000052",
+            "office": "SARBHON",
+            "phone": "253514",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "KANAKNIDHI APARTMENT,KIM CHAR RASTA, KIM MANDVI RD, TAL.MANGROL, PINCODE : 394 111",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KIM",
+            "district": "SURAT",
+            "ifsc": "SDCB0000053",
+            "office": "KIM CHAR RASTA",
+            "phone": "234032",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "VAV CO-OP. MANDLI BUILDING,AT & POST VAV, TAL. KAMREJ, PINCODE : 394 326",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VAV",
+            "district": "SURAT",
+            "ifsc": "SDCB0000054",
+            "office": "VAV",
+            "phone": "251025",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "NEAR R.T.O. OFFICE, J. P. ROAD, PINCODE : 395 001",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000055",
+            "office": "J.P.ROAD",
+            "phone": "2470258",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, RAJDEEP COMLEX,SIGANPUR CHAR RASTA,VED ROAD, TAL \u252c\u00fb CHORASHI, PINCODE : 395 004",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000056",
+            "office": "VED ROAD",
+            "phone": "2513998",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "MAHALAXMI COMPLEX, NR. YOGANAND NAGAR, STATION ROAD,TAL \u252c\u00fb CHORASHI PINCODE : 394 221",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SACHIN",
+            "district": "SURAT",
+            "ifsc": "SDCB0000057",
+            "office": "SACHIN",
+            "phone": "2391846",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "BHURIWELL,  TAL. SONGADH,PINCODE : 394 680",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UKAI",
+            "district": "TAPI",
+            "ifsc": "SDCB0000058",
+            "office": "UKAI",
+            "phone": "233701",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "DHALVAD JUNJLE MANDLI BUILDING, OPP. MAMALATDAR OFFICE, TAL. UMARPADA, PINCODE : 394 370",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UMARPADA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000059",
+            "office": "UMARPADA",
+            "phone": "253615",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "AT & POST RUMKITALAV,  TAL. NIZAR\u252c\u00e1, PINCODE : 394380",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIZAR",
+            "district": "TAPI",
+            "ifsc": "SDCB0000060",
+            "office": "RUMKITALAV",
+            "phone": "222259",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "KARJAN SEVA SAHKARI MANDLI LTD,CAMPUS 1ST FLOOR,ABOVE TELEPHONE EXCHANGE, PINCODE : 394 155",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000061",
+            "office": "KARJAN",
+            "phone": "259191",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "PINCODE : 394 440",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ZANKHVAV",
+            "district": "SURAT",
+            "ifsc": "SDCB0000062",
+            "office": "ZHANKHVAV",
+            "phone": "256078",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 33/34, ASHIRWAD TOWNSHIP-2, BAMROLI ROAD, UDHNA,PINCODE : 394 210",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000063",
+            "office": "BAMROLI",
+            "phone": "2611222",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "A-1 RUDRAKSH AVENUE, 1ST FLOOR , PINCODE : 395 010",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAGOB",
+            "district": "SURAT",
+            "ifsc": "SDCB0000064",
+            "office": "MAGOB",
+            "phone": "2646300",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "C-1 2 MAHENDRA PARK, PINCODE : 395 005",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAHANGIRPURA",
+            "district": "SURAT",
+            "ifsc": "SDCB0000065",
+            "office": "JAHANGIRPURA",
+            "phone": "2760044",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 102,FIRST FLOOR,MILIYONER BUSSINESS PARK,L P SAVANI ADAJAN,SURAT",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000066",
+            "office": "L P SAVANI",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "AT PO TAKARMA TA OLPAD DIST SURAT PIN 394540",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000067",
+            "office": "TAKARMA",
+            "phone": "225539",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "AT PO TARSADI TA MAHUVA",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000068",
+            "office": "TARSADI",
+            "phone": "255924",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "AT PO BABEN                                            TA BARDOLI",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000069",
+            "office": "BABEN",
+            "phone": "221143",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "AT PO ORNA TA KAMREJ DIST SURAT",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000070",
+            "office": "ORNA",
+            "phone": "264207",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "CHAPAVADI, TALUKA - VYARA",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000071",
+            "office": "CHAPAVADI",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "AT - DHOLIKUI, TALUKA - MAHUVA",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000072",
+            "office": "DHOLIKUI",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "229, AT AND POST PITHADRA, TALUKA - DOLVAN",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000073",
+            "office": "PITHADRA",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "453, FIRST FLOOR, AT AND POST - JESINGPUR, TALUKA - VYARA",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000074",
+            "office": "JESINGPUR",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "L1, L2, U1, U2, U3, SINDICAT HOUSE, OPP. AGRESEN SHOPPING POINT, NEAR MAHARAJA AGRESEN BHAVAN, CITY LIGHT, SURAT - 395007",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000075",
+            "office": "CITY LIGHT",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5,6, PLOAT NO 1,1A,2, MAHATMA INDUSTRIAL CO OPERATIVE SERVICE SOCIETY, VIBHAG - 2, BESIDE SURAT NATIONAL CO OP BANK, KAPODRA VARACHHA ROAD, SURAT - 395006",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000076",
+            "office": "VARACHHA ROAD",
+            "phone": "9825195488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6 WHIT HOUSE OPPOSITE PALM AVENUE BESIDE BAGHBAN FARM 150 FT VIP ROAD VESU",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000077",
+            "office": "VESU",
+            "phone": "9825406845",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "C SHOP NO 13 14 15 55 JSD COMPLEX AT PO ALLU TA BARDOLI DIST SURAT PIN 394620",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000078",
+            "office": "ALLU",
+            "phone": "7990850338",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "SHREE VIHAN VIBHAG BAGAYAT SAHKARI MANDLI  AT PO VIHAN TA KAMREJ DIST SURAT PIN 394320",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000079",
+            "office": "VIHAN CHAR RASTA",
+            "phone": "9925182126",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "4/258/1, AT POST - TADKESVAR, KIM MANDVI ROAD, BESIDE SHIFA HOSPITAL, TAL - MANDVI",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000080",
+            "office": "TADKESHVAR",
+            "phone": "9033189018",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "APMC COMPOUND, AT AND POST - VANKAL, TALUKA - MANGROL",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000081",
+            "office": "VANKAL",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "THE UDHANA UDHYOG NAGAR SANGH LTD, SHOP NO 1,2,3,4 SEVEN SQUARE GROUND FLOOR, UDHANA, CHORIYASI, SURAT",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000082",
+            "office": "UDHANA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "RAM NAGAR SOCIETY, SURAT-NAVSARI MAIN ROAD, BHESTAN, TA - CHORIYASI, PINCODE-395023",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000083",
+            "office": "BHESTAN",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO - 135, AT AND POST - KAPURA, TALUKA - VYARA, PIN - 394655",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000084",
+            "office": "KAPURA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO 1,2,3, MANISHA APARTMENT, NEAR SNEH SANKUL WADI, ANAND MAHAL ROAD, PIN - 395005",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000085",
+            "office": "ANAND MAHAL ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 19, SWAGAT BUSINESS HUB, ICHHAPOR, PIN - 394510",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000086",
+            "office": "ICHHAPOR BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 13 TO 18, SAURASHTRA TOWNSHIP, SUDAMA CHOWK, MOTA VARACHHA, PIN-394101",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000087",
+            "office": "MOTA VARACHHA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO-78, MASJID FALIYU-BAZAR FALIYU, AT AND POST-ARETH, TALUKA-MANDVI, PIN-394110",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000088",
+            "office": "ARETH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "94 SAIBABA CHARITABLE TRUST, AT AND POST-ENA, TALUKA-PALSANA, PIN-394310",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000089",
+            "office": "ENA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 2, GALAXY IMPERIA SHOPPING CENTER, OPPOSITE NAKSHATRA RESIDENCY, NEAR PALANPOR, PAL, SURAT 395509",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000090",
+            "office": "PALANPOR",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 410, SHREE LEVA PATIDAR SAMAJ SAHKAR BHAVAN, AT AND POST KHARVASA, TALUKA BARDOLI, PINCODE 394355",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000091",
+            "office": "KHARVASA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 213, SHRI CHAROTARIYA PATIDAR SAMAJ HALL, AT AND POST MOTA, PIN 394345",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000092",
+            "office": "MOTA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "LAXMI GOPAL COMPLEX, B DIVISION, AT PO DHAMDOD LUMBHA,TA BARDOLI, PIN 394355",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000093",
+            "office": "DHAMDOD ROAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "AT PO KANPURA, TA VYARA, PIN 394650",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000094",
+            "office": "KANPURA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "SHREE PUNI VIBHAG SEVA SAHKARI MANDALI LTD, HOUSE NO 459, AT PO PUNI, TA PALSANA, PIN 394352",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000095",
+            "office": "PUNI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "GAMTAL BLOCK NO 204/4, AT BANDHARPADA, POST GALKUVA, TALUKA SONGADH",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SONGADH",
+            "district": "TAPI",
+            "ifsc": "SDCB0000096",
+            "office": "BANDHARPADA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 395, SHREE DOLARA VIBHAG KHEDUTONI MOTA KADNI SEVA MANDALI LTD, AT AND POST DOLARA, TALUKA VYARA",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000097",
+            "office": "DOLARA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 519/3, SHIV MAHOLLO, PUNA MAIN ROAD, TALUKA CHORYASI, PIN 395010",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000098",
+            "office": "PUNA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "KANPITH, NEAR CHAUTAPOOL, PINCODE : 395003",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000099",
+            "office": "MAIN BRANCH",
+            "phone": "2597730",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 314 PLOT NO 72, SHREE BALDE VIVIDH KARYAKARI SEVA SAHKARI MANDLI LTD, AT AND POST BALDE, TALUKA KUKARMUNDA, PIN 394380",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUKARMUNDA",
+            "district": "TAPI",
+            "ifsc": "SDCB0000100",
+            "office": "BALDE",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 351, SHREE BAGUMARA SEVA SAMAJ, NISHAL FALIYU, AT AND POST BAGUMARA, TALUKA PALSANA, PIN 394305",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000101",
+            "office": "BAGUMARA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "SHOP NO G3, G4, G5, TIMES GALLERIA, PUNA KUMBHARIYA ROAD, TALUKA CHORYASI, PIN 395010",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000102",
+            "office": "KUMBHARIYA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 55,56, AT PO VELACHHA, TALUKA MANGROL, DIST SURAT, GUJARAT, PIN 394405",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANGROL",
+            "district": "SURAT",
+            "ifsc": "SDCB0000103",
+            "office": "VELACHHA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6,7,8,9,10, SHREE KRUSHNA HOMES, OVIYAN-KOSAMADA BYPASSROAD, AT PO ANTROLI, TALUKA PALSANA, SURAT, GUJARAT, PIN 394325",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SDCB0000104",
+            "office": "ANTROLI",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO 723, AT PO KUDIYANA, TALUKA OLPAD, DIST SURAT, GUJARAT, PIN 394540",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "OLPAD",
+            "district": "SURAT",
+            "ifsc": "SDCB0000105",
+            "office": "KUDIYANA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "THE SURAT DISTRICT CO OP BANK LTD, REGIONAL OFFICE,JAYKISAN NAGAR BARDOLI, TALUKA BARDOLI",
+            "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "SDCB0000888",
+            "office": "BARDOLI REGIONAL OFFICE",
+            "phone": "225143",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    }
+]

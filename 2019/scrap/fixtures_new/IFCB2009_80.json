@@ -1,0 +1,347 @@
+[
+    {
+        "fields": {
+            "address": "Churchgate Chambers,Ground Floor,Sir Vithaldas Thackersey Marg,New Marine Lines Mumbai 400 020",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SERVICE BRANCH",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000001",
+            "office": "RTGS-HO",
+            "phone": "61285922",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62401
+    },
+    {
+        "fields": {
+            "address": "BHULESHWAR BRANCH,G.B.C.B HOUSE, 89 BHULESHWAR, MUMBAI 400 002",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHULESHWAR",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000002",
+            "office": "BHULESHWAR BRANCH",
+            "phone": "61285700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62402
+    },
+    {
+        "fields": {
+            "address": "193, D.S. BARRETTO ROAD, WADALA W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WADALA",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000003",
+            "office": "WADALA BRANCH",
+            "phone": "64556441",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62403
+    },
+    {
+        "fields": {
+            "address": "NAOROJI HOUSE, N. C. NARIELWALA AGIARY TRUST BLDG., DADAR E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DADAR",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000004",
+            "office": "DADAR BRANCH",
+            "phone": "65202132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62404
+    },
+    {
+        "fields": {
+            "address": "MANAS SOLITAIRE CHS,SHOP NOS. 3,4,5,6 RAJAJI PATH CROSS LANE NO 4,DOMBIVALI E DIST THANE",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000005",
+            "office": "DOMBIVALI BRANCH",
+            "phone": "2430213",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62405
+    },
+    {
+        "fields": {
+            "address": "110, JAWAHAR NAGAR, GOREGAON W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOREGAON",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000006",
+            "office": "GOREGAON BRANCH",
+            "phone": "65201587",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62406
+    },
+    {
+        "fields": {
+            "address": "UNIT NO. G - 1, WING - B, SILVER ASTRA APT, J. B. NAGAR, ANDHERI E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANDHERI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000007",
+            "office": "ANDHERI BRANCH",
+            "phone": "65201548",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62407
+    },
+    {
+        "fields": {
+            "address": "Sarvodaya Bhuvan,Shop No 4 Ground Floor, Ramchandra Lane Extn, Malad (W) Mumbai 400 064",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MALAD",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000008",
+            "office": "MALAD BRANCH",
+            "phone": "64570794",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62408
+    },
+    {
+        "fields": {
+            "address": "A - 11, RATTAN NAGAR, BORIVALI E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BORIVALI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000009",
+            "office": "BORIVALI BRANCH",
+            "phone": "65201878",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62409
+    },
+    {
+        "fields": {
+            "address": "SEA PEARL APARTMENTS, J. P. ROAD, OPP. PRATAP COLONY, 4 BUNGLOWS, VERSOVA, ANDHERI W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VERSOVA",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000010",
+            "office": "VERSOVA BRANCH",
+            "phone": "65201619",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62410
+    },
+    {
+        "fields": {
+            "address": "HARIOM HERITAGE,SHOP NO.1 AND 2,GROUND FLOOR, PLOT NO 8,SECTOR 21,KHARGHAR,NAVI MUMBAI 410210",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000011",
+            "office": "KHARGHAR BRANCH",
+            "phone": "64550397",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62411
+    },
+    {
+        "fields": {
+            "address": "6, SHEFFIELD, GROUND FLOOR, OPP. JARI MARI GARDEN, ANAND NAGAR, DAHISAR E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHISAR",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000012",
+            "office": "DAHISAR BRANCH",
+            "phone": "64578297",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62412
+    },
+    {
+        "fields": {
+            "address": "MEGHMALA CO-OP. SOCIETY, SANT JANABAI ROAD, VILE - PARLE E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VILE PARLE",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000013",
+            "office": "VILE PARLE BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62413
+    },
+    {
+        "fields": {
+            "address": "REGENCY CO-OP. HSG. SCTY., OPP. ST. FRANCIS HIGH SCHOOL, AMBADI ROAD, VASAI W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000014",
+            "office": "VASAI BRANCH",
+            "phone": "2340839",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62414
+    },
+    {
+        "fields": {
+            "address": "BHOOMI APARTMENTS, BLDG. NO. 8, DAHANUKAR WADI, SECTOR 4, PANCHSHEEL ENCLAVE, KANDIVALI W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KANDIVALI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000016",
+            "office": "KANDIVALI BRANCH",
+            "phone": "65201675",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62415
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2 AND 3, PRINCE PALACE BLDG.,PANCHPAKHADI, THANE W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000017",
+            "office": "THANE BRANCH",
+            "phone": "65201939",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62416
+    },
+    {
+        "fields": {
+            "address": "VISHWAKARMA, GATE 1,OPP LILAWATI HOSPITAL,BANDRA RECLAMATION, BANDRA W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANDRA",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000018",
+            "office": "BANDRA RECLAMATION",
+            "phone": "61285800",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62417
+    },
+    {
+        "fields": {
+            "address": "AMRUT KUNJ,ANJARIA WADI, DR. DOSHI NURSING HOME, M.G.ROAD,GHATKOPAR E",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GHATKOPAR",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000019",
+            "office": "GHATKOPAR",
+            "phone": "65200394",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62418
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.10 11 12 13,AMRITA SADAN SECTOR-22 OPP NERUL RAILWAY STATION NERUL W",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NERUL",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000020",
+            "office": "NERUL",
+            "phone": "65201650",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62419
+    },
+    {
+        "fields": {
+            "address": "OM NIWAS,PLOT NO 186,SECTOR 12,OPP MEGA MART,VASHI 400 705",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000021",
+            "office": "VASHI BRANCH",
+            "phone": "65201382",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62420
+    },
+    {
+        "fields": {
+            "address": "GURU NANAK UDYOG BHAVAN,GALA NO 2 AND 3,L.B.S MARG,BHANDUP WEST,MUMBAI 400 078",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000022",
+            "office": "BHANDUP BRANCH",
+            "phone": "65201764",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62421
+    },
+    {
+        "fields": {
+            "address": "GROUND FLR,NIRMAL NAGAR CHSL,SAIBABA NAGAR,MIRA BHAYANDAR ROAD,MIRA ROAD EAST,THANE 401107",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000023",
+            "office": "MIRA ROAD BRANCH",
+            "phone": "65201939",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62422
+    },
+    {
+        "fields": {
+            "address": "BALDOTA BHAVAN,3RD FLOOR,117,M K MARG,CHURCHGATE,MUMBAI 400 020",
+            "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "GBCB0000024",
+            "office": "CHURCHGATE BRANCH",
+            "phone": "61285922",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62423
+    }
+]

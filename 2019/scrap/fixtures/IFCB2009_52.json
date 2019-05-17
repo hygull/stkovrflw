@@ -12,7 +12,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 105508
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 105509
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 105510
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 105511
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 105512
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 105513
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 105514
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 105515
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 105516
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 105517
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 105518
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 105519
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 105520
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 105521
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 105522
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 105523
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 105524
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 105525
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 105526
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 105527
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 105528
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 105529
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 105530
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 105531
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 105532
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 105533
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 105534
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 105535
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 105536
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 105537
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 105538
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 105539
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 105540
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 105541
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 105542
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 105543
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 105544
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 105545
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 105546
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 105547
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 105548
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 105549
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 105550
     },
     {
         "fields": {
@@ -657,7 +657,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 105551
     },
     {
         "fields": {
@@ -672,7 +672,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 45
+        "pk": 105552
     },
     {
         "fields": {
@@ -687,7 +687,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 46
+        "pk": 105553
     },
     {
         "fields": {
@@ -702,7 +702,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 47
+        "pk": 105554
     },
     {
         "fields": {
@@ -717,7 +717,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 48
+        "pk": 105555
     },
     {
         "fields": {
@@ -732,7 +732,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 49
+        "pk": 105556
     },
     {
         "fields": {
@@ -747,7 +747,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 50
+        "pk": 105557
     },
     {
         "fields": {
@@ -762,7 +762,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 51
+        "pk": 105558
     },
     {
         "fields": {
@@ -777,7 +777,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 52
+        "pk": 105559
     },
     {
         "fields": {
@@ -792,7 +792,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 53
+        "pk": 105560
     },
     {
         "fields": {
@@ -807,7 +807,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 54
+        "pk": 105561
     },
     {
         "fields": {
@@ -822,7 +822,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 55
+        "pk": 105562
     },
     {
         "fields": {
@@ -837,7 +837,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 56
+        "pk": 105563
     },
     {
         "fields": {
@@ -852,7 +852,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 57
+        "pk": 105564
     },
     {
         "fields": {
@@ -867,7 +867,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 58
+        "pk": 105565
     },
     {
         "fields": {
@@ -882,7 +882,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 59
+        "pk": 105566
     },
     {
         "fields": {
@@ -897,7 +897,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 60
+        "pk": 105567
     },
     {
         "fields": {
@@ -912,7 +912,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 61
+        "pk": 105568
     },
     {
         "fields": {
@@ -927,7 +927,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 62
+        "pk": 105569
     },
     {
         "fields": {
@@ -942,7 +942,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 63
+        "pk": 105570
     },
     {
         "fields": {
@@ -957,7 +957,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 64
+        "pk": 105571
     },
     {
         "fields": {
@@ -972,7 +972,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 65
+        "pk": 105572
     },
     {
         "fields": {
@@ -987,7 +987,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 66
+        "pk": 105573
     },
     {
         "fields": {
@@ -1002,7 +1002,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 67
+        "pk": 105574
     },
     {
         "fields": {
@@ -1017,7 +1017,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 68
+        "pk": 105575
     },
     {
         "fields": {
@@ -1032,7 +1032,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 69
+        "pk": 105576
     },
     {
         "fields": {
@@ -1047,7 +1047,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 70
+        "pk": 105577
     },
     {
         "fields": {
@@ -1062,7 +1062,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 71
+        "pk": 105578
     },
     {
         "fields": {
@@ -1077,7 +1077,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 72
+        "pk": 105579
     },
     {
         "fields": {
@@ -1092,7 +1092,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 73
+        "pk": 105580
     },
     {
         "fields": {
@@ -1107,7 +1107,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 74
+        "pk": 105581
     },
     {
         "fields": {
@@ -1122,7 +1122,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 75
+        "pk": 105582
     },
     {
         "fields": {
@@ -1137,7 +1137,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 76
+        "pk": 105583
     },
     {
         "fields": {
@@ -1152,7 +1152,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 77
+        "pk": 105584
     },
     {
         "fields": {
@@ -1167,7 +1167,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 78
+        "pk": 105585
     },
     {
         "fields": {
@@ -1182,7 +1182,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 79
+        "pk": 105586
     },
     {
         "fields": {
@@ -1197,7 +1197,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 80
+        "pk": 105587
     },
     {
         "fields": {
@@ -1212,7 +1212,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 81
+        "pk": 105588
     },
     {
         "fields": {
@@ -1227,7 +1227,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 82
+        "pk": 105589
     },
     {
         "fields": {
@@ -1242,7 +1242,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 83
+        "pk": 105590
     },
     {
         "fields": {
@@ -1257,7 +1257,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 84
+        "pk": 105591
     },
     {
         "fields": {
@@ -1272,7 +1272,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 85
+        "pk": 105592
     },
     {
         "fields": {
@@ -1287,7 +1287,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 86
+        "pk": 105593
     },
     {
         "fields": {
@@ -1302,7 +1302,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 87
+        "pk": 105594
     },
     {
         "fields": {
@@ -1317,7 +1317,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 88
+        "pk": 105595
     },
     {
         "fields": {
@@ -1332,7 +1332,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 89
+        "pk": 105596
     },
     {
         "fields": {
@@ -1347,7 +1347,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 90
+        "pk": 105597
     },
     {
         "fields": {
@@ -1362,7 +1362,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 91
+        "pk": 105598
     },
     {
         "fields": {
@@ -1377,7 +1377,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 92
+        "pk": 105599
     },
     {
         "fields": {
@@ -1392,7 +1392,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 93
+        "pk": 105600
     },
     {
         "fields": {
@@ -1407,7 +1407,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 94
+        "pk": 105601
     },
     {
         "fields": {
@@ -1422,7 +1422,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 95
+        "pk": 105602
     },
     {
         "fields": {
@@ -1437,7 +1437,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 96
+        "pk": 105603
     },
     {
         "fields": {
@@ -1452,7 +1452,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 97
+        "pk": 105604
     },
     {
         "fields": {
@@ -1467,7 +1467,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 98
+        "pk": 105605
     },
     {
         "fields": {
@@ -1482,7 +1482,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 99
+        "pk": 105606
     },
     {
         "fields": {
@@ -1497,7 +1497,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 100
+        "pk": 105607
     },
     {
         "fields": {
@@ -1512,7 +1512,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 101
+        "pk": 105608
     },
     {
         "fields": {
@@ -1527,7 +1527,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 102
+        "pk": 105609
     },
     {
         "fields": {
@@ -1542,7 +1542,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 103
+        "pk": 105610
     },
     {
         "fields": {
@@ -1557,7 +1557,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 104
+        "pk": 105611
     },
     {
         "fields": {
@@ -1572,7 +1572,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 105
+        "pk": 105612
     },
     {
         "fields": {
@@ -1587,7 +1587,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 106
+        "pk": 105613
     },
     {
         "fields": {
@@ -1602,7 +1602,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 107
+        "pk": 105614
     },
     {
         "fields": {
@@ -1617,7 +1617,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 108
+        "pk": 105615
     },
     {
         "fields": {
@@ -1632,7 +1632,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 109
+        "pk": 105616
     },
     {
         "fields": {
@@ -1647,6 +1647,6 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 110
+        "pk": 105617
     }
 ]

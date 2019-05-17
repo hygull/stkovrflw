@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "B-121,Sector-5,Noida-201301",
+            "bank_name": "PAYTM PAYMENTS BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "Gautam Buddh Nagar",
+            "ifsc": "PYTM0000001",
+            "office": "RTGS-HO",
+            "phone": "33996699",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "B-121, Sector-5,Noida-201301",
+            "bank_name": "PAYTM PAYMENTS BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "Gautam Buddh Nagar",
+            "ifsc": "PYTM0123456",
+            "office": "Noida Branch",
+            "phone": "33996699",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    }
+]

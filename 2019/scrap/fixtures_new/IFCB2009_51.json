@@ -1,0 +1,452 @@
+[
+    {
+        "fields": {
+            "address": "NIKKO HOUSE 399, V.P. ROAD OPP.CONGRESS HOUSE, MUMBAI 400004",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000003",
+            "office": "GIRGAUM",
+            "phone": "61373711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104546
+    },
+    {
+        "fields": {
+            "address": "HIRNEN SHOPPING CENTRE, HIRJI NENCY COMPOUND, M.G. RD, GOREGAON (W), MULUND 400 062",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000004",
+            "office": "GOREGAON",
+            "phone": "64532767",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104547
+    },
+    {
+        "fields": {
+            "address": "AMIT NAGAR, YARI RD, VERSOVA, MUMBAI 400 061",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000005",
+            "office": "VERSOVA",
+            "phone": "64532793",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104548
+    },
+    {
+        "fields": {
+            "address": "AKSHAY APT. PLOT NO.CTS 1196, 10TH ROAD NR. JAIN EMPLE, CHEMBUR, MUMBAI 400 071",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000006",
+            "office": "CHEMBUR",
+            "phone": "64532756",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104549
+    },
+    {
+        "fields": {
+            "address": "ADARSH APTS., GOLIBAR RD, NR. KHAR SUBWAY, SANTACRUZ (E), MUMBAI 400 025",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000007",
+            "office": "SANTACRUZ",
+            "phone": "64532764",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104550
+    },
+    {
+        "fields": {
+            "address": "GURUJYOT CHS LTD. MAHATMA PHULE RD, MULUND (E), MUMBAI 400 081",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000008",
+            "office": "MULUND (EAST)",
+            "phone": "64532782",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104551
+    },
+    {
+        "fields": {
+            "address": "KALPITA ENCLAVE OPP. VIJAYNAGAR SOC., SAHARA RD, ANDHERI (E), MUMBAI \u252c\u00fb 400 069",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000009",
+            "office": "ANDHERI",
+            "phone": "61373511",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104552
+    },
+    {
+        "fields": {
+            "address": "37, JIMMIT APTS. OPP. KAPOLE WADI, MARVE RD, MALAD (W), MUMBAI \u252c\u00fb 400 064",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000010",
+            "office": "MALAD (WEST)",
+            "phone": "61373411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104553
+    },
+    {
+        "fields": {
+            "address": "GURUKUL BLDG., DERASAR LANE, GHATKOPAR, MUMBAI \u252c\u00fb 400 077.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000011",
+            "office": "GHATKOPAR",
+            "phone": "64532757",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104554
+    },
+    {
+        "fields": {
+            "address": "KALPANA APTS, PUNJABI LANE, L T ROAD, BORIVALI (W), MUMBAI 400 092.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000012",
+            "office": "BORIVALI",
+            "phone": "64532751",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104555
+    },
+    {
+        "fields": {
+            "address": "KOHLI HOUSE, PLOT NO.510/B, 32ND RD, TPS III, BANDRA (W), MUMBAI \u252c\u00fb 400 050.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000015",
+            "office": "BANDRA",
+            "phone": "64532748",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104556
+    },
+    {
+        "fields": {
+            "address": "SAROJINI APTS. PAR NAKA NR JANAKI TALKIES, VASAI, DIST.-THANE - 401 201",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000016",
+            "office": "VASAI",
+            "phone": "6457030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104557
+    },
+    {
+        "fields": {
+            "address": "B-42/43, SECTOR -1, SHANTI NAGAR, MIRA ROAD, DIST.-THANE 401 107",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000017",
+            "office": "MIRA ROAD",
+            "phone": "64532779",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104558
+    },
+    {
+        "fields": {
+            "address": "AMRAPALI ARCADE, VASANT VIHAR, 2ND POKHARAN RD, MAJIWADE, THANE (W) \u252c\u00fb400 610.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000018",
+            "office": "MAJIVADE",
+            "phone": "64532787",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104559
+    },
+    {
+        "fields": {
+            "address": "TEMPLE VIEW, RAHEJA TOWNSHIP, MALAD (E), MUMBAI 400 097",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000019",
+            "office": "MALAD (EAST)",
+            "phone": "61373211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104560
+    },
+    {
+        "fields": {
+            "address": "SHIVAM CHS LTD. NR.CHARKOP VILLAGE, KANDIVLI (W), MUMBAI-400 067.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000020",
+            "office": "KANDIVALI (WEST)",
+            "phone": "64578364",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104561
+    },
+    {
+        "fields": {
+            "address": "HARBOUR VIEW, 221/225, P.D MELLO ROAD, FORT, MUMBAI-400 001",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000021",
+            "office": "FORT BRANCH",
+            "phone": "61427537",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104562
+    },
+    {
+        "fields": {
+            "address": "SHREEJI VILLE, ALEMIDA ROAD, PANCHPAKHADI, THAE (W) 400 601.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000022",
+            "office": "PANCHPAKHADI",
+            "phone": "64532791",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104563
+    },
+    {
+        "fields": {
+            "address": "GOLDEN WILLOWS SOCIERY, SHOP NO.1 & 2, GROUND FLOOR, VASANT GARDENS OFF LBS MARG, MULUND (W), MUMBAI- 400081",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000023",
+            "office": "MULUND (WEST)",
+            "phone": "64526164",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104564
+    },
+    {
+        "fields": {
+            "address": "BAYAJI SHOPPING CENTRE, OPP. SCIENCE GARDEN, AGASHI ROAD, VIRAR (WEST), DIST.-THANE",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000024",
+            "office": "VIRAR",
+            "phone": "6457010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104565
+    },
+    {
+        "fields": {
+            "address": "RIDDHI SIDDHI BLDG, 20, STATION ROAD, NERUL (WEST), NAVI MUMBAI  400706",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000025",
+            "office": "NERUL",
+            "phone": "64577689",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104566
+    },
+    {
+        "fields": {
+            "address": "VEENA GEET-SANGEET GANGOTRI YAMUNOTRI BLDG. MAHAVIR NAGAR , KANDIVALI (WEST) MUMBAI 400 067",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000026",
+            "office": "MAHAVIR NAGAR",
+            "phone": "61373611",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104567
+    },
+    {
+        "fields": {
+            "address": "ARUN COOP. HOUSING SOCIETY LTD,PLOT NO. 47-A,SANTACRUZ EAST, MUMBAI-400055",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000027",
+            "office": "ARUN SOCIETY,SANTACRUZ EAST",
+            "phone": "65230310",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104568
+    },
+    {
+        "fields": {
+            "address": "UNIQUE HIEGHTS, GALA NOS.5 TO 8, POONAM GARDEN, VILLAGE NAVGHARMIRA ROAD (E), DIST. THANE 401 107.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000028",
+            "office": "POONAM GARDEN, MIRA ROAD",
+            "phone": "65619508",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104569
+    },
+    {
+        "fields": {
+            "address": "CRYSTAL PLAZA, NEW LINK ROAD, ANDHERI  (WEST), MUMBAI 400 058",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "BRIHAN MUMBAI",
+            "ifsc": "NICB0000029",
+            "office": "LINK ROAD, ANDHERI (WEST)",
+            "phone": "65262275",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104570
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, G 4,POONAM RESIDENCY, SHANTI PARK, MIRA ROAD EAST, DIST. THANE 401107.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRA ROAD",
+            "district": "THANE",
+            "ifsc": "NICB0000030",
+            "office": "SHANTIPARK",
+            "phone": "66264000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104571
+    },
+    {
+        "fields": {
+            "address": "ANNAPURNA MARKET, KAMELA DARWAJA, RING ROAD, SURAT \u252c\u00fb 395 003",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "NICB0000102",
+            "office": "RING ROAD, SURAT",
+            "phone": "2364905",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104572
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, CTC TOWER, VARACCHA MAIN ROAD, SURAT -395 006",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "NICB0000104",
+            "office": "VARACHHA ROAD, SURAT",
+            "phone": "6555061",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104573
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 34 & 35 GAGAN SAMRUDHHI LULLA NAGAR, BIBWEWDAI ROAD MARKET YARD PUNE \u252c\u00fb 411 037.",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NICB0000251",
+            "office": "BIBWEWADI, PUNE",
+            "phone": "66805900",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104574
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. A1 TO 4, NAVDEEP, SURVEY NO 237, HISSA NO.1, WAKAD, TALUKA MULSHI, DIST, PUNE 411057",
+            "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NICB0000252",
+            "office": "WAKAD PUNE",
+            "phone": "66264000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104575
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "75, REHMAT MANZIL, V. N. ROAD, CURCHGATE, MUMBAI - 400020",
+            "bank_name": "ABU DHABI COMMERCIAL BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI CITY",
+            "ifsc": "ADCB0000001",
+            "office": "RTGS-HO",
+            "phone": "39534100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "CITI CENTRE, 28, CHURCH STREET, OFF M. G. ROAD BANGALORE 560001",
+            "bank_name": "ABU DHABI COMMERCIAL BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "ADCB0000002",
+            "office": "BANGALORE",
+            "phone": "25582000",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    }
+]

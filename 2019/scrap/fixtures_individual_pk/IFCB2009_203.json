@@ -1,0 +1,77 @@
+[
+    {
+        "fields": {
+            "address": "6, VASANT VIHAR SOCIETY, NR.MITHAKHALI SIX ROADS, NAVRANGPURA, AHMEDABAD 380009",
+            "bank_name": "TEXTILE TRADERS CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "TTCB0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "GUJRAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "468 by 2,Parsi Chawl,Opp.Maskati Market,Revdi Bazar,Ahmedabad",
+            "bank_name": "TEXTILE TRADERS CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "TTCB0000002",
+            "office": "MASKATI MARKET BRANCH",
+            "phone": "22171079",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "Shop No 708,New Cloth Market,Opp Kagdapith Police Station,Outside Raipur Gate,Ahmedabad",
+            "bank_name": "TEXTILE TRADERS CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "TTCB0000003",
+            "office": "NEW CLOTH MARKET BRANCH",
+            "phone": "22164840",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "OM Center,Op.Shraddha Automobiles,Nr.Shreyas Crossing,Ambawadi,Ahmedabad.",
+            "bank_name": "TEXTILE TRADERS CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "TTCB0000004",
+            "office": "AYOJAN NAGAR BRANCH",
+            "phone": "26600232",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "6,Vasant Vihar Society,Nr. Mithakhali Six Roads,Navrangpura, Ahmedabad.",
+            "bank_name": "TEXTILE TRADERS CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "TTCB0000005",
+            "office": "ASHRAM ROAD BRANCH",
+            "phone": "26405947",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    }
+]

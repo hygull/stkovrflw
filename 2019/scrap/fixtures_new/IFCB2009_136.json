@@ -1,0 +1,707 @@
+[
+    {
+        "fields": {
+            "address": "JANADHAR BHAVAN, JALNA ROAD, BEED, DIST. BEED.STATE:MAHARASHTRA-431122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000001",
+            "office": "RTGS-HO",
+            "phone": "222154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104863
+    },
+    {
+        "fields": {
+            "address": "JANADHAR BHAVAN, JALNA ROAD, BEED,DIST. BEED.STATE:MAHARASHTRA-431122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000002",
+            "office": "MAIN",
+            "phone": "224206",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104864
+    },
+    {
+        "fields": {
+            "address": "MONDHA, BEED, DIST. BEED,STATE:MAHARASHTRA-431122.",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000003",
+            "office": "MARKET YARD",
+            "phone": "227223",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104865
+    },
+    {
+        "fields": {
+            "address": "KANADI ROAD, KAIJ, DIST. BEED,STATE:MAHARASHTRA-431123",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KAIJ",
+            "district": "BEED",
+            "ifsc": "CRUB0000004",
+            "office": "KAIJ",
+            "phone": "252657",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104866
+    },
+    {
+        "fields": {
+            "address": "COURT ROAD, MAJALGAON,  DIST. BEED,STATE:MAHARASHTRA-431131",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAJALGAON",
+            "district": "BEED",
+            "ifsc": "CRUB0000005",
+            "office": "MAJALGAON",
+            "phone": "234136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104867
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, GEORAI, DIST. BEED,STATE:MAHARASHTRA-431127",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GEORAI",
+            "district": "BEED",
+            "ifsc": "CRUB0000006",
+            "office": "GEORAI",
+            "phone": "262149",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104868
+    },
+    {
+        "fields": {
+            "address": "VAIDYANATH SHOPPING COMPLEX, PARLI,DIST. BEED,STATE:MAHARASHTRA-431515",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PARLI",
+            "district": "BEED",
+            "ifsc": "CRUB0000007",
+            "office": "PARLI",
+            "phone": "223113",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104869
+    },
+    {
+        "fields": {
+            "address": "YASH TOWER, NEAR NAIK COLLEGE, JALNA ROAD, CIDCO, AURANGABAD DIST AURANGABAD, STATE: MAHARASHTRA-431 001",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000008",
+            "office": "CIDCO AURANGABAD",
+            "phone": "2484056",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104870
+    },
+    {
+        "fields": {
+            "address": "COURT ROAD, PAITHAN, TQ. PAITHAN, DIST. AURANGABAD",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAITHAN",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000009",
+            "office": "PAITHAN",
+            "phone": "224249",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104871
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI NAGAR, BEED,DIST. BEED,STATE:MAHARASHTRA-431122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000010",
+            "office": "SHIVAJI NAGAR",
+            "phone": "226065",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104872
+    },
+    {
+        "fields": {
+            "address": "AADISH PLAZA, IST FLOOR, SAVEDI ROAD, DIST. AHEMADNAGAR,STATE:MAHARASHTRA-414001",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "CRUB0000011",
+            "office": "AHMEDNAGAR",
+            "phone": "2426154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104873
+    },
+    {
+        "fields": {
+            "address": "PADILE COMPLEX, DIST. LATUR",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "CRUB0000012",
+            "office": "LATUR",
+            "phone": "227798",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104874
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO. 102, MALPANI PLAZA, SANGAMNER, DIST. AHEMADNAGAR,STATE:MAHARASHTRA-422605",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANGAMNER",
+            "district": "AHMEDNAGAR",
+            "ifsc": "CRUB0000013",
+            "office": "SANGAMNER",
+            "phone": "223154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104875
+    },
+    {
+        "fields": {
+            "address": "K.P.COMPLEX, SATARA PARISAR, GUT NO. 141, NEAR MHASKE PETROL PUMP, BEED BYPASS ROAD, AURANGABAD, DIST. AURANGABAD,STATE:MAHARASHTRA - 431005",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000014",
+            "office": "BEDD BYPASS",
+            "phone": "2653342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104876
+    },
+    {
+        "fields": {
+            "address": "MONDHA, AMBAJOGAI, DIST. BEED,STATE: MAHARASHTRA - 431517",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMBEJOGAI",
+            "district": "BEED",
+            "ifsc": "CRUB0000015",
+            "office": "AMBEJOGAI",
+            "phone": "244471",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104877
+    },
+    {
+        "fields": {
+            "address": "MIDC ROAD, ASHTI, DIST.BEED,STATE: MAHARASHTRA -414203",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ASTI",
+            "district": "BEED",
+            "ifsc": "CRUB0000016",
+            "office": "ASTI",
+            "phone": "233154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104878
+    },
+    {
+        "fields": {
+            "address": "NEVASA ROAD, SHEVGAON, DIST. AHEMADNAGAR,STATE: MAHARASHTRA -414502",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHEVGAON",
+            "district": "BEED",
+            "ifsc": "CRUB0000017",
+            "office": "SHEVGAON",
+            "phone": "221054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104879
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, SHIRUR(KASAR) DIST. BEED, STATE: MAHARASHTRA -413249",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHIRUR",
+            "district": "BEED",
+            "ifsc": "CRUB0000018",
+            "office": "SHIRUR",
+            "phone": "259154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104880
+    },
+    {
+        "fields": {
+            "address": "NAGAR ROAD, PATODA, DIST. BEED,STATE:MAHARASHTRA - 414204",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PATODA",
+            "district": "BEED",
+            "ifsc": "CRUB0000019",
+            "office": "PATODA",
+            "phone": "242154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104881
+    },
+    {
+        "fields": {
+            "address": "NANEKARWADI, SHIVAJI CHOWK, CHAKAN, DIST. PUNE,STATE: MAHARASHTRA - 410501",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "CRUB0000020",
+            "office": "CHAKAN",
+            "phone": "249124",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104882
+    },
+    {
+        "fields": {
+            "address": "MAULI NIWAS, WAGHOLI, TAHSIL-HAVELI, DIST.PUNE, STATE: MAHARASHTRA -412207",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WAGHOLI",
+            "district": "PUNE",
+            "ifsc": "CRUB0000021",
+            "office": "WAGHOLI",
+            "phone": "27050054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104883
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.P-142, MIDC WALUJ, DIST. AURANGABAD, STATE: MAHARASHTRA - 431136",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000022",
+            "office": "WALUJ",
+            "phone": "2556154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104884
+    },
+    {
+        "fields": {
+            "address": "MAHAVEER CHOWK, BEED ROAD, AMBAD, DIST. JALNA",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMBAD",
+            "district": "JALANA",
+            "ifsc": "CRUB0000023",
+            "office": "AMBAD",
+            "phone": "221454",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104885
+    },
+    {
+        "fields": {
+            "address": "CANAL ROAD, BEED, DIST. BEED,STATE:MAHARASHTRA - 431122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000024",
+            "office": "CANAL ROAD",
+            "phone": "223154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104886
+    },
+    {
+        "fields": {
+            "address": "DHOKI ROAD, KALLAM, DIST. OSMANABAD.",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALAM",
+            "district": "OSMANABAD",
+            "ifsc": "CRUB0000025",
+            "office": "KALAM",
+            "phone": "262654",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104887
+    },
+    {
+        "fields": {
+            "address": "RAUT BUILDING, BEED ROAD, JAMKHED, TQ. JAMKHED, DIST. AHMEDNAGAR. PIN-413 201",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAMKHED",
+            "district": "AHMEDNAGAR",
+            "ifsc": "CRUB0000026",
+            "office": "JAMKHED",
+            "phone": "222154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104888
+    },
+    {
+        "fields": {
+            "address": "DATTA WADI, INFRANT OF ORDINANCE FACTORY, AMRAWATI RAOD, WADI. TQ. DIST. NAGPUR. PIN-440 023",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "CRUB0000027",
+            "office": "WADI NAGPUR",
+            "phone": "223154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104889
+    },
+    {
+        "fields": {
+            "address": "BAJIRAO NAGAR, BARSHI ROAD, TQ. DIST. BEED. PIN-431 122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000028",
+            "office": "BARSHI ROAD",
+            "phone": "230154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104890
+    },
+    {
+        "fields": {
+            "address": "JALNA ROAD, SINDKHED RAJA, TQ. SINDKHED RAJA, DIST. BULDHANA. PIN-443 203",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SINDKHED RAJA",
+            "district": "BULDHANA",
+            "ifsc": "CRUB0000029",
+            "office": "SINDKHED RAJA",
+            "phone": "234154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104891
+    },
+    {
+        "fields": {
+            "address": "DHARUR-KAIJ ROAD, TQ. DHARUR, DIST. BEED. PIN-431 124",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARUR",
+            "district": "BEED",
+            "ifsc": "CRUB0000030",
+            "office": "DHARUR",
+            "phone": "274454",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104892
+    },
+    {
+        "fields": {
+            "address": "AHMEDNAGAR-AURANGABAD HIGHWAY ROAD, MUKINDPUR(NEVASA PHATA), TQ. NEVASA, DIST. AHMEDNAGAR PIN-414 603",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEVASA PHATA",
+            "district": "AHMEDNAGAR",
+            "ifsc": "CRUB0000031",
+            "office": "MUKINDPUR",
+            "phone": "244154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104893
+    },
+    {
+        "fields": {
+            "address": "BASWESHAR CHOWK, MARKET YARD ROAD, LATUR PIN 413512",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "CRUB0000032",
+            "office": "MARKET YARD LATUR",
+            "phone": "9422244875",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104894
+    },
+    {
+        "fields": {
+            "address": "MIDC, HINGNA, WARD NO. 2, PLOT NO. X 4, DIGDOH, TQ. DIST. NAGPUR PIN 440016",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "CRUB0000033",
+            "office": "DIGDOH NAGPUR",
+            "phone": "7875515555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104895
+    },
+    {
+        "fields": {
+            "address": "PAITHAN-AURANGABAD ROAD, BIDKIN, TQ. PAITHAN, DIST. AURANGABAD PIN 431105",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000034",
+            "office": "BIDKIN",
+            "phone": "9423691657",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104896
+    },
+    {
+        "fields": {
+            "address": "BEED PARALI ROAD WADWANI TQ WADWANI DIST BEED PIN 431131",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WADWANI",
+            "district": "BEED",
+            "ifsc": "CRUB0000035",
+            "office": "WADWANI",
+            "phone": "7588056481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104897
+    },
+    {
+        "fields": {
+            "address": "AURANGABAD-JALNA ROAD, KARMAD, TQ. DIST. AURANGABAD",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "CRUB0000036",
+            "office": "KARMAD",
+            "phone": "9225948724",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104898
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 16 GRAMSEVAK COLONY NAGAR ROAD BEED PIN 431122",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "CRUB0000037",
+            "office": "GRAMSEVAK COLONY BEED",
+            "phone": "9422244331",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104899
+    },
+    {
+        "fields": {
+            "address": "NEAR HOTEL TOURIST RAILWAY STATION CHOWK AMRAVATI TQ DIST AMRAVATI PIN 444601",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "CRUB0000038",
+            "office": "AMRAVATI",
+            "phone": "8275058587",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104900
+    },
+    {
+        "fields": {
+            "address": "NAGAR ROAD TISGAON TQ PATHARDI DIST AHMEDNAGAR PIN 414106",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TISGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "CRUB0000039",
+            "office": "TISGAON",
+            "phone": "241154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104901
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 2 DATTANAGAR NAVNAGAPUR TQ DIST AHMADNAGAR PIN 414111",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVNAGAPUR",
+            "district": "AHMADNAGAR",
+            "ifsc": "CRUB0000040",
+            "office": "NAVNAGAPUR",
+            "phone": "2428154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104902
+    },
+    {
+        "fields": {
+            "address": "NAVA MONDHA NEAR MAMA CHOWK JALNA TQ DIST JALNA PIN 431203",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "CRUB0000041",
+            "office": "JALNA",
+            "phone": "235154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104903
+    },
+    {
+        "fields": {
+            "address": "SERVE NO 308 HOUSE NO 3/2/2579 PLOT NO 125 FIRST FLOOR VILASRAO CHOWK OR BIDAR NAKA UDGIR 413 517",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDGIR",
+            "district": "LATUR",
+            "ifsc": "CRUB0000042",
+            "office": "UDGIR",
+            "phone": "255154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104904
+    },
+    {
+        "fields": {
+            "address": "NOOR SHAH COMMERCIAL CENTRE, 1ST FLOOR, CITY SURVEY NO 207/208, OPP. SHALIBHADRA COMPLEX, MIRA BHAYANDAR ROAD, MIRA ROAD (E), KASHIMIRA, MUMBAI-401 104",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KASHIMIRA",
+            "district": "THANE",
+            "ifsc": "CRUB0000043",
+            "office": "KASHIMIRA",
+            "phone": "29452154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104905
+    },
+    {
+        "fields": {
+            "address": "AMBER CHEMBER, NEAR OLD BUS STAND, INFRANT OF POST OFFICE, PETH KHAMGAON, TQ. KHAMGAON, DIST. BULDHANA MAHARASHTRA PIN 444 303",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHAMGAON",
+            "district": "BULDHANA",
+            "ifsc": "CRUB0000044",
+            "office": "KHAMGAON",
+            "phone": "258154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104906
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 9 SARVE NO 117/2K SANTAJI CO OP SOCIETY JAGAT TOWER NAGPUR VARDHA HIGH WAY ROAD BUTI BORI 441 108",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BUTI BORI NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "CRUB0000045",
+            "office": "BUTIBORI",
+            "phone": "262154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104907
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 202, OPP. GAVHANE PETROL PUMP, SHASTRI CHOWK, ALANDI ROAD, BHOSARI, PUNE 411 039",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "CRUB0000046",
+            "office": "BHOSARI",
+            "phone": "27121154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104908
+    },
+    {
+        "fields": {
+            "address": "S. NO 218/MP-2, NEAR NETAJI SUBHASH HALL, VITHAL NAGAR, STAFF QUARTERS, HADAPSAR, PUNE - 411 028",
+            "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "CRUB0000047",
+            "office": "HADAPSAR",
+            "phone": "27121154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104909
+    }
+]

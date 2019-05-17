@@ -12,7 +12,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 137657
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 137658
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 137659
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 137660
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 137661
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 137662
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 137663
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 137664
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 137665
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 137666
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 137667
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 137668
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 137669
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 137670
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 137671
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 137672
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 137673
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 137674
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 137675
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 137676
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 137677
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 137678
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 137679
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 137680
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 137681
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 137682
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 137683
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 137684
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 137685
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 137686
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 137687
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 137688
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 137689
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 137690
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 137691
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 137692
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 137693
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 137694
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 137695
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 137696
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 137697
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 137698
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 137699
     },
     {
         "fields": {
@@ -657,7 +657,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 137700
     },
     {
         "fields": {
@@ -672,7 +672,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 45
+        "pk": 137701
     },
     {
         "fields": {
@@ -687,7 +687,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 46
+        "pk": 137702
     },
     {
         "fields": {
@@ -702,7 +702,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 47
+        "pk": 137703
     },
     {
         "fields": {
@@ -717,7 +717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 48
+        "pk": 137704
     },
     {
         "fields": {
@@ -732,7 +732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 49
+        "pk": 137705
     },
     {
         "fields": {
@@ -747,7 +747,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 50
+        "pk": 137706
     },
     {
         "fields": {
@@ -762,7 +762,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 51
+        "pk": 137707
     },
     {
         "fields": {
@@ -777,7 +777,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 52
+        "pk": 137708
     },
     {
         "fields": {
@@ -792,7 +792,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 53
+        "pk": 137709
     },
     {
         "fields": {
@@ -807,7 +807,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 54
+        "pk": 137710
     },
     {
         "fields": {
@@ -822,7 +822,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 55
+        "pk": 137711
     },
     {
         "fields": {
@@ -837,7 +837,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 56
+        "pk": 137712
     },
     {
         "fields": {
@@ -852,7 +852,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 57
+        "pk": 137713
     },
     {
         "fields": {
@@ -867,7 +867,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 58
+        "pk": 137714
     },
     {
         "fields": {
@@ -882,7 +882,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 59
+        "pk": 137715
     },
     {
         "fields": {
@@ -897,7 +897,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 60
+        "pk": 137716
     },
     {
         "fields": {
@@ -912,7 +912,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 61
+        "pk": 137717
     },
     {
         "fields": {
@@ -927,7 +927,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 62
+        "pk": 137718
     },
     {
         "fields": {
@@ -942,7 +942,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 63
+        "pk": 137719
     },
     {
         "fields": {
@@ -957,6 +957,6 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 64
+        "pk": 137720
     }
 ]

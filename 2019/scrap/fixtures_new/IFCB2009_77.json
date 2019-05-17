@@ -1,0 +1,1547 @@
+[
+    {
+        "fields": {
+            "address": "MOHAN TERRACE, 64/72, MODY STREET, FORT,MUMBAI-400001",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000001",
+            "office": "RTGS-HO",
+            "phone": "22616174",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37106
+    },
+    {
+        "fields": {
+            "address": "45/47, MINT CHAMBERS, MINT ROAD, OPP G.P.O, FORT, MUMBAI 400001",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000002",
+            "office": "MAIN BRANCH",
+            "phone": "61890999",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37107
+    },
+    {
+        "fields": {
+            "address": "GAUTAM UDYOG BHAVAN,GR. FLOOR,  L.B.S.MARG, BHANDUP(WEST),MUMBAI-400078",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000003",
+            "office": "BHANDUP BRANCH",
+            "phone": "65134902",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37108
+    },
+    {
+        "fields": {
+            "address": "'SHIVGIRI' PLOT NO.11, GROUND FLOOR, SAMANT ESTATE, GOREGAON (EAST), MUMBAI-400063.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000004",
+            "office": "GOREGAON BRANCH",
+            "phone": "61890301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37109
+    },
+    {
+        "fields": {
+            "address": "GANGANGIRI COMPLEX, 18TH ROAD, NEAR AMBEDKAR GARDEN, CHEMBUR, MUMBAI-400071.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000005",
+            "office": "CHEMBUR BRANCH",
+            "phone": "61890501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37110
+    },
+    {
+        "fields": {
+            "address": "NEELAM NAGAR, BLDG. NO.7, GAVANPADA, MULUND (EAST) MUMBAI-400081",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000006",
+            "office": "MULUND BRANCH",
+            "phone": "21635597",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37111
+    },
+    {
+        "fields": {
+            "address": "B(6 TO 8),  MANDAPESHWAR INDL. PREMISES  CO-OP. SOCIETY LTD., S.V.P. ROAD, BORIVILI(WEST), MUMBAI-400092.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000007",
+            "office": "BORIVALI BRANCH",
+            "phone": "28926300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37112
+    },
+    {
+        "fields": {
+            "address": "G-11 A&B, SHALIMAR MORYA PREMISES CO-OP. SOCIETY LTD., SWASTIK IND. ESTATE, ANDHERI(W), ANDHERI(WEST), MUMBAI 400058.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000008",
+            "office": "ANDHERI(WEST) BRANCH",
+            "phone": "26742234",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37113
+    },
+    {
+        "fields": {
+            "address": "6 & 106, TOWN CENTRE, NEAR MITTAL INDUSTRIAL ESTATE, ANDHERI-KURLA RD., ANDHERI(EAST), MUMBAI-400059.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000009",
+            "office": "ANDHERI(EAST) BRANCH",
+            "phone": "61890700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37114
+    },
+    {
+        "fields": {
+            "address": "103 TO 106, JYOTI CHAMBERS, 1ST FLOOR, JUNCTION OF J.V. RD. & HIRACHAND DESAI RD., GHATKOPAR (WEST) MUMBAI-400086.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000010",
+            "office": "GHATKOPAR BRANCH",
+            "phone": "25155347",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37115
+    },
+    {
+        "fields": {
+            "address": "SARITA II, 1ST FLOOR, PRABHAT INDL. & RES. COMPLEX, OPP TOLL PLAZA, DAHISAR (EAST), MUMBAI-400068.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000011",
+            "office": "DAHISAR BRANCH",
+            "phone": "28963793",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37116
+    },
+    {
+        "fields": {
+            "address": "GEESE CO-OP.HOUSING SOCIETY LTD. OPP. VIDYANAGRI UNIVERSITY COMPLEX, KALINA, SANTACRUZ (EAST), MUMBAI-400098",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000012",
+            "office": "KALINA BRANCH",
+            "phone": "26652258",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37117
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, SUNCITY THEATRES, OPP. SHAAN TALKIES, MAHATMA GANDHI ROAD, VILE PARLE (EAST), MUMBAI-400057.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000013",
+            "office": "VILE PARLE BRANCH",
+            "phone": "26169814",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37118
+    },
+    {
+        "fields": {
+            "address": "NADABRAMHA MANDIR, GROUND FLOOR,  MADHUSUDAN KALEKAR MARG. KALANAGAR, BANDRA (EAST) MUMBAI-400051",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000014",
+            "office": "BANDRA BRANCH",
+            "phone": "26590742",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37119
+    },
+    {
+        "fields": {
+            "address": "UNIT NO. 3 & 5, GROUND FLOOR, VIKRANT INDUSTRIAL ESTATE, GOVANDI MUMBAI-400088.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000015",
+            "office": "GOVANDI BRANCH",
+            "phone": "25579505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37120
+    },
+    {
+        "fields": {
+            "address": "FIRST FLR. NAND DHAM, M. G. CROSS ROAD NO. 1, KANDIVILI WEST,MUMBAI 400067",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000016",
+            "office": "KANDIVLI(WEST) BRANCH",
+            "phone": "28637020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37121
+    },
+    {
+        "fields": {
+            "address": "PANAMA PLANET 1ST FLOOR, OPP AMRUTA HOTEL GOKHALE ROAD, NAUPADA,THANE (WEST) 401602",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000017",
+            "office": "THANE BRANCH",
+            "phone": "25376552",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37122
+    },
+    {
+        "fields": {
+            "address": "218, (A), A-WING, SHANTI COMMERCIAL COMPLEX, MIRA ROAD, (EAST), DIST THANE 401107.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000018",
+            "office": "MIRAROAD BRANCH",
+            "phone": "28106193",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37123
+    },
+    {
+        "fields": {
+            "address": "SAI ASHISH, SANGEETKAR SUDHIR PHADKE MARGVILLAGE ROAD, BHANDUP (WEST) MUMBAI-400078.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000019",
+            "office": "BHANDUP VILLAGE ROAD BRANCH",
+            "phone": "25661386",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37124
+    },
+    {
+        "fields": {
+            "address": "2,'F' TYPE BUILDING,SECTOR 6, VASHI, NAVI MUMBAI-400703.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000020",
+            "office": "VASHI BRANCH",
+            "phone": "27824385",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37125
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR, NEELKANTH CHS LTD., FATEH ALI ROAD, BEHIND KDMC OFFICE, DOMBIVILI (EAST) 421201.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "BCBM0000021",
+            "office": "DOMBIVLI BRANCH",
+            "phone": "2861403",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37126
+    },
+    {
+        "fields": {
+            "address": "MONEY TERRACE, K.H ROAD (DOUBLE ROAD), BANGALORE 560027.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "BCBM0000022",
+            "office": "K.H. ROAD BRANCH",
+            "phone": "2291942",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37127
+    },
+    {
+        "fields": {
+            "address": "SRI NANJUNDESHWARA COMPLEX, NO. 16, 1ST FLOOR, 10TH CROSS, SAMPIGE ROAD, MALLESWARAM, BANGALORE 560003",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "BCBM0000023",
+            "office": "MALLESHWARAM BRANCH",
+            "phone": "23347755",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37128
+    },
+    {
+        "fields": {
+            "address": "# 623, 11TH MAIN, HAL, II STAGE, 80 FEET ROAD, INDIRA NAGAR, BANGALORE 560038",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "BCBM0000024",
+            "office": "INDIRA NAGAR BRANCH",
+            "phone": "2528 1785",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37129
+    },
+    {
+        "fields": {
+            "address": "VARUN, 1ST FLOOR, PLOT NO.8, AMBADI MAIN ROAD, VASAI (WEST), 401202, DIST THANE",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000025",
+            "office": "VASAI ROAD BRANCH",
+            "phone": "330308",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37130
+    },
+    {
+        "fields": {
+            "address": "CLASSIQUE ARCADE, K.S.RAO ROAD, HAMPANKATTA , MANAGALORE 575001.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHINA KANNADA",
+            "ifsc": "BCBM0000026",
+            "office": "HAMPANKATTA BRANCH",
+            "phone": "421076",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37131
+    },
+    {
+        "fields": {
+            "address": "R.K.BUSINESS CENTRE, 1ST FLR, NEAR STATE BANK OF INDIA, AGRA ROAD, BHIWANDI-421302, DIST- THANE.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000027",
+            "office": "BHIWANDI BRANCH",
+            "phone": "220444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37132
+    },
+    {
+        "fields": {
+            "address": "MONALISA APARTMENT , KASTURBA ROAD, MALAD (WEST), MUMBAI-400064.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000028",
+            "office": "MALAD BRANCH",
+            "phone": "28803811",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37133
+    },
+    {
+        "fields": {
+            "address": "RIZVI PARK, S.V. ROAD, SANTCRUZ(WEST), MUMBAI-400054.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000029",
+            "office": "SANTACRUZ BRANCH",
+            "phone": "26141980",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37134
+    },
+    {
+        "fields": {
+            "address": "GR. FLR, APSARA CINEMA PVT LTD, DADASAHEB BHADKAMKAR MARG, GRANT ROAD (EAST), MUMBAI-400007.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000030",
+            "office": "LAMINGTON ROAD",
+            "phone": "23090235",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37135
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 4 & 5, SWAPNA BHOOMI, GR.FLOOR, S.K.BHOLE ROAD, DADAR (WEST) MUMBAI-400028.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000031",
+            "office": "DADAR BRANCH",
+            "phone": "2438 5155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37136
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR, PANCHARATNA HEIGHTS, CHAITANYA NAGAR, PUNE-SATARA ROAD, DHANKAWADI, PUNE - 411043",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BCBM0000032",
+            "office": "DHANKAWADI, PUNE",
+            "phone": "24362698",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37137
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VASUKI, NEAR TALUK OFFICE, (BEHIND DISTRICT COURT, NEXT TO VISHWAS COMMERCIALS), UDIPI - 576 101.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "UDIPI",
+            "district": "UDUPI",
+            "ifsc": "BCBM0000033",
+            "office": "UDIPI",
+            "phone": "2525620",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37138
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, 2 & 3 GR. FLOOR, SHREE SAHAY GALAXY, PLOT NO. 205/74, PANVEL - 410 206",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "RAIGAD",
+            "ifsc": "BCBM0000034",
+            "office": "PANVEL BRANCH",
+            "phone": "27492101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37139
+    },
+    {
+        "fields": {
+            "address": "SHIVA SADAN, 9TH MAIN ROAD, 5TH BLOCK, JAYANAGAR, BANGALORE - 560 041.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "BCBM0000035",
+            "office": "JAYANAGAR",
+            "phone": "22446030",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37140
+    },
+    {
+        "fields": {
+            "address": "VEENU COMPLEX, NATIONAL HIGHWAY, NEXT TO NATRAJ THEATRE, SURATKAL, MANGALORE - 574158",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "SURATKAL",
+            "district": "MANGALORE",
+            "ifsc": "BCBM0000036",
+            "office": "SURATKAL",
+            "phone": "2477076",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37141
+    },
+    {
+        "fields": {
+            "address": "SHREE CHINTAMANI CHS LTD., M. G. ROAD, NEAR WAMAN HARI PETHE JEWELLERS, GOREGAON (WEST) MUMBAI -62",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000037",
+            "office": "GOREGAON WEST",
+            "phone": "65669501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37142
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 5 & 11, ANIL NIWAS, B. P. ROAD, GODDEV NAKA, BHAYANDER [EAST), DIST THANE \u252c\u00fb 401 101.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BCBM0000038",
+            "office": "BHAYANDER (EAST)",
+            "phone": "28152265",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37143
+    },
+    {
+        "fields": {
+            "address": "SHIV COMPLEX, PLOT NO.14/15, SECTOR-4, GHANSOLI, NAVI MUMBAI 400 701",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "BCBM0000039",
+            "office": "GHANSOLI",
+            "phone": "27548341",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37144
+    },
+    {
+        "fields": {
+            "address": "DINBHAI CHS LTD., NEAR SBI, CAVES ROAD, JOGESHWARI (EAST), MUMBAI 400 060",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000040",
+            "office": "JOGESHWARI (EAST)",
+            "phone": "28310527",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37145
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SUCHAK HOSPITAL BUILDING, AGRA ROAD, KALYAN 421301",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "BCBM0000041",
+            "office": "KALYAN",
+            "phone": "2310011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37146
+    },
+    {
+        "fields": {
+            "address": "OM ARCADE 1-659A, NEAR MAYURA TALKIES, BOLVAR, PUTTUR-574201, DAKSHINA KANNADA.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHIN KANNADA",
+            "ifsc": "BCBM0000042",
+            "office": "PUTTUR BRANCH",
+            "phone": "233241",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37147
+    },
+    {
+        "fields": {
+            "address": "4,GROUND FLOOR,SVITLAND,NEAR SAIDHAM, NR WESTERN EXPRESS HIGHWAY,KANDIVALI (E) MUMBAI-400101",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000043",
+            "office": "KANDIVALI (EAST)",
+            "phone": "28543356",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37148
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR \"DISPLAY SHOP C \" SOLITAIRE TOWERS, CHITALSAT, MANPADA, GHODBUNDER ROAD, THANE (W) 400 607",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BCBM0000044",
+            "office": "GHODBUNDER ROAD",
+            "phone": "25892531",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37149
+    },
+    {
+        "fields": {
+            "address": "SHOP NO B/17 & 18, EMPIRE ESTATE, CHINCHWAD, PUNE 411 019",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "BCBM0000045",
+            "office": "PIMPRI CHINCHWAD",
+            "phone": "27443535",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37150
+    },
+    {
+        "fields": {
+            "address": "1ST CROSS,1ST  STAGE, PEENYA INDUSTRIAL  ESTATE, BENGALURU",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PEENYA",
+            "district": "BANGALORE",
+            "ifsc": "BCBM0000046",
+            "office": "PEENYA",
+            "phone": "8391995",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37151
+    },
+    {
+        "fields": {
+            "address": "HOTEL VEENU SKY PLAZA, MOODBIDRI KARKALA ROAD, TAL MANGALORE, KARNATAKA STATE 574227",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MOODABIDRI",
+            "district": "MOODABIDRI",
+            "ifsc": "BCBM0000047",
+            "office": "MOODABIDRI",
+            "phone": "238700",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37152
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR, KAVERI HEIGHTS, OLD BOMBAY PUNE ROAD, KHAREGAON, KALWA (WEST), THANE 400605",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000048",
+            "office": "KALWA",
+            "phone": "25366238",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37153
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, SOVEREIGN BLDG., OPP. MANNAGOPURA, A.S.ROAD, KARKALA 574104",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "KARKALA",
+            "district": "UDIPI",
+            "ifsc": "BCBM0000049",
+            "office": "KARKALA",
+            "phone": "235780",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37154
+    },
+    {
+        "fields": {
+            "address": "VEENU COMPLEX, MAIN RAOD, NEAR BUS STAND, OPP CANARA BANK, DIST: UDUPI, KARNATAKA STATE 576 201",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "UDIPI",
+            "ifsc": "BCBM0000050",
+            "office": "KUNDAPURA",
+            "phone": "234620",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37155
+    },
+    {
+        "fields": {
+            "address": "TRADE CENTER, MAIN ROAD, B.C. ROAD, BANTWAL, DIST- DAKSHINA KANNADA, KARNATAKA STATE\u252c\u00e1 574 219",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BANTVAL",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "BCBM0000051",
+            "office": "BUNTWAL",
+            "phone": "230176",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37156
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, RUSHIRAJ ANNEX,D'SOUZA COLONY,OPP. COLLEGE ROAD, NASHIK 422 005",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "BCBM0000052",
+            "office": "NASHIK",
+            "phone": "2340455",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37157
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, HANSA VILLA, J. N. ROAD, NEAR APNA BAZAR, MULUND (WEST), MUMBAI 400 080",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000053",
+            "office": "MULUND WEST",
+            "phone": "25646574",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37158
+    },
+    {
+        "fields": {
+            "address": "SHAMBHAVI COMPLEX, NEAR BUS STAND, MULKY 574154",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MULKI",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "BCBM0000054",
+            "office": "MULKI",
+            "phone": "2294001",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37159
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GOLD FILLED PLAZA, SION BANDRA LINK ROAD, MUMBAI 400 017",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000055",
+            "office": "DHARAVI WEST",
+            "phone": "24023218",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37160
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KESHAV BAUG CHS LTD., 170 LBS MARG, KURLA WEST, MUMBAI 400 070",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000056",
+            "office": "KURLA WEST",
+            "phone": "25039068",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37161
+    },
+    {
+        "fields": {
+            "address": "UNIT 1-2, POONAM KALPAVRUKSH, VIRAT NAGAR, VIRAR WEST, THANE 401303",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000057",
+            "office": "VIRAR WEST",
+            "phone": "9867339063",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37162
+    },
+    {
+        "fields": {
+            "address": "SAIRAM CENTRAL, 1ST FLOOR, BELAL CROSS, UJIRE, DIST. DAKSHINA KANNADA 574240",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "BCBM0000058",
+            "office": "UJIRE",
+            "phone": "9967227398",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37163
+    },
+    {
+        "fields": {
+            "address": "EXOTICA, GR. FLOOR, BALMATTA ROAD, KANKANADY, MANGALORE DIST. DAKSHINA KANNADA 575002.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "BCBM0000059",
+            "office": "KANKANADY",
+            "phone": "9820947734",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37164
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,3 & 4, GR FLR, SHREE KRISHNA GYAN MANDIR PATSHALA BLDG., STATION RD, WADALA, MUMBAI 400031",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000060",
+            "office": "WADALA",
+            "phone": "9821499966",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37165
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 22, 23 AND 24, KRISHNA KAMAL CHS, SECTOR 21, NERUL, NAVI MUMBAI 400706.",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "BCBM0000061",
+            "office": "NERUL",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37166
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, NAVKAR HEIGHTS A, ANJUR PHATA, TAL BHIWANDI, THANE 421302",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000062",
+            "office": "ANJUR PHATA BHIWANDI",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37167
+    },
+    {
+        "fields": {
+            "address": "102,103,104 NEW PATANKAR CHS LTD., NILEMORE, NALLASOPARA WEST, THANE 401203",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000063",
+            "office": "NALLASOPARA WEST",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37168
+    },
+    {
+        "fields": {
+            "address": "SHUBHAM BLDG., SHOP NO. 3 AND 4, PLOT 77, SEC 18, KOPARKHAIRNE, NAVIMUMBAI 400709",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000064",
+            "office": "KOPARKHAIRNE",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37169
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,AGARWAL BLDG,78 G WARD,BHAJI MARKET ROAD,LONAVALA DIST PUNE",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BCBM0000065",
+            "office": "LONAVALA",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37170
+    },
+    {
+        "fields": {
+            "address": "GR FLR,VIKHROLI SHIV KRUPA INDL. PREMISES CHS,LBS MARG,VIKHROLI WEST, MUMBAI 400083",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000066",
+            "office": "VIKHROLI",
+            "phone": "61890106",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37171
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,GROUND FLOOR,M L SPACES,DASHRATHLAL JOSHI MARG,STATION ROAD,VILE PARLE WEST MUMBAI 400056",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000067",
+            "office": "VILE PARLE WEST",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37172
+    },
+    {
+        "fields": {
+            "address": "ROYALE IMPERIA, GROUND FLOOR, SHOP NO.1 TO 4,PLOT NO. 105,CHARMAR BAUG ROAD,PAREL MUMBAI 400012",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000068",
+            "office": "PAREL",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37173
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1, RAMYA JEEVAN COOP HOUSING SOCIETY LTD, MAHAKALI CAVES ROAD, ANDHERI EAST, MUMBAI 400093",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BCBM0000069",
+            "office": "ANDHERI EAST MAHAKALI CAVES ROAD BRANCH",
+            "phone": "61890106",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37174
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHOP NO.1,PLOT NO.368,HOTEL SIDDHARTH BLDG, SHRI SAI GURU AASHISH BLDG,NEXT TO BANDRA LAKE, SWAMI VIVEKANAND ROAD, BANDRA WEST MUMBAI 400050",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000070",
+            "office": "BANDRA WEST",
+            "phone": "26417602",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37175
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR OF COSMIC HERITAGE,SHOP NO.2, G.G. MAHAKARI MARG, KOKNIPADA, MALAD EAST, MUMBAI - 400097",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000071",
+            "office": "MALAD EAST - KOKNIPADA",
+            "phone": "61890107",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37176
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR OF STOP AND GO COMPLEX,DAMAN ROAD,NEAR DABHEL CHECK POST,VAPI,VALSAD - 396191",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VALSAD",
+            "ifsc": "BCBM0000072",
+            "office": "VAPI",
+            "phone": "61890000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37177
+    },
+    {
+        "fields": {
+            "address": "GALA NO.1 AND 2,GROUND FLOOR OF SHREE KUTCHHI BRAHMA KSHATRIYA PANCHAYAT, NEAR CROMPTON GREAVES CO, KANJUR VILLAGE ROAD,KANJURMARG EAST, MUMBAI-400042",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000073",
+            "office": "KANJURMARG EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37178
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 AND 5, GODAVARI HEIGHTS, NEAR DATTA MANDIR, BAJIPRABHU DESHPANDE ROAD, VADAVLI, AMBERNATH EAST, DIST-THANE 421501",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "BCBM0000074",
+            "office": "AMBERNATH EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37179
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SANMAN APARTMENTS,NEAR RAM MANDIR,NAVPUR ROAD,SARAVALI VILLAGE,BOISAR,DIST PALGHAR - 401501",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "PALGHAR",
+            "ifsc": "BCBM0000075",
+            "office": "BOISAR",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37180
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 7,8 AND 9,GROUND FLOOR, RAMDEV COMPLEX CHSL, PLOT NO.53, SECTOR 19, AIROLI, NAVI MUMBAI- 400708",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "AIROLI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "BCBM0000076",
+            "office": "AIROLI",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37181
+    },
+    {
+        "fields": {
+            "address": "PARAGON PRIMA, GROUND FLOOR, NO.39, 8TH MAIN, KORAMANGALA, 4TH BLOCK BENGALURU- 560034",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "BCBM0000077",
+            "office": "KORAMANGALA",
+            "phone": "61890000",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37182
+    },
+    {
+        "fields": {
+            "address": "R R PLAZA, GROUND FLOOR, GOVIDARAJ NAGAR, B BLOCK, KHB COLONY, NEAR A2B HOTEL, MAGADI ROAD, BENGALURU- 560040",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "BCBM0000078",
+            "office": "MAGADI MAIN ROAD",
+            "phone": "61890000",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37183
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. A-1, GROUND FLOOR, SUNRAYS SHOPPING CENTER, SECTOR NO.5, CHARKOP MARKET, KANDIVALI (WEST) MUMBAI- 400067",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000079",
+            "office": "CHARKOP KANDIVALI WEST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37184
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, RITE GOLDEN CREST, DAULAT NAGAR, S.V ROAD, BORIVALI EAST, MUMBAI- 400066",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000080",
+            "office": "BORIVALI EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37185
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,2A, BHAVESHWAR BUILDING, NEAR PODDAR HOSPITAL, 148-B, DR. ANNIE BESANT ROAD, WORLI, MUMBAI- 400018",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000081",
+            "office": "WORLI",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37186
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 111,112 AND 209, MIDTOWN HEIGHTS, PIZZAINN, JETALPUR ROAD, ALKAPURI, VADODARA- 390007",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "BCBM0000082",
+            "office": "VADODARA",
+            "phone": "61890000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37187
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, CENTRAL BAZZAR,OPP. VARACHHA POLICE STATION, MINI BAZAR, VARACHHA, SURAT- 395006",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "BCBM0000083",
+            "office": "SURAT",
+            "phone": "61890000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37188
+    },
+    {
+        "fields": {
+            "address": "FINAL PLOT NO. 549/20, BHUTTE PATIL VERTEX TOWER, GHOLE ROAD, SHIVAJINAGAR, PUNE - 411005",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BCBM0000084",
+            "office": "SHIVAJI NAGAR - PUNE",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37189
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5 TO 9, SURYAMUKHI CHSL, BUILDING NO. 46, NEHRU NAGAR, KURLA EAST, MUMBAI - 400024",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000085",
+            "office": "KURLA EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37190
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO.1, FIRST FLOOR, SHAH ARCADE II, CTS 502, RANI SATI MARG, MALAD EAST, MUMBAI- 400097",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "BCBM0000086",
+            "office": "MALAD RANI SATI",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37191
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.101 TO 106, 1ST FLOOR, KHODAL CHAMBER, PATEL CHOWK, 60 FEET ROAD, GHATKOPAR EAST, MUMBAI- 400077",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000087",
+            "office": "GHATKOPAR EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37192
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3 AND 4, JAI KRUPA CHS LTD, BEHIND RANI BAUG, RAMBHAU BHOGALE MARG, BEHIND RANI BAUG, GHODAPDEV, BYCULLA EAST, MUMBAI- 400033",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000088",
+            "office": "BYCULLA",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37193
+    },
+    {
+        "fields": {
+            "address": "BUNGLOW NO. 2, SHREE MIRA CHS LTD., AKURLI ROAD, KANDIVLI EAST, MUMBAI-400101",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000089",
+            "office": "AKURLI ROAD KANDIVLI EAST",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37194
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, HOTEL THE ESHOSANS PALACE, PIMPALWADI ROAD, TALUKA RAHATA, DISTRICT AHMEDNAGAR- 423109",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BCBM0000090",
+            "office": "SHIRDI",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37195
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHREE KRISHNA PARK, DIVA-SHILL ROAD, THANE DISTRICT, DIVA EAST- 400612",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BCBM0000091",
+            "office": "DIVA",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37196
+    },
+    {
+        "fields": {
+            "address": "GROUND & FIRST FLOOR, C1/101, DAFFODIL, HIRANANDANI GARDENS, POWAI, MUMBAI- 400076",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000092",
+            "office": "POWAI",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37197
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR NO.1, ABHISHREE ADROIT, JUDGES BUNGALOW ROAD, NEAR MANSI CIRCLE, VASTRAPUR, AHMEDABAD- 380015",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "BCBM0000093",
+            "office": "AHMEDABAD",
+            "phone": "61890000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37198
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GADA NIWAS, 222, NARSHI NATHA STREET, BHAT BAZAR, MASJID BUNDER (WEST), MUMBAI- 400009",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000094",
+            "office": "MASJID BUNDER",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37199
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, SHOP NO 104, ARIHANT REALTORS, VAISHALI NAGAR, BR ROAD, SHREE NAGAR, MULUND WEST, MUMBAI- 400080",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000095",
+            "office": "SHREE NAGAR MULUND WEST",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37200
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 24 TO 27, GROUND FLOOR, PUNIT NAGAR, OPP. PHELIA HOSPITAL, TEMBODE ROAD, PALGHAR WEST- 401404",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "BCBM0000096",
+            "office": "PALGHAR",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37201
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, AMAR EMPIRE, NEAR GOAVES CIRCLE, KHANAPUR ROAD, BELAGAVI- 590001",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BELAGAVI",
+            "district": "BELAGAVI",
+            "ifsc": "BCBM0000097",
+            "office": "BELAGAVI",
+            "phone": "1",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37202
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SATELLITE COMPLEX, KOPPIKAR ROAD, HUBBALI- 580020",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "HUBBALI",
+            "district": "DHARWAD",
+            "ifsc": "BCBM0000098",
+            "office": "HUBBALI",
+            "phone": "1",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37203
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 1 AND 2, AMI JHAROKHA, I.C. COLONY ROAD, BORIVALI (WEST), MUMBAI- 400103",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000099",
+            "office": "I.C. COLONY BORIVALI WEST",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37204
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3 TO 7, JAMNADAS MANSION, LAXMINARAYAN LANE, MATUNGA (EAST), MUMBAI - 400019",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "BCBM0000100",
+            "office": "MATUNGA EAST",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37205
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 5 AND FIRST FLOOR, SHOP NO.6, DHARVESH GRAND, 4TH ROAD, NEAR KHAR STATION ROAD, KHAR (WEST), MUMBAI - 400052",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "BCBM0000101",
+            "office": "KHAR WEST",
+            "phone": "1",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37206
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15,16,29 AND 30, R.S. NO. 204/P, OMKAR II, PIRAMAN, ANKLESHWAR - 393002",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "BHARUCH",
+            "district": "BHARUCH",
+            "ifsc": "BCBM0000102",
+            "office": "ANKLESHWAR",
+            "phone": "61890000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37207
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO.47, GROUND FLOOR AND FIRST FLOOR, THE MAHATMA CHS LTD., GOLIBAR ROAD, JAWAHAR NAGAR, KHAR EAST-400055",
+            "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BCBM0000103",
+            "office": "KHAR EAST",
+            "phone": "61890000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37208
+    }
+]

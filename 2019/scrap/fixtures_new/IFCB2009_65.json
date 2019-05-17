@@ -1,0 +1,1517 @@
+[
+    {
+        "fields": {
+            "address": "90 M G ROAD, FORT",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036001",
+            "office": "RTGS-HO",
+            "phone": "22683301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41449
+    },
+    {
+        "fields": {
+            "address": "142 MG ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036002",
+            "office": "142 MG ROAD",
+            "phone": "66134722",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41450
+    },
+    {
+        "fields": {
+            "address": "31, CHOWRINGHEE ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036003",
+            "office": "31 CHOWRINGHEE",
+            "phone": "22465151",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41451
+    },
+    {
+        "fields": {
+            "address": "CF347 SECTOR 1",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036004",
+            "office": "SALT LAKE CF",
+            "phone": "23349958",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41452
+    },
+    {
+        "fields": {
+            "address": "208 R.B.AVENUE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036005",
+            "office": "GARIAHAT",
+            "phone": "24635757",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41453
+    },
+    {
+        "fields": {
+            "address": "21A, RG KAR ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036006",
+            "office": "RG KAR",
+            "phone": "25551870",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41454
+    },
+    {
+        "fields": {
+            "address": "17/SA NALINI RANJAN AVENUE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036007",
+            "office": "NEW ALIPORE",
+            "phone": "24789770",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41455
+    },
+    {
+        "fields": {
+            "address": "19, N S ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036008",
+            "office": "19 N S ROAD",
+            "phone": "2222 0101",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41456
+    },
+    {
+        "fields": {
+            "address": "41 CHOWRINGHEE ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036009",
+            "office": "41 CHOWRINGHEE",
+            "phone": "22889430",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41457
+    },
+    {
+        "fields": {
+            "address": "163 RASH BEHARI AVENUE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036010",
+            "office": "R B AVENUE",
+            "phone": "24661906",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41458
+    },
+    {
+        "fields": {
+            "address": "139C BIDHAN SARANI,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036011",
+            "office": "BIDHAN SARANI",
+            "phone": "22801809",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41459
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. G-3, 164/1, MANI SQUARE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036012",
+            "office": "MANI SQUARE",
+            "phone": "23370927",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41460
+    },
+    {
+        "fields": {
+            "address": "6, CHURCH LANE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036013",
+            "office": "CHURCHLANE",
+            "phone": "22420998",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41461
+    },
+    {
+        "fields": {
+            "address": "21-A SHAKESPEARE SARANI",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036014",
+            "office": "SHAKESPEARE SARANI",
+            "phone": "22801809",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41462
+    },
+    {
+        "fields": {
+            "address": "1/425, GARIAHAT ROAD SOUTH",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036015",
+            "office": "JODHPUR PARK",
+            "phone": "24148718",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41463
+    },
+    {
+        "fields": {
+            "address": "G.N. BORDOLOI ROAD, AMBARI,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP",
+            "ifsc": "SCBL0036016",
+            "office": "GUWAHATI",
+            "phone": "2632264",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41464
+    },
+    {
+        "fields": {
+            "address": "BHAGWATI DWARAKA ARCADE PLOT 830P",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "SCBL0036017",
+            "office": "PATNA",
+            "phone": "2223124",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41465
+    },
+    {
+        "fields": {
+            "address": "PLOT#3",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BHUBANESWAR",
+            "district": "KHURDA",
+            "ifsc": "SCBL0036018",
+            "office": "BHUBANESWAR",
+            "phone": "2539485",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41466
+    },
+    {
+        "fields": {
+            "address": "NO.8 & 9,CITY PLAZA ,SEVOKE ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "SILIGURI",
+            "district": "DARJEELING",
+            "ifsc": "SCBL0036019",
+            "office": "SILIGURI",
+            "phone": "2535991",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41467
+    },
+    {
+        "fields": {
+            "address": "NARAIN MANZIL",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036020",
+            "office": "BARAKHAMBA ROAD",
+            "phone": "43518905",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41468
+    },
+    {
+        "fields": {
+            "address": "M BLOCK MARKET",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036021",
+            "office": "GREATER KAILASH II",
+            "phone": "41669256",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41469
+    },
+    {
+        "fields": {
+            "address": "16/105, M.G. ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KANPUR",
+            "district": "KANPUR NAGAR",
+            "ifsc": "SCBL0036022",
+            "office": "KANPUR",
+            "phone": "2306536",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41470
+    },
+    {
+        "fields": {
+            "address": "ADITYA ARCADE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036023",
+            "office": "PREET VIHAR",
+            "phone": "22440201",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41471
+    },
+    {
+        "fields": {
+            "address": "K-3 BRAHM DATT TOWER",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "GAUTAM BODDA NAGAR",
+            "ifsc": "SCBL0036024",
+            "office": "NOIDA",
+            "phone": "4323759",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41472
+    },
+    {
+        "fields": {
+            "address": "DLF BUILDING, NO 7A",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "GURGAON",
+            "ifsc": "SCBL0036025",
+            "office": "DLF GURGAON",
+            "phone": "4059036",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41473
+    },
+    {
+        "fields": {
+            "address": "S 32, GREEN PARK MAIN MARKET",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036026",
+            "office": "GREEN PARK",
+            "phone": "23713101",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41474
+    },
+    {
+        "fields": {
+            "address": "10 SANSAD MARG,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036027",
+            "office": "SANSAD MARG",
+            "phone": "23406202",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41475
+    },
+    {
+        "fields": {
+            "address": "HL WINGS, POCKET 4",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036028",
+            "office": "DWARKA BRANCH",
+            "phone": "23406202",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41476
+    },
+    {
+        "fields": {
+            "address": "41, CENTRAL MARKET,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036029",
+            "office": "PUNJABI BAGH",
+            "phone": "42466792",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41477
+    },
+    {
+        "fields": {
+            "address": "13/37, WEA",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036030",
+            "office": "KAROL BAGH",
+            "phone": "41546964",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41478
+    },
+    {
+        "fields": {
+            "address": "13, MALCHA MARG",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036031",
+            "office": "CHANAKYAPURI",
+            "phone": "26882196",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41479
+    },
+    {
+        "fields": {
+            "address": "M-1, SOUTH EXTENSION PART II,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036032",
+            "office": "SOUTH EXTENSION",
+            "phone": "41644866",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41480
+    },
+    {
+        "fields": {
+            "address": "B -68, GREATER KAILASH - 1,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036033",
+            "office": "GREATER KAILASH",
+            "phone": "29245433",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41481
+    },
+    {
+        "fields": {
+            "address": "20, COMMUNITY CENTRE,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036034",
+            "office": "NEW FRIENDS COLONY",
+            "phone": "41672305",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41482
+    },
+    {
+        "fields": {
+            "address": "SCO, 137-138 SECTOR 9C",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "SCBL0036035",
+            "office": "CHANDIGARH",
+            "phone": "5072880",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41483
+    },
+    {
+        "fields": {
+            "address": "NARAIN AUTOMOBILES,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "SCBL0036036",
+            "office": "LUCKNOW",
+            "phone": "2201870",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41484
+    },
+    {
+        "fields": {
+            "address": "SCO 16-17, FEROZE GANDHI MARKET",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "SCBL0036037",
+            "office": "LUDHIANA",
+            "phone": "5084030",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41485
+    },
+    {
+        "fields": {
+            "address": "360, THE MALL",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "AMRITSAR",
+            "district": "AMRITSAR",
+            "ifsc": "SCBL0036038",
+            "office": "AMRITSAR",
+            "phone": "5003756",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41486
+    },
+    {
+        "fields": {
+            "address": "H-8 BHAGWAT BHAWAN",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "SCBL0036039",
+            "office": "JAIPUR",
+            "phone": "5116072",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41487
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.34, G.T.ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "SCBL0036040",
+            "office": "JALANDHAR",
+            "phone": "5073410",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41488
+    },
+    {
+        "fields": {
+            "address": "SCF - 77 SECTOR 14",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "GURGAON",
+            "ifsc": "SCBL0036041",
+            "office": "SECTOR-14, GURGAON",
+            "phone": "4088702",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41489
+    },
+    {
+        "fields": {
+            "address": "E - 26, SAKET,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036042",
+            "office": "SAKET",
+            "phone": "41021454",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41490
+    },
+    {
+        "fields": {
+            "address": "B-1/517 , JANAKPURI",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036043",
+            "office": "JANAKPURI",
+            "phone": "41589327",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41491
+    },
+    {
+        "fields": {
+            "address": "2 SARDAR PATEL MARG",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "ALLAHABAD",
+            "district": "ALLAHABAD",
+            "ifsc": "SCBL0036044",
+            "office": "ALLAHABAD",
+            "phone": "2427070",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41492
+    },
+    {
+        "fields": {
+            "address": "A2, 3, 4, HB, TWIN TOWER, PITAMPURA",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036045",
+            "office": "PITAMPURA",
+            "phone": "42470867",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41493
+    },
+    {
+        "fields": {
+            "address": "OPP. VSNL",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036046",
+            "office": "23-25 M G ROAD",
+            "phone": "22792122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41494
+    },
+    {
+        "fields": {
+            "address": "SHREE PANT BHUVAN,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036047",
+            "office": "CHOWPATTY",
+            "phone": "23642168",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41495
+    },
+    {
+        "fields": {
+            "address": "JUNCTION OF JUHU & S V",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036048",
+            "office": "CENTER POINT",
+            "phone": "26493966",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41496
+    },
+    {
+        "fields": {
+            "address": "170 ASHOK BLDG DERASAR LANE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036049",
+            "office": "GHATKOPAR",
+            "phone": "25125542",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41497
+    },
+    {
+        "fields": {
+            "address": "364/365 SHREERANG HOUSE,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SCBL0036050",
+            "office": "PUNE",
+            "phone": "25521880",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41498
+    },
+    {
+        "fields": {
+            "address": "ABHIJEET II, GROUND FLOOR",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "SCBL0036051",
+            "office": "AHMEDABAD",
+            "phone": "6468300",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41499
+    },
+    {
+        "fields": {
+            "address": "201B/1, WESTERN EXPRESS HIGHWAY",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036052",
+            "office": "STANDARD CHARTERED TOWER",
+            "phone": "67373171",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41500
+    },
+    {
+        "fields": {
+            "address": "21-23SAMARTH VAIBHAV,ANDHERI(W),",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036053",
+            "office": "LOKHANDWALA",
+            "phone": "26327732",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41501
+    },
+    {
+        "fields": {
+            "address": "49 DOBSON ROAD,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "HOWRAH",
+            "ifsc": "SCBL0036054",
+            "office": "HOWRAH",
+            "phone": "26662541",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41502
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI MANDIR, ,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036055",
+            "office": "DADAR",
+            "phone": "24331920",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41503
+    },
+    {
+        "fields": {
+            "address": "65-F, VITHALBHAI PATEL ROAD,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036056",
+            "office": "SANTACRUZ",
+            "phone": "26487510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41504
+    },
+    {
+        "fields": {
+            "address": "UNIQUE CENTRE,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036057",
+            "office": "BANDRA",
+            "phone": "26443908",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41505
+    },
+    {
+        "fields": {
+            "address": "B21, SANGHVI PARITOSH",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036058",
+            "office": "JUHU",
+            "phone": "26134705",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41506
+    },
+    {
+        "fields": {
+            "address": "87, BHULABAI DESAI RD,BREACH CANDY,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036059",
+            "office": "BREACH CANDY",
+            "phone": "23696265",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41507
+    },
+    {
+        "fields": {
+            "address": "UNIT 101, DELTA BUILDING",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036060",
+            "office": "POWAI",
+            "phone": "22019692",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41508
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NORTHERN WING",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "SCBL0036061",
+            "office": "BHOPAL",
+            "phone": "2554280",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41509
+    },
+    {
+        "fields": {
+            "address": "GOKULESH",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BARODA",
+            "district": "VADODARA",
+            "ifsc": "SCBL0036062",
+            "office": "BARODA",
+            "phone": "2320071",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41510
+    },
+    {
+        "fields": {
+            "address": "C.K TOWER,NR SARGAM SHOPPING CNTR",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "SCBL0036063",
+            "office": "SURAT",
+            "phone": "2220110",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41511
+    },
+    {
+        "fields": {
+            "address": "BUSINESS EMPIRE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "SCBL0036064",
+            "office": "RAJKOT",
+            "phone": "5526002",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41512
+    },
+    {
+        "fields": {
+            "address": "NARANG TOWERS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "SCBL0036065",
+            "office": "NAGPUR",
+            "phone": "5620700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41513
+    },
+    {
+        "fields": {
+            "address": "GARDEN APTS, DIAMOND GARDEN CHS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036066",
+            "office": "CHEMBUR",
+            "phone": "25207392",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41514
+    },
+    {
+        "fields": {
+            "address": "ADITYA APTS, CTS NO. 639,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036067",
+            "office": "BORIVALI",
+            "phone": "28663900",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41515
+    },
+    {
+        "fields": {
+            "address": "HIRANANDANI MEADOWS,EMERALD PLAZA",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "SCBL0036068",
+            "office": "THANE",
+            "phone": "25890784",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41516
+    },
+    {
+        "fields": {
+            "address": "D.M TOWERS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "SCBL0036069",
+            "office": "INDORE",
+            "phone": "5206900",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41517
+    },
+    {
+        "fields": {
+            "address": "AMEYA HOUSE, RAJ KUMAR CORNER",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036070",
+            "office": "ANDHERI (W)",
+            "phone": "26790239",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41518
+    },
+    {
+        "fields": {
+            "address": "BABA PLAZA, AKASHWANI SQ, JALGAON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "SCBL0036071",
+            "office": "JALGAON",
+            "phone": "2237400",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41519
+    },
+    {
+        "fields": {
+            "address": "29/30 DR. RADHAKRISHNA SALAI",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036072",
+            "office": "MYLAPORE",
+            "phone": "42107373",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41520
+    },
+    {
+        "fields": {
+            "address": "SERENITY GRND FLR",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "SCBL0036073",
+            "office": "KORAMANGALA",
+            "phone": "6707 9501",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41521
+    },
+    {
+        "fields": {
+            "address": "RAHEJA TOWERS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "SCBL0036074",
+            "office": "M G ROAD",
+            "phone": "66310004",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41522
+    },
+    {
+        "fields": {
+            "address": "6-3-1090, RAJ BHAVAN ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD URBAN",
+            "ifsc": "SCBL0036075",
+            "office": "HYDERABAD",
+            "phone": "23321160",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41523
+    },
+    {
+        "fields": {
+            "address": "HDFC HOUSE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "SCBL0036076",
+            "office": "ERNAKULAM",
+            "phone": "2359086",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41524
+    },
+    {
+        "fields": {
+            "address": "509, D.B.ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBOTORE",
+            "ifsc": "SCBL0036077",
+            "office": "COIMBATORE",
+            "phone": "2550589",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41525
+    },
+    {
+        "fields": {
+            "address": "19,RAJAJI SALAI,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036078",
+            "office": "RAJAJI SALAI",
+            "phone": "25349200",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41526
+    },
+    {
+        "fields": {
+            "address": "GRINDLAYS GARDEN",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036079",
+            "office": "HADDOWS ROAD",
+            "phone": "282 19666",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41527
+    },
+    {
+        "fields": {
+            "address": "NO. 6, LATTICE BRIDGE ROAD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036080",
+            "office": "SORRENTO",
+            "phone": "42027272",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41528
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, UNIT NO.2A&3",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "SECUNDERABAD",
+            "district": "HYDERABAD URBAN",
+            "ifsc": "SCBL0036081",
+            "office": "SECUNDERABAD",
+            "phone": "6690 7050",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41529
+    },
+    {
+        "fields": {
+            "address": "G K ARCADE, GROUND FLOOR,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "SCBL0036082",
+            "office": "ERNAKULAM-GK ARCADE",
+            "phone": "2550589",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41530
+    },
+    {
+        "fields": {
+            "address": "SAGAS AMAR COURT",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036083",
+            "office": "T NAGAR",
+            "phone": "28158707",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41531
+    },
+    {
+        "fields": {
+            "address": "OPP. VSNL",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036084",
+            "office": "23-25 M G ROAD",
+            "phone": "22683301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41532
+    },
+    {
+        "fields": {
+            "address": "CRESCENZO BUILDING",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "SCBL0036085",
+            "office": "CRESCENZO BUILDING",
+            "phone": "26757033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41533
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, EXPRESS BUILDING",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SCBL0036086",
+            "office": "EXPRESS TOWERS",
+            "phone": "23308094",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41534
+    },
+    {
+        "fields": {
+            "address": "G-08, ATRIA,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "SCBL0036087",
+            "office": "GURUSADAY ROAD",
+            "phone": "22900768",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41535
+    },
+    {
+        "fields": {
+            "address": "NEWRY, PLOT NO.106, OLD DOOR NO.11,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "SCBL0036088",
+            "office": "ANNA NAGAR",
+            "phone": "66014444",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41536
+    },
+    {
+        "fields": {
+            "address": "G2-G3, PRESTIGE POSEIDON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "SCBL0036089",
+            "office": "PRESTIGE POSEIDON",
+            "phone": "41188952",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41537
+    },
+    {
+        "fields": {
+            "address": "#8-2-293/82/A/646/A, GROUND FLOOR,",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD URBAN",
+            "ifsc": "SCBL0036090",
+            "office": "JUBILEE HILLS",
+            "phone": "39404444",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41538
+    },
+    {
+        "fields": {
+            "address": "B2 THE CEREBRUM IT PARK",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SCBL0036091",
+            "office": "KALYANI NAGAR",
+            "phone": "66803800",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41539
+    },
+    {
+        "fields": {
+            "address": "PACIFIC MALL,PLOT NO. C-1/B",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "MATHURA",
+            "district": "MATHURA",
+            "ifsc": "SCBL0036092",
+            "office": "MATHURA",
+            "phone": "3206014",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41540
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MEGHANA MANSION,24/25",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "PRODDATUR",
+            "district": "CUDDAPAH",
+            "ifsc": "SCBL0036093",
+            "office": "PRODDATUR",
+            "phone": "248841",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41541
+    },
+    {
+        "fields": {
+            "address": "KRISHNA TOWERS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "SCBL0036094",
+            "office": "DEHRADUN",
+            "phone": "3242061",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41542
+    },
+    {
+        "fields": {
+            "address": "MUNDARJA,NO. 262, DELHI",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SCBL0036095",
+            "office": "SAHARANPUR",
+            "phone": "2764855",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41543
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,APEX SQUARE BANK STRET",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "SCBL0036096",
+            "office": "UDAIPUR",
+            "phone": "9587797777",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41544
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO. 839",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHAPUR",
+            "ifsc": "SCBL0036097",
+            "office": "JODHPUR",
+            "phone": "2433878",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41545
+    },
+    {
+        "fields": {
+            "address": "SHARMA COMPLEX,PLOT NO.491,WARD NO.38,PARASIA ROAD,CHHINDWARA 480001.MADHYA PRADESH",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "CHHINDWARA",
+            "district": "CHHINDWARA",
+            "ifsc": "SCBL0036098",
+            "office": "CHHINDWARA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41546
+    },
+    {
+        "fields": {
+            "address": "STANDARD CHARTERED BANK, GROUND & F",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "TRIVANDRUM",
+            "district": "TRIVANDRUM",
+            "ifsc": "SCBL0036099",
+            "office": "TRIVANDRUM",
+            "phone": "9847025257",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41547
+    },
+    {
+        "fields": {
+            "address": "4, KRISHNA ENCLAVE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "AGRA",
+            "district": "AGRA",
+            "ifsc": "SCBL0036100",
+            "office": "AGRA",
+            "phone": "9760090441",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41548
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KHASRA NO - 356 & 357, VILLAGE MOHANPURA, PARGANA TEHSIL AND DISTRICT BAREILLY, UTTAR PRADESH",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "branch": "",
+            "city": "BAREILLY",
+            "district": "BAREILLY",
+            "ifsc": "SCBL0036101",
+            "office": "TEHSIL BAREILLY",
+            "phone": "9557935666",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 41549
+    }
+]

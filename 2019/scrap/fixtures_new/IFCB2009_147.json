@@ -1,0 +1,1697 @@
+[
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., P.B.NO. 8, CIVIL LINES, S.A. COLLEGE ROAD, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000001",
+            "office": "RTGS-HO",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121309
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MARKET YARD, APMC, NEAR SHIVAJI COLLEGE, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000002",
+            "office": "MARKET YARD BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121310
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KAPAD BAZAR,TILAK ROAD, RAYAT HAWELI, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000003",
+            "office": "KAPAD BAZAR BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121311
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., JAI HIND CHOWK, OLD CITY, AKOLA. 444002",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000004",
+            "office": "SHRI RAJESHWAR BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121312
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH Z.P., NEAR COLLECTOR OFFICE, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000005",
+            "office": "ZP BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121313
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., CIVIL LINES BRANCH, S.A. COLLEGE ROAD, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000006",
+            "office": "CIVIL LINES BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121314
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., RAMDAS PETH, NEAR BIRLA GATE, AKOLA. 444005",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000007",
+            "office": "MAHILA BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121315
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., ADARSH COLONY, NEAR ADARSH VIDYALAYA, AKOLA. 444005",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000008",
+            "office": "SAH.MAH.DR.ANNASAHEB KORPE NGR BR-AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121316
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., IN P.D.K.V. PREMICES, AKOLA. 444004",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000009",
+            "office": "DR.PDKV BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121317
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DABKI ROAD, NEAR KHANDELWAL HIGH SCHOOL, GODBOLE PLOT, DABKI ROAD, OLD CITY, AKOLA. 444002",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000010",
+            "office": "DABKI ROAD BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121318
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TUKARAM CHOWK, SANT TUKARAM HOSPITAL CHOWK, GORAKSHAN ROAD, AKOLA. 444002",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000011",
+            "office": "TUKARAM SQUARE BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121319
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BORGAON MANJU AT. PO. BORGAON MANJU, TQ. DIST. AKOLA. 444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BORGAON-MANJU",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000012",
+            "office": "BORGAON MANJU BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121320
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PALSO, AT. PO. PALSO, TQ. DIST. AKOLA. 444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PALSO",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000013",
+            "office": "PALSO BADHE BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121321
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MHAISANG, AT. PO. MHAISANG, TQ. DIST. AKOLA. 444003",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MHYSANG",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000014",
+            "office": "MHAISANG BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121322
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KANSHIVANI, AT. PO. KANSHIVANI, TQ. DIST. AKOLA 444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000015",
+            "office": "KANSHIVANI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121323
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH GANDHIGRAM, AT. PO. GANDHIGRAM, TQ. DIST.AKOLA. 444006",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "GANDHIGRAM",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000016",
+            "office": "GANDHIGRAM BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121324
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BR. CHIKHALGAON, AT.PO. CHIKHALGAON, TQ. DIST. AKOLA. 444006",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000017",
+            "office": "CHIKHALGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121325
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DAHIHANDA, AT. PO. DAHIHANDA, TQ. DIST. AKOLA. 444111",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "GANDHIGRAM",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000018",
+            "office": "DAHIHANDA \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121326
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PATUR NANDAPUR, AT. PO. PATUR NANDAPUR, TQ.DIST. AKOLA. 444407",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PATUR NANDAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000019",
+            "office": "PATUR NANDAPUR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121327
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KURANKHED, AT. PO. KURANKHED, TQ.DIST.AKOLA. 444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KURANKHED",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000020",
+            "office": "KURANKHED BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121328
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH GOREGAON KD., AT. PO. GOREGAON KD., TQ. DIST. AKOLA. 444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "GOREGAON(KHURD)",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000021",
+            "office": "GOREGAON KHURD BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121329
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., JATHARPETH, UMARI ROAD, NEAR PATIL MARKET, AKOLA.  444005",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "UMRI",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000022",
+            "office": "UMRI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121330
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KHADKI BK., AT. KHADKI BK., PO. CHANDUR, TQ. DIST. AKOLA. 444004",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000023",
+            "office": "KHADAKI-CHANDUR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121331
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH RANPISE NAGAR, RANPISE NAGAR, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000024",
+            "office": "RANPISE NAGAR BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121332
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AGAR, AT. PO. AGAR, TQ. DIST. AKOLA.  444006",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000025",
+            "office": "AAGAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121333
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH RATANLAL PLOT, NEAR RAGHUVANSHI MANGAL KARYALAYA, RATANLAL PLOT, AKOLA. 444001",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000026",
+            "office": "RATANLAL PLOTS BRANCH - AKOLA",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121334
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BARSHITAKLI, AT. PO. TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BARSI-TAKLI",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000028",
+            "office": "BARSHITAKLI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121335
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PINJAR, AT. PO. PINJAR, TQ. BARSHITAKLI, DIST. AKOLA. 444407",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PINJAR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000029",
+            "office": "PINJAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121336
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MAHAN, AT. PO. MAHAN, TQ. BARSHITAKLI, DIST. AKOLA. 444405",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MAHAN",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000030",
+            "office": "MAHAN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121337
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KANHERI SARAP, AT. PO. KANHERI SARAP, TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KANHERI SARAP",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000031",
+            "office": "KANHERI SARAP BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121338
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH DHABA, AT. PO. DHABA, TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHABA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000032",
+            "office": "DHABA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121339
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOT MAIN, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000033",
+            "office": "AKOT MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121340
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOT CITY, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000034",
+            "office": "AKOT CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121341
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH NARSING MANDIR, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000035",
+            "office": "AKOT NARSING MANDIR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121342
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH SAVARA, AT. PO. SAVARA, TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000036",
+            "office": "SAVARA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121343
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DIST. CENTRAL COOP. BANK LTD., BRANCH RAUNDALA, AT PO. DEVRI PHATA PARISAR, NEAR SWAMI VIVEKANAND CONVENT. TQ. AKOT DIST. AKOLA., 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHAUHATTA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000037",
+            "office": "RAUNDALA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121344
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH CHOHOTTA BAZAR, AT. PO. CHOHOTTA BAZAR, TQ. AKOT, DIST. AKOLA. 444125",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHAUHATTA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000038",
+            "office": "CHOHOTTA BAZAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121345
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WARUD JAULKA, AT. PO. WARUD JAULKA,TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHAUHATTA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000039",
+            "office": "WARUL JAULKA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121346
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOLKHED, AT. PO. AKOLKHED, TQ. AKOT, DIST.AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000040",
+            "office": "AKOLKHED BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121347
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KUTASA, AT. PO. KUTASA, TQ. AKOT, DIST. AKOLA. 444101",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KUTASA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000041",
+            "office": "KUTASA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121348
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MUNDGAON, AT. PO. MUNDGAON, TQ. AKOT, DIST. AKOLA. 444117",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUNDGAON",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000042",
+            "office": "MUNDGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121349
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TELHARA MAIN, AT. PO. TQ.TELHARA,  DIST. AKOLA. 444108",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "TELHARA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000043",
+            "office": "TELHARA MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121350
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TELHARA CITY, AT. PO. TQ.TELHARA,  DIST. AKOLA. 444108",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "TELHARA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000044",
+            "office": "TELHARA CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121351
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH HIWARKHED, AT. PO. HIWARKHED, TQ. TELHARA, DIST.AKOLA. 444103",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "HIWARKHED",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000045",
+            "office": "HIWARKHED BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121352
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DANAPUR, AT. PO. DANAPUR, TQ. TELHARA, DIST.AKOLA. 444129",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "DANAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000046",
+            "office": "DANAPUR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121353
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PATHARDI, AT. PO. PATHARDI, TQ. TELHARA, DIST.AKOLA. 444117",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PATHARDI",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000047",
+            "office": "PATHARDI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121354
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH BELKHED, AT. PO. BELKHED, TQ. TELHARA, DIST.AKOLA. 444108",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "TELHARA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000048",
+            "office": "BELKHED BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121355
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH ADSUL, AT. PO. ADSUL, TQ. TELHARA, DIST. AKOLA. 444108",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "TELHARA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000049",
+            "office": "AADSUL \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121356
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH ADGAON, AT.PO. ADGAON, TQ. TELHARA, DIST.AKOLA. 444126",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ADGAON BK",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000050",
+            "office": "ADGAON BUJRUK BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121357
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BALAPUR, AT.PO. TQ. BALAPUR, DIST. AKOLA. 444302",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BALAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000051",
+            "office": "BALAPUR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121358
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH URAL BK., AT. PO. URAL BK., TQ. BALAPUR, DIST.AKOLA. 444311",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "URAL(BK)",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000052",
+            "office": "URAL BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121359
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WADEGAON, AT. PO. WADEGAON, TQ. BALAPUR, DIST. AKOLA. 444502",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WADEGAON",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000053",
+            "office": "WADEGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121360
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH NIMBA, AT. PO. NIMBA, TQ. BALAPUR, DIST.AKOLA. 444311",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "NIMBA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000054",
+            "office": "NIMBA \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121361
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PARAS, AT. PO. PARAS, TQ. BALAPUR, DIST.AKOLA. 444109",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARAS",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000055",
+            "office": "PARAS BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121362
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH HATRUN, AT. PO. HATRUN, TQ. BALAPUR, DIST.AKOLA 444109",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARAS",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000056",
+            "office": "HATRUN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121363
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH VYALA, AT. PO. VYALA, TQ. BALAPUR, DIST.AKOLA. 444302",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "VYALA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000057",
+            "office": "VYALA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121364
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PATUR, AT. PO. TQ. PATUR, DIST. AKOLA. 444501",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PATUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000058",
+            "office": "PATUR \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121365
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH CHANNI, AT. PO. CHANNI, TQ. PATUR, DIST. AKOLA. 444501",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANNI",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000059",
+            "office": "CHANNI \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121366
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH ALEGAON, AT. PO. ALEGAON, TQ. PATUR, DIST.AKOLA. 444511",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ALEGAON",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000060",
+            "office": "AALEGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121367
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH VIWARA, AT. PO. VIWARA, TQ. PATUR, DIST. AKOLA. 444511",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BABULGAON",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000061",
+            "office": "VIWARA BABHULGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121368
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SASTI, AT. PO. SASTI, TQ. PATUR, DIST. AKOLA. 444501",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SASTI",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000062",
+            "office": "SASTI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121369
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR MAIN, AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MURTIZAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000064",
+            "office": "MURTIJAPUR MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121370
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR M.Y., AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MURTIZAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000065",
+            "office": "MURTIJAPUR MARKET YARD BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121371
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR CITY, AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MURTIZAPUR",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000066",
+            "office": "MURTIJAPUR CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121372
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANA, AT. PO. MANA, TQ. MURTIZAPUR, DIST.AKOLA. 444106",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANA",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000067",
+            "office": "MANA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121373
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KURUM, AT. PO. KURUM, TQ. MURTIZAPUR, DIST.AKOLA. 444115",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KURUM",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000068",
+            "office": "KURUM BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121374
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KARANJA MAIN, AT. PO. TQ. KARANJA,  DIST.WASHIM. 444105",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KARANJA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000070",
+            "office": "KARANJA MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121375
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KARANJA CITY, AT. PO. TQ. KARANJA,  DIST.WASHIM. 444105",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KARANJA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000071",
+            "office": "KARANJA CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121376
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KAMARGAON, AT. PO. KAMARGAON, TQ.KARANJA DIST. WASHIM. 444110",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KAMARGAON",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000072",
+            "office": "KAMARGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121377
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH UMBARDA BAZAR, AT. PO. UMBARDA BAZAR, TQ.KARANJA, DIST. WASHIM.444102",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "UMBARDA BAZAR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000073",
+            "office": "UMBARDA BAZAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121378
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DHANAJ BK, AT. PO. DHANAJ BK., TQ. KARANJA, DIST. WASHIM. 444110",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHANAJ BUDRUK",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000074",
+            "office": "DHANAJ BUJRUK BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121379
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANBHA, AT. PO. MANBHA, TQ. KARANJA, DIST.WASHIM. 444105",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "UMBARDA BAZAR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000075",
+            "office": "MANBHA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121380
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH POHA, AT. PO. POHA, TQ. KARANJA, DIST.WASHIM 444105",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KARANJA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000076",
+            "office": "POHA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121381
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KAJALESHWAR, AT. PO. KAJALESHWAR, TQ. KARANJA DIST. WASHIM. 444017",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KAJALESHWAR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000077",
+            "office": "KAJALESHWAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121382
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGRULPIR MAIN, AT. PO. TQ. MANGRULPIR, DIST.WASHIM. 444403",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRULPIR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000078",
+            "office": "MANGRULPIR MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121383
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGRULPIR CITY, AT. PO. TQ. MANGRULPIR, DIST.WASHIM. 444403",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRULPIR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000079",
+            "office": "MANGRULPIR CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121384
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MOHARI, AT. PO. MOHARI, TQ. MANGRULPIR, DIST.WASHIM. 444403",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRULPIR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000080",
+            "office": "MOHARI \u252c\u00e1BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121385
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHELU BAZAR, AT. PO. SHELU BAZAR, TQ.MANGRULPIR, DIST. WASHIM. 444402",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SELU BAZAR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000081",
+            "office": "SHELU BAZAR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121386
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WANOJA, AT. PO. WANOJA, TQ. MANGRULPIR, DIST.WASHIM. 444402",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SELU BAZAR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000082",
+            "office": "WANOJA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121387
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DHANORA, AT. PO. DHANORA, TQ. MANGRULPIR, DIST. WASHIM. 444507",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRULPIR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000083",
+            "office": "DHANORA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121388
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANORA, AT. PO. TQ. MANORA, DIST. WASHIM. 444404",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANORA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000084",
+            "office": "MANORA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121389
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHENDURJANA, AT. PO. SHENDURJANA, TQ.MANORA, DIST. WASHIM. 444403",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SHENDURJANA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000085",
+            "office": "SHENDURJANA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121390
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH POHARADEVI, AT. PO. POHARADEVI, TQ. MANORA, DIST. WASHIM. 444404",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "POHARADEVI",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000086",
+            "office": "POHARADEVI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121391
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SAKHARDOH, AT. PO. SAKHARDOH, TQ. MANORA, DIST. WASHIM. 444403",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANORA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000087",
+            "office": "SAKHARDOH BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121392
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WASHIM MAIN, NEAR BUS STAND, WASHIM TQ.DIST. WASHIM,  444505",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000088",
+            "office": "WASHIM MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121393
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WASHIM CITY, SHUKRAWAR PETH, WASHIM, TQ.DIST.WASHIM. 444505",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000089",
+            "office": "WASHIM CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121394
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH ANSING, AT. PO. ANSING, TQ. DIST. WASHIM. 444507",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ANSING",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000090",
+            "office": "ANSING BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121395
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH TONDGAON, AT. PO. TONDGAON, TQ.DIST.WASHIM 444505",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000091",
+            "office": "TONDGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121396
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PARDITAKMOR, AT. PO. PARDITAKMOR, TQ.DIST.WASHIM. 444505",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARDI TAKMOR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000092",
+            "office": "PARDI TAKMOR BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121397
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MALEGAON, AT. PO. TQ. MALEGAON, DIST.WASHIM. 444503",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MALEGAON",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000093",
+            "office": "MALEGAON BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121398
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KINHIRAJA, AT. PO. KINHIRAJA, TQ. MALEGAON, DIST.WASHIM. 444503",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KINHIRAJA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000094",
+            "office": "KINHIRAJA BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121399
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHIRPUR, AT. PO. SHIRPUR, TQ. MALEGAON, DIST.WASHIM. 444504",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SHIRPUR",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000095",
+            "office": "SHIRPUR JAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121400
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MEDSHI, AT. PO. MEDSHI, TQ. MALEGAON, DIST.WASHIM. 444512",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEDSHI",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000096",
+            "office": "MEDSHI BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121401
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PANGRIKUTE, AT. PO. PANGRIKUTE, TQ. MALEGAON DIST. WASHIM. 444503",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MALEGAON",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000097",
+            "office": "PANGRIKUTE BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121402
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH JAULKA RLY, AT. PO. JAULKA RLY, TQ. MALEGAON, DIST. WASHIM. 444503",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "JAULKA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000098",
+            "office": "JAULKA RAILWAY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121403
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RISOD MAIN, AT. PO. TQ. RISOD, DIST. WASHIM. 444506",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000099",
+            "office": "RISOD MAIN BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121404
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RISOD CITY, AT. PO. TQ. RISOD, DIST. WASHIM. 444506",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000100",
+            "office": "RISOD CITY BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121405
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RITHAD, AT. PO. RITHAD, TQ. RISOD, DIST.WASHIM 444510",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RITHAD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000101",
+            "office": "RITHAD BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121406
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KENWAD, AT. PO. KENWAD, TQ. RISOD, DIST.WASHIM. 444503",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KENWAD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000102",
+            "office": "KENWAD BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121407
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGUL ZANAK, AT. PO. MANGUL ZANAK, TQ. RISOD, DIST. WASHIM. 444504",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRUL ZANAK",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000103",
+            "office": "MANGULZANAK BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121408
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH HARAL, AT. PO. HARAL, TQ. RISOD, DIST. WASHIM. 444510",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000104",
+            "office": "HARAL BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121409
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MOP, AT. PO. MOP, TQ. RISOD, DIST. WASHIM 444506",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000105",
+            "office": "MOP BRANCH",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121410
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KESHAVNAGAR, AT. PO. KESHAVNAGAR, TQ. RISOD DIST. WASHIM. 444504",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MASALA PEN",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000106",
+            "office": "KESHAV NAGAR",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121411
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH WAKAD, AT.PO. WAKAD, TQ. RISOD, DIST. WASHIM 444506",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WAKAD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000107",
+            "office": "WAKAD",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121412
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK LTD., CHIKHALI",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000108",
+            "office": "CHIKHALI EXTENSION COUNTER",
+            "phone": "225533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121413
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK LTD., KASOLA",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KASOLA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000109",
+            "office": "KASOLA",
+            "phone": "2415785",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121414
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK LTD., IN FRONT OF GRAM PANCHAYAT BORDI",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000110",
+            "office": "BORDI EXTENSION COUNTER",
+            "phone": "2415785",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121415
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PATNI CHOWK, AT.PO. WASHIM, TQ. WASHIM, DIST. WASHIM 444506",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000111",
+            "office": "PATNI CHOWK BRANCH WASHIM",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121416
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK LTD., ASEGAON",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ASEGAON",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000112",
+            "office": "ASEGAON EXTENSION COUNTER",
+            "phone": "2415785",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121417
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., ZP BRANCH WASHIM",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000113",
+            "office": "ZP WASHIM BRANCH",
+            "phone": "232063",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121418
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL CO OPERATIVE BANK LTD., AKOLA, HIWARKHED",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "HIWARKHED",
+            "district": "AKOLA",
+            "ifsc": "ADCC0000114",
+            "office": "HIWARKHED EXTENSION COUNTER",
+            "phone": "285228",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121419
+    },
+    {
+        "fields": {
+            "address": "THE AKOLA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., AKOLA, BRANCH INZORI, TA- MANORA, DIST. WASHIM",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "INZORI",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000115",
+            "office": "INZORI",
+            "phone": "263225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121420
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 DAHATONDE COMPLEX RANI ZASHI CHOWK BYPASS ROAD KARANJA",
+            "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KARANJA",
+            "district": "WASHIM",
+            "ifsc": "ADCC0000116",
+            "office": "KARANJA MARKET YARD",
+            "phone": "2415105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121421
+    }
+]

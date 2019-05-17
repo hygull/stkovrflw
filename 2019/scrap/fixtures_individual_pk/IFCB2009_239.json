@@ -1,0 +1,242 @@
+[
+    {
+        "fields": {
+            "address": "PLOT NO.372/73/74,CHATRAPATI SHIVAJI MARKET YARD,GULTEKADI,PUNE-411037",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000001",
+            "office": "RTGS-HO",
+            "phone": "24263343",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "711,NAYARAN PETH,RAMCHANDRA APARTMENT,PUNE-411030",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000002",
+            "office": "LAXMI ROAD",
+            "phone": "24458516",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "17/7,SAI HOUSE,NEAR EXCEL PETROL PUMP,KARVE ROAD,PUNE-411004",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000003",
+            "office": "KARVE ROAD",
+            "phone": "25411332",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "468,RAVIWAR PETH,VAJRADEHI CHOWK,PHADAKE HAUD,PUNE-411002",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000004",
+            "office": "RAVIWAR PETH",
+            "phone": "24482202",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 372/73/74,CHATRAPATI SHIVAJI MARKET YARD,GULTEKADI,PUNE-411037",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000005",
+            "office": "MARKET YARD",
+            "phone": "24263342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "571/72,NANA PETH,PUNE 411002",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000006",
+            "office": "NANA PETH",
+            "phone": "26336455",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "PRESTIGE COMPLEX,TELCO ROAD,CHINCHWAD STATION,PUNE-411019",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000007",
+            "office": "PIMPRI CHINCHWAD",
+            "phone": "27471194",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "GIRIJA SHANKAR VIHAR,S.NO.30/2B,KARVENAGAR,PUNE-411029",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000008",
+            "office": "KARVE NAGAR",
+            "phone": "25434890",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "299,KALBADEVI ROAD,MUMBAI 411 002",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MSBL0000009",
+            "office": "KALBADEVI ROAD MUMBAI",
+            "phone": "22407515",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,2,KUMAR CASTLE,OPP.SAINT ANNES SCHOOL.CONVENT STREET,CAMP,PUNE-411001",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000010",
+            "office": "PUNE CAMP",
+            "phone": "26336861",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "GANGA BHAGYODAY,SHOP NO 4,S.NO 35 TO 40,NEAR PETROL PUMP,SINGHAGAD ROAD,VADGAON BUDRUK,PUNE-411051",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000011",
+            "office": "PUNE SINHGAD ROAD",
+            "phone": "24606440",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "KAMAKSHI PLAZA,CITY S.NO.16590,12/539,SHAHU CORNER ROAD,ICHALKARANJI - 416115",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "MSBL0000012",
+            "office": "ICHALKARANJI",
+            "phone": "2433033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "S.NO.138& 137,SHOP 6,7,8& 9 GROUND FLOOR,ASTRAL COURT - B WING,OPP.GAIKWAD PETROL PUMP,MARUTRAO GAIKWAD NAGAR,AUNDH,PUNE-411007",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000013",
+            "office": "AUNDH",
+            "phone": "65272791",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "S.NO.205,CITY S.NO.4709 TILAKNAGAR,MAIN ROAD,LATUR-412512",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "MSBL0000014",
+            "office": "LATUR",
+            "phone": "250440",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "S.NO.84,7A& 3C RUTURAJ BEHIND VAIBHAV THEATRE LANE,HADAPSAR,PUNE-411028",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MSBL0000015",
+            "office": "HADAPSAR",
+            "phone": "26878000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2 18A,18B CITY CENTRE,CTS NO 8792/93/94,KAMATGHAR,DHAMANKAR NAKA,BHIVANDI,DIST THANE 421302",
+            "bank_name": "Mahesh Sahakari Bank Ltd Pune",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MSBL0000016",
+            "office": "BHIVANDI",
+            "phone": "238176",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    }
+]

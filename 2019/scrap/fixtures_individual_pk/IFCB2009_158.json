@@ -1,0 +1,752 @@
+[
+    {
+        "fields": {
+            "address": "31,NETAJI SUBHASH MARG,DARYAGANJ,NEW DELHI 110002",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "DLSC0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "31,NETAJI SUBHASH MARG,DARYAGANJ,NEW DELHI 110002",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "CENTRAL",
+            "ifsc": "DLSC0000002",
+            "office": "DARYAGANJ",
+            "phone": "23273883",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "15 BY 16,JANPATH LANE,JANPATH,NEW DELHI 110001",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "DLSC0000003",
+            "office": "NEW DELHI",
+            "phone": "23321668",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "18823,LAHORI GATE,KHARI BAOLI,DELHI 110006",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "CENTRAL",
+            "ifsc": "DLSC0000004",
+            "office": "KHARI BAOLI",
+            "phone": "23978496",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "1465 BY 7,GALI NO 7,KOTLA MUBARAKPUR,DELHI 110003",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000005",
+            "office": "SOUTH EXTENSION",
+            "phone": "24626663",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "3,SIRIFORT INST.AREA,AUGUST KRANTI MARG,HAUZ KHAS,NEW DELHI 110016",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000006",
+            "office": "HAUZ KHAS",
+            "phone": "26562064",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "219,MAIN BAZAR,NEAR SHIV MANDIR,BADARPUR,NEW DELHI 110044",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000007",
+            "office": "BADARPUR",
+            "phone": "26946351",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "15 A,WARD NO.1,MEHRAULI,NEW DELHI 110030",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000008",
+            "office": "MEHRAULI",
+            "phone": "26641437",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "D 379,AZADPUR MANDI,AZADPUR,DELHI 110033",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000009",
+            "office": "AZADPUR",
+            "phone": "27671795",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "C BY O APNA BAZAR,KARAMPURA,MOTI NAGAR,DELHI 110015",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000010",
+            "office": "MOTI NAGAR",
+            "phone": "25101917",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "383 BY 10B,1ST FLOOR,MAIN ROAD,EAST AZAD NAGAR,NEAR SURYA NURSING HOME,SHAHDARA DELHI 51",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SHAHDARA",
+            "ifsc": "DLSC0000011",
+            "office": "SHAHDARA",
+            "phone": "22096889",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "OPP.JAT DHARAMSHALA,RAILWAY ROAD,NEAR BUS TERMINAL,NARELA,DELHI 110040",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000012",
+            "office": "NARELA",
+            "phone": "27784322",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "MAIN ROHTAK ROAD,NEAR BUS STAND,NANGLOI,DELHI 110041",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000013",
+            "office": "NANGLOI",
+            "phone": "25944226",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KRISHNA COMPLEX,IST FLOOR,GAUSHALA ROAD,NAJAFGARH,DELHI 110043",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH WEST",
+            "ifsc": "DLSC0000014",
+            "office": "NAJAFGARH",
+            "phone": "25016235",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "OPP.MTNL BUILDING,MAIN NAJAFGARH ROAD,BIJWASAN,DELHI 110061",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH WEST",
+            "ifsc": "DLSC0000015",
+            "office": "BIJWASAN",
+            "phone": "28063767",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "F 3,WEAVERS COLONY,BHARAT NAGAR,DELHI 110052",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000016",
+            "office": "BHARAT NAGAR",
+            "phone": "27306144",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "DSIDC BUILDING,7 BY A,WEAVERS COLONY,SUNDER NAGRI,NAND NAGRI,DELHI 110093",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SHAHDARA",
+            "ifsc": "DLSC0000017",
+            "office": "NAND NAGRI",
+            "phone": "22575130",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "DHANNA COMPLEX,RANI KHERA MORE,MAIN ROHTAK ROAD,MUNDKA,DELHI 110041",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000019",
+            "office": "MUNDKA",
+            "phone": "28342665",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "UMDESH BHAWAN,MAIN PALAM ROAD,PALAM VILLAGE,DELHI 110045",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH WEST",
+            "ifsc": "DLSC0000020",
+            "office": "PALAM",
+            "phone": "25086038",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "MEHTAB PRADHAN S BUILDING,MAIN SOHATI ROAD,NEAR SIR CHOTU RAM PARK,QUTABGARH,DELHI 110039",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000021",
+            "office": "QUTAB GARH",
+            "phone": "27741553",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "MAIN KHANJAWALA ROAD,GUGAN SINGH MARKET,BUDH VIHAR,DELHI 110086",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000022",
+            "office": "BUDH VIHAR",
+            "phone": "27532604",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND,MAIN KANJHAWALA ROAD,KARALA,DELHI 110081",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000023",
+            "office": "KARALA",
+            "phone": "25952917",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "MAIN AUCHANDI ROAD,NEAR BUS STAND,BAWANA,DELHI 110039",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000024",
+            "office": "BAWANA",
+            "phone": "27751220",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "MAIN BAWANA ROAD,OPP.BUS STOP,SHAHABAD DAULATPUR,DELHI 110042",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000025",
+            "office": "SHAHBAD DAULATPUR",
+            "phone": "27883417",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "A 3,DDA MARKET,NEAR NAVBHARAT APPTS,PASCHIM VIHAR,DELHI 110063",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000026",
+            "office": "PASCHIM VIHAR",
+            "phone": "25276486",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "F 398,KHAJOORI KHAS COLONY,MAIN WAZIRABAD ROAD,BHAJANPURA,GOKUL PURI,DELHI 110094",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH EAST",
+            "ifsc": "DLSC0000027",
+            "office": "BHAJANPURA",
+            "phone": "22968928",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "APMC BUILDING,ADMINISTRATIVE BLOCK,CH.CHET RAM SABJI MANDI,OUTER RING ROAD,KESHOPUR,DELHI 110018",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000028",
+            "office": "KESHOPUR",
+            "phone": "28336896",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,NEAR CHOTTU RAM PUBLIC SCHOOL,BAKHTAWARPUR,DELHI 110036",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000029",
+            "office": "BAKHTAWAR PUR",
+            "phone": "27722160",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "D 84,TIKONA PARK,OKHLA VILLAGE,DELHI 110025",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000030",
+            "office": "OKHLA",
+            "phone": "26326316",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "576,MAIN MARKET,V.P.O.CHIRAG DELHI,DELHI 110017",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000031",
+            "office": "CHIRAGH DELHI",
+            "phone": "29250116",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "MAIN JAGATPURI ROAD,WAZIRABAD VILLAGE,DELHI 110084",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH EAST",
+            "ifsc": "DLSC0000032",
+            "office": "WAZIRABAD",
+            "phone": "27650351",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "2047 48,F.A.M.E.BUILDING,OLD ANAJ MANDI,NARELA MANDI,DELHI 110040",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000033",
+            "office": "NARELA MANDI",
+            "phone": "27285900",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "C 424,MAIN 100 FOOT ROAD,NEAR DURGAPURI CHOWK,CHAJJUPUR DELHI 110032",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SHAHDARA",
+            "ifsc": "DLSC0000034",
+            "office": "CHAJJUPUR",
+            "phone": "22831494",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "657,1ST FLOOR,NEAR BUS STAND,MAIN ROAD,BURARI,DELHI 110084",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "CENTRAL",
+            "ifsc": "DLSC0000035",
+            "office": "BURARI",
+            "phone": "27619647",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "C BY O RAJINDERA PUBLIC SCHOOL,50 FOOT ROAD,NIHAL VIHAR,DELHI 110041",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000036",
+            "office": "NIHAL VIHAR",
+            "phone": "65168300",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "MAIN BAWANA ROAD,NEAR SHRI KRISHAN MANDIR,POOTH KHURD,DELHI 110039",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000037",
+            "office": "POOTH KHURD",
+            "phone": "27761117",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "150,MAIN BUS STAND,DEOLI VILLAGE,DELHI 110062",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000038",
+            "office": "DEOLI",
+            "phone": "29911167",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "NEAR BUS STAND,GHEVRA,DELHI 110081",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000039",
+            "office": "GHEORA",
+            "phone": "25950405",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "BHUP SINGH COMPLEX,LABOUR CHOWK,SAMAYPUR VILLAGE,DELHI 110042",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000040",
+            "office": "SAMAY PUR BADLI",
+            "phone": "27834696",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "J 21,GAMRI ROAD,WEST GHONDA,DELHI 110053",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH EAST",
+            "ifsc": "DLSC0000041",
+            "office": "GHONDA",
+            "phone": "22944343",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "MAIN HOLAMBI ROAD,KHERA KHURD,DELHI 110082",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000042",
+            "office": "KHERA KHURD",
+            "phone": "27844994",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "VPO NANGLI POONA,NEAR PANCHAYAT GHAR,DELHI 110 036",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000043",
+            "office": "NANGLI POONA",
+            "phone": "27731428",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD OPP.BUS STAND,TILANGPUR KOTLA,NEW DELHI 110043",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH WEST",
+            "ifsc": "DLSC0000044",
+            "office": "TILANGPUR KOTLA",
+            "phone": "9210705343",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VPO MADIPUR,DELHI 110063",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000081",
+            "office": "MADIPUR",
+            "phone": "25219039",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "OPP.DAYAL MARKET,SOCIETY BUILDING,ALIPUR,DELHI 36",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH",
+            "ifsc": "DLSC0000082",
+            "office": "ALIPUR",
+            "phone": "27708216",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "MAIN BUS STAND,NILOTHI,DELHI 110041",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "WEST",
+            "ifsc": "DLSC0000083",
+            "office": "NILOTHI",
+            "phone": "28363335",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "RASHID MARKET,GEETA COLONY DELHI 110092",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "EAST",
+            "ifsc": "DLSC0000084",
+            "office": "GEETA COLONY",
+            "phone": "22447211",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "O 7,8 NEAR RATION OFFICE,MANGOLPURI,DELHI",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000085",
+            "office": "MANGOLPURI",
+            "phone": "27917464",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "MAANDI NEW DELHI  H.NO.1,MAANDI VILLAGE,NEAR TELEPHONE EXCHANGE,NEW DELHI 110 047",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NORTH WEST",
+            "ifsc": "DLSC0000086",
+            "office": "MAANDI",
+            "phone": "9717904415",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "CHANDPUR NEW DELHI  H NO 9,V P O CHANDPUR,NEAR NDPL TRANSFORMER,DELHI 110 081",
+            "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH",
+            "ifsc": "DLSC0000087",
+            "office": "CHANDPUR",
+            "phone": "26651615",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    }
+]

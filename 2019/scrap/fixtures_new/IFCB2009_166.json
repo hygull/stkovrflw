@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
+            "bank_name": "SHIKSHAK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "SKSB0000001",
+            "office": "RTGS-HO",
+            "phone": "2774866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2405
+    },
+    {
+        "fields": {
+            "address": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
+            "bank_name": "SHIKSHAK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "SKSB0000002",
+            "office": "HEAD OFFICE",
+            "phone": "2774866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2406
+    }
+]

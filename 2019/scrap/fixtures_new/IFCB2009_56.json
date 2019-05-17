@@ -1,0 +1,1382 @@
+[
+    {
+        "fields": {
+            "address": "SAHAKAR MURTI GOPINATH SHIVRAM PATIL BHAVAN, PARSIK NAGAR KALWA, THANE 400605",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALWA",
+            "district": "THANE",
+            "ifsc": "PJSB0000002",
+            "office": "HEAD OFFICE",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61981
+    },
+    {
+        "fields": {
+            "address": "KALWA BRANCH, CREEK VIEW APARTMENT, 1ST FLOOR, BOMBAY PUNE ROAD,KALWA, THANE - 400 605.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALWA",
+            "district": "THANE",
+            "ifsc": "PJSB0000003",
+            "office": "KALWA BRANCH",
+            "phone": "25378350",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61982
+    },
+    {
+        "fields": {
+            "address": "BELAPUR BRANCH, BHAU PATIL BUILDING, BELAPUR - 400 614.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BELAPUR",
+            "district": "THANE",
+            "ifsc": "PJSB0000004",
+            "office": "BELAPUR BRANCH",
+            "phone": "27572628",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61983
+    },
+    {
+        "fields": {
+            "address": "KOPARKHAIRNE BRANCH, PLOT NO. 80, SECTOR NO. 5, KOPARKHAIRNE - 400 709.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KOPARKHAIRNE",
+            "district": "THANE",
+            "ifsc": "PJSB0000005",
+            "office": "KOPARKHAIRNE BRANCH,",
+            "phone": "27541916",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61984
+    },
+    {
+        "fields": {
+            "address": "HIGH STREET CUM HIGHLAND CORPORATE CENTRE, GROUND FLOOR GB-149 NEAR BIG BAZAR MAJIWADE THANE 400607",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MAJIWADE, THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000006",
+            "office": "MAJIWADE BRANCH",
+            "phone": "25420359",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61985
+    },
+    {
+        "fields": {
+            "address": "KHARKAR ALI BRANCH, VAISHNAV MANDIR BUILDING, GR.FLOOR, JAMBHALI NAKA, KHARKAR ALI, THANE.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KHARKAR ALI , THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000007",
+            "office": "KHARKAR ALI BRANCH",
+            "phone": "25369037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61986
+    },
+    {
+        "fields": {
+            "address": "SAIRAM APARTMENT 1ST FLOOR KANERI DHAMANKAR NAKA BHIWANDI 421302",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "PJSB0000008",
+            "office": "BHIWANDI BRANCH",
+            "phone": "225257",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61987
+    },
+    {
+        "fields": {
+            "address": "NERUL NAGAR BRANCH, PLOT NO. 4B, SECTOR NO. 3, NERUL, NAVI MUMBAI - 400 706.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NERUL",
+            "district": "THANE",
+            "ifsc": "PJSB0000009",
+            "office": "NERUL NAGAR BRANCH,",
+            "phone": "27707654",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61988
+    },
+    {
+        "fields": {
+            "address": "LOUISWADI BRANCH, SURABHI APARTMENT, GROUND FLOOR, LOUISWADI, THANE.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "LOUISWADI THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000010",
+            "office": "LOUISWADI BRANCH",
+            "phone": "25811096",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61989
+    },
+    {
+        "fields": {
+            "address": "A.P.M.C. MARKET BRANCH, CENTRAL FACILITY BUILDING,  A.P.M.C.MARKET, SECTOR  19, VASHI, NAVI MUMBAI.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "VASHI",
+            "district": "THANE",
+            "ifsc": "PJSB0000011",
+            "office": "A.P.M.C. MARKET BRANCH",
+            "phone": "27654035",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61990
+    },
+    {
+        "fields": {
+            "address": "KHARIGAON BRANCH, JAY BHARAT SPORTS CLUB BUILDING, KHARIGOON, PAKHADI, POST. KALWA, DIST. THANE- 400 605.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALWA",
+            "district": "THANE",
+            "ifsc": "PJSB0000012",
+            "office": "KHARIGAON BRANCH",
+            "phone": "27654035",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61991
+    },
+    {
+        "fields": {
+            "address": "AIROLI SECTOR - 1 BRANCH, OM SHANTI COMMERCIAL PREMISES CO.OP. HSG. SOCIETY, SECTOR NO.1, AIROLI, NAVI MUMBAI - 400 708.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "AIROLI",
+            "district": "THANE",
+            "ifsc": "PJSB0000013",
+            "office": "AIROLI SECTOR - 1 BRANCH",
+            "phone": "27790662",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61992
+    },
+    {
+        "fields": {
+            "address": "SANPADA BRANCH, PLOT NO. 7, SECTOR - 5, SANPADA, NAVI MUMBAI - 400 705.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "SANPADA",
+            "district": "THANE",
+            "ifsc": "PJSB0000014",
+            "office": "SANPADA BRANCH",
+            "phone": "27754939",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61993
+    },
+    {
+        "fields": {
+            "address": "SECTOR NO 17 DNYAN VIKAS SANSTHA VIDYALAYA KOPARKHAIRNE 400709",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KOPARKHAIRNE",
+            "district": "THANE",
+            "ifsc": "PJSB0000015",
+            "office": "KOPARKHAIRNE SECTOR 17",
+            "phone": "27546051",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61994
+    },
+    {
+        "fields": {
+            "address": "SHIVSAMARTH SAHAKARI PATHPEDHI LTD, GROUND FLOOR PLOT NO 23A SECTOR 5 AIROLI 400708",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "AIROLI",
+            "district": "THANE",
+            "ifsc": "PJSB0000016",
+            "office": "AIROLI SECTOR - 5 BRANCH,",
+            "phone": "27794883",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61995
+    },
+    {
+        "fields": {
+            "address": "NAUPADA BRANCH, HEMENDRA SHOPPING CENTRE, 1ST FLOOR, GOKHALE ROAD, NAUPADA, THANE - 400 602.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000017",
+            "office": "NAUPADA BRANCH",
+            "phone": "25364707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61996
+    },
+    {
+        "fields": {
+            "address": "SAHAKAR MURTI GOPINATH SHIVRAM PATIL BHAVAN, PARSIK NAGAR KALWA, THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALWA",
+            "district": "THANE",
+            "ifsc": "PJSB0000018",
+            "office": "PARSIK NAGAR BRANCH",
+            "phone": "25456551",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61997
+    },
+    {
+        "fields": {
+            "address": "NERUL PHASE - II BRANCH, PLOT NO. 28/B, SECTOR NO. 10, NERUL, OPP. SARSOLE BUS STOP, NAVI MUMBAI - 400 708.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NERUL",
+            "district": "THANE",
+            "ifsc": "PJSB0000019",
+            "office": "NERUL PHASE - II BRANCH",
+            "phone": "27716864",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61998
+    },
+    {
+        "fields": {
+            "address": "PURUSHOTTAM PLAZA BLDG NO1 FIRST FLOOR, GHODBANDAR ROAD KAWARWADAVALI, THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000020",
+            "office": "KASARVADAVALI BRANCH",
+            "phone": "25970629",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 61999
+    },
+    {
+        "fields": {
+            "address": "KALYAN BRANCH, PYARA-DECK BUILDING, GALA NO. 5 & 6, OPP. BIRLA COLLEGE, MHADA PLOT NO. C - 1, S.  NO.42/A, TAL. KALYAN, DIST. THANE - 421 301.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "PJSB0000021",
+            "office": "KALYAN BRANCH",
+            "phone": "2316846",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62000
+    },
+    {
+        "fields": {
+            "address": "SHETKARI UNNATI MANDAL PARSHURAM DHONDU TAWARE VIDYALAYA TAL BHIWANDI DIST THANE 421302",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALHER",
+            "district": "THANE",
+            "ifsc": "PJSB0000022",
+            "office": "KALHER",
+            "phone": "276688",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62001
+    },
+    {
+        "fields": {
+            "address": "30/32 RAMVADI, PRABHU SUNDAR CO-OP. HSG.SOC. KALBADEVI ROAD, MUMBAI 400 002",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALBADEVI, MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "PJSB0000023",
+            "office": "KALBADEVI, MUMBAI",
+            "phone": "22037080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62002
+    },
+    {
+        "fields": {
+            "address": "HALL NO1 & 2, SHREE VINAYAK BUILDING 1ST FLOOR, SARVODAYA COMPEX, BHAYANDAR (E) DIST.- THANE 401 107",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "PJSB0000025",
+            "office": "BHAYANDAR",
+            "phone": "28126500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62003
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.72, 1ST FLOOR, KOT NAKA, URAN.  DIST. RAIGAD 400 702",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "URAN",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000026",
+            "office": "URAN",
+            "phone": "27230505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62004
+    },
+    {
+        "fields": {
+            "address": "SAIPRASAD BUILDING, 1ST FLOOR POST ANJUR, MANKOLI, TAL. BHIWANDI. THANE  421302",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000027",
+            "office": "MANKOLI",
+            "phone": "266600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62005
+    },
+    {
+        "fields": {
+            "address": "GB-NEA/107 SAI ARCADE GROUND FLOOR, OPP. PANVEL BUS STAND PANVEL DIST. RAIGAD",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000028",
+            "office": "PANVEL",
+            "phone": "27451867",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62006
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2 & 3 GROUND FLOOR SHIVPARVATI BUILDING PLOT NO 5-A, SECTOR 11, KAMOTHE, NAVI MUMBAI",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KAMOTHE",
+            "district": "THANE",
+            "ifsc": "PJSB0000029",
+            "office": "KAMOTHE BRANCH",
+            "phone": "27430751",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62007
+    },
+    {
+        "fields": {
+            "address": "SAIPLAZA BUILDING, 1ST FLOOR, SHAHAPUR BUS STAND, SHAHAPUR, TAL. SHAHAPUR, DIST. THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "PJSB0000030",
+            "office": "SHAHAPUR BRANCH",
+            "phone": "270097",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62008
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 21, GROUND FLOOR, SHREE BALAJI KRUPA COOP SOCIETY, PLOT NO 19A, SECTOR 20, KHARGHAR NAVI MUMBAI",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KHARGHAR",
+            "district": "THANE",
+            "ifsc": "PJSB0000031",
+            "office": "KHARGHAR BRANCH",
+            "phone": "27744943",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62009
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 0336, SECTOR GHA NODE, GHANSOLI, NAVI MUMBAI",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "GHANSOLI",
+            "district": "THANE",
+            "ifsc": "PJSB0000032",
+            "office": "GHANSOLI BRANCH",
+            "phone": "27693171",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62010
+    },
+    {
+        "fields": {
+            "address": "SHREEJI BUILDING SHOP NO 8,9,32-CBLOCK, VILLAGE KATRAP , KULGAON BADLAPUR, TAL. AMBERNAH, DIST. THANE.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "PJSB0000034",
+            "office": "BADLAPUR",
+            "phone": "2691225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62011
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.7 TO 10 GROUND FLOOR, ROHINI APARTMENT PADMASHRI TARMALE NAGAR, VASIND, TAL SHAHAPUR, DIST. THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "VASIND",
+            "district": "THANE",
+            "ifsc": "PJSB0000035",
+            "office": "VASIND",
+            "phone": "222981",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62012
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 & 2 , GROUND FLOOR R-PLAZIA, NEAR SWASTIK RIGALIA, KAVESAR GHODBUNDER ROAD, WAGHBIL THANE 400615.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "WAGHBIL",
+            "district": "THANE",
+            "ifsc": "PJSB0000036",
+            "office": "WAGHBIL",
+            "phone": "25975108",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62013
+    },
+    {
+        "fields": {
+            "address": "SHIVKRUPA BUILDING, 1ST FLOOR, SURVEY NO 210/7,8 SHILGAON TAL. & DIST. THANE 421204",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "SHILGAON",
+            "district": "THANE",
+            "ifsc": "PJSB0000037",
+            "office": "SHILGAON",
+            "phone": "25491070",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62014
+    },
+    {
+        "fields": {
+            "address": "AT A-101 PRESIDENT PLAZA SHIVAJI CHOWK BHIWANDI DIST. THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "PJSB0000038",
+            "office": "SHIVAJI CHOWK, BHIWANDI",
+            "phone": "225255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62015
+    },
+    {
+        "fields": {
+            "address": "VIMAL SMRUTI, GROUND FLOOR, PLOT NO 467 B  SECTOR-22, TURBHE, NAVI MUMBAI 400703",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "TURBHE",
+            "district": "THANE",
+            "ifsc": "PJSB0000039",
+            "office": "TURBHE",
+            "phone": "27831170",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62016
+    },
+    {
+        "fields": {
+            "address": "DHANRAJ SHOPPING CENTRE, GROUND FLOOR SABA (DIVA) THANE 400612",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "DIVA",
+            "district": "THANE",
+            "ifsc": "PJSB0000040",
+            "office": "SABA DIVA",
+            "phone": "25318823",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62017
+    },
+    {
+        "fields": {
+            "address": "PREM VIHSNU APARTMENT, SHOP NO1, AND 2 CHAPHEKAR BANDHU MARG MULUND EAST MUMBAI 400612",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MULUND",
+            "district": "GREATER BOMBAY",
+            "ifsc": "PJSB0000041",
+            "office": "MULUND",
+            "phone": "21639761",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62018
+    },
+    {
+        "fields": {
+            "address": "C QUEEN EXCELLANCY SHOP NO 1,2,3, SECTOR 44 A, PLOT NO 63,64,65 AND 73,74,75 OFF PALM BEACH ROAD NEAR SEAWOOD STATION KARAVE NERUL WEST NAVI MUMBAI 400706",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KARAVE",
+            "district": "THANE",
+            "ifsc": "PJSB0000042",
+            "office": "KARAVE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62019
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 VISHRAM CO.OP. HSG. SOC. VITAWA, KALWA, THANE 400605.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000043",
+            "office": "VITAWA",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62020
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.31,32,33,34,35, DURVAS TOWER, BLDG. NO.3, TYPE 0, SECTOR - IV YASHWANT VIVA TOWNSHIP ACHOLE TAL VASAI EAST DIST. THANE",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000044",
+            "office": "VASAI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62021
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 & 2, DEVSHRUSHTI COMPLEX, NAVADE PHATA, IN FRON OF NAVADE GRAM PANCHAYAT DIST. RAIGAD",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "RAIGAD",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000045",
+            "office": "NAVADE",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62022
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2,3,4 & 5, GROUND FLOOR, SUCHIT SQUARE, VILLAGE AYRE, DR. R P ROAD, DOMBIVLI EAST, THANE 421201",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000046",
+            "office": "DOMBIVLI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62023
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 4 & 5, GROUND FLOOR, KK LANDMARK BUILDING, PLOT NO. 82, SECTOR - 23E, ULWE, TAL. PANVEL, DIST. RAIGAD - 402303",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000047",
+            "office": "ULWE",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62024
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 , GROUND FLOOR, ROYAL JEWEL, SURYODAYA CO-OP HSG. SOC. LTD. PLOT NO. 19, VILLAGE KOHOJ, KHUNTAVALI, TAL. AMBERNATH, DIST. THANE421 501.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "PJSB0000048",
+            "office": "AMBERNATH",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62025
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 6,7 & 8, GOUND FLOOR, SACHDEV COMPLEX, J.M. ROAD, BHANDUP WEST, MUMBAI - 400078.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000049",
+            "office": "BHANDUP",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62026
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1& 2,GROUND FLOOR,HARESHWAR PARADISE,KANDARPADA,NEW LINK ROAD,DAHISAR WEST,TAL.BORIVALI,MUMBAI -400068",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000050",
+            "office": "DAHISAR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62027
+    },
+    {
+        "fields": {
+            "address": "MURBAD BRANCH, CONGRESS BHAVAN BUILDING, 1ST FLOOR, MURBAD, THANE.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "PJSB0000051",
+            "office": "MURBAD BRANCH",
+            "phone": "222183",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62028
+    },
+    {
+        "fields": {
+            "address": "PADAGHA BRANCH, MASAHEB MEENATAI THAKARE COMPLEX, PADAGHA BAZAR PETH, TAL. BHIWANDI, DIST. THANE. 421101",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PADAGHA",
+            "district": "THANE",
+            "ifsc": "PJSB0000052",
+            "office": "PADAGHA BRANCH",
+            "phone": "268203",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62029
+    },
+    {
+        "fields": {
+            "address": "SAI ASHIRWAD COMPLEX, 1ST FLOOR VADKHAL NAKA, TAL. PEN. DIST. RAIGAD",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "VADKHAL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000053",
+            "office": "VADKHAL",
+            "phone": "269138",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62030
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO. 1, SHOP NO J/8-9, TREASURE PARK, SURVEY NO 61, PARVATI SAHAKAR NAGAR, PUNE 411009",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PJSB0000054",
+            "office": "PUNE BRANCH",
+            "phone": "24203344",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62031
+    },
+    {
+        "fields": {
+            "address": "6 /A RUSHIRAJ REGENCY,PLOT NO. 203, GANGAPUR ROAD, NASIK 422005",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "PJSB0000055",
+            "office": "GANGAPUR ROAD NASIK BRANCH",
+            "phone": "2232345",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62032
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PARSHWANATH TOWER,  SURVEY NO. 27A, 27B, MAHAVIR PET ROAD, KARJAT, DIST. RAIGAD 410201.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KARJAT",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000056",
+            "office": "KARJAT",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62033
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 101 & 102, FIRST FLOOR, SHRI PRAGATI ROYAL ATMARAM NAGAR COMPLEX, KALYAN-BHIWANDI ROAD, KON, TAL. BHIWANDI DIST. THANE - 421311",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "PJSB0000057",
+            "office": "KON",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62034
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. B, FIRST FLOOR, TAMANNA CO-OP HSG SOC, PLOT NO. 27, LOKMANYA NAGAR 2, THANE WEST - 400606",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "PJSB0000058",
+            "office": "VARTAK NAGAR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62035
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 18 TO 21, GROUND FLR, C WING, OM RESIDENCY, LODHA HEAVEN, KALYAN SHIL ROAD, KATAI-NILJE, TAL KALYAN, DIST. THANE - 421204",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "PJSB0000059",
+            "office": "NILJE",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62036
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5, 6, 7, GROUND FLR, VIVAN HEIGHTS, A WING, PUNE LINK ROAD, TISGAON, KALYAN EAST, DIST THANE - 421306",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "PJSB0000060",
+            "office": "KALYAN EAST",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62037
+    },
+    {
+        "fields": {
+            "address": "APARTMENT NO F-3/B-1, FIRST FLR, PLOT NO. 6, SECTOR 10, VASHI, NAVI MUMBAI, DIST THANE - 400703",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "VASHI",
+            "district": "THANE",
+            "ifsc": "PJSB0000061",
+            "office": "VASHI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62038
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, MOTUMAL DANDUMAL KALRO TRUST NASHIK CIRY SURVY NO. 5869 K.N. KELA ROAD PANCHVATI KARANJA NASHIK 422003",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "PJSB0000062",
+            "office": "PANCHVATI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62039
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.25 GRD FLR LEVELS BLDG NO 6 KHOT DONGRI RANI SATI MARG MALAD EAST MUMBAI 400097",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000063",
+            "office": "MALAD EAST",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62040
+    },
+    {
+        "fields": {
+            "address": "UNIT NO. 2 WING NO 2 GRD FLR SAROGI ESTATE HANUMAN SKILL MILLS COMPOUND LBS MARG KANJURMARG WEST MUMBAI 400078",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000064",
+            "office": "KANJURMARG WEST",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62041
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 TO 7 GRD FLR SAINIK APT GATE NO 178 VILLAGE NERE PANVEL MATHERAN ROAD TAL PANVEL DIST RAIGAD 410206",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000065",
+            "office": "NERE",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62042
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 GRD FLR SAI LEELA CO OP PREMISES LTD SV ROAD BORIVALI WEST MUMBAI 400092",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000066",
+            "office": "BORIVALI WEST",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62043
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 13 14 GRD FLR MATRUCHAYA HERITAGE CHS LTD PLT NO 21 SEC 11 KALAMBOLI NAVI MUMBAI 410218",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "NEW MUMBAI",
+            "ifsc": "PJSB0000067",
+            "office": "KALAMBOLI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62044
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 3 GRD FLR SHREE SAMARTH BLDG PLT NO 34 SEC 11 PANCHNAND TALOJA TAL PANVEL NAVI MUMABI 410208",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000068",
+            "office": "TALOJA",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62045
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 GRD FLR BHANDARI PALESHA MANSION CTS NO 16 BHAVANI PETH TAL HAVELI PUNE 411042",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PJSB0000069",
+            "office": "BHAVANI PETH",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62046
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,3 GR FLR, ASHISH CHAMBER, ASHISH THEATRE, PLOT NO 105/8, MAHUL ROAD, CHEMBUR EAST, MUMBAI - 400074",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000070",
+            "office": "CHEMBUR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62047
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1, GR FLR, SAPPHIRE ARCADE CO-OP SOCIETY LTD, PLOT NO. 42, CTS NO 5888,  BMG ROAD, GHATKOPAR EAST, MUMBAI - 400077",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000071",
+            "office": "GHATKOPAR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62048
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 1 A, FIRST FLOOR, BHARBAO BHIVANDI 421302",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BHIVANDI",
+            "district": "THANE",
+            "ifsc": "PJSB0000072",
+            "office": "KHARBAO BHIVANDI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62049
+    },
+    {
+        "fields": {
+            "address": "GALA NO 35, GR FLR, HASTI IND.PRIMISES CO-OP SOC.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "PJSB0000073",
+            "office": "MIDC NAVI MUMBAI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62050
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.5,6,7 GRND FLR, DELUX FORTUNE BLDG, SURVEY NO. 2252,2521,2521/1 TO 22, PIMPARI DIST. PUNE - 411017",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PJSB0000074",
+            "office": "PIMPARI CHINCHWAD",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62051
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1,2,3 GRND FLR, SARYAKAMAL COLONY, PLOT NO. 19, SURVEY NO.61, TALEGAON DABHADE DIST PUNE -410507",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PJSB0000075",
+            "office": "TALEGAON",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62052
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2,5,5A,6,6A GRND FLR, KOHINOOR CENTRE NO. 4, GATE NO.  1281 PLOT NO. 1, SHIVAJI CHOWK, NASHIK RD, CHANKAN TAN, KHED DIST PUNE 410501",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PJSB0000076",
+            "office": "CHAKAN",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62053
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 7&8, ALIBAG PRIDE CO-OP HOUS. SOC. LTD. CTS NO. 780, K780, 733B/1, MAHAVI CHOWK, GHARAT ALI ROAD, ALIBAG, DIST. RAIGAD - 402201.",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "ALIBAG",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000077",
+            "office": "ALIBAG",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62054
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3 GRND FRL, JAGANNATH COMPLEX, SURVEY NO.3878 P, CTS NO. 3879, 3880, HOUSE NO. 64,65, BHANVAJ VILLAGE, KHOPOLI, TAL. KHALAPUR, DIST. RAIGAD - 410203",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KHOPOLI",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000078",
+            "office": "KHOPOLI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62055
+    },
+    {
+        "fields": {
+            "address": "MAYFAIR HIGH & RETAIL, NEW ERA TALKIES, S.V. ROAD, MALAD WEST, MUMBAI- 400064",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000079",
+            "office": "MALAD WEST",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62056
+    },
+    {
+        "fields": {
+            "address": "UNIT NO. G3 SAGARTEK PLAZA, ANDHERI KURLA ROAD, SAKINAKA MUMBAI - 400072",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "PJSB0000080",
+            "office": "SAKINAKA",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62057
+    },
+    {
+        "fields": {
+            "address": "PLOT NO JEN 30, 30/31 MIDC, TTC INDUSTRIAL AREA, NEVA BUSINESS PARK BLDG A, DIGHA THANE BELAPUR ROAD, THANE - 400708",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "PJSB0000081",
+            "office": "DIGHA NAVI MUMBAI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62058
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 11 SHOP NO 3 & 4 DHAVALGIRI, SK ROAD SECTOR 11 NEW PANVEL - 410 206",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000082",
+            "office": "NEW PANVEL",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62059
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 19, SHOP NO. 14,15,16, SHARAD PAWAR BHAVAN, PEN KHOPOLI ROAD, TALUKA PEN DIST. RAIGAD - 402107",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "PEN",
+            "district": "RAIGAD",
+            "ifsc": "PJSB0000083",
+            "office": "PEN",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62060
+    },
+    {
+        "fields": {
+            "address": "DEVKI BUILDING, ADAT PETH MAIN ROAD, ICHALKARANJI, DIST. KOLHAPUR 416115",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "PJSB0000201",
+            "office": "ICHALKARANJI",
+            "phone": "2430334",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62061
+    },
+    {
+        "fields": {
+            "address": "AT POST KOROCHI TAL. HATKANANGALE DIST. KOLHAPUR",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KOROCHI",
+            "district": "KOLHAPUR",
+            "ifsc": "PJSB0000202",
+            "office": "KOROCHI",
+            "phone": "2402031",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62062
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 2 GROUND FLR DAMODAR HIEGHTS BLDG CS NO.2026 1 8TH LANE RAJARAMPURI E WARD KOLHAPUR 416008",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "PJSB0000203",
+            "office": "KOLHAPUR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62063
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 GROUND FLOOR, MEHTA ARCADE, 737, GANPATI PETH, SAGLI - 416416",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "PJSB0000204",
+            "office": "SANGLI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62064
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 14E GROUND FLOOR, OLD P.B. ROAD, WARD NO 31, NIPANI TAL. CHIKODI, DIST BELGAVI- 591237",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BELGAVI",
+            "district": "BELGAVI",
+            "ifsc": "PJSB0000205",
+            "office": "NIPANI",
+            "phone": "25456500",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62065
+    },
+    {
+        "fields": {
+            "address": "C.T. SURVEY NO. 1049 A2, F.S. PLAZA, KHANAPUR ROAD TILAKWADI, BELGAVI 590006",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "BELGAVI",
+            "district": "BELGAVI",
+            "ifsc": "PJSB0000206",
+            "office": "BELAGAVI",
+            "phone": "25456500",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62066
+    },
+    {
+        "fields": {
+            "address": "CITY SURVEY NO. 1162/1163, 9TH LANE MAIN ROAD, JAYSINGPUR - 416101",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "JAYSINGPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "PJSB0000207",
+            "office": "JAYSINGPUR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62067
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 77, WARD NO. 18/489,PARSIK BHAVAN, BLDG. NO. 19, THE ICHALKARANJI COOP INDUSTRIAL ESTATE LTD. KOLHAPUR",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "PJSB0000208",
+            "office": "SHAHU PUTLA ICHALKARANJI",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62068
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3 AND 4 GRD FLR ELITE EXCLUSIVE BLDG AAB NAIK RD MARGAO SOUTH GOA 403601",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MARGAO",
+            "district": "SOUTH GOA",
+            "ifsc": "PJSB0000301",
+            "office": "MARGAO",
+            "phone": "25456500",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62069
+    },
+    {
+        "fields": {
+            "address": "SHOP NO S 10 TO 12 GROUND FLR KALVEKAR TOWER CO OP HOS SOC LTD CHALTA NO 66 XIM KHORLIM ANSABHAT PTSSHEET NO 131 TAL BARDEZ MAPUSA GOA 403507",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "MAPUSA",
+            "district": "BARDEZ",
+            "ifsc": "PJSB0000302",
+            "office": "MAPUSA",
+            "phone": "25456500",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62070
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 521 GROUND FLOOR, BADWAIK COMPLEX, WARDHA ROAD, LOKMAT SQUARE, NAGPUR 440 012",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "PJSB0000401",
+            "office": "NAGPUR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62071
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 222, BLOCK NO. G1 GROUND FLOOR, CORPORATE HOUSE NO. 341, RAM NAGAR ROAD, DHARAMPETH, NAGPUR 440 010",
+            "bank_name": "G P PARSIK BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "PJSB0000402",
+            "office": "DHARAMPETH NAGPUR",
+            "phone": "25456500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62072
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "fields": {
+            "address": "AICABSOSDAIAPUGATADABAD-380004",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000002",
+            "office": "DARIAPUR",
+            "phone": "22166911",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145930
+    },
+    {
+        "fields": {
+            "address": "CIE,R,EDD316",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000003",
+            "office": "MEGHANINAGAR",
+            "phone": "22137447",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145931
+    },
+    {
+        "fields": {
+            "address": "JHCEE-YHMEB-40.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000004",
+            "office": "RANIP",
+            "phone": "27530070",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145932
+    },
+    {
+        "fields": {
+            "address": "SLRSNNRNRSHVRANJANHARRASASALLRADAHMDABAD-5",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000005",
+            "office": "SATELLITE",
+            "phone": "26926090",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145933
+    },
+    {
+        "fields": {
+            "address": "SESEFEBWECMUMEB2.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000006",
+            "office": "NARODA ROAD",
+            "phone": "22201426",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145934
+    },
+    {
+        "fields": {
+            "address": "NEEO.UOENKME-2.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000007",
+            "office": "RAKHIAL",
+            "phone": "22743808",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145935
+    },
+    {
+        "fields": {
+            "address": "YUYOPE.IEOOEB6.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000008",
+            "office": "SOLA ROAD",
+            "phone": "27433359",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145936
+    },
+    {
+        "fields": {
+            "address": "HHOCETYPUHEDD39.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000009",
+            "office": "NAVRANGPURA",
+            "phone": "26463817",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145937
+    },
+    {
+        "fields": {
+            "address": "I ME E C ME-8.",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000010",
+            "office": "NARANPURA",
+            "phone": "27680747",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145938
+    },
+    {
+        "fields": {
+            "address": "H,NVU,B,HDBD-85",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000011",
+            "office": "SABARMATI",
+            "phone": "27508492",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145939
+    },
+    {
+        "fields": {
+            "address": ",IDRNOIT,/LRPLZ,OPPNKOFROD,NPUR(NWRNIP),MDD-382480",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000012",
+            "office": "CHENPUR",
+            "phone": "27590077",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145940
+    },
+    {
+        "fields": {
+            "address": "F / 8,1ST FLOOR,BLOCK B,TAKSHASHILA ORIENT,100 CROSS ROAD,NARODA-NIKOL ROAD,AHMEDABAD-382 330",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000013",
+            "office": "NAVA NARODA",
+            "phone": "22980560",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145941
+    },
+    {
+        "fields": {
+            "address": "101,MARUTI SHINE,OPP - ROYAL ARCADE,NANA CHILODA,AHMEDABAD.PIN-382330",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000014",
+            "office": "NANA CHILODA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145942
+    },
+    {
+        "fields": {
+            "address": "3,4 HARIKRUPA INDUSTRIAL ESTATE,NEAR VALABAPA TEMPLE,ROAD NO.5,RAJIVNAGAR ROAD,KATHAWADA GIDC,KATHAWADA,AHMEDABAD.PIN-382430",
+            "bank_name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NVNM0000015",
+            "office": "KATHAWADA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145943
+    }
+]

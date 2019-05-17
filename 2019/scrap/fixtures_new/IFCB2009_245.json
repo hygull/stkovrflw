@@ -1,0 +1,137 @@
+[
+    {
+        "fields": {
+            "address": "BHAWANI SAW MILLS COMPOUND, ULHASNAGAR 421003",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0000001",
+            "office": "RTGS-HO",
+            "phone": "2527101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62073
+    },
+    {
+        "fields": {
+            "address": "BHAWANI SAW MILLS COMPOUND,ULHASNAGAR 421003",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790001",
+            "office": "MAIN BRANCH",
+            "phone": "2527101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62074
+    },
+    {
+        "fields": {
+            "address": "AKASHDEEP SHOPPING TOWER,CHELLARAM ROAD,ULHASNAGAR -421002",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790002",
+            "office": "SIRU CHOWK BRANCH",
+            "phone": "2721051",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62075
+    },
+    {
+        "fields": {
+            "address": "SADOROMAL COMPLEX,NEAR CHOPRA COURT,ULHASNAGAR -421003",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790003",
+            "office": "CHOPRA COURT BRANCH",
+            "phone": "2721054",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62076
+    },
+    {
+        "fields": {
+            "address": "GUR PLAZA,1ST AND 2ND FLOOR,OPP POLICE STATION,ULHASNAGAR - 421001",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790004",
+            "office": "ULHASNAGAR BRANCH",
+            "phone": "2721055",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62077
+    },
+    {
+        "fields": {
+            "address": "RATAN CHAMBERS,1ST FLOOR,NEAR RATAN SOAP FACTORY,ULHASNAGAR -421004",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790005",
+            "office": "ULHASNAGAR BRANCH",
+            "phone": "2581929",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62078
+    },
+    {
+        "fields": {
+            "address": "B.G.TILAK SCHOOL COMPOUND,NEAR CHALIHA SAHIB MANDIR,ULHASNAGAR-421005",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790006",
+            "office": "BKC BRANCH",
+            "phone": "2526060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62079
+    },
+    {
+        "fields": {
+            "address": "MAYUR MASALA BUILDING,NEAR BHAGAT KANWARAM CHOWK,OPP.BK NO.950 SEC.22 ULHASNAGAR 421003",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "NJBK0790007",
+            "office": "ULHASNAGAR BRANCH",
+            "phone": "2712072",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62080
+    },
+    {
+        "fields": {
+            "address": "KRISHNA NIWAS,CHHATRAPATI SHIVAJI SOCITY,GROUND FLOOR,PLOT NO.F-3,KOPRI COLONY,THANE ( EAST ) -400 603",
+            "bank_name": "NAV JEEVAN CO OP BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "NJBK0790008",
+            "office": "THANE BRANCH",
+            "phone": "25323675",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 62081
+    }
+]

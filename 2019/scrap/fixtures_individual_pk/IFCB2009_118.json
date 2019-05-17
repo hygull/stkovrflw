@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "SAHAYOG MANDIR, SAHYOG MANDIR PATH,GHANTALI THANE 400602",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000001",
+            "office": "RTGS-HO",
+            "phone": "25447816",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SHATATARAKA, BAJI PRABHU DESHPANDE MARG,",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000002",
+            "office": "MAIN",
+            "phone": "25333604",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "NAV-ASHIRWAD, NEAR DAULAT NAGAR,",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000003",
+            "office": "THANE EAST",
+            "phone": "25323951",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "WESTERN INDIAN STEEL COMPOUND, OPP OSWAL PARKPOKHARAN RD 2 THANE-400601",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000004",
+            "office": "POKHRAN",
+            "phone": "21736262",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "MAHESH DARSHAN, NEAR MAKHALI TALAO, OLD MUMBAI-AGRA ROAD, THANE 400601",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000005",
+            "office": "CHANDANWADI",
+            "phone": "25335237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "KASHIRATNA BHAVAN, DATTA MANDIR ROAD, NEAR CIDCO BUS STOP, THANE 400601",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000006",
+            "office": "CHENDANI KOLIWADA",
+            "phone": "25442361",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SHREENAGAR COMMERCIAL COMPLEX, SHREENAGAR, THANE",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000007",
+            "office": "SHREE NAGAR",
+            "phone": "25827955",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "PLOT NO-78, NEAR BUS STOP, SHIVAI NAGARPOKHARAN ROAD NO-1, THANE (W) 400604",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000008",
+            "office": "SHIVAI NAGAR",
+            "phone": "25854161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "JEEVARSHREE, JAMUNBAUG COMPOUND, AGRA ROAD,SHIVAJI CHOWK KAYLAN(W)421 301",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "TBSB0000009",
+            "office": "KALYAN",
+            "phone": "2305594",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "KESHAV BHUVAN, M G ROAD, NEAR RAILWAY STATION,MULUND-WEST 400080",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000010",
+            "office": "MULUND",
+            "phone": "25655960",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "SAFFIRE ARCHADE, NEAR SONAL SEJAL JEWELLERS, M G ROAD, GHATKOPAR-E 400077",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000011",
+            "office": "GHATKOPAR (EAST)",
+            "phone": "21021565",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PARIJAT, RUTUPARK, NEAR VIRDHAVAN BUS STOP, THANE",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000012",
+            "office": "RUTU PARK",
+            "phone": "25442363",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "HINDI HIGH SCHOOL, JHUN JHUNWALA COLLEGE COMPUS,SHREE LAXMINARAYAN PATH, GHATKOPAR WEST-400086",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000013",
+            "office": "GHATKOPAR (WEST)",
+            "phone": "25120435",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "MAZIDUN HIGHSCHOOL PREMISES, GR FLOOR SECTOR 8A,AIROLI NAVI MUMBAI-4007083",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "TBSB0000015",
+            "office": "AIROLI",
+            "phone": "65207666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SIDDESHWAR ARCADE, OPP SURAJ WATER PARK, GHODBUNDER ROAD, THANE WEST",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000016",
+            "office": "GHODBUNDAR ROAD",
+            "phone": "25972737",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 TO 4 PANCHPAKHADI SURBHI CHS,N S ROAD, SAWARKAR NAGAR, THANE WEST",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000017",
+            "office": "LOKMANYA NAGAR",
+            "phone": "25810835",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR, LIKHITE BANGALOW, MOULANA AZAD RD, SUBHASH NAGAR, DOMBICLI(E)",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "TBSB0000018",
+            "office": "DOMBIVALI",
+            "phone": "2439973",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "G-3 CORPORA LBS ROAD, BHANDUP(WEST)",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000019",
+            "office": "BHANDUP",
+            "phone": "25958310",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR, JEEVAN APT, BABURAO PARULEKAR MARG,NEAR SHARADASHRAM DADAR(W)",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000020",
+            "office": "DADAR",
+            "phone": "24308252",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 7,8&16,AMRUTDHAM CHS LTD,",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000021",
+            "office": "KALWA",
+            "phone": "25441388",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SHREE BASAV-NILAYA, GR.FLOOR, PLOT NO-152,",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "TBSB0000022",
+            "office": "PANVEL",
+            "phone": "27452206",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "KADAMB BUNGLOW,SARVODAY NAGAR,BEHIND VAISHALI TALKIES,BADLAPUR WEST 421503",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "TBSB0000023",
+            "office": "BADLAPUR",
+            "phone": "2674477",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "SADHYA,1503 1504,SADASHIVPETH,OFF TILAK ROAD,PUNE 411030",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "TBSB0000024",
+            "office": "SADASHIVPETH PUNE",
+            "phone": "8108273999",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "RAMESHWAR VAIBHAV,CTS NO 1574, OPP SUN CITY BUILDING, PEN KHOPOLI ROAD, PIN CODE 402107",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PEN",
+            "district": "RAIGAD",
+            "ifsc": "TBSB0000025",
+            "office": "PEN",
+            "phone": "252185",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "GALA NO 2-3, DEEP MOTI , HOUSE NO 642, OLD AGRA ROAD, SHAHAPUR, PIN CODE 421601",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHAHAPUR",
+            "district": "THANE",
+            "ifsc": "TBSB0000026",
+            "office": "SHAHAPUR",
+            "phone": "273889",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 229 TO 267, CTS NO 12/225 TO 12/233(PART) GROUND FLOOR SHREE PRASAD CHS LTD NEHRU NAGAR KURLA (EAST) MUMBAI-400024",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KURLA EAST",
+            "district": "MUMBAI",
+            "ifsc": "TBSB0000027",
+            "office": "KURLA EAST",
+            "phone": "25220393",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 184, HOUSE NO-11, GROUND FLOOR, DHANANI COMPLEX, KACHERI ROAD, PALGHAR(WEST)-401404",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "TBSB0000028",
+            "office": "PALGHAR",
+            "phone": "25256700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "CTS NO.174/1415B, GROUND FLOOR, YASHWIN CHS LTD, KARJAT, DIST. RAIGAD-410201",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARJAT",
+            "district": "RAIGAD",
+            "ifsc": "TBSB0000029",
+            "office": "KARJAT",
+            "phone": "220281",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 17, 18 AND D1, NEW PRATHMESH NIWAS CO-OP HOUSING SOCIETY LTD., OLD SURVEY NO. 72, NEW SURVEY NO. 106, HISSA NO. 2, KANCHANGAON, THAKURLI EAST TAL. KALYAN, DIST, TAL.KALYAN, DIST.THANE- 421201",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THAKURLI",
+            "district": "THANE",
+            "ifsc": "TBSB0000030",
+            "office": "THAKURLI",
+            "phone": "8879401605",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 8, PROPERTY NO. 1243, RENUKA ICON, AT SHRISHETRA MAHALUNGE (INGALE), CHAKAN, TAL. KHED, DIST. PUNE 410501",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "TBSB0000031",
+            "office": "CHAKAN",
+            "phone": "8879401608",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1&2, SHUBH VIHAR CO-OP HOUSING SOCIETY, LTD., DADLANI PARK ROAD, OPP. ASHOK NAGAR, NEAR RAHEJA COMPLEX, BALKUM, THANE WEST - 400 068",
+            "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "TBSB0000032",
+            "office": "BALKUM",
+            "phone": "254080276",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    }
+]

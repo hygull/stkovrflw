@@ -1,0 +1,1787 @@
+[
+    {
+        "fields": {
+            "address": "SARDAR VALLABHBHAI PATEL SAHAKAR BHAVANNR.SHASTRINAGAR BRTS BUS STOP,NARANPURA,AHMEDABAD - 380 013",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABD",
+            "ifsc": "GSCB0000001",
+            "office": "RTGS-HO",
+            "phone": "27459013",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104659
+    },
+    {
+        "fields": {
+            "address": "AHMEDABD DISTRICT CO-OP. BANK LTD., NEAR GANDHI BRIDGE, OPP INCOME TAX",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0ADC001",
+            "office": "AHMEDABD DISTRICT CO-OP. BANK LTD.",
+            "phone": "27542608",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104660
+    },
+    {
+        "fields": {
+            "address": "AMRELI JILLA SAHAKARI BANK LTD., BHOJALRAM BHAVAN ,RAJMAHEL ROAD,AMRELI",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMRELI",
+            "district": "AMRELI",
+            "ifsc": "GSCB0AMR001",
+            "office": "AMRELI JILLA SAHAKARI BANK LTD.",
+            "phone": "223624",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104661
+    },
+    {
+        "fields": {
+            "address": "BANASKANTHA DISTRICT CENTRAL CO-OP. BANK LTD., BANAS BHAVAN, DISA HIGHWAY, PALANPUR - 385001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALANPUR",
+            "district": "BANASKANTHA",
+            "ifsc": "GSCB0BKD001",
+            "office": "BANASKANTHA DISTRICT CENTRAL CO-OP. BANK LTD.",
+            "phone": "255212",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104662
+    },
+    {
+        "fields": {
+            "address": "BHARUCH DISTRICT CENTRAL CO-OP. BANK LTD., STATION ROAD . BHARUCH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHARUCH",
+            "district": "BHARUCH",
+            "ifsc": "GSCB0BRC001",
+            "office": "BHARUCH DISTRICT CENTRAL CO-OP. BANK LTD",
+            "phone": "240268",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104663
+    },
+    {
+        "fields": {
+            "address": "BARODA CENTRAL CO-OP. BANK LTD., SAYAJIGUNJ STATION ROAD,VADODARA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BARODA",
+            "district": "BARODA",
+            "ifsc": "GSCB0BRD001",
+            "office": "BARODA CENTRAL CO-OP. BANK LTD.",
+            "phone": "2362641",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104664
+    },
+    {
+        "fields": {
+            "address": "BHAVNAGAR DISTRICT CENTRAL CO-OP. BANK LTD., 13 SAHKAR BHAVAN , GANGAJALIYA TALAV, BHAVNAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAVNAGAR",
+            "district": "BHAVNAGAR",
+            "ifsc": "GSCB0BVN001",
+            "office": "BHAVNAGAR DISTRICT CENTRAL CO-OP. BANK LTD",
+            "phone": "2512874",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104665
+    },
+    {
+        "fields": {
+            "address": "THE GUJARAT RAJYA KARMACHARI CO OP BANK LTD. A.2 M.S BUILDING. LAL DARWAJA . AHMEDABAD 380001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0GRKB01",
+            "office": "THE GUJARAT RAJYA KARMACHARI COOP BANK LTD",
+            "phone": "25506384",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104666
+    },
+    {
+        "fields": {
+            "address": "JAMNAGAR DISTRICT CENTRAL CO-OP. BANK LTD., RANJIT RAOD, JAMNAGAR - 3610001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAMNAGAR",
+            "district": "JAMNAGAR",
+            "ifsc": "GSCB0JMN001",
+            "office": "JAMNAGAR DISTRICT CENTRAL CO-OP. BANK LTD",
+            "phone": "2678508",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104667
+    },
+    {
+        "fields": {
+            "address": "JUNAGADH JILLA SAHAKARI BANK LTD., VANJARI CHOWK, M. G. ROAD, JUNAGADH.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JUNAGADH",
+            "district": "JUNAGADH",
+            "ifsc": "GSCB0JND001",
+            "office": "JUNAGADH JILLA SAHAKARI BANK LTD.",
+            "phone": "2627292",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104668
+    },
+    {
+        "fields": {
+            "address": "KODINAR TALUKA CO-OP. BANKING UNION LTD., BANKING UNION ROAD. KODINAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KODINAR",
+            "district": "KODINAR",
+            "ifsc": "GSCB0KDT001",
+            "office": "KODINAR TALUKA CO-OP. BANKING UNION LTD",
+            "phone": "221404",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104669
+    },
+    {
+        "fields": {
+            "address": "KATCH DISTRICT CENTRAL CO-OP. BANK LTD., VIJAYNAGAR, HOSPITAL ROAD . KATCH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHUJ",
+            "district": "KATCH",
+            "ifsc": "GSCB0KTC001",
+            "office": "KATCH DISTRICT CENTRAL CO-OP. BANK LTD.",
+            "phone": "9427434820",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104670
+    },
+    {
+        "fields": {
+            "address": "MEHSANA DISTRICT CENTRAL CO-OP. BANK LTD., RAJ MAHEL ROAD, OPP. FUVARA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MEHSANA",
+            "ifsc": "GSCB0MSN001",
+            "office": "MEHSANA DISTRICT CENTRAL CO-OP. BANK LTD",
+            "phone": "221377",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104671
+    },
+    {
+        "fields": {
+            "address": "PANCHMAHAL DISTRICT CO-OP. BANK LTD., PRABHA ROAD, GODHRA -389001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GODHRA",
+            "district": "PANCHMAHAL",
+            "ifsc": "GSCB0PDC001",
+            "office": "PANCHMAHAL DISTRICT CO-OP. BANK LTD.",
+            "phone": "249247",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104672
+    },
+    {
+        "fields": {
+            "address": "RAJKOT DISTRICT CENTRAL CO-OP. BANK LTD., JILLA BANK BHAVAN . KASTURBA ROAD , RAJKOT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "GSCB0RJT001",
+            "office": "RAJKOT DISTRICT CENTRAL CO-OP. BANK LTD.",
+            "phone": "2231651",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104673
+    },
+    {
+        "fields": {
+            "address": "SABARKANTHA DISTRICT CENTRAL CO-OP. BANK LTD., SAHKAR VIKAS BHAVAN,STATION ROAD.HIMMATNAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HIMMATNAGAR",
+            "district": "SABARKANTHA",
+            "ifsc": "GSCB0SKB001",
+            "office": "SABARKANTHA DISTRICT CENTRAL CO-OP. BANK LTD.",
+            "phone": "245323",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104674
+    },
+    {
+        "fields": {
+            "address": "SURENDRANAGAR DISTRICT CENTRAL CO-OP. BANK LTD., SAHKAR BHAVAN . M.G.ROAD.SURENDRANAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURENDRANAGAR",
+            "district": "SURENDRANAGAR",
+            "ifsc": "GSCB0SNR001",
+            "office": "SURENDRANAGAR DISTRICT CENTRAL CO-OP. BANK LTD",
+            "phone": "235789",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104675
+    },
+    {
+        "fields": {
+            "address": "THE AMOD NAGRIC COOPERATIVE BANK LTD.,H.O.AMOD-392 110, DIST.BHARUCH,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AMOD",
+            "district": "BHARUCH",
+            "ifsc": "GSCB0UAMODN",
+            "office": "THE AMOD NAGRIC COOPEARATIVE BANK LTD.",
+            "phone": "245278",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104676
+    },
+    {
+        "fields": {
+            "address": "APANI SAHAKARI BANK LTD.,HATHINO CHORO,AHMEDABAD  380 001 DIST AHMEDABAD.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "GSCB0UAPANI",
+            "office": "APANI SAHAKARI BANK LTD",
+            "phone": "22130488",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104677
+    },
+    {
+        "fields": {
+            "address": "NAGRIK SAHAKARI BANK LTD.,BABRA,TRIVENI,NR.GAYATRI MANDIR,BABRA-365421,DIST.AMRELI",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BABRA",
+            "district": "AMRELI",
+            "ifsc": "GSCB0UBABRA",
+            "office": "NAGRIK SAHAKARI BANK LTD.,BABRA",
+            "phone": "233481",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104678
+    },
+    {
+        "fields": {
+            "address": "SHREE BAGASRA NAGRIK SAHAKARI BANK LTD.,KAMDHENU,BHAYANI ROAD,BAGASRA-365440,DIST-AMRELI.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAGASARA",
+            "district": "AMRELI",
+            "ifsc": "GSCB0UBAGAS",
+            "office": "SHREE BAGASRA NAGRIK SAHAKARI BANK LTD",
+            "phone": "222193",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104679
+    },
+    {
+        "fields": {
+            "address": "SHRI BARIA NAGRIK SAHAKARI BANK LTD., HO POST BOX NO.3,DEVGADH BARIA-389380,DIST.DAHOD.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DEVGADH BARIA",
+            "district": "DAHOD",
+            "ifsc": "GSCB0UBARIA",
+            "office": "SHRI BARIA NAGRIK SAHAKARI BANK LTD",
+            "phone": "220251",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104680
+    },
+    {
+        "fields": {
+            "address": "THE BHABHAR VIBHAG NAGRIK SAHAKARI BANK LTD.,STATION ROAD,MAHADEVPURA,AT & PO TA.BHABHAR-385320, DIST.BANASKANTHA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHABHAR JUNA VAS",
+            "district": "BANASKANTHA",
+            "ifsc": "GSCB0UBHABH",
+            "office": "THE BHABHAR VIBHAG NAGRIK SAHAKARI BANK LTD",
+            "phone": "222014",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104681
+    },
+    {
+        "fields": {
+            "address": "THE BAPUNAGAR MAHILA CO OPERATIVE BANK LTD., VIBHAG-6, SATADHARNAGAR, NR.KHODIYARNAGAR,N.H.8, AHMEDABAD-382350",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UBMCBL",
+            "office": "THE BAPUNAGAR MAHILA CO OPERATIVE BANK LTD",
+            "phone": "65497572",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104682
+    },
+    {
+        "fields": {
+            "address": "BALASINOR NAGRIK SAHAKARI BANK LTD.P.B.NO.1,SAHAKAR BHAVAN,BALASINOR 388 255, DIST.MAHISAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UBNSBL",
+            "office": "BALASINOR NAGRIK SAHAKARI BANK LTD",
+            "phone": "266058",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104683
+    },
+    {
+        "fields": {
+            "address": "SHREE BOTAD MERCANTILE COOP BANK LTD.VEPAR BHAVAN,TOWER CHOWK,BOTAD-364 710, DIST.BHAVNAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BOTAD",
+            "district": "BHAVNAGAR",
+            "ifsc": "GSCB0UBOTAD",
+            "office": "SHREE BOTAD MERCANTILE COOP BANK LTD",
+            "phone": "252257",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104684
+    },
+    {
+        "fields": {
+            "address": "LAXMI BHUVAN,P.B.NO.5, AT POST CHANASMA 384220, DIST. PATAN . NORTH GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UCCCBL",
+            "office": "THE CHANASMA COMM COOP BANK LTD",
+            "phone": "222778",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104685
+    },
+    {
+        "fields": {
+            "address": "THE CHANASMA NAGARIK SAHAKARI BANK LTD.KACHERI ROAD, CHANASMA-384220 DIST.PATAN",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHANASMA",
+            "district": "PATAN",
+            "ifsc": "GSCB0UCHANA",
+            "office": "THE CHANASMA NAGARIK SAHAKARI BANK LTD",
+            "phone": "222047",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104686
+    },
+    {
+        "fields": {
+            "address": "AT & PO.CHHAPI-385210 TA VADGAM DIST.BANASKANTHA GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADGAM",
+            "district": "BANASKANTHA",
+            "ifsc": "GSCB0UCHAPI",
+            "office": "THE CHHAPI NAGARIK SAHAKARI BANK LTD",
+            "phone": "270288",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104687
+    },
+    {
+        "fields": {
+            "address": "THE CHARADA NAGRIK SAHAKARI BANK LTD.,AT CHARADA-382 810 TA.MANSA, DIST.GANDHINAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UCNSBL",
+            "office": "THE CHARADA NAGRIK SAHAKARI BANK LTD.",
+            "phone": "288305",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104688
+    },
+    {
+        "fields": {
+            "address": "THE CO.OPERATIVE BANK OF MEHSANA LTD.RAJMAHEL ROAD,MEHSANA384001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UCOBML",
+            "office": "THE COOPERATIVE BANK OF MEHSANA LTD",
+            "phone": "221211",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104689
+    },
+    {
+        "fields": {
+            "address": "THE DAHOD URBAN COOPERATIVE BANK LTD. 1ST FLOOR,SHETH SHRI GIRDHARLAL SAHAKAR BHAVAN,APMC,MARKET YARD,DAHOD-389151",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHOD",
+            "district": "DOHAD",
+            "ifsc": "GSCB0UDAHOD",
+            "office": "THE DAHOD URBAN COOPERATIVE BANK LTD",
+            "phone": "246294",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104690
+    },
+    {
+        "fields": {
+            "address": "THE DHARMAJ PEOPLES CO OPERATIVE BANK LTD,P.O.BOX NO.7 POST, DHARMAJ 388430 , DIST ANAND GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARMAJ",
+            "district": "ANAND",
+            "ifsc": "GSCB0UDHARM",
+            "office": "THE DHARMAJ PEOPLES  COOPERATIVE BANK LTD",
+            "phone": "244240",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104691
+    },
+    {
+        "fields": {
+            "address": "THE DHINOJ NAGRIK SAHAKARI BANK LTD.NAGARIK BANK BHAVAN,BAZAR, DHINOR 384225,TA.CHANASMA,DIST.PATAN",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UDNSBL",
+            "office": "THE DHINOJ  NAGARIK SAH  BANK LTD",
+            "phone": "263070",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104692
+    },
+    {
+        "fields": {
+            "address": "THE DHRANGADHRA PEOPLES CO-OPERATIVE BANK LTD.,KALPVRUX, MANDVI CHOWK, DHRANGADHRA-363310. DIST.SURENDRANAGAR.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UDPCBL",
+            "office": "THE DHRANGADHRA PEOPLES CO-OPERATIVE BANK LTD",
+            "phone": "281901",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104693
+    },
+    {
+        "fields": {
+            "address": "GUJARAT AMBUJA CO.OP.BANK LTD.NAVRANG TOWER,SATADHAR CHAR RASTA,SOLA ROAD,AHMEDABAD 380061",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UGACBL",
+            "office": "GUJARAT AMBUJA COOP BANK LTD",
+            "phone": "27452224",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104694
+    },
+    {
+        "fields": {
+            "address": "THE GODHRA CITY CO OPERATIVE BANK LTD. NR.POLICE CHOWKI,POST BOX NO.53 GODHRA 389001 DIST.PANCHMAHAL.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GODHRA",
+            "district": "PANCH MAHALS",
+            "ifsc": "GSCB0UGCCBL",
+            "office": "THE GODHRA CITY CO OPERATIVE BANK LTD",
+            "phone": "240083",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104695
+    },
+    {
+        "fields": {
+            "address": "THE GANDHIDHAM MERCANTILE COOP BANK LTD.,GMCB BHAVAN,PLOT NO.12,SECTOR NO.9,GANDHIDHAM - 370 201 DIST.KACHCHH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANDHIDHAM",
+            "district": "KACHCHH",
+            "ifsc": "GSCB0UGMCBL",
+            "office": "THE GANDHIDHAM MERCANTILE COOP BANK LTD",
+            "phone": "230944",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104696
+    },
+    {
+        "fields": {
+            "address": "GONDAL NAGRIK SAHAKARI BANK LTD.SAMARPAN,MANDVI CHOWK,GONDAL 360 311, DIST.RAJKOT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UGNSBL",
+            "office": "GONDAL NAGRIK SAHAKARI BANK LTD",
+            "phone": "220115",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104697
+    },
+    {
+        "fields": {
+            "address": "THE GHOGHAMBA VIBHAG NAGRIK SAHAKARI BANK LTD.,TA.GHOGHAMBA-389365, DIST.PANCHMAHAL",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GHOGHUMBA",
+            "district": "PANCHMAHAL",
+            "ifsc": "GSCB0UGVNBL",
+            "office": "THE GHOGHAMBA  VIBHAG NAGRIK SAHAKARI BANK LTD",
+            "phone": "244708",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104698
+    },
+    {
+        "fields": {
+            "address": "THE HALOL URBAN CO.OP.BANK LTD.,RABARI FALIA,PAVAGADH ROAD,HALOL-389 350.,DIST.PANCHMAHALS",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALOL",
+            "district": "PANCHMAHALS",
+            "ifsc": "GSCB0UHALOL",
+            "office": "THE HALOL URBAN COOP BANK LTD",
+            "phone": "220060",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104699
+    },
+    {
+        "fields": {
+            "address": "THE HARIJ NAGRIK SAHAKARI BANK LTD.LAXMI NIVAS,MAIN BAZAR,HARIJ-384 240,DIST.PATAN,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARIJ",
+            "district": "PATAN",
+            "ifsc": "GSCB0UHARIJ",
+            "office": "THE HARIJ NAGRIK SAHAKARI BANK LTD.",
+            "phone": "223291",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104700
+    },
+    {
+        "fields": {
+            "address": "THE HALOL MERCANTILE COOP BANK LTD.,SAHYOG,PAVAGADH ROAD,HALOL-389350,DIST.PANCHMAHAL,P.B.NO.20",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALOL",
+            "district": "PANCHMAHAL",
+            "ifsc": "GSCB0UHMCBL",
+            "office": "THE HALOL MERCANTILE COOP BANK LTD",
+            "phone": "220658",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104701
+    },
+    {
+        "fields": {
+            "address": "THE IDAR NAGARIK SAHAKARI BANK LTD.,UMA SHANKAR JOSHI MARG,MAHAVIR MARKET,JAWANPURA,IDAR-383430,DIST.SABARKANTHA,GUJARAT.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "IDAR",
+            "district": "SABARKANTHA",
+            "ifsc": "GSCB0UIDARB",
+            "office": "THE IDAR NAGARIK SAHAKARI BANK LTD.",
+            "phone": "250777",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104702
+    },
+    {
+        "fields": {
+            "address": "THE JHALOD URBAN COOPERATIVE BANK LTD.,P.B.NO.3,JHALOD-389 170, DIST.DAHOD,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JHALOD",
+            "district": "DAHOD",
+            "ifsc": "GSCB0UJALOD",
+            "office": "THE JHALOD URBAN COOPERATIVE BANK LTD",
+            "phone": "225143",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104703
+    },
+    {
+        "fields": {
+            "address": "THE JAMNAGAR MAHILA SAHAKARI BANK LTD.,MANEK CENTRE, PANDIT NEHRU MARG, JAMNAGAR-361008",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JAMNAGAR",
+            "district": "JAMNAGAR",
+            "ifsc": "GSCB0UJAMNA",
+            "office": "THE JAMNAGAR MAHILA SAHAKARI BANK LTD",
+            "phone": "2557672",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104704
+    },
+    {
+        "fields": {
+            "address": "THE JANATA COOP BANK LTD, H.O NAWABAZAR ,GODHRA - -389001, PANCHMAHAL",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GODHRA",
+            "district": "PANCHMAHALS",
+            "ifsc": "GSCB0UJANTA",
+            "office": "THE JANTA COOP BANK LTD",
+            "phone": "246752",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104705
+    },
+    {
+        "fields": {
+            "address": "THE JAMBUSAR PEOPLES CO.OP.BANK LTD.,JAMBUSAR - 392 150, DIST.BHARUCH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UJPCBL",
+            "office": "THE JAMBUSAR PEOPLES CO.OP.BANK LTD.",
+            "phone": "220098",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104706
+    },
+    {
+        "fields": {
+            "address": "THE KALOL URBAN COOP BANK LTD., GOHYA BAZAR,BANK BUILDING COOP MEMORIAL HALL,KALOL-389330 DIST.PANCHMAHAL",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALOL",
+            "district": "PANCHMAHALS",
+            "ifsc": "GSCB0UKALOL",
+            "office": "THE KALOL URBAN COOP BANK LTD",
+            "phone": "235337",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104707
+    },
+    {
+        "fields": {
+            "address": "THE KALYAN COOP BANK LTD, JAGJIVAN BHAVAN, BEHIND RLY. STATION,KALOL-382721 N.G. DIST.GANDHINAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALOL",
+            "district": "GANDHINAGAR",
+            "ifsc": "GSCB0UKALYA",
+            "office": "THE KALYAN COOP BANK LTD",
+            "phone": "223361",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104708
+    },
+    {
+        "fields": {
+            "address": "THE KAPADWANJ PEOPLES COOP BANK LTD.,DANIWADA,GANDHI CHOWK,KAPADWANJ-387 620.,DIST.KHEDA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KAPADWANJ",
+            "district": "KHEDA",
+            "ifsc": "GSCB0UKAPAD",
+            "office": "THE KAPADWANJ PEOPLES COOP BANK LTD",
+            "phone": "252248",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104709
+    },
+    {
+        "fields": {
+            "address": "THE KOSAMBA MERCANTILE CO.OP.BANK LTD.SHREE NIDHI,TARSADI KOSAMBA R.S. 394120,TA.MANGROL,DIST.SURAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UKMCBL",
+            "office": "THE KOSAMBA  MERC COOP BANK LTD",
+            "phone": "232455",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104710
+    },
+    {
+        "fields": {
+            "address": "THE KHAMBHAT NAGARIK SAHAKARI BANK LTD STAMBHTIRTH,VADAPOLE,KHAMBHAT-388 620 DIST.ANAND",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UKNSBL",
+            "office": "THE KHAMBHAT NAGARIK SAHAKARI BANK LTD",
+            "phone": "220495",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104711
+    },
+    {
+        "fields": {
+            "address": "THE KHEDA PEOPLES COOPERATIVE BANK LTD.,BAZAR,KHEDA-387411 DIST.KHEDA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHEDA",
+            "district": "KHEDA",
+            "ifsc": "GSCB0UKPCBL",
+            "office": "THE  KHEDA  PEOPLES COOPERATIVE BANK LTD",
+            "phone": "222026",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104712
+    },
+    {
+        "fields": {
+            "address": "THE LAKHWAD NAGRIK SAHAKARI BANK LTD.,AT&PO.LAKHWAD,TA&DIST.MEHSANA-384 001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHESANA",
+            "district": "MAHESANA",
+            "ifsc": "GSCB0ULAKHW",
+            "office": "THE LAKHWAD NAGRIK SAHAKARI BANK LTD.",
+            "phone": "237075",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104713
+    },
+    {
+        "fields": {
+            "address": "LALBAUG CO-OPERATIVE BANK LTD,MANJALPUR,VADODARA-390011,DIST VADODARA.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "GSCB0ULALBA",
+            "office": "LALBAUG CO-OPERATIVE BANK LTD",
+            "phone": "2642041",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104714
+    },
+    {
+        "fields": {
+            "address": "SHRI LAXMI MAHILA SAHAKARI BANK LTD.,3,NAVDURGA SOCIETY,OPP.PRASHANT CINEMA,MEHSANA-384 002",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHESANA",
+            "district": "MAHESANA",
+            "ifsc": "GSCB0ULAXMI",
+            "office": "SHRI LAXMI MAHILA SAHAKARI BANK LTD",
+            "phone": "242514",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104715
+    },
+    {
+        "fields": {
+            "address": "SHREE LODRA NAGRIK SAHKARI BANK LTD.LODRA 382 835, TA.MANSA, DIST.GANDHINAGAR",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0ULNSBL",
+            "office": "SHREE LODRA NAGRIK SAHKARI BANK LTD",
+            "phone": "285173",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104716
+    },
+    {
+        "fields": {
+            "address": "THE LIMBASI URBAN CO.OP.BANK LTD. LIMBASI 387 520 TA.MATAR, DIST.KHEDA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0ULUCBL",
+            "office": "THE LIMBASI URBAN CO OP BANK LTD",
+            "phone": "283625",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104717
+    },
+    {
+        "fields": {
+            "address": "THE MAHILA VIKAS COOP BANK LTD.,SWAMINARAYAN AVENUE,SWAMINARAYAN CHOWK,BHATTHA,PALDI,AHMEDABAD-380 007",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "GSCB0UMAHIL",
+            "office": "THE MAHILA VIKAS COOP BANK LTD.",
+            "phone": "26607046",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104718
+    },
+    {
+        "fields": {
+            "address": "THE MALPUR NAGARIK SAHAKARI BANK LTD.,AT.PO.TA.MALPUR DIST.ARAVALLI",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MALPUR",
+            "district": "SABARKANTHA",
+            "ifsc": "GSCB0UMALPU",
+            "office": "THE MALPUR NAGARIK SAHAKARI BANK LTD",
+            "phone": "223036",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104719
+    },
+    {
+        "fields": {
+            "address": "THE MANSA NAGARIK SAHAKARI BANK LTD.,MARKET YARD,MANSA - 382 845,DIST.GANDHINAGAR.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANSA",
+            "district": "GANDHINAGAR",
+            "ifsc": "GSCB0UMANBL",
+            "office": "THE MANSA NAGARIK SAHAKARI BANK LTD",
+            "phone": "270737",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104720
+    },
+    {
+        "fields": {
+            "address": "NAVA GANJ BAZAR, UNJHA 384 170 , NORTH GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UMCCBL",
+            "office": "MARKETYARD COMM COOP BANK LTD",
+            "phone": "254198",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104721
+    },
+    {
+        "fields": {
+            "address": "THE MEHSANA JILLA PANCHAYAT KARMACHARI COOP BANK LTD.B/H MAHATMA GANDHI SHOPPING CENTER,RAJMAHEL ROAD,MEHSANA-384001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAHESANA",
+            "district": "MAHESANA",
+            "ifsc": "GSCB0UMEHSA",
+            "office": "THE MEHSANA JILLA PANCHAYAT KARMACHARI COOP BANK LTD.",
+            "phone": "221378",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104722
+    },
+    {
+        "fields": {
+            "address": "THE MEGHRAJ NAGARIK SAHAKARI BANK LTD.MEGHRAJ-383350,DIST.SABARKANTHA.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UMNCBL",
+            "office": "THE MEGHRAJ NAGARIK SAHAKARI BANK LTD",
+            "phone": "244570",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104723
+    },
+    {
+        "fields": {
+            "address": "THE MANDAL NAGRIK SAHAKARI BANK LTD.MANDAL-382130 DIST.AHMEDABAD",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UMNSBL",
+            "office": "THE MANDAL NAGRIK SAHAKARI BANK LTD",
+            "phone": "253820",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104724
+    },
+    {
+        "fields": {
+            "address": "THE NARODA NAGRIK COOP BANK LTD. NARODA BANK BHAVAN, GURUKUL MEMNAGAR ROAD. AHMEDABAD 380052",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UNNCBL",
+            "office": "THE NARODA NAGRIK COOP BANK LTD",
+            "phone": "27481408",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104725
+    },
+    {
+        "fields": {
+            "address": "THE ODE URBAN COOP BANK LTD., SARDAR PATEL BHAVAN, BAZAR ODE-388 210, DIST-ANAND GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ODE",
+            "district": "ANAND",
+            "ifsc": "GSCB0UODEBK",
+            "office": "THE ODE URBAN COOP BANK LTD",
+            "phone": "282532",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104726
+    },
+    {
+        "fields": {
+            "address": "PATAN NAGARIK SAHAKARI BANK LTD.,NEAR MILAN TALKIES,PATAN (N.G.) 384 265",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PATAN",
+            "district": "PATAN",
+            "ifsc": "GSCB0UPATAN",
+            "office": "PATAN NAGARIK SAHAKARI BANK LTD",
+            "phone": "220377",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104727
+    },
+    {
+        "fields": {
+            "address": "THE PIJ PEOPLES COOP BANK LTD.,BANK BUILDING,MAIN BAZAR,TA.VASO,DIST.KHEDA,AT POST.PIJ-387230",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PIJ",
+            "district": "KHEDA",
+            "ifsc": "GSCB0UPIJBL",
+            "office": "THE PIJ  PEOPLES COOP BANK LTD",
+            "phone": "2582668",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104728
+    },
+    {
+        "fields": {
+            "address": "PROGRESSIVE MERCATILE CO.OP.BANK LTD.,PROGRESSIVE BANK BHAVAN,670/1,STATION ROAD,AHMEDABAD-380 002.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UPMCBL",
+            "office": "PROGRESSIVE MERCANTILE CO.OP.BANK LTD.",
+            "phone": "22135228",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104729
+    },
+    {
+        "fields": {
+            "address": "THE PADRA NAGAR NAGARIK SAHAKARI BANK LTD.ZANDA BAZAR,PADRA 391 440, DIST.BARODA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UPNSBL",
+            "office": "THE PADRA NAGAR NAG SAH BANK LTD",
+            "phone": "222278",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104730
+    },
+    {
+        "fields": {
+            "address": "PORBANDAR COMMERCIAL COOP BANK LTD.,KASTURBA GANDHI ROAD,OPP.NAGAR PALIKA BUILDING,PORBANDAR-360575,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PORBANDAR",
+            "district": "PORBANDAR",
+            "ifsc": "GSCB0UPORBA",
+            "office": "PORBANDAR COMMERCIAL COOP BANK LTD",
+            "phone": "2245896",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104731
+    },
+    {
+        "fields": {
+            "address": "THE RAJULA NAGARIK SAHAKARI BANK LTD MAHATMA GANDHI ROAD,LIBRARY BUILDING,OPP.VEGETABLE MARKET,RAJULA-365560 DIST.AMRELI",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAJULA",
+            "district": "AMRELI",
+            "ifsc": "GSCB0URAJUL",
+            "office": "THE RAJULA NAGARIK SAHAKARI BANK LTD",
+            "phone": "222121",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104732
+    },
+    {
+        "fields": {
+            "address": "THE RANDHEJA COMMERCIAL COOP BANK LTD.MARKET YARD,RANDHEJA-382620,TA & DIST. GANDHINAGAR.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RANDHEJA",
+            "district": "GANDHINAGAR",
+            "ifsc": "GSCB0URANDH",
+            "office": "THE RANDHEJA COMMERCIAL COOP BANK LTD",
+            "phone": "23975382",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104733
+    },
+    {
+        "fields": {
+            "address": "THE RAJPIPLA NAGRIK SAHAKARI BANK LTD.,STATION ROAD,RAJPIPLA-393 145, DIST.NARMADA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0URNSBL",
+            "office": "THE RAJPIPLA  NAGRIK SAHAKARI BANK LTD.",
+            "phone": "220040",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104734
+    },
+    {
+        "fields": {
+            "address": "THE SARSA PEOPLES CO OPERATIVE BANK LTD.,P.B.NO.32,SARSA-388365,TA & DIST.ANAND",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANAND",
+            "district": "ANAND",
+            "ifsc": "GSCB0USARSA",
+            "office": "THE SARSA PEOPLES CO OPERATIVE BANK LTD.",
+            "phone": "272141",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104735
+    },
+    {
+        "fields": {
+            "address": "THE SATHAMBA PEOPLES CO.OP.BANK LTD.,AT SATHAMBA -383340 TA.BAYAD, DIST.SABARKANTHA.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATHAMBA",
+            "district": "SABARKANTHA",
+            "ifsc": "GSCB0USATHM",
+            "office": "THE SATHAMBA PEOPLES COOP BANK LTD",
+            "phone": "284251",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104736
+    },
+    {
+        "fields": {
+            "address": "THE SAURASHTRA CO.OPERATIVE BANK LTD.,2ND FLOOR,BANKS BUILDING,NIKOL ROAD,OPP.BHIDBHANJAN HANUMAN TEMPLE,BAPUNAGAR,AHMEDABAD-380024",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USAURA",
+            "office": "THE SAURASHTRA CO.OPERATIVE BANK LTD.",
+            "phone": "22745288",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104737
+    },
+    {
+        "fields": {
+            "address": "SHREE SAVARKUNDLA NAGRIK SAHAKARI BANK LTD.NADI BAZAR,SAVARKUNDLA-364515,DIST.AMRELI,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SAVARKUNDLA",
+            "district": "AMRELI",
+            "ifsc": "GSCB0USAVAR",
+            "office": "SHREE SAVARKUNDLA NAGRIK SAHAKARI BANK LTD.",
+            "phone": "242091",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104738
+    },
+    {
+        "fields": {
+            "address": "SHREE SAVLI NAGRIK SAHAKARI BANK LTD.,MATHNO TEKRO,GANDHI CHOWK,SAVLI-391770,DIST.BARODA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SAVLI",
+            "district": "VADODRA",
+            "ifsc": "GSCB0USAVLI",
+            "office": "SHREE SAVLI  NAGRIK SAHKARI  BANK LTD",
+            "phone": "222235",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104739
+    },
+    {
+        "fields": {
+            "address": "SHREE BHAVNAGAR NAGRIK SAHKARI BANK LTD.14 GANGAJALIYA TALAV,BHAVNAGAR 364 001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USBNBL",
+            "office": "SHREE BHAVNAGAR NAGRIK SAHAKARI BANK LTD",
+            "phone": "2513702",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104740
+    },
+    {
+        "fields": {
+            "address": "SHREE DHANDHUKA JANTA SAHAKARI BANK LTD,STATION ROAD,DHANDHUKA,DIST-AHMEDABAD",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHANDHUKA",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USDJSB",
+            "office": "SHREE DHANDHUKA JANTA SAHAKARI BANK LTD",
+            "phone": "222346",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104741
+    },
+    {
+        "fields": {
+            "address": "SARDARGUNJ MERCANTILE COOP BANK LTD.,P.B.NO.94,SARDAR CHAMBERS,ANAND - 388001.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANAND",
+            "district": "ANAND",
+            "ifsc": "GSCB0USGUNJ",
+            "office": "SARDARGUNJ MERCANTILE COOP BANK LTD",
+            "phone": "240273",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104742
+    },
+    {
+        "fields": {
+            "address": "SHIHORI NAGARIK SAHAKARI BANK LTD. SHIHORI,TA.KANKREJ, DIST.BANASKANTHA - 385550",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USHNBL",
+            "office": "SHIHORI NAGARIK SAHAKARI BANK LTD.",
+            "phone": "233070",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104743
+    },
+    {
+        "fields": {
+            "address": "SHRI JANATA SAHAKARI BANK LTD.,BANK ROAD,HALOL-389 350, DIST.PANCHMAHAL.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USJSBL",
+            "office": "SHRI JANATA SAHAKARI BANK LTD",
+            "phone": "220599",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104744
+    },
+    {
+        "fields": {
+            "address": "THE SARDAR GUNJ MERCANTILE CO.OP.BANK LTD. H.O. SARDARGUNJ, PATAN 384 265 , NORTH GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USMCBL",
+            "office": "THE SARDAR GUNJ MERC COOP BANK LTD",
+            "phone": "220265",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104745
+    },
+    {
+        "fields": {
+            "address": "SHREE MORBI NAGARIK SAHAKARI BANK LTD.,OPP.LOHANA VIDHYARTHI BHAVAN,VASANT PLOT,MORBI-363641",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MORVI",
+            "district": "RAJKOT",
+            "ifsc": "GSCB0USMNBL",
+            "office": "SHREE MORBI NAGARIK SAHAKARI BANK LTD",
+            "phone": "222118",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104746
+    },
+    {
+        "fields": {
+            "address": "SARASPUR NAGARIK CO.OP.BANK LTD. 1,DARSHAN SOCIETY,STADIUM COMMERCE ROAD,NAVRANGPURA,AHMEDABAD-380009",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USNCBL",
+            "office": "SARASPUR NAGARIK CO.OP.BANK LTD.",
+            "phone": "26461630",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104747
+    },
+    {
+        "fields": {
+            "address": "THE SINOR NAGARIK SAHAKARI BANK LTD. SAHAKAR DEEP, SINOR 391115 DIST.BARODA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USNSBL",
+            "office": "THE SINOR NAGARIK SAHAKARI BANK LTD",
+            "phone": "264344",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104748
+    },
+    {
+        "fields": {
+            "address": "SARDAR VALLABHBHAI SAHAKARI BANK LTD.,HARIOM TOWER BUILDING PANCHWATI ROAD,B/H. GAJJAR HALL,LAW GARDEN,AHMEDABAD-380006",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USRDAR",
+            "office": "SARDAR VALLABHBHAI SAHAKARI BANK LTD",
+            "phone": "26404575",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104749
+    },
+    {
+        "fields": {
+            "address": "THE SALAL SARVODAY NAGARIK SAHAKARI BANK LTD.AT & PO.SALALA-383120,TA.PRANTIJ,DIST.SABARKANTHA.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USSNBL",
+            "office": "THE SALAL SARVODAY NAGARIK SAHAKARI BANK LTD.",
+            "phone": "240455",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104750
+    },
+    {
+        "fields": {
+            "address": "THE SANTRAMPUR URBAN CO-OPERATIVE BANK LTD.,TOWER ROAD, SANTRAMPUR -389260. DIST. MAHISAGAR.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0USUCBL",
+            "office": "THE SANTRAMPUR URBAN CO-OPERATIVE BANK LTD",
+            "phone": "220044",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104751
+    },
+    {
+        "fields": {
+            "address": "UPALI BAZAR, BARDOLI 394 601, DIST.SURAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTBNBL",
+            "office": "THE BARDOLI  NAGRIK SAH BANK LTD",
+            "phone": "229238",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104752
+    },
+    {
+        "fields": {
+            "address": "THE BECHRAJI NAGARIK SAHAKARI BANK LTD.,BECHRAJI-384210,TA.BECHRAJI, DIST.MEHSANA( N.G.)",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BECHRAJI",
+            "district": "MEHSANA",
+            "ifsc": "GSCB0UTBSBL",
+            "office": "THE BECHRAJI NAGARIK SAHAKARI BANK LTD",
+            "phone": "286370",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104753
+    },
+    {
+        "fields": {
+            "address": "TARAPUR CO-OPERATIVE URBAN BANK LTD.BANK BUILDING,BAZAR,TARAPUR-388 180. DIST.ANAND",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTCUBL",
+            "office": "TARAPUR CO-OPERATIVE URBAN BANK LTD.",
+            "phone": "255510",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104754
+    },
+    {
+        "fields": {
+            "address": "THE HANSOT NAGARIC SAHAKARI BANK LTD.MAHARSHI ARVIND MARG, AT& PO -HANSOT-393030 DIST.BHARUCH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HANSOT",
+            "district": "BHARUCH",
+            "ifsc": "GSCB0UTHNBL",
+            "office": "THE HANSOT NAGARIC SAHAKARI BANK LTD",
+            "phone": "262006",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104755
+    },
+    {
+        "fields": {
+            "address": "THE KHERALU NAGARIK SAHAKARI BANK LTD.,NAGARIK BHAVAN,BAZAR, KHERALU (N.G.) - 384325",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTKNBL",
+            "office": "THE KHERALU NAGARIK SAHAKARI BANK LTD",
+            "phone": "230145",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104756
+    },
+    {
+        "fields": {
+            "address": "THE KARJAN NAGRIK SAHAKARI BANK LTD.,NAVA BAZAR,OPP.NILKANTHESHWAR MAHADEV,KARJAN-391 240 DIST.BARODA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTKSBL",
+            "office": "THE KARJAN NAGRIK SAHAKARI BANK LTD",
+            "phone": "232415",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104757
+    },
+    {
+        "fields": {
+            "address": "THE LIMDI URBAN COOP BANK LTD., LIMDI-389180,DIST.DAHOD.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LIMDI",
+            "district": "DAHOD",
+            "ifsc": "GSCB0UTLUCB",
+            "office": "THE LIMDI URBAN COOP BANK LTD",
+            "phone": "236136",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104758
+    },
+    {
+        "fields": {
+            "address": "THE MANDVI NAGRIK SAHAKARI BANK LTD.MAIN ROAD,MANDVI-394160,DIST.SURAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTMNBL",
+            "office": "THE MANDVI NAGRIK SAHAKARI BANK LTD",
+            "phone": "222054",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104759
+    },
+    {
+        "fields": {
+            "address": "TALOD 383 215 TAL.TALOD DIST.SABARKANTHA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTNSBL",
+            "office": "THE TALOD NAGRIK SAHAKARI BANK LTD",
+            "phone": "220685",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104760
+    },
+    {
+        "fields": {
+            "address": "THE PRAGATI CO.OP.BANK LTD.,HO THARA-385555 TA-KANKREJ,DIST.BANASKANTHA (N.G.)",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THARA",
+            "district": "BANASKANTHA",
+            "ifsc": "GSCB0UTPCBL",
+            "office": "THE PRAGATI CO.OP.BANK LTD.",
+            "phone": "222258",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104761
+    },
+    {
+        "fields": {
+            "address": "THE PATDI NAGRIK SAHAKARI BANK LTD., MAIN BAZAR,PATDI-382765, DIST.SURENDRANAGAR.GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTPNBL",
+            "office": "THE PATDI NAGRIK SAHAKARI BANK LTD.",
+            "phone": "227004",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104762
+    },
+    {
+        "fields": {
+            "address": "THE SARVODAYA NAGRIK SAHKARI BANK LTD., POLO GROUND, HIMMATNAGAR - 383 001, DIST.SABARKANTHA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTSNBL",
+            "office": "THE SARVODAYA NAGRIK SAHKARI BANK LTD",
+            "phone": "242170",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104763
+    },
+    {
+        "fields": {
+            "address": "THE VIJAPUR NAGARIK SAHAKARI BANK LTD.,MARKET YARD,VIJAPUR-382870,DIST.MEHSANA.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UTVNBL",
+            "office": "THE VIJAPUR NAGARIK SAHAKARI BANK LTD.",
+            "phone": "220049",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104764
+    },
+    {
+        "fields": {
+            "address": "MANIBHADRA AVENUE,SHYAMPRASAD MUKHERJEE BRIDGE CORNER,VEJALPUR,AHMEDABAD 380 051",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UUCOBL",
+            "office": "THE UNITED CO-OPERATIVE BANK LTD",
+            "phone": "26761599",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104765
+    },
+    {
+        "fields": {
+            "address": "THE UNA POEPLES COOP BANK LTD OPP.K.V.SCHOOL,DHRUV COMPLEX,UNA-362 560,DIST.GIR-SOMNATH",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UNA",
+            "district": "GIR SOMNATH",
+            "ifsc": "GSCB0UUNABK",
+            "office": "THE UNA PEOPLES COOP BANK LTD",
+            "phone": "222527",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104766
+    },
+    {
+        "fields": {
+            "address": "THE UNION COOPERATIVE BANK LTD.,UCB BHAVAN, NR.MTS BUS STOP, AHMEDABAD - 382 330.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UUNION",
+            "office": "THE UNION COOPERATIVE BANK LTD",
+            "phone": "22837500",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104767
+    },
+    {
+        "fields": {
+            "address": "UNJHA NAGARIK SAHAKARI BANK LTD,GUNJ BAZAR,UNJHA 384170. NORTH GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UUNJBL",
+            "office": "UNJHA NAGARIK SAHAKARI BANK LTD",
+            "phone": "253731",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104768
+    },
+    {
+        "fields": {
+            "address": "THE UNAVA NAGRIK SAHKARI BANK LTD.MARKET YARD ,ON AHMEDABAD-ABU ROAD STATE HIGHWAY,UNAVA-384160,TALUKA UNJHA,DIST-MEHSANA N.G.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UUNSBL",
+            "office": "THE UNAVA NAGRIK SAHAKARI BANK LTD",
+            "phone": "255900",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104769
+    },
+    {
+        "fields": {
+            "address": "THE VEJALPUR NAGRIK SAHAKARI BANK LTD.,VEJALPUR-389 340 DIST PANCHMAHAL.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GODHRA",
+            "district": "PANCHMAHAL",
+            "ifsc": "GSCB0UVEJAL",
+            "office": "THE VEJALPUR NAGRIK SAHAKARI BANK LTD",
+            "phone": "234011",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104770
+    },
+    {
+        "fields": {
+            "address": "THE VEPAR UDHYOG VIKAS SAHAKARI BANK LTD.,VIKAS BHAVAN,JHALOD-389 170,DIST.DAHOD,GUJARAT",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JHALOD",
+            "district": "DAHOD",
+            "ifsc": "GSCB0UVEPAR",
+            "office": "THE VEPAR UDHYOG VIKAS SAHAKARI BANK LTD",
+            "phone": "226144",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104771
+    },
+    {
+        "fields": {
+            "address": "THE VIRAMGAM MERCANTILE COOP BANK LTD.,MOHANBHAI PATEL MARG,VIRAMGAM-382 150.",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAMGAM",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UVIRAM",
+            "office": "THE VIRAMGAM MERCANTILE COOP BANK LTD",
+            "phone": "233531",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104772
+    },
+    {
+        "fields": {
+            "address": "SHREE VIRPUR URBAN SAHAKARI BANK LTD.,VIRPUR-388 260, TA.VIRPUR, DIST.KHEDA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRPUR",
+            "district": "KHEDA",
+            "ifsc": "GSCB0UVIRPU",
+            "office": "SHREE VIRPUR URBAN SAHAKARI BANK LTD",
+            "phone": "277446",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104773
+    },
+    {
+        "fields": {
+            "address": "VADNAGAR NAGARIK SAHAKARI BANK LTD.,NANI MATOR BAZAR,VADNAGAR-384355 DIST.MEHSANA (N.G.)",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADNAGAR",
+            "district": "MAHESANA",
+            "ifsc": "GSCB0UVNGBL",
+            "office": "VADNAGAR NAGARIK SAHAKARI BANK LTD",
+            "phone": "222058",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104774
+    },
+    {
+        "fields": {
+            "address": "THE VADALI NAGARIK SAHAKARI BANK LTD.AT PO.TA.VADALI-383235 DIST.SABARKANTHA",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UVNSBL",
+            "office": "THE VADALI NAGARIK SAHAKARI BANK LTD",
+            "phone": "222064",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104775
+    },
+    {
+        "fields": {
+            "address": "THE VERAVAL PEOPLES CO.OP.BANK LTD.,VRUNDAVAN,OPP.S.T.BUS STATION AREA,NR.SHUBHAM TOWER,VERAVAL-362266",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "GSCB0UVPCBL",
+            "office": "THE VERAVAL PEOPLES CO.OP.BANK LTD.",
+            "phone": "244123",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104776
+    },
+    {
+        "fields": {
+            "address": "VALSAD DISRICT CENTRAL CO-OP. BANK LTD., SAHAKAR SADAN, KACHERI ROAD, B/H COURT BUILDING, VALSAD - 396001",
+            "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VALSAD",
+            "district": "VALSAD",
+            "ifsc": "GSCB0VDC001",
+            "office": "VALSAD DISRICT CENTRAL CO-OP. BANK LTD.",
+            "phone": "248725",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104777
+    }
+]

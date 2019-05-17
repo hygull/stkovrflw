@@ -12,7 +12,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 104629
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 104630
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 104631
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 104632
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 104633
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 104634
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 104635
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 104636
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 104637
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 104638
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 104639
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 104640
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 104641
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 104642
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 104643
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 104644
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 104645
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 104646
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 104647
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 104648
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 104649
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 104650
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 104651
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 104652
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 104653
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 104654
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 104655
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 104656
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 104657
     },
     {
         "fields": {
@@ -447,6 +447,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 104658
     }
 ]

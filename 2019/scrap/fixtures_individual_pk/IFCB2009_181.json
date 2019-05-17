@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "OFFICE NO 403 4TH FLOOR WORLDMARK2 ASSET8 HOSPITALITY DISTRICT AEROCITY NEW DELHI 110037",
+            "bank_name": "INDUSTRIAL BANK OF KOREA",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "IBKO0000001",
+            "office": "NEW DELHI BRANCH",
+            "phone": "40768000",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

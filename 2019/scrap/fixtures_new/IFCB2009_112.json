@@ -1,0 +1,1097 @@
+[
+    {
+        "fields": {
+            "address": "MODERN HIGH SCHOOL COMPOUND,JANGALI MAHARAJ RD,SHIVAJI NAGAR, PUNE - 411005,E-MAIL : SHIVAJINAGARPUNE@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000002",
+            "office": "SHIVAJI NAGAR,PUNE",
+            "phone": "25535532",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36717
+    },
+    {
+        "fields": {
+            "address": "12, BHAVANI PETH, NITA CENTRE,PUNE - 411042,E-MAIL : BHAVANIPETH@JANATABANKPUNE",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000003",
+            "office": "BHAVANI PETH",
+            "phone": "26386708",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36718
+    },
+    {
+        "fields": {
+            "address": "CTS.191, MANGALWAR PETH,JANATA BANK BUILDING.,BHOR, DIST. PUNE - 412206.,E-MAIL : BHOR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHOR",
+            "district": "PUNE",
+            "ifsc": "JSBP0000004",
+            "office": "BHOR",
+            "phone": "222554",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36719
+    },
+    {
+        "fields": {
+            "address": "351, SHUKRAWAR PETH,TALEGAON DABHADE,TAL : MAWAL, DIST : PUNE - 410506,E-MAIL : TALEGAONDABHADE@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TALEGAON DABHADE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000005",
+            "office": "TALEGAON DABHADE",
+            "phone": "222490",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36720
+    },
+    {
+        "fields": {
+            "address": "CTS.1947,HOUSE 1365, 1ST FLOOR,SHIVSEVA MANDAL COMPLEX,NEAR S.T.STAND,PUNE-NAGAR ROAD,TAL - SHIRUR, DIST -PUNE - 412210,E-MAIL : GHODNADI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GHODNADI",
+            "district": "PUNE",
+            "ifsc": "JSBP0000006",
+            "office": "GHODNADI",
+            "phone": "222131",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36721
+    },
+    {
+        "fields": {
+            "address": "ABASAHEB GARWARE COLLEGE COMPOUND,KARVE ROAD, PUNE - 411004,E-MAIL : KARVEROAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000007",
+            "office": "KARVE ROAD",
+            "phone": "25441621",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36722
+    },
+    {
+        "fields": {
+            "address": "925-A, BHAMBURDA, UNIQUE CHAMBERS,SHIVAJI NAGAR, PUNE - 411005.,E-MAIL : FERGUSSONCOLLEGE@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000008",
+            "office": "F.C.ROAD",
+            "phone": "25652409",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36723
+    },
+    {
+        "fields": {
+            "address": "GOLD CRAFT, C.T.S.NO.4270. CHICHWADGAON, PUNE - 411033 ,E-MAIL CHINCHAWADGAON@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000009",
+            "office": "CHINCHWAD GAON",
+            "phone": "27352536",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36724
+    },
+    {
+        "fields": {
+            "address": "S. NO. 2409/4, S.NO. 528/2-1,TALEGAON DABHADE,TAL. MAWAL, DIST. PUNE - 410607,E-MAIL : TALEGAONSTATION@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TALEGAON STATION",
+            "district": "PUNE",
+            "ifsc": "JSBP0000010",
+            "office": "TALEGAON STATION",
+            "phone": "222253",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36725
+    },
+    {
+        "fields": {
+            "address": "SITARAM COMPLEX, S.NO. 4672-1, CHINCHWAD STATION PUNE - 411 019,E-MAIL : CHINCHWADSTATION@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000011",
+            "office": "CHINCHWAD STATION",
+            "phone": "27472436",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36726
+    },
+    {
+        "fields": {
+            "address": "SADABAZAR, JUNNAR,DIST. PUNE - 410501,E-MAIL : JUNNAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JUNNAR",
+            "district": "PUNE",
+            "ifsc": "JSBP0000012",
+            "office": "JUNNAR",
+            "phone": "222086",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36727
+    },
+    {
+        "fields": {
+            "address": "S. NO. 6398 -1, NAGAR P. NO. R/4-674 ,CHAINSUKH ROAD, LATUR - 413592,E-MAIL : LATUR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "JSBP0000013",
+            "office": "LATUR",
+            "phone": "240566",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36728
+    },
+    {
+        "fields": {
+            "address": "1732, SADASHIV PETH,OPP. PARIJAT DEPARTMENTAL STORE,TILAK ROAD, PUNE - 411030,E-MAIL : TILAKROAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000014",
+            "office": "TILAK ROAD",
+            "phone": "24471165",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36729
+    },
+    {
+        "fields": {
+            "address": "551, SHANIWAR PETH,PUNE -411030,E-MAIL : SHANIWARNARAYAN@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000015",
+            "office": "SHANIWAR NARAYAN PETH",
+            "phone": "24459937",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36730
+    },
+    {
+        "fields": {
+            "address": "OPP. GOMTESH MARKET, DALALWADI,AURANGABAD - 431001.,E-MAIL : AURANGABAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JSBP0000016",
+            "office": "AURANGABAD",
+            "phone": "2334093",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36731
+    },
+    {
+        "fields": {
+            "address": "AGAR BAZAR, OPP. BOMBAY FILM LABORATORY,DADAR, MUMBAI - 400028.E-MAIL : DADAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DADAR",
+            "district": "MUMABI",
+            "ifsc": "JSBP0000017",
+            "office": "DADAR",
+            "phone": "24226219",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36732
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, JATARMJYOT BUILDING.,63, JANMABHOOMI MARG, FORT,MUMBAI - 400001,E-MAIL : FORT@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "FORT",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000018",
+            "office": "FORT",
+            "phone": "22024284",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36733
+    },
+    {
+        "fields": {
+            "address": "6434, GURWAR PETH,DIST. - BEED. AMBAJOGAI - 413517,E-MAIL : AMBAJOGAI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AMBAJOGAI",
+            "district": "BEED",
+            "ifsc": "JSBP0000019",
+            "office": "AMBAJOGAI",
+            "phone": "247071",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36734
+    },
+    {
+        "fields": {
+            "address": "SHRI KUNJ PREMISES CO-OP. SOCIETY,HANUMAN MANDIR ROAD,VILE PARLE (E), MUMBAI - 400057,E-MAIL : VILEPARLE@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VILLEPARLE",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000020",
+            "office": "VILLE PARLE",
+            "phone": "26114036",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36735
+    },
+    {
+        "fields": {
+            "address": "DECCAN CHAMBERS,OPP. MAJESTIC CINEMA,GIRGAON, MUMBAI - 400004,E-MAIL : GIRGAON@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GIRGAON",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000021",
+            "office": "GIRGAON",
+            "phone": "23869397",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36736
+    },
+    {
+        "fields": {
+            "address": "1973, SHREE RAM ALI,RATNAGIRI - 415612,E-MAIL : RATNAGIRI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000022",
+            "office": "RATNAGIRI",
+            "phone": "222393",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36737
+    },
+    {
+        "fields": {
+            "address": "S.NO. 234 (PART), C.T.S.NO -. 168,NACHANE GAON, RATNAGIRI - 415612.,E-MAIL : SHIVAJINAGARRATNAGIRI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000023",
+            "office": "SHIVAJI NAGAR RATNAGIRI",
+            "phone": "222621",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36738
+    },
+    {
+        "fields": {
+            "address": "OPP. S.T. STAND, SAKHARAPA,TAL : SANGAMESHWAR,DIST. RATNAGIRI - 415801,E-MAIL : SAKHARPA@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SAKHARPA",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000024",
+            "office": "SAKHARPA",
+            "phone": "248243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36739
+    },
+    {
+        "fields": {
+            "address": "OPP. S.T. STAND, DEVRUKH,DIST. RATNAGIRI - 415804,E-MAIL : DEVRUKH@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEVRUKH",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000025",
+            "office": "DEVRUKH",
+            "phone": "240145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36740
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH, MAKHAJAN,TAL : SANGAMESHWAR,DIST. RATNAGIRI - 415608,E-MAIL : MAKHAJAN@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MAKHAJAN",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000026",
+            "office": "MAKHAJAN",
+            "phone": "235231",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36741
+    },
+    {
+        "fields": {
+            "address": "JANATA BANK BUILDING,NEAR POST OFFICE,NAVADI SANGAMESHWAR,DIST.RATNAGIRI 415611.  E-MAIL : SANGAMESHWAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGAMESHWAR",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000027",
+            "office": "SANGMESHWAR",
+            "phone": "252050",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36742
+    },
+    {
+        "fields": {
+            "address": "MAHAKALI PALACE, S. NO. 60,HISSA NO. 13/16, DIST.- RATNAGIRI,PAWAS - 415616.E-MAIL : PAWAS@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PAWAS",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000028",
+            "office": "PAWAS",
+            "phone": "237266",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36743
+    },
+    {
+        "fields": {
+            "address": "1436/A, LAXMIPURI, WARD NO. C,KOLHAPUR - 416002,E-MAIL : KOLHAPUR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000029",
+            "office": "KOLHAPUR",
+            "phone": "2641888",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36744
+    },
+    {
+        "fields": {
+            "address": "JANATA BANK BLDG, 475/476,GULTEKDI, MARKET YARD,PUNE - 411037.,E-MAIL : MARKETYARD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000030",
+            "office": "MARKET YARD",
+            "phone": "24271533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36745
+    },
+    {
+        "fields": {
+            "address": "NO. 167/A-2, PLOT NO. 19/20,ABHISHEK COMPLEX, HAPPY COLONY,KOTHRUD, PUNE - 411029.,E-MAIL : KARVENAGAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000031",
+            "office": "KARVE NAGAR",
+            "phone": "25445127",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36746
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 646,WARD NO. 24, BAZARPETH,MAIN ROAD, INDAPUR, DIST. PUNE - 413106.,E-MAIL : INDAPUR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "INDAPUR",
+            "district": "PUNE",
+            "ifsc": "JSBP0000032",
+            "office": "INDAPUR",
+            "phone": "223318",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36747
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 354/1,OPP. GRAMPANCHAYAT OFFICE,TAL. : JUNNAR, DIST. PUNE - 412409,E-MAIL : OTUR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "OTUR",
+            "district": "PUNE",
+            "ifsc": "JSBP0000033",
+            "office": "OTUR",
+            "phone": "264133",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36748
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.BGP 131,PIMPRI INDUSTRIAL AREA,WATUMAHAL,NEHRUNAGAR,PIMPRI,PUNE-411018.,E-MAIL : PIMPRI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000034",
+            "office": "PIMPRI",
+            "phone": "27124725",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36749
+    },
+    {
+        "fields": {
+            "address": "S. NO. 147, HISSA NO. 1,NEAR S.T.STAND,TAL. CHIPLUN, DIST - RATNAGIRI,E-MAIL : CHIPLUN@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHIPLUN",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000035",
+            "office": "CHIPLUN",
+            "phone": "257476",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36750
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 66, MADHUMALTI,DASHBHUJA GANAPATI ROAD,TULASHIBAGWALE COLONY,SAHAKAR NAGAR, PUNE - 411009.,E-MAIL : SAHAKARNAGAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000036",
+            "office": "SAHAKAR NAGAR",
+            "phone": "24224514",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36751
+    },
+    {
+        "fields": {
+            "address": "S.NO. 26/20/1A, HINGANE KHURD, NEAR JOSHI WADEWALE,SINHAGAD ROAD, PUNE - 411 051.,E-MAIL : SINHAGADROAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000037",
+            "office": "SINHAGAD ROAD",
+            "phone": "24352053",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36752
+    },
+    {
+        "fields": {
+            "address": "SARDAR PATEL ROAD, KHEDBRAMHA, DIST.\u252c\u00fb SABARKATHA, GUJARAT \u252c\u00fb 383255",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KHEDBRAMHA",
+            "district": "SABARKATHA",
+            "ifsc": "JSBP0000039",
+            "office": "KHEDBRAMHA",
+            "phone": "220022",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36753
+    },
+    {
+        "fields": {
+            "address": "S.NO.182/1/1, BANER ROAD, ATRIA BLDG.,NEAR SHIVSAGAR HOTEL, BANER, PUNE 411005.E-MAIL : BANER@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000040",
+            "office": "BANER",
+            "phone": "27290309",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36754
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 1-B,S.NO.119/1, ANANTKRUPA CO-OP.HSG.SOCIETY, PAUD ROAD, PUNE - 411 038,E-MAIL :PAUDROAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000041",
+            "office": "PAUD ROAD",
+            "phone": "25440465",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36755
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, PLOT NO.74, CTS NO. 5922, TPS SCHEME NO.III, DHOOT BUSINESS CENTER, R.B.MEHTA MARG, GHATKOPAR (E) E-MAIL : GHATKOPAR@JANATABANKPUNE.COM MUMABAI 400077",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GHATKOPAR",
+            "district": "MUMABAI",
+            "ifsc": "JSBP0000042",
+            "office": "GHATKOPAR ( EAST )",
+            "phone": "25086248",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36756
+    },
+    {
+        "fields": {
+            "address": "S.NO. 29, PLOT NO. 22, HISSA NO. 1,2,3,4,5, KALA NIKETAN HOUSING SOCIETY, KALANAGAR, DHANKAWADI, E-MAI :DHANKAWADI@JANATABANKPUNE.COM PUNE - 411 043",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000043",
+            "office": "DHANKAWADI",
+            "phone": "24370057",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36757
+    },
+    {
+        "fields": {
+            "address": "S.NO.46, HISSA NO.1A/AB/1, GURUGOVIND CO-OP HOUSING SOCIETY, KHARADI,CHANDAN NAGAR, PUNE 411014E-MAIL :CHANDANNAGAR@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000044",
+            "office": "CHANDAN NAGAR",
+            "phone": "27019009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36758
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, BAGGA CHAMBERS, 4/18/26,JALANA ROAD, OPP.AKASHWANI KENDRA, AURANGABAD 431001. E-MAIL : JALANAROAD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JSBP0000045",
+            "office": "JALANA ROAD ,AURANGABAD",
+            "phone": "2364545",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36759
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, ADESHWARCO-OP HOUSING SOCITY, SVP (MANDAPESHWAR ROAD ) BORIVALI(W) MUMBAI 400092 E-MAIL : BORIVALI@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BORIVALI",
+            "district": "MOMBAI",
+            "ifsc": "JSBP0000046",
+            "office": "BORIVALI ( WEST )",
+            "phone": "28943118",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36760
+    },
+    {
+        "fields": {
+            "address": "ARIHANT COMPLEX PLOT NO B SR NO 22/3/25/1 VILLAGE KATRAJ DIST PUNE 411046",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000047",
+            "office": "KATRAJ",
+            "phone": "8600999085",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36761
+    },
+    {
+        "fields": {
+            "address": "ALPHA SQUARE, PLOT NO. 153, TP SCHEME 2, S.NO.712/2A, 2D/17, COLLEGE ROAD, GANGAPUR ROAD, NASHIK 422003",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "JSBP0000048",
+            "office": "NASHIK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36762
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 5.3.16 &5.3.21, NANDED BIDAR ROAD, UMA CHOWK, UDGIR, DIST. LATUR - 413517",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "UDGIR",
+            "district": "LATUR",
+            "ifsc": "JSBP0000049",
+            "office": "UDGIR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36763
+    },
+    {
+        "fields": {
+            "address": "S.NO. 10624, HOUSE NO. 1.12.145, SAKLECHA ESTATE, SAROJINI DEVI ROAD, JALNA - 431 203",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "JSBP0000050",
+            "office": "JALNA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36764
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 544/A, CTS NO. 286, BALAJI ARCADE, NETAJI SUBHASH ROAD, MULUND (W), MUMBAI - 400 080",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000051",
+            "office": "MULUND",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36765
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 142/6/8, GALA NO. A/4, GANDHI NAGAR GRAMPANCHAYAT, TAL. KARVIR, DIST. KOLHAPUR-416005",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000052",
+            "office": "GANDHI NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36766
+    },
+    {
+        "fields": {
+            "address": "SADGURU COMPLEX C WING NEAR MUMBAI GOA HIGHWAY BAZAR PETH AT POST LANJA DIST RATNAGIRI 416701",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "LANJA",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000053",
+            "office": "LANJA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36767
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO 10 BUILDING NO 12 AND 13 SPANDAN SURVAY NO 117/1 VILLAGE WARJE PUNE 411058",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000054",
+            "office": "WARJE MALWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36768
+    },
+    {
+        "fields": {
+            "address": "SHRI SAMARTH KRUPA SECTOR NO 4 PLOT NO 287/S SANT NAGAR PRADHIKARAN MOSHI PUNE NASHIK HIGHWAY       MOSHI DIST PUNE 412105",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000055",
+            "office": "MOSHI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36769
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 6 AND 7 GR FLOOR PANCHAMRUT CO OP SOC S NO 158 HISSA NO 1 VILLAGE KAVESAR GHODBANDAR RD THANE 400615",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "JSBP0000056",
+            "office": "GHODBANDAR ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36770
+    },
+    {
+        "fields": {
+            "address": "TIMES SQUARE BUILDING 97/1 GR FLOOR MORARJI PETH NR PRABHAT CHITRA MANDIR DIST SOLAPUR 413001",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "JSBP0000057",
+            "office": "SOLAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36771
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 7 AND 8  GR FLOOR POONAM HEIGHTS 12 UDYOGNAGAR S V ROAD GOREGAON WEST MUMBAI 400062",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000058",
+            "office": "GOREGAON  W",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36772
+    },
+    {
+        "fields": {
+            "address": "FINAL PLOT NO 52 OLD S.NO 36/2 VEER SAWARKAR MARG PEN ANTORA ROAD POST PEN TALUKA PEN DIST RAIGAD 402107",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PEN",
+            "district": "RAIGAD",
+            "ifsc": "JSBP0000059",
+            "office": "PEN BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36773
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 GR FLOOR SAI MIDASTOUCH T.P.SCHEME NO 4 FINAL PLOT NO 101/86 AHMEDNAGAR MANMAD HIGHWAY SAWERI AHMEDNAGAR 414003",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "JSBP0000060",
+            "office": "AHMEDNAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36774
+    },
+    {
+        "fields": {
+            "address": "W.NO.12 HOUSE NO.12 CHOUNDESHWARI BHAVAN MAHATMA PHULE ROAD ICHALKARANJI 416115",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000061",
+            "office": "ICHALKARANJI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36775
+    },
+    {
+        "fields": {
+            "address": "879 DALAVI BUILDING SARAF BAZAR GANAPTI PETH SANGLI 416416",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "JSBP0000062",
+            "office": "SANGLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36776
+    },
+    {
+        "fields": {
+            "address": "PARANJAPE BUILDING DATTA CHOWK MAIN ROAD KARAD 415100",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "JSBP0000063",
+            "office": "KARAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36777
+    },
+    {
+        "fields": {
+            "address": "MULLA CHAMBERS MAIN ROAD PIRAJI PATH GADHINGLAJ 416502",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GADHINGLAJ",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000064",
+            "office": "GADHINGLAJ",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36778
+    },
+    {
+        "fields": {
+            "address": "W.NO.21 HOUSSE NO.1138 KAMBLE BUILDING STATION ROAD ICHALKARANJI 416115",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000065",
+            "office": "JAWAHAR NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36779
+    },
+    {
+        "fields": {
+            "address": "LANE NO.9 HOUSE NO.1168 JAYSINGPUR 416101",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JAYSINGPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000066",
+            "office": "JAYSINGPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36780
+    },
+    {
+        "fields": {
+            "address": "S NO 261/1 2 AND 262  AMAR KUTIR GROUND FLOOR AND FIRST FLOOR PUNE SOLAPUR ROAD PUNE 411028",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000067",
+            "office": "HADAPSAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36781
+    },
+    {
+        "fields": {
+            "address": "CTS NO 455A 455B VEEVA ROYALE VILLA LALCHAND BHATIA NAGAR SHANKAR LANE KANDIVALI WEST MUMBAI 400067",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JSBP0000068",
+            "office": "KANDIVALI  WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36782
+    },
+    {
+        "fields": {
+            "address": "S NO 148  HISSA NO 1/A/1 CITY S NO 1353 BUILDING A POORVA HEIGHTS PASHAN SUS ROAD PASHAN PUNE 411021",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000069",
+            "office": "SUS PASHAN ROAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36783
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 2 WING A RENAISSANCE SURVEY NO 43/1/1/2 DATTANAGAR AMBEGAON ROAD PUNE 411046",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000070",
+            "office": "NARHE AMBEGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36784
+    },
+    {
+        "fields": {
+            "address": "S.NO.645/1/1 AND 645/2 RASKAR PALACE BIBWEWADI TALUKA HAVELI DIST.PUNE 411037",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000071",
+            "office": "BIBWEWADI BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36785
+    },
+    {
+        "fields": {
+            "address": "GRAM PANCHAYAT BUILDING,TALUKA : SANGAMESHWAR,DIST : RATNAGIRI - 415608,E-MAIL : SANGAMESHWAR@JANATABANPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGAMESHWAR",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000091",
+            "office": "KASBA SANGMESHWAR",
+            "phone": "252025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36786
+    },
+    {
+        "fields": {
+            "address": "TALUKA : SANGAMESHWAR,DIST RATNAGIRI 415608.E-MAIL :KADWAI@JANATABANPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGAMESHWAR",
+            "district": "RATNAGIRI",
+            "ifsc": "JSBP0000092",
+            "office": "KADWAI",
+            "phone": "255240",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36787
+    },
+    {
+        "fields": {
+            "address": "WARD NO 16 HISSA NO 1527/10 ANNA RAMGONDA PATIL SCHOOL ICHALKARANJI 416115",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "JSBP0000097",
+            "office": "ICHALKARAJI EXTENTION",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36788
+    },
+    {
+        "fields": {
+            "address": "1444, SHUKRAWAR PETH,THORALE BAJIRAO ROAD,PUNE - 411002,E-MAIL : BAJIRAORD@JANATABANKPUNE.COM",
+            "bank_name": "JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JSBP0000098",
+            "office": "BAJIRAO ROAD",
+            "phone": "24452013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36789
+    }
+]

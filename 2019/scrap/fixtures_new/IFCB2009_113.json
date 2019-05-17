@@ -1,0 +1,677 @@
+[
+    {
+        "fields": {
+            "address": "WARD NO 12, HOUSE NO 1, MAIN ROAD, JANATA BANK BHAVAN, P B NO 64, ICHALKARANJI 416115",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000001",
+            "office": "RTGS-HO",
+            "phone": "2433505/8",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37277
+    },
+    {
+        "fields": {
+            "address": "227,C WARD, BHENDE GALLI, KOLHAPUR 416002",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000002",
+            "office": "BHENDE GALLI",
+            "phone": "2541668",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37278
+    },
+    {
+        "fields": {
+            "address": "DATTANAGAR, NEAR PETROL PUMP, GAT NO 107 SHIROL 416103",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIROL",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000003",
+            "office": "SHIROL",
+            "phone": "236350",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37279
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, JAYSINPUR 416101",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JAYSINPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000004",
+            "office": "JAYSINPUR",
+            "phone": "225408",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37280
+    },
+    {
+        "fields": {
+            "address": "BEHIND WARANA BAZAR, CHOUGULE COMPOUND, PETH VADGAON 416112",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PETH VADGAON",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000005",
+            "office": "PETH VADGAON",
+            "phone": "2471037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37281
+    },
+    {
+        "fields": {
+            "address": "418/1, B DAS BUIDING MAIN ROAD GANDHINAGAR 416119",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000006",
+            "office": "GANDHINAGAR",
+            "phone": "2610082",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37282
+    },
+    {
+        "fields": {
+            "address": "596/1, E WARD, STATION ROAD, NEAR,B T COLLEGE, SHAHUPURI KOLHAPUR 416002",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000007",
+            "office": "SHAHUPURI",
+            "phone": "2659503",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37283
+    },
+    {
+        "fields": {
+            "address": "WARD NO 12, HOUSE NO 1, MAIN ROAD, JANATA BANK BHAVAN, P B NO 64, ICHALKARANJI 416115",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000008",
+            "office": "MAIN BRANCH",
+            "phone": "2433505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37284
+    },
+    {
+        "fields": {
+            "address": "WARD NO 1, H NO 291, BLOCK NO 75, NEAR SHAHU PUTALA, IND ESTATE, ICHALKARANJI 416115",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000009",
+            "office": "INDUSTRIAL ESTATE",
+            "phone": "2436150",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37285
+    },
+    {
+        "fields": {
+            "address": "239, GARODIA CHAMBERS, KALBADEVI ROAD, MUMBAI 400002",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KAIJ0000010",
+            "office": "KALBADEVI",
+            "phone": "22408942",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37286
+    },
+    {
+        "fields": {
+            "address": "DIGMANOR CHAMBERS, 1ST FLOOR, LAXMI AND BAJIRAO ROAD CORNER, NEAR VISHRAMBHAG WADA PUNE 411030",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KAIJ0000011",
+            "office": "LAXMI ROAD",
+            "phone": "24457874",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37287
+    },
+    {
+        "fields": {
+            "address": "MAHAVEERNAGAR, INGORLE BUILDING, HUPARI 416203",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HUPARI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000012",
+            "office": "HUPARI",
+            "phone": "2450266",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37288
+    },
+    {
+        "fields": {
+            "address": "DESAI BUILDING, GARGOTI 416209",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GARGOTI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000013",
+            "office": "GARGOTI",
+            "phone": "220278",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37289
+    },
+    {
+        "fields": {
+            "address": "C S NO 2286,2287,2288 GADHINGLAJ KADGAON ROAD GADHINGLAJ 416502",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GADHINGLAJ",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000014",
+            "office": "GADHINGLAJ",
+            "phone": "223045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37290
+    },
+    {
+        "fields": {
+            "address": "DATTARAJ BUILDING, MAIN ROAD, AJARA 416505",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AJRA",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000015",
+            "office": "AJRA",
+            "phone": "246283",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37291
+    },
+    {
+        "fields": {
+            "address": "MUNDHEKAR BUILDING, MAIN ROAD, SHANIWAR PETH, KARAD 415110",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KAIJ0000016",
+            "office": "KARAD",
+            "phone": "223162",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37292
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 94/B, OPP CHAMBER OF COMMERCE BUILDING, VASANT MARKET YARD, SANGLI 416416",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "KAIJ0000017",
+            "office": "MARKET YARD",
+            "phone": "2670560",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37293
+    },
+    {
+        "fields": {
+            "address": "C/O DR MALGONDA PATIL, MAIN ROAD, SULKUD 416216",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SULKUD",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000018",
+            "office": "SULKUD",
+            "phone": "231022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37294
+    },
+    {
+        "fields": {
+            "address": "WARD NO 4, H NO 28, ZENDA CHOWK, IJARE APARTMENT, ICHALKARANJI 416115",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000019",
+            "office": "GAON BHAG",
+            "phone": "2420545",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37295
+    },
+    {
+        "fields": {
+            "address": "SWAPNIL, 5, SWAMI VIVEKANAND CHOWK, J NEHRU ROAD, MULUND, MUMBAI 400080",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KAIJ0000020",
+            "office": "MULUND",
+            "phone": "25621129",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37296
+    },
+    {
+        "fields": {
+            "address": "CHATI GALLI, CHADCHANKAR MARKET, 409 WEST MAGALWAR PETH, SOLAPUR 413002",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SALAPUR",
+            "ifsc": "KAIJ0000021",
+            "office": "SOLAPUR",
+            "phone": "2625704",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37297
+    },
+    {
+        "fields": {
+            "address": "H NO 741, OPP SINDHI MARKET, PATEL CHOWK, GANAPATI PETH, SANGLI 416416",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "KAIJ0000022",
+            "office": "GANAPATI PETH",
+            "phone": "2322237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37298
+    },
+    {
+        "fields": {
+            "address": "OPP AGRICULTURE MARKETING COMMITTEE, CHATRAPATI SHIVAJI MARKET YARD, GULTEKADI, PUNE 411037",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KAIJ0000023",
+            "office": "GULTEKADI, MARKET YARD",
+            "phone": "24271598",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37299
+    },
+    {
+        "fields": {
+            "address": "W NO 18/177, NEAR OLD OCTROI NAKA, STATION ROAD, JAWAHARNAGAR, ICHALKARANJI 416115",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000024",
+            "office": "JAWAHANAGAR",
+            "phone": "2440044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37300
+    },
+    {
+        "fields": {
+            "address": "NEW RAJIV GANDHI BHAVAN, SHARANPUR ROAD, OLD GANGAPUR NAKA, NASHIK 422002",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "KAIJ0000025",
+            "office": "NASHIK",
+            "phone": "2580902",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37301
+    },
+    {
+        "fields": {
+            "address": "9/88 P AND 85, GURUKRUPA, ALKAPURI SOCIETY, VANAJ CORNER, POUD ROAD, KOTHRUD, PUNE 411029",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KAIJ0000026",
+            "office": "KOTHRUD",
+            "phone": "25386958",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37302
+    },
+    {
+        "fields": {
+            "address": "C S NO 14830, PLOT NO 8, PAWANDEEP , 1ST FLOOR, KUSHALNAGAR, JALNA ROAD, AURANGABAD 431001",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "KAIJ0000027",
+            "office": "AURANGABAD",
+            "phone": "2340300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37303
+    },
+    {
+        "fields": {
+            "address": "LAXMI AUDYOGIK VASAHAT, HATKANANGALE 416109",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HATKANANGALE",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000028",
+            "office": "LAXMI AUDYOGIK VASAHAT",
+            "phone": "2366206",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37304
+    },
+    {
+        "fields": {
+            "address": "KAKUSHETH UKKA MARG, OPP SHAHU COLLEGE, CHANDRANAGAR LATUR 413512",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "KAIJ0000029",
+            "office": "LATUR",
+            "phone": "251505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37305
+    },
+    {
+        "fields": {
+            "address": "PLOT NO A/232,/1, 5 STAR MIDC, KAGAL HATKANANGALE 416236",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KAGAL",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000030",
+            "office": "KAGAL",
+            "phone": "2305009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37306
+    },
+    {
+        "fields": {
+            "address": "WARD NO 23, A.S. 6/2,3,KHANJIRE INDUSTRIAL ESTATE, SHAHAPUR,ICHALKARANJI-416 121",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000031",
+            "office": "SHAHAPUR",
+            "phone": "2436300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37307
+    },
+    {
+        "fields": {
+            "address": "KEDARE ARCED,OPP SOMANI HOSPITAL,NAGAR MANMAD ROAD,SAVEDI,AHAMADNAGAR 414001",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "KAIJ0000032",
+            "office": "AHMADNAGAR",
+            "phone": "2411609",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37308
+    },
+    {
+        "fields": {
+            "address": "GALA NO 102 103, B R JINDAL SUPER MARKET, M G ROAD, JALNA 431203",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "KAIJ0000033",
+            "office": "JALNA",
+            "phone": "2242002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37309
+    },
+    {
+        "fields": {
+            "address": "WARD NO 129,SHOP NO 1,2,3 AND 4,GROUND FLOOR,JAYSURYA TOWER CO-OP HOUSING SOCIETY LTD,CHANDANWADI,PANCHAPAKHADI,THANE(W)-400 602",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "KAIJ0000034",
+            "office": "THANE",
+            "phone": "25449002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37310
+    },
+    {
+        "fields": {
+            "address": "CTS WARD NO 1, SULLAD HEIGHTS, 1ST FLOOR, GANESH PETH CROSS, NEAR CBT, AZAD ROAD, HUBLI 580020",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "HUBLI",
+            "district": "HUBLI",
+            "ifsc": "KAIJ0000035",
+            "office": "HUBLI",
+            "phone": "2243471",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37311
+    },
+    {
+        "fields": {
+            "address": "CST NO 4830/15,16,17,18 KAKTIVES GALLI, CIVIL HOSPITAL ROAD, BELGAUM - 590001",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BELGAUM",
+            "district": "BELGAUM",
+            "ifsc": "KAIJ0000036",
+            "office": "CIVIL HOSPITAL ROAD",
+            "phone": "9850061117",
+            "state": "KARANATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37312
+    },
+    {
+        "fields": {
+            "address": "S N 1857, 'E' WARD, 6TH LANE, RAJARAMPURI KOLHAPUR - 416008",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000037",
+            "office": "RAJARAMPURI",
+            "phone": "2524436",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37313
+    },
+    {
+        "fields": {
+            "address": "C S N 221/1/12, 'RAVI DARSHAN', PUNE - SOLAPUR NATIONAL HIGHWAY, HADAPSAR, PUNE - 411028",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KAIJ0000038",
+            "office": "HADAPSAR",
+            "phone": "26990305/6",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37314
+    },
+    {
+        "fields": {
+            "address": "K B G CLASSIC, C WING, S NO 690/1A/1/1/1, PUNE - NASHIK ROAD, BHOSARI, PUNE - 411039",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KAIJ0000039",
+            "office": "BHOSARI",
+            "phone": "27110325",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37315
+    },
+    {
+        "fields": {
+            "address": "SN 280P,K K WAGH EDUCATION SOCIETY, HIRABAI HARIDAS VIDYANAGARI,AMRUTDHAM, PANCHAVATI,NASHIK 422003",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "KAIJ0000040",
+            "office": "COLLEGE CAMP PACHAVATI NASHIK",
+            "phone": "9850095268",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37316
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 2,SHRI SAI PRASAD CO OP HOUSING SOCIETY,PLOT NO 63,SECTOR 14,VASHI,NAVI MUMBAI 400709",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "KAIJ0000041",
+            "office": "VASHI",
+            "phone": "9029764222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37317
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, AMBASSADOR PLAZA,CTS NO 813, ZADGAON,RATNAGIRI 415612",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "KAIJ0000042",
+            "office": "RATNAGIRI",
+            "phone": "222977",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37318
+    },
+    {
+        "fields": {
+            "address": "NO 135, GROUND FLOOR, KENAGAL HANUMANTHAIAH ROAD, SHANTINAGAR, BENGALURU - 560027",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "KAIJ0000043",
+            "office": "SHANTINAGAR",
+            "phone": "22238600",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37319
+    },
+    {
+        "fields": {
+            "address": "BHUMAPAN NO 634,ALAS TAL.-SHIROL, DIST.- KOLHAPUR MAHARASHTRA 416104",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIROL",
+            "district": "KOLHAPUR",
+            "ifsc": "KAIJ0000044",
+            "office": "ALAS",
+            "phone": "276566",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37320
+    },
+    {
+        "fields": {
+            "address": "CMS NO. 912 SATWAI ROAD, NIPANI TAL. CHIKODI, DIST. BELGAUM 591237",
+            "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NIPANI",
+            "district": "BELGAUM",
+            "ifsc": "KAIJ0000045",
+            "office": "NIPANI",
+            "phone": "222744",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37321
+    }
+]

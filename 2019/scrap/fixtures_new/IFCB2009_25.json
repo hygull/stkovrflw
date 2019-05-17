@@ -1,0 +1,392 @@
+[
+    {
+        "fields": {
+            "address": "EXPRESS TOWERS,GROUND FLOOR,NARIMAN POINT,MUMBAI 400021",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DBSS0IN0811",
+            "office": "RTGS-HO",
+            "phone": "66388888",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145902
+    },
+    {
+        "fields": {
+            "address": "CAPITOL POINT, BABA KHARAK SINGH MARG, CONNAUGHT PLACE, NEW DELHI 110001",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "DBSS0IN0820",
+            "office": "NEW DELHI",
+            "phone": "30418888",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145903
+    },
+    {
+        "fields": {
+            "address": "806, ANNA SALAI, CHENNAI 600002",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DBSS0IN0826",
+            "office": "CHENNAI",
+            "phone": "66568888",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145904
+    },
+    {
+        "fields": {
+            "address": "SALARPURIA WINDSOR, 3 ULSOOR ROAD, BENGALURU, 560042",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "DBSS0IN0827",
+            "office": "BANGALORE",
+            "phone": "66328888",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145905
+    },
+    {
+        "fields": {
+            "address": "4A, NANDLAL BASU SARANI KOLKATA 700071",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLKATTA",
+            "district": "KOLKATTA",
+            "ifsc": "DBSS0IN0828",
+            "office": "KOLKATTA",
+            "phone": "66218888",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145906
+    },
+    {
+        "fields": {
+            "address": "41/A JOLLY PLAZA HOWSON ROAD DEOLALI CAMP NASHIK 422401",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "DBSS0IN0829",
+            "office": "NASIK",
+            "phone": "6632100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145907
+    },
+    {
+        "fields": {
+            "address": "FORTUNE HOUSE, PLOT NO 363/2, GOKHALE ROAD, MODEL COLONY, SHIVAJI NAGAR, PUNE 411016",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DBSS0IN0830",
+            "office": "PUNE",
+            "phone": "66218888",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145908
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR, SHREE AMBICA AUTO PLOT NO. 10 GIDC - BHATPORE, HAZIRA SURAT 394510",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "DBSS0IN0831",
+            "office": "SURAT",
+            "phone": "6675400",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145909
+    },
+    {
+        "fields": {
+            "address": "24,YERCAUD ROAD OPP MODERN THEATERS KANNAKURICHI PO SALEM 636008",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "DBSS0IN0832",
+            "office": "SALEM",
+            "phone": "6641300",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145910
+    },
+    {
+        "fields": {
+            "address": "8TH K.M.MILE STONE NAYA MORADABAD, DELHI ROAD MORADABAD 244001",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "MORADABAD",
+            "district": "MORADABAD",
+            "ifsc": "DBSS0IN0833",
+            "office": "MORADABAD",
+            "phone": "6450001",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145911
+    },
+    {
+        "fields": {
+            "address": "AMIT PLAZA. 199/4, 1ST FLOOR, GANDHINAGAR MAIN ROAD, KOLHAPUR 416119",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0851",
+            "office": "KOLHAPUR",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145912
+    },
+    {
+        "fields": {
+            "address": "OFFICE BUILDING NO.1 ANUGRAHA SATELLITE TOWNSHIP, PERIYAKATTU PALAYAM VILLAGE, EAST COAST ROAD CUDDALORE TALUK 605007 TAMIL",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "CUDDALORE",
+            "district": "CUDDALORE",
+            "ifsc": "DBSS0IN0852",
+            "office": "CUDDALORE",
+            "phone": "305100",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145913
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.1 & 6, KANAKIA WALLSTREET, CTS NO. 25, ANDHERI KURLA ROAD, CHAKALA, ANDHERI - EAST, MUMBAI - 400093",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "ANDHERI",
+            "district": "MUMBAI",
+            "ifsc": "DBSS0IN0853",
+            "office": "ANDHERI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145914
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, KALA CORPORATE HOUSE, OPP SAFAL PROFITAIRE, CORPORATE ROAD, PRAHLADNAGAR, AHMEDABAD - 380015",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "DBSS0IN0855",
+            "office": "AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145915
+    },
+    {
+        "fields": {
+            "address": "6-3-1109/1/P/G1, GROUND FLOOR, JEWEL PAWANI TOWERS, SOMAJIGUDA, RAJ BHAVAN ROAD, HYDERABAD, TELANGANA 500082",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "DBSS0IN0856",
+            "office": "HYDERABAD",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145916
+    },
+    {
+        "fields": {
+            "address": "THIRD FLOOR, BLOCK H-1 A, SECTOR NO. 63, THE NEW OKHLA, INDUSTRIAL DEVELOPMENT AREA, DISTT G B NAGAR, NOIDA, UTTAR PRADESH -201307",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "NOIDA",
+            "ifsc": "DBSS0IN0857",
+            "office": "NOIDA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145917
+    },
+    {
+        "fields": {
+            "address": "UGF, TOWER C, DLF BUILDING 10, DLF CYBER CITY, GURGAON, 122002",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "DBSS0IN0858",
+            "office": "GURGAON",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145918
+    },
+    {
+        "fields": {
+            "address": "MAYFLOWER MID CITY GROUND FLOOR, DOOR NO. 1510, TRICHY ROAD, COIMBATORE, TAMIL NADU-641018.",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "DBSS0IN0859",
+            "office": "COIMBATORE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145919
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, \u001cVIKRAM HEIGHTS\u001d ON PLOT NO. 25/2, YASHWANT NIWAS ROAD, INDORE, M.P. 452001",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "DBSS0IN0860",
+            "office": "INDORE",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145920
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3, 4 AND PART OF 5, GROUND FLOOR , RIDDHI COMPLEX, OLD PADRA ROAD, VADODARA PIN CODE 390015",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "DBSS0IN0861",
+            "office": "VADODARA",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145921
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, B-20-40004/39-F, SARABHA NAGAR, MALHAR ROAD, LUDHIANA, PUNJAB-141001",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "DBSS0IN0862",
+            "office": "LUDHIANA",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145922
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2, BHAGAT SINGH GALLI, MAIN ROAD, BORAVADE VILLAGE, TALUKA- KAGAL, DISTRICT-KOLHAPUR, PIN- 416208",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0901",
+            "office": "BORAVADE",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145923
+    },
+    {
+        "fields": {
+            "address": "NEAR MAIN ROAD,AMBAP VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416112",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0902",
+            "office": "AMBAP",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145924
+    },
+    {
+        "fields": {
+            "address": "NEAR CHOUGULE HIGH SCHOOL,KHOCHI VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416110",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0903",
+            "office": "KHOCHI",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145925
+    },
+    {
+        "fields": {
+            "address": "NEAR MAIN ROAD BAZARPET,UMALWAD VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416101",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0904",
+            "office": "UMALWAD",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145926
+    },
+    {
+        "fields": {
+            "address": "NEAR GRAM PANCHAYAT,MAIN ROAD,DANWAD VILLAGE,TALUKA-SHIROL,DISTRICT-KOLHAPUR,PIN-416107",
+            "bank_name": "DBS BANK INDIA LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0905",
+            "office": "DANWAD",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145927
+    }
+]

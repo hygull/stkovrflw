@@ -1,0 +1,77 @@
+[
+    {
+        "fields": {
+            "address": "NEAR MAIN ROAD,HERLE VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416005",
+            "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
+            "branch": "HERLE",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0901",
+            "office": "",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "NEAR MAIN ROAD,AMBAP VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416112",
+            "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
+            "branch": "AMBAP",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0902",
+            "office": "",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "NEAR CHOUGULE HIGH SCHOOL,KHOCHI VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416110",
+            "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
+            "branch": "KHOCHI",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0903",
+            "office": "",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "NEAR MAIN ROAD BAZARPET,UMALWAD VILLAGE,TALUKA-HATKANGALE,DISTRICT-KOLHAPUR,PIN-416101",
+            "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
+            "branch": "UMALWAD",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0904",
+            "office": "",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "NEAR GRAM PANCHAYAT,MAIN ROAD,DANWAD VILLAGE,TALUKA-SHIROL,DISTRICT-KOLHAPUR,PIN-416107",
+            "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
+            "branch": "DANWAD",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "DBSS0IN0905",
+            "office": "",
+            "phone": "3050100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    }
+]

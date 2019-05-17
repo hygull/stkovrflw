@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "4163B, Navi Peth, Pandharpur, Dist. Solapur, State Maharashtra - 413304",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000001",
+            "office": "RTGS-HO",
+            "phone": "228484",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131029
+    },
+    {
+        "fields": {
+            "address": "KHAVA BAZAR,NAVI PETH,PANDHARPUR,413304",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000002",
+            "office": "NAVI PETH, PANDHARPUR",
+            "phone": "223884",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131030
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,DESHPANDE GALLI,SANGOLA,413307",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SANGOLA",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000003",
+            "office": "SANGOLA",
+            "phone": "220024",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131031
+    },
+    {
+        "fields": {
+            "address": "DATTA NAGAR,STATION ROAD,MODNIMB,413301",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "MODNIMB",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000004",
+            "office": "MODNIMB",
+            "phone": "230225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131032
+    },
+    {
+        "fields": {
+            "address": "3412,AINAPURE MARUTI ROAD,BARSHI,413401",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "BARSHI",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000005",
+            "office": "BARSHI",
+            "phone": "222591",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131033
+    },
+    {
+        "fields": {
+            "address": "492,SAKHAR PETH,SOLAPUR,413005",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000006",
+            "office": "SAKHAR PETH, SOALPUR",
+            "phone": "2744232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131034
+    },
+    {
+        "fields": {
+            "address": "OPP.CIVIL CORT,PANDHARPUR ROAD,MOHOL,413213",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "MOHOL",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000007",
+            "office": "MOHOL",
+            "phone": "232251",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131035
+    },
+    {
+        "fields": {
+            "address": "DATTA GHAT,PANDHARPUR,413304",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000008",
+            "office": "MAHILA, PANDHARPUR",
+            "phone": "223326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131036
+    },
+    {
+        "fields": {
+            "address": "JUNA KARAD NAKA,PANDHARPUR,413304",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000009",
+            "office": "MARKET YARD, PANDHARPUR",
+            "phone": "223384",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131037
+    },
+    {
+        "fields": {
+            "address": "D1,SIDDSHWAR MARKET YARD,SOLAPUR,413003",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000010",
+            "office": "MARKET YARD, SOLAPUR",
+            "phone": "2744233",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131038
+    },
+    {
+        "fields": {
+            "address": "802/803,HALWAI GALLI,MANGALWAR PETH,SOLAPUR,413002",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000011",
+            "office": "TILAK CHOWK, SOLAPUR",
+            "phone": "2744230",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131039
+    },
+    {
+        "fields": {
+            "address": "KHADAKPURA GALLI,VAIRAG,413402",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "VAIRAG",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000012",
+            "office": "VAIRAG",
+            "phone": "240533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131040
+    },
+    {
+        "fields": {
+            "address": "P.NO.19,JULE SOLAPUR,SOLAPUR,413004",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000013",
+            "office": "NEHRU NAGAR, SOLAPUR",
+            "phone": "2744234",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131041
+    },
+    {
+        "fields": {
+            "address": "3079/B1,NEAR KALA MARUTI,PANDHARPUR,413304",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000014",
+            "office": "PRADAKSHINA ROAD, PANDHARPUR",
+            "phone": "225984",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131042
+    },
+    {
+        "fields": {
+            "address": "3079/1A,PAUD ROAD,KOTHRUD,PUNE,411038",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PUCB0000015",
+            "office": "KOTHRUD, PUNE",
+            "phone": "25454398",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131043
+    },
+    {
+        "fields": {
+            "address": "3431,KAMDAR ROAD,LATUR,413512",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "PUCB0000016",
+            "office": "LATUR",
+            "phone": "240020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131044
+    },
+    {
+        "fields": {
+            "address": "GAT NO.110/3,PLOT NO.2,BHIGWAN ROAD,JALOCHI,BARAMATI,413102",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "BARAMATI",
+            "district": "BARAMATI",
+            "ifsc": "PUCB0000017",
+            "office": "BARAMATI",
+            "phone": "223349",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131045
+    },
+    {
+        "fields": {
+            "address": "CS NO.3167/2,CHOKHMELA CHOWK,MANGALWEDHA,413305",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "MANGALWEDHA",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000018",
+            "office": "MANGALWEDHA",
+            "phone": "220684",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131046
+    },
+    {
+        "fields": {
+            "address": "SNO.834,835,RAMBAGAPARTMANT,POWERHOUSEHOWK,TANAJINAGARHINCHWAD,411033",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PUCB0000019",
+            "office": "CHINCHWAD",
+            "phone": "27613232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131047
+    },
+    {
+        "fields": {
+            "address": "LAXMINAGAR NEAR MSEB POWER HOUSE PHALTAN 415523",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PHALTAN",
+            "district": "SATARA",
+            "ifsc": "PUCB0000020",
+            "office": "PHALTAN",
+            "phone": "224211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131048
+    },
+    {
+        "fields": {
+            "address": "KURDUWADI ROAD OPP IRRIGATION COLONY TEMBHRNI 413211",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "TEMBHURNI",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000021",
+            "office": "TEMBHURNI",
+            "phone": "231225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131049
+    },
+    {
+        "fields": {
+            "address": "CHANDRABHA COMMERCIAL COMPLEX OPP. HUTAMA SMARAK MAIN ROAD,KOREGAON.DIST SATARA.PIN MAHARASHTRA CODE-415501.",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "KOREGOAN",
+            "district": "SATARA",
+            "ifsc": "PUCB0000022",
+            "office": "KOREGOAN",
+            "phone": "223011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131050
+    },
+    {
+        "fields": {
+            "address": "SR NO 39/11A CRYSTAL ROYAL NARHE AMBEGAON TAL HAVELI DIST PUNE",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PUCB0000023",
+            "office": "NARHE AMBEGAON",
+            "phone": "202460902",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131051
+    },
+    {
+        "fields": {
+            "address": "1URUWAR PETH VITTHAL CHOWK",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "PUCB0000024",
+            "office": "KARAD",
+            "phone": "221811",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131052
+    },
+    {
+        "fields": {
+            "address": "ARUN SHAMAL COMLEX C S N 2013 RAJARAMPURI 6TH LANE NEAR JIRAGE HOSPITAL KOLHAPUR 416608",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "PUCB0000025",
+            "office": "KOLHAPUR",
+            "phone": "2654799",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131053
+    },
+    {
+        "fields": {
+            "address": "C.S NO.4041,SARIABAI COMPLEX,VENKETESH NAGAR,BABA CHOWK,INDAPUR DIST.PUNE 413306",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "INDAPUR",
+            "district": "PUNE",
+            "ifsc": "PUCB0000026",
+            "office": "INDAPUR",
+            "phone": "223511",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131054
+    },
+    {
+        "fields": {
+            "address": "C.S.NO.3436 DATTA PETH KARMALA DIST SOLAPUR 413203",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "KARMALA",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000027",
+            "office": "KARMALA",
+            "phone": "220111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131055
+    },
+    {
+        "fields": {
+            "address": "SHREE PANDURANG SSK LTD AT POST SHRIPUR TAL MALSHIRAS DIST SOLAPUR 413112",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "SHRIPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000028",
+            "office": "SHRIPUR",
+            "phone": "255211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131056
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 98 99 RUGVED APPT TILAK NAGAR AURANGABAD 431001",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "PUCB0000029",
+            "office": "AURANGABAD",
+            "phone": "2358484",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131057
+    },
+    {
+        "fields": {
+            "address": "S NO 120A 120B PLOT NO 545 TPS NO 3 SINHAGAD ROAD PARAVTI PUNE 411030",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "PUCB0000030",
+            "office": "SINHAGAD ROAD PUNE",
+            "phone": "24252565",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131058
+    },
+    {
+        "fields": {
+            "address": "GAT NO 4/2/A/A/B/A TAKLI ROAD PANDHARPUR DIS SOLAPUR",
+            "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "PUCB0000031",
+            "office": "TAKALI ROAD PANDHARPUR",
+            "phone": "9552035158",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131059
+    }
+]

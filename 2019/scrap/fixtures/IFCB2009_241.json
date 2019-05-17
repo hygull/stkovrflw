@@ -12,7 +12,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 105505
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 105506
     },
     {
         "fields": {
@@ -42,6 +42,6 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 105507
     }
 ]

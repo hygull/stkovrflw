@@ -1,0 +1,122 @@
+[
+    {
+        "fields": {
+            "address": "UNIT NO. 301, OFFICE NO. 2, 3RD FLOOR, AVANI SIGNATURE,91A/1, PARK STREET,KOLKATA :- 700016",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "BNPA0009008",
+            "office": "KOLKATA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "BNP PARIBAS,BNP PARIBAS HOUSE,1 NORTH AVENUE,GROUND FLOOR,MAKER MAXITY,BANDRA KURLA COMPLEX,BANDRA EAST,MUMBAI 400051",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BNPA0009009",
+            "office": "MUMBAI",
+            "phone": "33704000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "8th FLOOR EAST TOWER (SOOD TOWER), 25, BARAKHAMBA ROAD,NEW DELHI - 110001",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "BNPA0009065",
+            "office": "DELHI",
+            "phone": "41796600",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "Salarpuria Windsor, Ground Floor, No.3, Ulsoor Road,Bengaluru - 560 042",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "BNPA0009067",
+            "office": "BANGALORE",
+            "phone": "66076200",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "5 & 6,GODREJ MILLENIUM PARK,9,KOREGAON ROAD,PUNE-411 001",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BNPA0009069",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "203,SAKAR II,ELLIS BRIDGE,OFF ASHRAM RD,AHMEDABAD-380 006",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "BNPA0009077",
+            "office": "AHMEDABAD",
+            "phone": "25581347",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "PRINCE TOWERS,3RD FL,25/26,COLLEGE ROAD,CHENNAI-600 006",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "BNPA0009088",
+            "office": "CHENNAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "BNP PARIBAS,TREND SET TOWERS,101,GROUND FLOOR 8-2-269/10,ROAD NO.2,BANJARA HILLS,HYDERABAD - 500034",
+            "bank_name": "B N P PARIBAS",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "BNPA0009378",
+            "office": "HYDERABAD",
+            "phone": "66216500",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    }
+]

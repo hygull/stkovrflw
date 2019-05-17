@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "NEAR BUS STOP, DHANORA ROAD",
+            "bank_name": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GADCHIROLI",
+            "district": "GADCHIROLI",
+            "ifsc": "GDCB0000001",
+            "office": "RTGS-HO",
+            "phone": "232965",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131027
+    }
+]

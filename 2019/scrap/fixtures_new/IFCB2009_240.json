@@ -1,0 +1,287 @@
+[
+    {
+        "fields": {
+            "address": "PLOT NO 33,MARKET YARD,STATION ROAD,AHMEDNAGAR -414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000001",
+            "office": "RTGS-HO",
+            "phone": "2414405",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105486
+    },
+    {
+        "fields": {
+            "address": "ANAND COMPLEX,DALMANDAI BRANCH,AHMEDNAGAR-414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000101",
+            "office": "DALMANDAI",
+            "phone": "2414415",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105487
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.33,MARKET YARD,STATION ROAD,AHMEDNAGAR-414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000102",
+            "office": "MARKET YARD",
+            "phone": "2414406",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105488
+    },
+    {
+        "fields": {
+            "address": "MISSION COMPOUND,KAPAD BAZAR,AHMEDNAGAR -414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000103",
+            "office": "KAPAD BAZAR",
+            "phone": "2414417",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105489
+    },
+    {
+        "fields": {
+            "address": "MANGAL HOUSING SOCIETY,GULMOHAR ROAD,AHMEDNAGAR",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000104",
+            "office": "GULMOHAR ROAD",
+            "phone": "2414421",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105490
+    },
+    {
+        "fields": {
+            "address": "CHOUPATI KARANJA,CHITALE ROAD,AHMEDNAGAR -414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000105",
+            "office": "CHITALE ROAD",
+            "phone": "2414419",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105491
+    },
+    {
+        "fields": {
+            "address": "SURAJ HEIGHTS,NAGAPUR,NAGAR-MANMAD ROAD,AHMEDNAGAR - 414111",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000106",
+            "office": "MIDC",
+            "phone": "2414423",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105492
+    },
+    {
+        "fields": {
+            "address": "RAUT BUILDING,NAGAR-BEED ROAD,A/P TAL.JAMKHED,DIST.AHMEDNAGAR",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "JAMKHED",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000107",
+            "office": "JAMKHED",
+            "phone": "222291",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105493
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.30,FRIENDS COLONY,KONKANWADI,STATION ROAD,AURANGABAD-431001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "AMDN0000108",
+            "office": "AURANGABAD",
+            "phone": "2354818",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105494
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.131,MARKET YARD,GULTEKDI,PUNE -411037",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AMDN0000109",
+            "office": "PUNE",
+            "phone": "24263300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105495
+    },
+    {
+        "fields": {
+            "address": "KALKAI CHOWK,OPP.MUNICIAPL CORPORATION,A/P TAL.SHRIGONDA,DIST.AHMEDNAGAR -413701",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "SHRIGONDA",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000110",
+            "office": "SHRIGONDA",
+            "phone": "221009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105496
+    },
+    {
+        "fields": {
+            "address": "NAGPAL BUILDING,TARAKPUR,MANMAD ROAD,AHMEDNAGAR-414001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AHMEDANGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000111",
+            "office": "TARAKPUR",
+            "phone": "2414425",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105497
+    },
+    {
+        "fields": {
+            "address": "H.NO.5408,AMBEDKAR CHOWK,A/P TAL.SHEVGAON,DIST.AHMEDNAGAR - 414502",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "SHEVGAON",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000112",
+            "office": "SHEVGAON",
+            "phone": "222222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105498
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,A/P TAL.PATHARDI,DIST.AHMEDNAGAR - 414102",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "PATHARDI",
+            "district": "AHMEDNAGAR",
+            "ifsc": "AMDN0000113",
+            "office": "PATHARDI",
+            "phone": "223100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105499
+    },
+    {
+        "fields": {
+            "address": "CTS NO.1297,MAIN ROAD,SONAI PETH,AT POST SONAI,TAL.NEWASA,DIST.AHMEDNAGAR -414105",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "SONAI",
+            "district": "AHMEDANGAR",
+            "ifsc": "AMDN0000114",
+            "office": "SONAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105500
+    },
+    {
+        "fields": {
+            "address": "H.NO.125,ADINATH,RAM ALI,AT POST GHODNADI,TAL.SHIRUR,DIST.PUNE -412210",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "SHIRUR",
+            "district": "PUNE",
+            "ifsc": "AMDN0000115",
+            "office": "SHIRUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105501
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO.153,KADA DEVINIMGAON ROAD,AT POST-KADA,TAL.ASHTI,DIST.BEED -414202",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "ASHTI",
+            "district": "BEED",
+            "ifsc": "AMDN0000116",
+            "office": "KADA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105502
+    },
+    {
+        "fields": {
+            "address": "NEW ROKADIYA HANUMAN CO-OP.HOUSING SOCIETY,NEAR MONDHA,INFRONT OF TELEPHONE BHAVAN,AURANGABAD -431001",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "AMDN0000117",
+            "office": "AURANGABAD MONDHA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105503
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 14 TO 17,GROUND FLOOR,VISION GALAXY RESIDENTIAL& COMMERCIAL,NEAR BUS STAND,PUNE-NASHIK ROAD,NARAYAN GAON,TAL - JUNNAR,DISTPUNE-410504",
+            "bank_name": "AHMEDNAGAR MERCHANTS CO-OP BANK LTD",
+            "branch": "",
+            "city": "JUNNAR",
+            "district": "PUNE",
+            "ifsc": "AMDN0000118",
+            "office": "NARAYANGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 105504
+    }
+]

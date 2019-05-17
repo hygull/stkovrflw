@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "RELIANCE CORPORATE PARK, GHANSOLI, NAVI MUMBAI, MAHARASHTRA, INDIA",
+            "bank_name": "JIO PAYMENTS BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "JIOP0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125637
+    }
+]

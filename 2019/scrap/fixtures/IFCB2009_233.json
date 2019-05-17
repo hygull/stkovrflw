@@ -12,7 +12,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 115449
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 115450
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 115451
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 115452
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 115453
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 115454
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 115455
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 115456
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 115457
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 115458
     },
     {
         "fields": {
@@ -162,6 +162,6 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 115459
     }
 ]

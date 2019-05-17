@@ -1,0 +1,1472 @@
+[
+    {
+        "fields": {
+            "address": "TANDPOSTANDTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "DEOGAD",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001001",
+            "office": "DEOGAD",
+            "phone": "262218",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1268
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTVIJYDURGTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "VIJAYDURG",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001002",
+            "office": "VIJAYDURG",
+            "phone": "245249",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1269
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTHINDLETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HINDALE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001003",
+            "office": "HINDALE",
+            "phone": "238246",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1270
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTANDTLKNKVLI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KANKAVLI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001004",
+            "office": "KANKAVLI",
+            "phone": "232036",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1271
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KHAREPATAN TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KHAREPATAN",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001005",
+            "office": "KHAREPATAN",
+            "phone": "242230",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1272
+    },
+    {
+        "fields": {
+            "address": "AT AND POST PHONDAGHAT TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PHONDAGHAT",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001006",
+            "office": "PHONDAGHAT",
+            "phone": "245253",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1273
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SANGAVE TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SANGAVE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001007",
+            "office": "SANGAVE",
+            "phone": "246240",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1274
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KASARDE TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KASARDE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001008",
+            "office": "KASARDE",
+            "phone": "240229",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1275
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MALVAN",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001009",
+            "office": "MALVAN",
+            "phone": "252074",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1276
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ACHARA TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ACHARA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001010",
+            "office": "ACHARA",
+            "phone": "246226",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1277
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KATTA TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KATTA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001011",
+            "office": "KATTA",
+            "phone": "225220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1278
+    },
+    {
+        "fields": {
+            "address": "AT AND POST VIRAN TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "VIRAN",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001012",
+            "office": "VIRAN",
+            "phone": "227605",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1279
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KUDAL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001013",
+            "office": "KUDAL",
+            "phone": "222250",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1280
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KADAWAL TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KADAWAL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001014",
+            "office": "KADAWAL",
+            "phone": "230029",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1281
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MANGAON TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MANGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001015",
+            "office": "MANGAON",
+            "phone": "236230",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1282
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KASAL TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KASAL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001016",
+            "office": "KASAL",
+            "phone": "234224",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1283
+    },
+    {
+        "fields": {
+            "address": "AT AND POST GHOTAGE TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "GHOTAGE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001017",
+            "office": "GHOTAGE",
+            "phone": "231007",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1284
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "VENGURLA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001018",
+            "office": "VENGURLA",
+            "phone": "262029",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1285
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MHAPAN TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MHAPAN",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001019",
+            "office": "MHAPAN",
+            "phone": "228025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1286
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SHIRODA TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SHIRODA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001020",
+            "office": "SHIRODA",
+            "phone": "227253",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1287
+    },
+    {
+        "fields": {
+            "address": "AT AND POST HODAWADA TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HODAWADA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001021",
+            "office": "HODAWADA",
+            "phone": "225244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1288
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SAWANTWADI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001022",
+            "office": "SAWANTWADI",
+            "phone": "271882",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1289
+    },
+    {
+        "fields": {
+            "address": "AT AND POST BANDA TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "BANDA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001023",
+            "office": "BANDA",
+            "phone": "27035",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1290
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL DODAMARG",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "DODAMARG",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001024",
+            "office": "DODAMARG",
+            "phone": "256632",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1291
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SATELI BHEDSHI TAL DODAMARG",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SATELI BHEDSHI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001025",
+            "office": "SATELI BHEDSHI",
+            "phone": "250033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1292
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SANGELI TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SANGELI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001026",
+            "office": "SANGELI",
+            "phone": "242721",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1293
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ARONDA TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ARONDA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001027",
+            "office": "ARONDA",
+            "phone": "262237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1294
+    },
+    {
+        "fields": {
+            "address": "AT AND POST PADEL TAL DEVGAD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PADEL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001028",
+            "office": "PADEL",
+            "phone": "225047",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1295
+    },
+    {
+        "fields": {
+            "address": "AT AND POST BHUIBAWADA TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "BHUIABAWADA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001029",
+            "office": "BHUIABAWADA",
+            "phone": "254804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1296
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KAMALEVEER TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KAMALEVEER",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001030",
+            "office": "KAMALEVEER",
+            "phone": "245024",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1297
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KOLZAR TAL DODAMARG",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KOLZAR",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001031",
+            "office": "KOLZAR",
+            "phone": "257359",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1298
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTTLEBZRTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TALEBAZAR",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001032",
+            "office": "TALEBAZAR",
+            "phone": "231432",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1299
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTSHIRGONTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SHIRGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001033",
+            "office": "SHIRGAON",
+            "phone": "236237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1300
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "VAIBHAVWADI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001034",
+            "office": "VAIBHAVWADI",
+            "phone": "237227",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1301
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MALEWAD TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MALEWAD",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001035",
+            "office": "MALEWAD",
+            "phone": "261020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1302
+    },
+    {
+        "fields": {
+            "address": "AT AND POST PANDUR TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PANDUR",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001036",
+            "office": "PANDUR",
+            "phone": "248067",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1303
+    },
+    {
+        "fields": {
+            "address": "AT AND POST VETORE TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "VETORE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001037",
+            "office": "VETORE",
+            "phone": "266207",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1304
+    },
+    {
+        "fields": {
+            "address": "AT AND POST CHOWKUL TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "CHOUKUL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001038",
+            "office": "CHOUKUL",
+            "phone": "241117",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1305
+    },
+    {
+        "fields": {
+            "address": "AT AND POST CHOWKE TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "CHOWKE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001039",
+            "office": "CHOWKE",
+            "phone": "258214",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1306
+    },
+    {
+        "fields": {
+            "address": "AT AND POST NANDGAON TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "NANDGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001040",
+            "office": "NANDGAON",
+            "phone": "248545",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1307
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MASURE TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MASURE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001041",
+            "office": "MASURE",
+            "phone": "257233",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1308
+    },
+    {
+        "fields": {
+            "address": "AT AND POST NARDAVE TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "NARDAVE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001042",
+            "office": "NARDAVE",
+            "phone": "241017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1309
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TALAMBA TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TALAMBA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001043",
+            "office": "TALAMBA",
+            "phone": "239051",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1310
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ACHIRNE TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ACHIRNE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001044",
+            "office": "ACHIRNE",
+            "phone": "259036",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1311
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KARUL TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KARUL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001045",
+            "office": "KARUL",
+            "phone": "205395",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1312
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SINDHUDURGNAGARI TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "H.O. COUNTER",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001046",
+            "office": "H.O. COUNTER",
+            "phone": "229005",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1313
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTPHNSGONTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PHANASGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001047",
+            "office": "PHANASGAON",
+            "phone": "244433",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1314
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AMBRAD TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "AMBRAD",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001048",
+            "office": "AMBRAD",
+            "phone": "235016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1315
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KANKAVLI CITY",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001049",
+            "office": "KANKAVLI CITY",
+            "phone": "232159",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1316
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SAWANTWADI CITY",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001050",
+            "office": "SAWANTWADI CITY",
+            "phone": "272316",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1317
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AMBOLI TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "AMBOLI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001051",
+            "office": "AMBOLI",
+            "phone": "240206",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1318
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ASARONDI TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ASRAONDI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001052",
+            "office": "ASRAONDI",
+            "phone": "249018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1319
+    },
+    {
+        "fields": {
+            "address": "AT AND POST OROS TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "OROS",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001053",
+            "office": "OROS",
+            "phone": "228867",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1320
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTMONDTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MOND",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001054",
+            "office": "MOND",
+            "phone": "246980",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1321
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTJMSNDETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "JAMSANDE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001055",
+            "office": "JAMSANDE",
+            "phone": "280470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1322
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTMITHBVTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MITHBAV",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001056",
+            "office": "MITHBAV",
+            "phone": "238061",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1323
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTDHIBVTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "DAHIBAV",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001057",
+            "office": "DAHIBAV",
+            "phone": "238146",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1324
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTMUNGETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MUNGE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001058",
+            "office": "MUNGE",
+            "phone": "280679",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1325
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KALSULI TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KALSULI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001059",
+            "office": "KALSULI",
+            "phone": "252833",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1326
+    },
+    {
+        "fields": {
+            "address": "AT AND POST NATAL TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "NATAL",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001060",
+            "office": "NATAL",
+            "phone": "246053",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1327
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TARKARLI TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TARKARLI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001061",
+            "office": "TARKARLI",
+            "phone": "248523",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1328
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SHRAVAN TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SHRAVAN",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001062",
+            "office": "SHRAVAN",
+            "phone": "259647",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1329
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SUKALWAD TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SUKLWAD",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001063",
+            "office": "SUKLWAD",
+            "phone": "225686",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1330
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KALSE TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KALSE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001064",
+            "office": "KALSE",
+            "phone": "255716",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1331
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MALGAON TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MAALGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001065",
+            "office": "MAALGAON",
+            "phone": "227847",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1332
+    },
+    {
+        "fields": {
+            "address": "AT AND POST WALAWAL HUMARMALA TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HUMARMALA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001066",
+            "office": "HUMARMALA",
+            "phone": "233208",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1333
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TULSULI TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TULSULI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001067",
+            "office": "TULSULI",
+            "phone": "244326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1334
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TENDOLI TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TENDOLI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001068",
+            "office": "TENDOLI",
+            "phone": "233460",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1335
+    },
+    {
+        "fields": {
+            "address": "AT AND POST HIRLOK TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HIRLOK",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001069",
+            "office": "HIRLOK",
+            "phone": "245006",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1336
+    },
+    {
+        "fields": {
+            "address": "AT AND POST REDI TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "REDI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001070",
+            "office": "REDI",
+            "phone": "268323",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1337
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ARAVALI TAK TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ARAVALI TAK",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001071",
+            "office": "ARAVALI TAK",
+            "phone": "227245",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1338
+    },
+    {
+        "fields": {
+            "address": "AT AND POST SATARDA TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "SATARDA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001072",
+            "office": "SATARDA",
+            "phone": "268806",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1339
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MADURA TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MADURA",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001073",
+            "office": "MADURA",
+            "phone": "281155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1340
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTMNCHETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MANCH",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001074",
+            "office": "MANCH",
+            "phone": "247628",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1341
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TIRAWADE TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TIRWADE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001075",
+            "office": "TIRWADE",
+            "phone": "260024",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1342
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTKINJVDETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KINJAWADE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001076",
+            "office": "KINJAWADE",
+            "phone": "227015",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1343
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TITHAVALI TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TITHAWALI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001077",
+            "office": "TITHAWALI",
+            "phone": "205571",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1344
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTBPRDETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "BAPARDE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001078",
+            "office": "BAPARDE",
+            "phone": "246989",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1345
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MALGAON TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MALGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001079",
+            "office": "MALGAON",
+            "phone": "258301",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1346
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MAJGAON TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MAJGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001080",
+            "office": "MAJGAON",
+            "phone": "273845",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1347
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KUDAL CITY",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001096",
+            "office": "KUDAL CITY",
+            "phone": "221237",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1348
+    },
+    {
+        "fields": {
+            "address": "AT AND POST KALANE TAL DODAMARG",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KALNE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001097",
+            "office": "KALNE",
+            "phone": "255033",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1349
+    },
+    {
+        "fields": {
+            "address": "AT AND POST TALAWADE TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "TALAWADE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001098",
+            "office": "TALAWADE",
+            "phone": "266121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1350
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTKUWLETLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KUWALE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001099",
+            "office": "KUWALE",
+            "phone": "202085",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1351
+    },
+    {
+        "fields": {
+            "address": "AT AND POST DANOLI TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "DANOLI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001100",
+            "office": "DANOLI",
+            "phone": "246536",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1352
+    },
+    {
+        "fields": {
+            "address": "AT AND POST ZARAP TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "ZARAP",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001101",
+            "office": "ZARAP",
+            "phone": "232318",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1353
+    },
+    {
+        "fields": {
+            "address": "AT AND POST NERUR TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "NERUR",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001102",
+            "office": "NERUR",
+            "phone": "202159",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1354
+    },
+    {
+        "fields": {
+            "address": "AT AND POST HIWALE TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HIWALE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001103",
+            "office": "HIWALE",
+            "phone": "202300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1355
+    },
+    {
+        "fields": {
+            "address": "AT AND POST PARULE TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PARULE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001104",
+            "office": "PARULE",
+            "phone": "269788",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1356
+    },
+    {
+        "fields": {
+            "address": "AT AND POST MATH TAL VENGURLA",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MATH",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001105",
+            "office": "MATH",
+            "phone": "264404",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1357
+    },
+    {
+        "fields": {
+            "address": "AT AND POST NADHAVADE TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "NADHAVDE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001106",
+            "office": "NADHAVDE",
+            "phone": "255730",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1358
+    },
+    {
+        "fields": {
+            "address": "AT AND POST UMBARDE TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "UMBARDE",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001107",
+            "office": "UMBARDE",
+            "phone": "253727",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1359
+    },
+    {
+        "fields": {
+            "address": "TANDPOSTKUNKESHWRTLDEOGD",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "KUNKESHWAR",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001108",
+            "office": "KUNKESHWAR",
+            "phone": "248964",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1360
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AROS DANDELI TAL SAWANTWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "AROS DANDELI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001109",
+            "office": "AROS DANDELI",
+            "phone": "260090",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1361
+    },
+    {
+        "fields": {
+            "address": "AT AND POST PINGULI TAL KUDAL",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "PINGULI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001110",
+            "office": "PINGULI",
+            "phone": "221090",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1362
+    },
+    {
+        "fields": {
+            "address": "AT AND POST OSARGAON TAL KANKAVALI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "OSARGAON",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001111",
+            "office": "OSARGAON",
+            "phone": "251028",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1363
+    },
+    {
+        "fields": {
+            "address": "AT AND POST AND TAL MALVAN",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "MALVAN CITY",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001112",
+            "office": "MALVAN CITY",
+            "phone": "251159",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1364
+    },
+    {
+        "fields": {
+            "address": "AT AND POST HET SHEWARI TAL VAIBHAVWADI",
+            "bank_name": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD",
+            "branch": "",
+            "city": "HET SHEVRI",
+            "district": "SINDHUDURG",
+            "ifsc": "SIDC0001113",
+            "office": "HET SHEVRI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1365
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "fields": {
+            "address": "Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MHCB0000002",
+            "office": "NARIMAN POINT",
+            "phone": "22886638",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "MHCB0000532",
+            "office": "RTGS-HO",
+            "phone": "22886638",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "N.H. 7/4-207, B.B. ROAD, VIJAYAPURA CROSS",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE RURAL",
+            "ifsc": "MHCB0000716",
+            "office": "DEVANAHALLI",
+            "phone": "30807304",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "PRESTIGE PALLADIUM BAYAN, GREAMS ROAD, CHENNAI",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "MHCB0000717",
+            "office": "CHENNAI",
+            "phone": "42986648",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "MIZUHO BANK, LTD., NO. 402, 4TH FLOOR, COMMERCE HOUSE-5, NR. VODAFONE HOUSE, PRAHALADNAGAR CORPORATE RD.,AHMEDABAD-380051",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "MHCB0000718",
+            "office": "AHMEDABAD BRANCH",
+            "phone": "49112047",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "4 FLOOR, EAST TOWER SOOD TOWER, BARAKHAMBA ROAD",
+            "bank_name": "MIZUHO BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "DELHI",
+            "ifsc": "MHCB0000793",
+            "office": "NEW DELHI BRANCH",
+            "phone": "30410900",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    }
+]

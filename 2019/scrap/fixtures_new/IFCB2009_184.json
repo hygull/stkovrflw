@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "4TH FLOOR, NO 29 BANNARI AMMAN TOWERS, DR.RADHAKRISHNAN SALAI, MYLAPORE, CHENNAI 4",
+            "bank_name": "KEB Hana Bank",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "KOEX0000001",
+            "office": "RTGS-HO",
+            "phone": "49056320",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 121266
+    }
+]

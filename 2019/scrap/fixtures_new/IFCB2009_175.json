@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "FLOOR 21,CENTER ONE BUILDING,WORLD TRADE CENTRE COMPLEX,CUFFE PARADE,MUMBAI 400005.",
+            "bank_name": "EXPORT IMPORT BANK OF INDIA",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "EIBI0HO0001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36549
+    }
+]

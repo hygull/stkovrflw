@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "POST OFFICE,SPEED POST CENTRE BUILDING,MARKET ROAD,NEW DELHI,CENTRAL DELHI,DELHI 110001,INDIA",
+            "bank_name": "INDIA POST PAYMENT BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "IPOS0000001",
+            "office": "CORPORATE OFFICE",
+            "phone": "23362148",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

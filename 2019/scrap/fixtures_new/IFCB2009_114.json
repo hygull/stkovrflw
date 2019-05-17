@@ -1,0 +1,1112 @@
+[
+    {
+        "fields": {
+            "address": "207, \"MUMBAI BANK BHAVAN\" D.N ROAD, FORT ,MUMBAI 400 001",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680001",
+            "office": "RTGS-HO",
+            "phone": "22617154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38184
+    },
+    {
+        "fields": {
+            "address": "SHREE CHHATRAPATI SHIVAJI MAHARAJ MANDAI, 1ST FLOOR, PALTON ROAD,MUMBAI 400 001",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680002",
+            "office": "PALTON ROAD",
+            "phone": "22698397",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38185
+    },
+    {
+        "fields": {
+            "address": "DAMODAR BHAVAN, OPP.VILE PARLE STATION, VILE PARLE (W),MUMBAI 400 056",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680003",
+            "office": "VILE PARLE",
+            "phone": "26142389",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38186
+    },
+    {
+        "fields": {
+            "address": "NILKANTH APPARTMENTS,SHRI SOUND STUDIO COMPOUND,GOKULDAS PASTA LANE, DADAR, MUMBAI 400014",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680004",
+            "office": "DADAR",
+            "phone": "24114498",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38187
+    },
+    {
+        "fields": {
+            "address": "SHIVSHAKTI HEIGHTS, PLOT NO.252, SHOP NO.1, PATEL CHOWK, PANTNAGAR, GHATKOPAR (E),MUMBAI 400 077",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680005",
+            "office": "GHATKOPAR EAST",
+            "phone": "21024342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38188
+    },
+    {
+        "fields": {
+            "address": "SHREE G. APARTMENTS,KAPADIA BUILDING,61, RAMCHANDRA LANE, S. V. ROAD, MALAD (W),MUMBAI 400 064",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680006",
+            "office": "MALAD",
+            "phone": "28822556",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38189
+    },
+    {
+        "fields": {
+            "address": "PLOT - A, GARDEN ROSE COLONY,OPP.MUKUND IRON & STEEL WORKS LTD.,LALBAHADUR SHASTRI MARG,KURLA (W),MUMBAI 400 070.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680007",
+            "office": "KURLA",
+            "phone": "25042687",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38190
+    },
+    {
+        "fields": {
+            "address": "SHAH VENI BHAVAN,SHREE NAGHER SAMAJ HALL,BLOCK NO.1 & 2, JAGDUSHANAGAR,GHATKOPAR (W),MUMBAI - 400 086.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680008",
+            "office": "JAGDUSHANAGAR",
+            "phone": "25148398",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38191
+    },
+    {
+        "fields": {
+            "address": "RUNWAL SHOPPING CENTRE CHS LTD.,PLOT NO.42, 15TH ROAD, R.C. CHEMBURKAR MARG, CHEMBUR,MUMBAI \u252c\u00fb 400 071.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680009",
+            "office": "CHEMBUR FINE ART",
+            "phone": "25276083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38192
+    },
+    {
+        "fields": {
+            "address": "AKHALWAYA BUILDING,DR.S. S. RAO ROAD, GANESH LANE, LALBAUG,MUMBAI - 400 012.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680010",
+            "office": "LALBAUG",
+            "phone": "24710379",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38193
+    },
+    {
+        "fields": {
+            "address": "SIDDHACHAL DARSHAN, LOVE LANE,BEHIND BYCULLA POLICE STATION,OPP.JAIN MANDIR, BYCULLA (E),MUMBAI - 400 027.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680012",
+            "office": "BYCULLA",
+            "phone": "23720049",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38194
+    },
+    {
+        "fields": {
+            "address": "PRASAD BUILDING,DR.SAROJINI NAIDU ROAD,MULUND (W),MUMBAI - 400 080.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680013",
+            "office": "MULUND WEST",
+            "phone": "25613733",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38195
+    },
+    {
+        "fields": {
+            "address": "LAXMAN ZULA, OPP.MUNICIPAL GARDEN,J. P. ROAD, NEAR NAVRANG CINEMA,ANDHERI (W),MUMBAI - 400 058.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680014",
+            "office": "ANDHERI WEST",
+            "phone": "26778451",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38196
+    },
+    {
+        "fields": {
+            "address": "PRAMIRA APARTMENT,GAVDEVI ROAD, S. V. ROAD,POINSUR VILLAGE, KANDIVALI (W),MUMBAI - 400 067.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680015",
+            "office": "KANDIVALI POISAR",
+            "phone": "28050314",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38197
+    },
+    {
+        "fields": {
+            "address": "207, \"MUMBAI BANK BHAVAN\" D.N ROAD, FORT ,MUMBAI 400 001",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680016",
+            "office": "FORT",
+            "phone": "22617026",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38198
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 & 5, SAT KRUPA CO-OP. HSG. STY. LTD., PREM NAGAR, NEAR NATURAL ICE-CREAM, S.V.P. ROAD, BORIVALI (W), MUMBAI \u252c\u00fb 400 092.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680017",
+            "office": "BORIVALI WEST",
+            "phone": "28935873",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38199
+    },
+    {
+        "fields": {
+            "address": "A -1, NALANDA,ANUSHAKTINAGAR, NORTH GATE,MUMBAI - 400 094.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680018",
+            "office": "ANUSHAKTINAGAR",
+            "phone": "25568191",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38200
+    },
+    {
+        "fields": {
+            "address": "SAHAKARI SHIKSHAN VIKAS SAMOOHA, MARATHA HIGH SCHOOL,SHIVRAM AMRUTWAR MARG, WORLI,MUMBAI - 400 013.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680019",
+            "office": "WORLI",
+            "phone": "24940209",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38201
+    },
+    {
+        "fields": {
+            "address": "CLASSIC COMMERCIAL COMPLEX,SHOP NO.101A, OPP.VIKAS HIGHSCHOOL,KANNAMVAR NAGAR NO.2, 1ST FLOOR, VIKHROLI (E),MUMBAI - 400 083.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680020",
+            "office": "VIKHROLI EAST",
+            "phone": "25770141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38202
+    },
+    {
+        "fields": {
+            "address": "YASHWANTRAO CHAVAN NATYA SANKUL, OPP.BOMBAY GLASS WORKS, J. K. SAWANT MARG,MAHIM (W),MUMBAI - 400 016.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680021",
+            "office": "MAHIM",
+            "phone": "24318567",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38203
+    },
+    {
+        "fields": {
+            "address": "SURBHI CO-OP. HSG. STY. LTD.,PLOT NO.278, R.D.P. 3,OPP.SAHYADRI NAGAR,CHARKOP-KANDIVALI (W),MUMBAI - 400 067.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680022",
+            "office": "CHARKOP",
+            "phone": "28679793",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38204
+    },
+    {
+        "fields": {
+            "address": "BALKRISHNA APARTMENT LTD.,A - WING, GOGATEWADI ROAD,(GUPTE ROAD), GOREGAON (E),MUMBAI - 400 063.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680023",
+            "office": "GOREGAON EAST",
+            "phone": "29275339",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38205
+    },
+    {
+        "fields": {
+            "address": "YASASHREE CO-OP. HSG. STY. LTD.,M. I. G. COLONY,BANDRA (E),MUMBAI - 400 051.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680024",
+            "office": "BANDRA",
+            "phone": "26571626",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38206
+    },
+    {
+        "fields": {
+            "address": "AMAR ANKUR CO-OP. HSG. STY. LTD.,SHOP NO.2 & 3, GR. FLOOR,JUHU CHURCH ROAD,J.V.P.D. SCHEME, VILE PARLE (W),MUMBAI \u252c\u00fb 400 049.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680025",
+            "office": "JVPD",
+            "phone": "26256617",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38207
+    },
+    {
+        "fields": {
+            "address": "AASHIRWAD CO-OP. HSG. STY.,ANAND NAGAR, SHOP NO.8,9,10A.B. LINK ROAD,DAHISAR (E),MUMBAI - 400 068.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680026",
+            "office": "DAHISAR EAST",
+            "phone": "28483710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38208
+    },
+    {
+        "fields": {
+            "address": "MANGAL ANAND HOSPITAL,48, SWASTIK PARK,UMERSHI BAPPA CHOWK,SION-TROMBAY ROAD, CHEMBUR,MUMBAI - 400 071.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680027",
+            "office": "SWASTIK PARK",
+            "phone": "25278495",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38209
+    },
+    {
+        "fields": {
+            "address": "GORAI INDRAPRASTHA CO-OP.HSG.STY.LTD.,PLOT NO.90, R.S.C. 37, GORAI - 2,MHADA, D. P. ROAD,BORIVALI (W), GORAI,MUMBAI - 400 092.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680028",
+            "office": "GORAI",
+            "phone": "28670236",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38210
+    },
+    {
+        "fields": {
+            "address": "SUNRISE, MANGESHRAO SAWANT ROAD,DAHISAR (W),MUMBAI \u252c\u00fb 400 068.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680029",
+            "office": "DAHISAR WEST",
+            "phone": "28944286",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38211
+    },
+    {
+        "fields": {
+            "address": "SOYUZ COMPLEX, A - WING,GROUND FLOOR, SION-TROMBAY ROAD, NEAR EXCEL STUDIO, TROMBAY,MUMBAI - 400 088.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680030",
+            "office": "TROMBAY",
+            "phone": "25504154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38212
+    },
+    {
+        "fields": {
+            "address": "SAI SHRUSHTI COMPLEX,GROUND FLOOR, NEAR SHANGRILA BISCUIT COMPANY, L.B.S. MARG,BHANDUP (W),MUMBAI - 400 078.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680031",
+            "office": "BHANDUP WEST",
+            "phone": "25964539",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38213
+    },
+    {
+        "fields": {
+            "address": "ARUNODAYA NAGAR SHOPING COMPLEX,1ST FLOOR, VEER SAWARKAR MARG,MULUND (E),MUMBAI - 400 081.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680033",
+            "office": "MULUND EAST",
+            "phone": "25634668",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38214
+    },
+    {
+        "fields": {
+            "address": "ASHTAVINAYAK BUILDING, GROUND FLOOR, G. D. AMBEKAR ROAD,NEAR HAFKIN & R.M.M.S.,PAREL VILLAGE,MUMBAI - 400 012.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680034",
+            "office": "PAREL VILLAGE",
+            "phone": "24126542",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38215
+    },
+    {
+        "fields": {
+            "address": "S.G.S. HOUSE, GROUND FLOOR, GALA NO.4,5  NEAR POWAI TELEPHONE EXCHANGE,ADI SHANKARACHARYA MARG,VIKHROLI (W),MUMBAI - 400 083.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680035",
+            "office": "VIKHROLI WEST",
+            "phone": "25778726",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38216
+    },
+    {
+        "fields": {
+            "address": "RAMSAGAR BUILDING, SHOP NO.11, 12, ASALFA VILLAGE,GHATAKOPAR (W),MUMBAI - 400 084.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680036",
+            "office": "BHATWADI",
+            "phone": "25142225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38217
+    },
+    {
+        "fields": {
+            "address": "KAVERI BUILDING, GROUND FLOOR,JAGNATH MANDIR ROAD, SAKINAKA JUNCTION, SAKINAKA, MUMBAI - 400 072.MUMBAI - 400 084.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680037",
+            "office": "SAKINAKA",
+            "phone": "28513305",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38218
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 & 2, MOHANKHEDA HIGHTS, RAMBHAU BHOGALE MARG,GHODAPDEO, MUMBAI \u252c\u00fb 400 033.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680038",
+            "office": "COTTON GREEN",
+            "phone": "23700060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38219
+    },
+    {
+        "fields": {
+            "address": "YASASHREE CO-OP. HSG. STY. LTD.,M. I. G. COLONY,BANDRA (E),MUMBAI - 400 051.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680039",
+            "office": "BANDRA EAST",
+            "phone": "26571626",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38220
+    },
+    {
+        "fields": {
+            "address": "SAIRAJ BUILDING, NEAR DAMALE COLONY, KANJUR VILLAGE,BHANDUP (E),MUMBAI - 400 042.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680040",
+            "office": "BHANDUP EAST",
+            "phone": "25786338",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38221
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15, AMBIKA TOWER,RAJMATA JIJABAI ROAD,ANDHERI (E),MUMBAI \u252c\u00fb 400 093.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680041",
+            "office": "ANDHERI EAST",
+            "phone": "28305743",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38222
+    },
+    {
+        "fields": {
+            "address": "RIDDHI SIDDHI APARTMENT,V. N. PURAV MARG,CHUNABHATTI,MUMBAI \u252c\u00fb 400 022.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680042",
+            "office": "CHUNABHATTI",
+            "phone": "24055181",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38223
+    },
+    {
+        "fields": {
+            "address": "G-1, 2, \"A\" WING,DEVENDRA SADAN,NEAR DHOBI GHAT, MAJAS ROAD,JOGESHWARI (E),MUMBAI - 400 060.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680043",
+            "office": "JOGESHWARI",
+            "phone": "28241245",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38224
+    },
+    {
+        "fields": {
+            "address": "AMBAKRUPA CO-OP. HSG. STY. LTD.,SHOP NO.1, GROUND FLOOR,MAHADEOBHAI DESAI ROAD,(KASTURBA CROSS ROAD NO.3),KARTER ROAD, OPP.AMBAMATA MANDIR,MUMBAI - 400 066.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680044",
+            "office": "BORIVALI EAST",
+            "phone": "28635876",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38225
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3, GROUND FLOOR,BHOPI HOUSE, MADH VILLAGE,MADH MARKET, BHASKAR BHOPI MARG, MADH ISLAND,MUMBAI - 400 061.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680045",
+            "office": "MADH",
+            "phone": "28800804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38226
+    },
+    {
+        "fields": {
+            "address": "BHULESHWARDARSHAN CO-OP. HSG. STY. LTD., GROUND FLOOR,PLOT NO.61, ROOM NO.2, 3 & 4,ATMARAM MERCHANT ROAD,(NEAR KABUTAR KHANA),BHULESHWAR,MUMBAI - 400 002.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680046",
+            "office": "BHULESHWAR",
+            "phone": "22408153",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38227
+    },
+    {
+        "fields": {
+            "address": "YOGESHWAR CO OP HSG STY,SHOP NO 7,DELISE ROAD,N M JOSHI MARG,MUMBAI 400 013",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680047",
+            "office": "N M JOSHI MARG",
+            "phone": "23008373",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38228
+    },
+    {
+        "fields": {
+            "address": "SARASWATI CO OP HSG STY,NEAR D MART,SHOP NO 13,14,THAKUR VILLAGE,KANDIVALI E,MUMBAI 400 101",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680049",
+            "office": "KANDIVALI E  THAKUR VILLAGE",
+            "phone": "28840555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38229
+    },
+    {
+        "fields": {
+            "address": "GURUKRUPA CO OP HSG STY,BUILDING NO 5,SIDHARTH NAGAR IV,GOREGAON W,MUMBAI 400 062",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680050",
+            "office": "GOREGAON W",
+            "phone": "28711943",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38230
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 10,GROUND FLOOR,CHINTAMANI PLAZA,ASHOKWAN,DAHISAR E,MUMBAI 400 068",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680051",
+            "office": "ASHOKVAN  DAHISAR E",
+            "phone": "28970555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38231
+    },
+    {
+        "fields": {
+            "address": "NARVADE CHAWL NO 1,MAHENDRA COMPOUND,DAMU NAGAR,KANDIVALI E,MUMBAI 400 101",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680052",
+            "office": "DAMU NAGAR  KANDIVALI E",
+            "phone": "29652555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38232
+    },
+    {
+        "fields": {
+            "address": "ANDHERI SAHAR VILLAGE,CHURCH PAKADI ROAD NO 1,SAHAR,ANDHERI E,MUMBAI 400 099",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680053",
+            "office": "ANDHERI E SAHAR VILLAGE",
+            "phone": "28324555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38233
+    },
+    {
+        "fields": {
+            "address": "OM SAI COOP CREDIT STY LTD,SHOP NO 4 AC,1247,OPP GOLF CLUB,C G GIDWANI MARG,CHEMBUR,MUMBAI 400074",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680054",
+            "office": "CHEMBUR COLONY",
+            "phone": "25217776",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38234
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,SHRI RAM CO OP HOUSING SOCIETY LTD,MUKUND NAGAR,DHARAVI,MUMBAI 400 017",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MDCB0680055",
+            "office": "DHARAVI",
+            "phone": "22617154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38235
+    },
+    {
+        "fields": {
+            "address": "SHOP 1,2,3 DATAR BUILDING, OPP SVC TOWER,VAKOLA CHURCH,SANTACRUZ(E),MUMBAI 400065",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER OMBAY",
+            "ifsc": "MDCB0680056",
+            "office": "SANTACRUZ EAST",
+            "phone": "26652555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38236
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR PRIYADARSHINI MAHILA CHS LTD,62 BHAWANI SHANKAR ROAD,OPPOSITE BRAHMAN SEVA MANDAL,MUMBAI 400 003",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER OMBAY",
+            "ifsc": "MDCB0680057",
+            "office": "DADAR WEST",
+            "phone": "22616411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38237
+    },
+    {
+        "fields": {
+            "address": "4042,SHREE MANSION,1ST FLOOR,NAGDEVI STREET,MUMBAI 400 003",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680265",
+            "office": "PRATAP COOP BANK NAGDEVI",
+            "phone": "22412241",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38238
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA VAHATUK BHAVAN,MUMBAI CENTRAL,MUMBAI",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680266",
+            "office": "STATE TRANSPORT BANK MUMBAI CENTRAL",
+            "phone": "56807650",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38239
+    },
+    {
+        "fields": {
+            "address": "S T DEPOT, STATION ROAD, NEAR RAILWAY STATION, THANE",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MDCB0680284",
+            "office": "STATE TRANSPORT COOP BANK THANE",
+            "phone": "25335559",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38240
+    },
+    {
+        "fields": {
+            "address": "DR BHADKAMKAR MARG,GRANT ROAD,MUMBAI 400 007",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680289",
+            "office": "MUMBAI MAHA PALIKA SVCB GRANT ROAD",
+            "phone": "23079819",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38241
+    },
+    {
+        "fields": {
+            "address": "KURLA KIROL ROAD, VIDHYAVIHAR W, NEAR S T STORES, NEAR PREMIER AUTO MOBILE CO, KURLA",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680297",
+            "office": "STATE TRANSPORT COOP BANK KURLA",
+            "phone": "25139505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38242
+    },
+    {
+        "fields": {
+            "address": "MUNICIPAL HINDI SCHOOL BLDG,2ND FLOOR,TANK LANE,SANTACRUZ W,MUMBAI 400 054",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680300",
+            "office": "MUMBAI MAHA PALIKA SVCB SANTACRUZ W",
+            "phone": "26041269",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38243
+    },
+    {
+        "fields": {
+            "address": "BHAVANI SHANKAR ROAD,MUNICIPAL MARATHI SCHOOL,DADAR,MUMBAI 400 028",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680301",
+            "office": "MUMBAI MAHA PALIKA SVCB DADAR",
+            "phone": "24228958",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38244
+    },
+    {
+        "fields": {
+            "address": "S G BARVE MARG,MUNICIPAL SCHOOL BLDG,KURLA W,MUMBAI 400 070",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680305",
+            "office": "MUMBAI MAHA PALIKA SVCB KURLA W",
+            "phone": "26508071",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38245
+    },
+    {
+        "fields": {
+            "address": "S T DEPOT KALYAN W,KALYAN,DIST THANE 421301",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "MDCB0680314",
+            "office": "STATE TRANSPORT COOP BANK KALYAN",
+            "phone": "2314222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38246
+    },
+    {
+        "fields": {
+            "address": "S T STAND BLDG, 1ST FLOOR,VASAI DIST THANE",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "MDCB0680326",
+            "office": "STATE TRANSPORT COOP BANK VASAI",
+            "phone": "5023830",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38247
+    },
+    {
+        "fields": {
+            "address": "THAKUR DEGREE COLLEGE,SAMATA NAGAR,KANDIVALI E,MUMBAI 400 101",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680346",
+            "office": "PRATAP COOP BANK KANDIVALI E",
+            "phone": "55741056",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38248
+    },
+    {
+        "fields": {
+            "address": "PRATHMESH HORIZON,NEW SAIFEE SHOPEE SUPER MARKET,LINK ROAD,BORIVALI W,MUMBAI 400 066",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680354",
+            "office": "RAMESHWAR COOP BANK BORIVALI W",
+            "phone": "28685455",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38249
+    },
+    {
+        "fields": {
+            "address": "MOTI MAHAL, OPP. CAMA JUNCTION,M G ROAD, GHATKOPAR W MUMBAI 400086",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680358",
+            "office": "SHREEJI BHATIA CO OP BANK LTD GHATKOPAR W",
+            "phone": "25169990",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38250
+    },
+    {
+        "fields": {
+            "address": "104,SUPARIWALA BUILDING,BHULESHWAR,MUMBAI 400 002",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680376",
+            "office": "PRATAP COOP BANK BHULESHWAR",
+            "phone": "22412241",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38251
+    },
+    {
+        "fields": {
+            "address": "4,MUNSHI ESTATE,M G ROAD,MULUND W,MUMBAI 400 080",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680382",
+            "office": "PRATAP COOP BANK MULUND W",
+            "phone": "25913817",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38252
+    },
+    {
+        "fields": {
+            "address": "8910,DHEERAJ HERITAGE,1ST FLOOR,NEAR MILAN SUBWAY,SANTACRUZ W,MUMBAI 400 054",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680383",
+            "office": "PRATAP COOP BANK SANTACRUZ W",
+            "phone": "24641009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38253
+    },
+    {
+        "fields": {
+            "address": "TULJA BHAVAN, 1ST FLOOR, OPP FISH MARKET,OLD PALGHAR,DIST THANE",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "THANE",
+            "ifsc": "MDCB0680384",
+            "office": "STATE TRANSPORT COOP BANK PALGHAR",
+            "phone": "254731",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38254
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 10,POOJA ENCLAVE,OPP GANESH NAGAR,LINK ROAD,KANDIVALI WEST, MUMBAI 400 067",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680403",
+            "office": "PRATAP COOP BANK KANDIVALI W",
+            "phone": "28697932",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38255
+    },
+    {
+        "fields": {
+            "address": "SHREE DAYANAND BALAK VIDYALAYA,BHIMANI STREET,MATUNGA EAST, MUMBAI 400 019",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MDCB0680406",
+            "office": "PRATAP COOP BANK MATUNGA E",
+            "phone": "24179317",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38256
+    },
+    {
+        "fields": {
+            "address": "SHOP 4/5,YOGESHWAR KRIPA CHS LTD., SANEWADI, KULGAON, BADLAPUR (WEST), THANE 421 503.",
+            "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "MDCB0680411",
+            "office": "PRATAP CO-OPBANK,BADLAPUR",
+            "phone": "2676363",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38257
+    }
+]

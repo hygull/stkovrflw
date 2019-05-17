@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "ROAD NO:1,CASTLE HILLS,MASAB TANK,HYDERABAD",
+            "bank_name": "IDRBT",
+            "branch": "",
+            "city": "",
+            "district": "",
+            "ifsc": "RBIH0000000",
+            "office": "",
+            "phone": "",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 102359
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "fields": {
+            "address": "42,LOKMANYA TILAK PATH,AMBARNATH ( W),DIST.THANE -421501",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBARNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0000001",
+            "office": "RTGS-HO",
+            "phone": "2681816",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "44,PURVADARSHAN,LOKMANYA TILAK PATH,AMBARNATH ( W),DIST.THANE -421501",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBARNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001002",
+            "office": "MAIN BRANCH",
+            "phone": "2674371",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SHIV SUNDARAM CO-OP SOCIETY,VADAVLI SECTION,AMBARNATH ( E),DIST.THANE -421501",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBARNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001003",
+            "office": "SHIVAJI NAGAR",
+            "phone": "2603929",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "EHKO.DIYSIKGD(W)",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "AJHC0001004",
+            "office": "KULGAON BADLAPUR",
+            "phone": "2676988",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1,JAIHINDBANK BLDG,OPP.WIMCO NAKA GROUND",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001005",
+            "office": "WIMCO NAKA BRANCH",
+            "phone": "2683344",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SAKET TOWER JIMMI BAUG",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "AJHC0001006",
+            "office": "KALYAN BRANCH",
+            "phone": "2350044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "MAULI APT,1ST FLOOR,MANPADA RD,OPP.GAVDEVI MANDIR",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "AJHC0001007",
+            "office": "MANPADA, DOMBIVALI BRANCH",
+            "phone": "2426688",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "CLASSIC ARCADE,1ST FLOOR",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001008",
+            "office": "NAVRE NAGAR BRANCH",
+            "phone": "2685377",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "PLOT.NO.31,SURYODAY CO-OP HOUSING SOC",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001009",
+            "office": "AMBARNATH EAST, BRANCH",
+            "phone": "2609749",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "G-2,PLOT NO.C-2,YASHODHAN NAGAR,NEAR YASHODHAN NAGAR TELEPHONE EXE",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "AJHC0001010",
+            "office": "THANE BRANCH",
+            "phone": "25813882",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "BLDG.NO.1,A WING,SAKET HARMONY,NEAR SAKET COLLEGE,100 FT.ROAD",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "AJHC0001011",
+            "office": "KALYAN CHINCHPADA BRANCH",
+            "phone": "2252895",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.5,R PLAZA,OPP.RAILWAY STATION,VANGANI -WEST",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "VANGANI",
+            "district": "THANE",
+            "ifsc": "AJHC0001012",
+            "office": "VANGANI BRANCH",
+            "phone": "2660111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "PANVELKAR OPTIMA,SHOP NO.7,8,9,GR.FLOOR,KATRAP",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "AJHC0001013",
+            "office": "KATRAP, BADLAPUR BRANCH",
+            "phone": "2693335",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,GODSE BHAVAN,GULAWANI MAHARAJ ROAD,NEAR MEHENDALE GARAGE",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AJHC0001014",
+            "office": "PUNE ERANDAWANE BRANCH",
+            "phone": "25466060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3,HOUSE NO 15/2,THE KHATIWALI -VASIND SEVA SOCITEY LTD,AT POST VASIND",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "VASHIND",
+            "district": "THANE",
+            "ifsc": "AJHC0001015",
+            "office": "VASIND BRANCH",
+            "phone": "222922",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1-2,PUNAYI NAGAR,OPP.K.K.MARKET,DHANKWDI,PUNE-411043",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "AJHC0001016",
+            "office": "DHANKAWADI PUNE",
+            "phone": "24362210",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1-2,GR.FLR,DARSHAN APPT,HAJI MALANG ROAD,PISAVALI,KALYAN EAST DIST THANE-421306",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "PISAVALI",
+            "district": "THANE",
+            "ifsc": "AJHC0001017",
+            "office": "PISAVALI",
+            "phone": "7900142255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4 TO 7,ASHIRWAD BUILDING,MATHERAN ROAD,LOKMANYA TILAK CHOWK,NERAL,TALUKA KARJAT DIST-410101",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "NERAL",
+            "district": "RAIGAD",
+            "ifsc": "AJHC0001018",
+            "office": "NERAL BRANCH",
+            "phone": "238788",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP.NO.3 4 5 6 SINGH PARADISE HIMALAYA BUILDING KOHOJGAON",
+            "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "AJHC0001099",
+            "office": "KOHOJGAON BRANCH",
+            "phone": "2684370",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    }
+]

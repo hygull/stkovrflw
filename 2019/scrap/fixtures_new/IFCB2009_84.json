@@ -1,0 +1,707 @@
+[
+    {
+        "fields": {
+            "address": "GAYAN SAMAJ, TILAK  CHOWK,KALYAN (W)-421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000002",
+            "office": "MAIN",
+            "phone": "2220710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104910
+    },
+    {
+        "fields": {
+            "address": "AASHIRWAD, RAMBAUG LANE NO.4,KALYAN(W) 421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000003",
+            "office": "RAMBAUG",
+            "phone": "2301011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104911
+    },
+    {
+        "fields": {
+            "address": "UTEKARPALACE,KOLSHEWADI,KALYAN(E) 421306",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000004",
+            "office": "KOLSEWADI",
+            "phone": "2364461",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104912
+    },
+    {
+        "fields": {
+            "address": "SAHAJANAND CHOWK AGRA RD KALATALAV KALYAN(W)421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000005",
+            "office": "KALATALAV",
+            "phone": "2211130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104913
+    },
+    {
+        "fields": {
+            "address": "YAKUB MANZIL SYNDICATE MURBAD ROAD KALYAN(W)421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000006",
+            "office": "SYNDICATE",
+            "phone": "2220709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104914
+    },
+    {
+        "fields": {
+            "address": "MARUTI CHAMBERS PLOT NO 394 OPP VITTHALWADI",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0000007",
+            "office": "ULHASNAGAR-4",
+            "phone": "2583701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104915
+    },
+    {
+        "fields": {
+            "address": "DARSHAN BLDG\",ATMARAM NAGAR,LOKGRAM NETIVALI KALYAN EAST -421306",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000008",
+            "office": "NETIVALI",
+            "phone": "2355673",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104916
+    },
+    {
+        "fields": {
+            "address": "USHA SANKUL, OAK BAUG, VALI PEER ROAD,BAIL BAZAR KALYAN(W)-421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000009",
+            "office": "BAILBAZAR",
+            "phone": "2220704",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104917
+    },
+    {
+        "fields": {
+            "address": "GHODKE SANKUL,ADHARWADI CHOWKADHARWADI,KALYAN(W)421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000010",
+            "office": "ADHARWADI",
+            "phone": "2220703",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104918
+    },
+    {
+        "fields": {
+            "address": "309,TRIKAL CO-OP.HSG.SOC.,90FT.ROAD,PANT NAGAR,GHATKOPAR 400075",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KJSB0000011",
+            "office": "GHATKOPAR",
+            "phone": "25013286",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104919
+    },
+    {
+        "fields": {
+            "address": "VASUNDHRA ARCADE,OPP.SHRI COMPLEX, BARAVE ROAD, KHADAKPADA,KALYAN(W)421301",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000012",
+            "office": "KHADAKPADA",
+            "phone": "2220707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104920
+    },
+    {
+        "fields": {
+            "address": "ADARSHA VIDYA MANDIR,KULGAON, BADALAPUR 421503",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "BADALAPUR",
+            "district": "THANE",
+            "ifsc": "KJSB0000013",
+            "office": "BADALAPUR",
+            "phone": "2691109",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104921
+    },
+    {
+        "fields": {
+            "address": "MAHARASHRA MITRA MANDAL HIGHSCHOOL,BEHIND BUS STOP ULHASNAGAR 1",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0000014",
+            "office": "ULHASNAGAR EXTN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104922
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2&3,SHIV SHAKTI COMPLEX,NEAR GEETA ,COMPLEX,NEHRU CHOWK,CENTRAL HOSPITAL ROAD,ULHASNAGAR -421 002",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0000015",
+            "office": "ULHASNAGAR-2",
+            "phone": "2709457",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104923
+    },
+    {
+        "fields": {
+            "address": "HORIZON TOWERS,SHOP NO.2,3,4, NR. HARI NIWAS,CIRCLE,BHAKTI MANDIR ROAD, OPP.THANAWALA,GARAGE,PANCHPAKHADI,THANE(W) 400 602",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "KJSB0000016",
+            "office": "THANE",
+            "phone": "25337296",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104924
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, A- WING, NEELAM HEIGHTS, PLOT NO. 139, SECTOR- 13, OPP. RAGHUNATH VIHAR,YAKUB MANZIL SYNDICATE MURBAD ROAD KALYAN(W)421301/",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "NAVI-MUMBAI",
+            "district": "NAVI-MUMBAI",
+            "ifsc": "KJSB0000018",
+            "office": "KHARGHAR",
+            "phone": "27746915",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104925
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 4, GROUND FLOOR, SUNSHINE PLAZA, NAIGAON CROSS ROAD, DADAR (E) 400 014.",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KJSB0000019",
+            "office": "DADAR",
+            "phone": "24156501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104926
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, MOHAN PALACE CO-OP.HSG.SOCT., ., F.P. NO. 199,OPP. VEER SAVARKAR UDYAN,NEAR BHATIYA WADI HALL, BORIVALI 400 092",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KJSB0000020",
+            "office": "BORIVALI",
+            "phone": "28995486",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104927
+    },
+    {
+        "fields": {
+            "address": "NIJDHAM ASHRAM, NIJDHAM MARG, GANDHI ROADOPP. PETROL PUMP ULHASNAGAR 5",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0000021",
+            "office": "ULHASNAGAR-5",
+            "phone": "2520181",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104928
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.106, SHRADHA MAHAL,NEAR SAKET COLLEGE,CHINCHPADA,KALYAN (E)-421306",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000023",
+            "office": "CHINCHPADA",
+            "phone": "2250840",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104929
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 6 ,TRIMBAK PALACE,.GOGRASWADI,DOMBIVALI (E)-421201",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "KJSB0000024",
+            "office": "GOGRASWADI DOMBIVALI",
+            "phone": "2439599",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104930
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,GROUND FLOOR, RAJASHREE PLAZA ,LBS ROAD, PANCHPAKHADI, THANE (W) 400602",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "KJSB0000025",
+            "office": "LBS THANE",
+            "phone": "25382763",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104931
+    },
+    {
+        "fields": {
+            "address": "SUNANDA PLAZA,CITY SURVEY NO 1559/27,SHIVAJI CHOWK,OPPOSITE HUTATMA GARDEN,PANVEL.",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "KJSB0000026",
+            "office": "PANVEL",
+            "phone": "2219009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104932
+    },
+    {
+        "fields": {
+            "address": "BHAGYODAYA BUILDING,PLOT NO4&5,SURVEY NO 31-32,HISSA NO.7,NEAR GANESH MANDIR ROAD,MANDA, TITWALA(EAST)",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000027",
+            "office": "TITWALA",
+            "phone": "2381141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104933
+    },
+    {
+        "fields": {
+            "address": "SHOP NUMBER 3,4,5. UILDING N0 1,MAITRI RAGHUKUL CHS,S.B.ROAD,BHANU NAGAR DOMBIVALI EAST",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "DOMBIVALI",
+            "district": "THANE",
+            "ifsc": "KJSB0000028",
+            "office": "S.B.ROAD,DOMBIVALI EAST",
+            "phone": "2219009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104934
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 89,HISSA NO 2/PAIKI/1,SHOP NO 5,6,7 GROUND FLOOR,SAI SOMANI RESIDENCY,NARPOLI, BHIWANDI-421302",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "KJSB0000029",
+            "office": "BHIWANDI",
+            "phone": "278333",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104935
+    },
+    {
+        "fields": {
+            "address": "PATKAR SADAN, AT & POST WADA,TAL.WADA,DIST.THANE",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "WADA",
+            "district": "THANE",
+            "ifsc": "KJSB0000201",
+            "office": "WADA",
+            "phone": "272191",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104936
+    },
+    {
+        "fields": {
+            "address": "VIVEK APRT, JOGESHWARI ALI, MURBAD, DIST. THANE",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "MURBAD",
+            "district": "THANE",
+            "ifsc": "KJSB0000202",
+            "office": "MURBAD",
+            "phone": "222171",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104937
+    },
+    {
+        "fields": {
+            "address": "177,BHAVANI PETH, SATARA,MAHARASHTRA-415 002",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KJSB0000203",
+            "office": "SATARA",
+            "phone": "231611",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104938
+    },
+    {
+        "fields": {
+            "address": "NAVDURGA COMPLEX, PLOT.42 TO43, VAIJAPUR ROAD, OPP. S.T.STAND, SHANIVAR PETH, KARAD, DIST:-SATARA",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KJSB0000207",
+            "office": "KARAD",
+            "phone": "225231",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104939
+    },
+    {
+        "fields": {
+            "address": "SUNDAR MOTI, SHOP NO. 1 TO 5, SHANTIVAN SOCIETY,NEAR CHAFEKAR CHOWK, CHINCHWAD, PUNE-411 033",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000208",
+            "office": "CHINCHWAD",
+            "phone": "32602513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104940
+    },
+    {
+        "fields": {
+            "address": "TULSI COMPLEX, A-WING, SHOP NO.2&3 PUNE - SOLAPUR ROAD, NR.AKASHWANI, VITHAL NAGAR HADAPSAR, PUNE, PUNE-411028",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000209",
+            "office": "HADAPSAR",
+            "phone": "26997821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104941
+    },
+    {
+        "fields": {
+            "address": "VISHAL POINT, GROUND FLOOR,SWAMI SAMARTHCHOWK, GANGAPUR ROAD, NASHIK-422013",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "KJSB0000210",
+            "office": "NASHIK",
+            "phone": "2340291",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104942
+    },
+    {
+        "fields": {
+            "address": "SHOP UNIT NO-OFFICE UNIT-NO S-16 AKSHAR PLAZA,C.S.T NO. 264/'K' EWARD,TARABAI PARK, OPP.SASANE,GROUND, KOLHAPUR 416001",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KJSB0000211",
+            "office": "KOLHAPUR",
+            "phone": "2662277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104943
+    },
+    {
+        "fields": {
+            "address": "681/1, SADASHIV PALACE, GAVANE INDUSTRIAL ESTATE,LANDE WADI,BHOSRI \u252c\u00fb PUNE-411039",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000212",
+            "office": "BHOSARI",
+            "phone": "27110086",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104944
+    },
+    {
+        "fields": {
+            "address": "JAYAWANTRAO DABHADE SMRUTI,PLOT NO.3,REVENUE COLONY,TALEGAON CHAKAN ROAD,TALEGAON",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000213",
+            "office": "TALEGAON",
+            "phone": "2219009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104945
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI SHOP NO.1,2,3,4,GROUND FLOOR,CHINTAMANI SOCIETY,SURVE NO 25/4,KARVE NAGAR,WARJE,PUNE 411052",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000214",
+            "office": "WARJE",
+            "phone": "25479695",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104946
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO.1,GROUND FLOOR,PUSHPA HIGHTS,SURVEY NO 692/3A,692A/3B,692B/3C/2/1,PLOT NO 1,CTS NO 2073 & 2074,BIBVEWADI,PUNE SATARA ROAD, PUNE 411037",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000215",
+            "office": "BIBVEWADI",
+            "phone": "24213121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104947
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2,3 GROUNF FLOOR,MANDKE HEIGHTS,SURVEY NO. 652653,NARAYAN PETH,APPA BALWANT CHOWK.PUNE 411030",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000216",
+            "office": "APPA BALWANT CHOWK",
+            "phone": "24440063",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104948
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,HOUSE NO.2688,GAT NO.609,PROPERTY C.NO.22,PUNE NAGAR ROAD,WAGHOLI, TAL. HAVELI. DIST PUNE 412207",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KJSB0000217",
+            "office": "WAGHOLI",
+            "phone": "412207",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104949
+    },
+    {
+        "fields": {
+            "address": "SAITIRTH,PLOT NO 3,SURVEY NO 15/A,RAMESHWAR NAGAR,KAMTHWADE SHIWAR,AMBAD ROAD,NASHIK",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "KJSB0000218",
+            "office": "AMBAD ROAD NASHIK",
+            "phone": "2370366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104950
+    },
+    {
+        "fields": {
+            "address": "C-268 AND 269 SWAMINARAYAN NAGAR , NEAR RELIANCE DIGITAL OPP MARUTI COMPLEX NIZAMPURA MAIN ROAD NIZAMPURA , VADODARA",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000501",
+            "office": "Malang Road Pisavali",
+            "phone": "2358960",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104951
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 3,SEETA GANPAT APRTMENT,SURVEY NO 267,HISSA NO 11,KALYAN BHIWANDI ROAD,KONGAON,TAL KALYAN,DIST THANE.421 311",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "KJSB0000502",
+            "office": "KONGAON",
+            "phone": "2219009",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104952
+    },
+    {
+        "fields": {
+            "address": "14,HARDWAR APARTMENTS,NEW LINK ROAD,ULHASNAGAR 421002",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0KUB252",
+            "office": "THE KONARK URBAN CO-OP BANK LTD - MAIN BRANCH",
+            "phone": "2710275",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104953
+    },
+    {
+        "fields": {
+            "address": "SECTION 39,NEAR SAI BABA MANDIR,ULHASNAGAR 421005",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0KUB253",
+            "office": "THE KONARK URBAN CO-OP BANK LTD - ULHASNAR BR",
+            "phone": "2534536",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104954
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 563,MOHAN EMPIRE,ULHASNAGAR 421002",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0KUB254",
+            "office": "THE KONARK URBAN CO-OP BANK LTD - SIRU CHOWK BR",
+            "phone": "2711106",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104955
+    },
+    {
+        "fields": {
+            "address": "GALA NO. B, GROUND FLOOR, KONARK PLAZA, ULHASNAGAR 421003",
+            "bank_name": "KALYAN JANATA SAHAKARI BANK",
+            "branch": "",
+            "city": "ULHASNAGAR",
+            "district": "THANE",
+            "ifsc": "KJSB0KUB255",
+            "office": "THE KONARK URBEN CO. OP. BANK LTD. - SAPNA GARDEN BRANCH",
+            "phone": "2731676",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104956
+    }
+]

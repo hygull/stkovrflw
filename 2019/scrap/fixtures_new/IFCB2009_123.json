@@ -1,0 +1,677 @@
+[
+    {
+        "fields": {
+            "address": "SHAHID CHOWK, ITWARI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000002",
+            "office": "ITWARI",
+            "phone": "7122764787",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108548
+    },
+    {
+        "fields": {
+            "address": "1ST FLR,SITARAM SMRUTI,WEST HIGHCOURT RD, LAXMIBHAVAN SQ ,DHARAMPETH",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000003",
+            "office": "DHARAMPETH",
+            "phone": "7122555210",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108549
+    },
+    {
+        "fields": {
+            "address": "MURLIDHAR COMPLEX, TEMPLE BAZAR ROAD, SITABULDI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000004",
+            "office": "SITABULDI",
+            "phone": "7122532111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108550
+    },
+    {
+        "fields": {
+            "address": "JR.BHOSALA PALACE,TULSHIBAGH ROAD, MAHAL",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000005",
+            "office": "MAHAL",
+            "phone": "7122730044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108551
+    },
+    {
+        "fields": {
+            "address": "79,DR.AMBEDKAR CHOWK,CENTRAL AVENUE, NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000006",
+            "office": "LAKADGANJ",
+            "phone": "7122763523",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108552
+    },
+    {
+        "fields": {
+            "address": "MOUNT ROAD,SADAR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000007",
+            "office": "SADAR",
+            "phone": "7122523080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108553
+    },
+    {
+        "fields": {
+            "address": "DEV NAGAR CHOWK",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000008",
+            "office": "VIVEKANAND NAGAR",
+            "phone": "7122247690",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108554
+    },
+    {
+        "fields": {
+            "address": "MIDC AREA,SOUTH AMBAZARI,HINGNA ROAD",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000009",
+            "office": "MIDC HINGNA ROAD",
+            "phone": "7104237482",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108555
+    },
+    {
+        "fields": {
+            "address": "JUNI OLI,KAMPTEE DIST-NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KAMPTEE",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000010",
+            "office": "KAMPTEE",
+            "phone": "7109288405",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108556
+    },
+    {
+        "fields": {
+            "address": "KALAMNAMARKET YARD",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000011",
+            "office": "KALMANA MKT",
+            "phone": "7122680536",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108557
+    },
+    {
+        "fields": {
+            "address": "\u252c\u00f4SHRIKRISHNA\u252c\u00f6,RING ROAD,DEENDAYAL NAGAR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000012",
+            "office": "DEENDAYAL NAGAR",
+            "phone": "7122289906",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108558
+    },
+    {
+        "fields": {
+            "address": "217,SIDDHESH SAI MAHIMA APART.,  INFRO OF SAKKARDARA POLICE STATION",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000013",
+            "office": "SAKKARDARA",
+            "phone": "7122748627",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108559
+    },
+    {
+        "fields": {
+            "address": "SHILA COMPLEX,AMARAVATI ROAD, WADI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000014",
+            "office": "WADI",
+            "phone": "7104221297",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108560
+    },
+    {
+        "fields": {
+            "address": "NR.AGRASEN CHOWK,ABOVE VIDARBHA ELECTRICAL, 1ST FLOOR, GANDHIGAGH",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000015",
+            "office": "GANJAKHET",
+            "phone": "7122764850",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108561
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 38, HOUSE NO 568,LASHKARI BAGH, KAMAL TALKIES,",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000016",
+            "office": "KAMPTEE ROAD",
+            "phone": "7122655170",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108562
+    },
+    {
+        "fields": {
+            "address": "301,JAWAHAR NAGAR,MANEWADA ROAD",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000017",
+            "office": "MANEWADA",
+            "phone": "7122750881",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108563
+    },
+    {
+        "fields": {
+            "address": "RAJKAMAL COMPLEX,PANCHASHIL CHOWK, DHANTOLI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000018",
+            "office": "DHANTOLI",
+            "phone": "7122430512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108564
+    },
+    {
+        "fields": {
+            "address": "43,RMS COLONY,NEAR ANANTNAGAR BUSSTOP, GITTIKHADAN",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000019",
+            "office": "GITTIKHADAN",
+            "phone": "7122580470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108565
+    },
+    {
+        "fields": {
+            "address": "1028/29, SRI JAGDAMBA COMPLEX, MAHADULA BAZAR CHOWK, MAHADULA MAIN ROAD, KORADI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000020",
+            "office": "KORADI",
+            "phone": "7109263272",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108566
+    },
+    {
+        "fields": {
+            "address": "TAR BAZAR ,KATOL DIST-NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KATOL",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000021",
+            "office": "KATOL",
+            "phone": "7112222076",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108567
+    },
+    {
+        "fields": {
+            "address": "GANDHI CHOWK,NARKHED,DIST-NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NARKHED",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000022",
+            "office": "NARKHED",
+            "phone": "7105232232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108568
+    },
+    {
+        "fields": {
+            "address": "8,WARD NO.4, PANDHURNA CHOWK, WARUD, DIST- AMARAVATI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "WARUD",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000023",
+            "office": "WARUD",
+            "phone": "7229234293",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108569
+    },
+    {
+        "fields": {
+            "address": "JOGI THANA PETH, UMRER",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "UMRED",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000024",
+            "office": "UMRED",
+            "phone": "7116242113",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108570
+    },
+    {
+        "fields": {
+            "address": "RAJASTHAN BHAVAN,JUNA COTTON MARKET",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000025",
+            "office": "AKOLA",
+            "phone": "7242421739",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108571
+    },
+    {
+        "fields": {
+            "address": "\u252c\u00f4ANNAPURNA\u252c\u00f6 C/O DR. BELSARE HOSPITAL, FIRST FLOOR , PANCHSHEEL CINEMA ROAD, JAISTAMBH CHOWK",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000026",
+            "office": "AMRAVATI",
+            "phone": "7212650434",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108572
+    },
+    {
+        "fields": {
+            "address": "K-58,A.P.M.C COMPLEX ,MARKET-1,PHASE -2,  SECTOR19,VASHI,NEW MUMBAI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASHI",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000027",
+            "office": "VASHI",
+            "phone": "2267901456",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108573
+    },
+    {
+        "fields": {
+            "address": "34,TILAKPATH,INDORE",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000028",
+            "office": "INDORE",
+            "phone": "7312544954",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108574
+    },
+    {
+        "fields": {
+            "address": "PALIKA MARKET,ITWARI BAZAR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHINDWARA",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000029",
+            "office": "CHHINDWARA",
+            "phone": "7162244379",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108575
+    },
+    {
+        "fields": {
+            "address": "SHASTRI WARD,STATION ROAD,PANDHURNA",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANDURANA",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000030",
+            "office": "PANDHURNA",
+            "phone": "7164221267",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108576
+    },
+    {
+        "fields": {
+            "address": "NEAR MAHAVIR TALKIES ROAD,SHUKRAWARI,SEONI",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SEONI",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000031",
+            "office": "SEONI",
+            "phone": "7692220360",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108577
+    },
+    {
+        "fields": {
+            "address": "RAJ TOWERS, TATYA PARA CHOWK, RAMSAGARPARA ROAD",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000032",
+            "office": "RAIPUR",
+            "phone": "7712226676",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108578
+    },
+    {
+        "fields": {
+            "address": "DNYANSAGAR BUILDING, S. K. BOLE ROAD, DADAR(W)",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DADAR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000033",
+            "office": "DADAR",
+            "phone": "2224222681",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108579
+    },
+    {
+        "fields": {
+            "address": "18, JAIHIND CO-OP SOCIETY, SHYAMNAGAR,  INFRONT OF RELIANCE FRESH, MANISH NAGAR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000034",
+            "office": "MANISH NAGAR",
+            "phone": "7122780661",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108580
+    },
+    {
+        "fields": {
+            "address": "STATION AREA DONDAICHA 425408",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DONDAICHA",
+            "district": "DHULE",
+            "ifsc": "NGSB0000035",
+            "office": "DONDAICHA",
+            "phone": "244310",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108581
+    },
+    {
+        "fields": {
+            "address": "DHULE CITY 424001",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "NGSB0000036",
+            "office": "DHULE",
+            "phone": "241110",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108582
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,SHIRPUR TAH SHIRPUR 425405",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIRPUR",
+            "district": "DHULE",
+            "ifsc": "NGSB0000037",
+            "office": "SHIRPUR",
+            "phone": "255760",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108583
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.7,SURVEY NO 767/35,WARD NO.4,SHESH NAGAR WARD,POST AND TAHSIL BRAMHAPURI,PIN 441206",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BRAMHAPURI",
+            "district": "CHANDRAPUR",
+            "ifsc": "NGSB0000038",
+            "office": "BRAMHAPURI BRANCH",
+            "phone": "222256",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108584
+    },
+    {
+        "fields": {
+            "address": "Shradha Busiplex,Old Shriram Takies,Near Weekly Market,Jagnath Ward,Hinganghat,Pin Code-442301",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "Hinganghat",
+            "district": "Wardha",
+            "ifsc": "NGSB0000039",
+            "office": "Hinganghat",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108585
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD NAWAPUR TAH NAWAPUR 425418",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAWAPUR",
+            "district": "DHULE",
+            "ifsc": "NGSB0000040",
+            "office": "NAWAPUR",
+            "phone": "250411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108586
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.76, BANK COLONY,BHAGWAN NAGAR,NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000041",
+            "office": "BHAGWAN NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108587
+    },
+    {
+        "fields": {
+            "address": "43,SHASTRI LAYOUT,OPP SOMALWAR HIGH SCHOOL, PRATAP NAGAR,NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000042",
+            "office": "KHAMLA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108588
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 159 SHANKAR NAGAR,DURG",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DURG",
+            "district": "DURG",
+            "ifsc": "NGSB0000043",
+            "office": "DURG",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108589
+    },
+    {
+        "fields": {
+            "address": "7,VIDARBHA HOUSING BOARD COLONY,TAKIYA WARD,BHANDARA",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHANDARA",
+            "district": "BHANDARA",
+            "ifsc": "NGSB0000044",
+            "office": "BHANDARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108590
+    },
+    {
+        "fields": {
+            "address": "YASH ELINA OPP KARISHMA SOCIETY LANE OFF KARVE ROAD KOTHRUD PUNE",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NGSB0000045",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108591
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 445 CHANDANBAI TEMPLE LAYOUT CHANDAN NAGAR NAGPUR",
+            "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "NGSB0000046",
+            "office": "CHANDAN NAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108592
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "fields": {
+            "address": "SAMAJ MANDIR', OPP. NEW ENGLISH SCHOOL, VASAI (W), DIST. THANE 401 201",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000001",
+            "office": "RTGS-HO",
+            "phone": "2326984",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SAMAJ MANDIR', OPP. NEW ENGLISH SCHOOL, VASAI (W), DIST. THANE 401 201",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000002",
+            "office": "VASAI",
+            "phone": "2322617",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "THAKUR ARCADE, NEAR RAILWAY STATION, VIRAR (W), DIST THANE - 401 303",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000003",
+            "office": "VIRAR",
+            "phone": "2502733",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "ADINATH APT., AMBADI ROAD, NAVGHAR, VASAI (W), DIST. THANE - 401 201",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000004",
+            "office": "NAVGHAR",
+            "phone": "2334398",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "MUDRA SHOPPING COMPLEX, KACHERI ROAD, PALGHAR (W), DIST. THANE - 401 404",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000005",
+            "office": "PALGHAR",
+            "phone": "251409",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "DEVBHOOMI COMMERCIAL COMPLEX, NEAR SAPHALE STATION, SAPHALE (E), DIST. THANE - 401 102",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000006",
+            "office": "SAPHALE",
+            "phone": "2403582",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SHREE APARTMENT, NEAR RAILWAY STATION, NALLASOPARA (W), DIST. THANE - 401 203",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000007",
+            "office": "NALASOPARA",
+            "phone": "230539",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "NEW KRISHNA NIWAS, CHANDAVARKAR CROSS ROAD, BORIVALI (W), MUMBAI 400 092,",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "VVSB0000008",
+            "office": "BORIVALI",
+            "phone": "28956608",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "VARDHAMAN IND. COMPLEX PREMISES CO-OP. SOC. LTD., UNIT NO. 3, GOKUL NAGAR, OPP. JARIMARI MATA MANDIR, NEAR NAVNIT MOTORS, L.B.S. MARG, THANE (W) - 400 601",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000009",
+            "office": "THANE",
+            "phone": "21721013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GALA NO. 10,11,12, SIDHI VINAYAK ARCADE, NEAR MAKWANA COMPLEX, V. S. MARG, VIRAR (E), DIST. THANE",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000010",
+            "office": "NARINGI",
+            "phone": "6099919",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. H/11, 1ST FLOOR, KINGSTON TOWER, ABOVE DOMINOS PIZZA,  OPPOSITE VIVA COLLEGE, VIRAR (WEST), DIST. THANE",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "VVSB0000011",
+            "office": "BOLINJ",
+            "phone": "6512777",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "GOVIND SHANTINAGAR C.H.S, FLAT NO.1 & SHOP NO.12/13/14, SECTOR 5, NEAR JAIN MANDIR, BLDG. NO. B-31, GROUND FLOOR, MIRA ROAD, DIST THANE.",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "VVSB0000012",
+            "office": "MIRA ROAD",
+            "phone": "28112347",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "YASH SIDDHI RESIDENCY; BOISAR PALGHAR ROAD; BESIDE HOTEL SUN ROSE; BOISAR (WEST) MAHARASHTRA,",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "VVSB0000013",
+            "office": "BOISAR",
+            "phone": "274666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6, 7, 8, 9 & FLAT NO 1, 2 & 3, OMKAR BLDG; VILLAGE SATHIVALI WALIV, VASAI (E), DIST.THANE",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "VVSB0000014",
+            "office": "SATIVALI-WALIV",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 5, 6, 7, 13, 14 & 15 GRACY ARC CHS, 60 FEET ROAD, BHAYANDER (W), DIST. THANE 401101",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MIRA-BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "VVSB0000015",
+            "office": "BHAYANDER (W)",
+            "phone": "28141020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.6 & 7, MARTIN PLAZA, BARAMPUR, VASAI STATION ROAD, VASAI (WEST), TAL - VASAI, DIST THANE 401202",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "VVSB0000016",
+            "office": "BARAMPUR",
+            "phone": "2380134",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "M. BARIA LAKE VIEW, OPP. HANUMAN TEMPLE, BAZAR PETH, AT POST AGASHI, TALUKA VASAI, DIST. THANE \u252c\u00fb 401 301",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "VVSB0000017",
+            "office": "AGASHI",
+            "phone": "2584284",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "B-002, GROUND FLOOR, ORNAMENTS CO-OPERATIVE HOUSING SOCIETY LTD., EVERSHINE CITY, VASAI (EAST) DIST. THANE - 401208",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "VVSB0000018",
+            "office": "EVERNSHINE",
+            "phone": "2460173",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8 A/8 ARCHIT REGENCY CO OP HSG. SOCIETY, SAVARKAR NAGAR, GANGAPUR ROAD NASIK",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "VVSB0000019",
+            "office": "GANGAPUR ROAD",
+            "phone": "7350015163",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "ANJALI COMPLEX, PLOT NO 5-6/55/P, CITY SURVEY NO 2963, MILL CORNER, KHADKESHWAR, AURANGABAD",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "VVSB0000020",
+            "office": "KHADKESHWAR",
+            "phone": "7735001516",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,3,4, G/2, VEDSHREE APT. CO-OP HSG SOC LTD. MANVELPADA ROAD VIRAR EAST",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "PALGHAR",
+            "ifsc": "VVSB0000021",
+            "office": "MANVELPADA-VIRAR E",
+            "phone": "2326984",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 7,8,9,10, TULJESHWARI HILL, AMBAWADI, RAMBHAU NAGAR, TULINJ, NALASOPARA EAST",
+            "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NALASOPARA",
+            "district": "PALGHAR",
+            "ifsc": "VVSB0000022",
+            "office": "TULINJ-NALASOPARA",
+            "phone": "2326984",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    }
+]

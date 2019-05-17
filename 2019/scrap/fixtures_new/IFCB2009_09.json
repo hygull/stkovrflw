@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "CHENNAI BRANCH, NO.1090, POONAMALLEE HIGH ROAD, CHENNAI 600 084",
+            "bank_name": "BANK OF CEYLON",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "BCEY0000001",
+            "office": "HEAD OFFICE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 110158
+    },
+    {
+        "fields": {
+            "address": "NO 20/21 CASA MAJOR ROAD N.N0 2(O.NO.11)ZERAT GARDEN,2ND LANE,EGMORE CHENNAI 600 008",
+            "bank_name": "BANK OF CEYLON",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "BCEY0CHEN01",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 110159
+    }
+]

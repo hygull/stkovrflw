@@ -12,7 +12,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 50240
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 50241
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 50242
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 50243
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 50244
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 50245
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 50246
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 50247
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 50248
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 50249
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 50250
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 50251
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 50252
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 50253
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 50254
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 50255
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 50256
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 50257
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 50258
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 50259
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 50260
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 50261
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 50262
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 50263
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 50264
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 50265
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 50266
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 50267
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 50268
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 50269
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 50270
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 50271
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 50272
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 50273
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 50274
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 50275
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 50276
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 50277
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 50278
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 50279
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 50280
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 50281
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 50282
     },
     {
         "fields": {
@@ -657,7 +657,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 50283
     },
     {
         "fields": {
@@ -672,7 +672,7 @@
             "state": "PUDUCHERRY"
         },
         "model": "masterdata.ifsc",
-        "pk": 45
+        "pk": 50284
     },
     {
         "fields": {
@@ -687,7 +687,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 46
+        "pk": 50285
     },
     {
         "fields": {
@@ -702,7 +702,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 47
+        "pk": 50286
     },
     {
         "fields": {
@@ -717,7 +717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 48
+        "pk": 50287
     },
     {
         "fields": {
@@ -732,7 +732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 49
+        "pk": 50288
     },
     {
         "fields": {
@@ -747,7 +747,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 50
+        "pk": 50289
     },
     {
         "fields": {
@@ -762,7 +762,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 51
+        "pk": 50290
     },
     {
         "fields": {
@@ -777,7 +777,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 52
+        "pk": 50291
     },
     {
         "fields": {
@@ -792,7 +792,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 53
+        "pk": 50292
     },
     {
         "fields": {
@@ -807,7 +807,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 54
+        "pk": 50293
     },
     {
         "fields": {
@@ -822,7 +822,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 55
+        "pk": 50294
     },
     {
         "fields": {
@@ -837,7 +837,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 56
+        "pk": 50295
     },
     {
         "fields": {
@@ -852,7 +852,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 57
+        "pk": 50296
     },
     {
         "fields": {
@@ -867,7 +867,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 58
+        "pk": 50297
     },
     {
         "fields": {
@@ -882,7 +882,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 59
+        "pk": 50298
     },
     {
         "fields": {
@@ -897,7 +897,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 60
+        "pk": 50299
     },
     {
         "fields": {
@@ -912,7 +912,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 61
+        "pk": 50300
     },
     {
         "fields": {
@@ -927,7 +927,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 62
+        "pk": 50301
     },
     {
         "fields": {
@@ -942,7 +942,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 63
+        "pk": 50302
     },
     {
         "fields": {
@@ -957,7 +957,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 64
+        "pk": 50303
     },
     {
         "fields": {
@@ -972,7 +972,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 65
+        "pk": 50304
     },
     {
         "fields": {
@@ -987,7 +987,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 66
+        "pk": 50305
     },
     {
         "fields": {
@@ -1002,7 +1002,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 67
+        "pk": 50306
     },
     {
         "fields": {
@@ -1017,7 +1017,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 68
+        "pk": 50307
     },
     {
         "fields": {
@@ -1032,7 +1032,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 69
+        "pk": 50308
     },
     {
         "fields": {
@@ -1047,7 +1047,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 70
+        "pk": 50309
     },
     {
         "fields": {
@@ -1062,7 +1062,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 71
+        "pk": 50310
     },
     {
         "fields": {
@@ -1077,7 +1077,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 72
+        "pk": 50311
     },
     {
         "fields": {
@@ -1092,7 +1092,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 73
+        "pk": 50312
     },
     {
         "fields": {
@@ -1107,7 +1107,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 74
+        "pk": 50313
     },
     {
         "fields": {
@@ -1122,7 +1122,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 75
+        "pk": 50314
     },
     {
         "fields": {
@@ -1137,7 +1137,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 76
+        "pk": 50315
     },
     {
         "fields": {
@@ -1152,7 +1152,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 77
+        "pk": 50316
     },
     {
         "fields": {
@@ -1167,7 +1167,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 78
+        "pk": 50317
     },
     {
         "fields": {
@@ -1182,7 +1182,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 79
+        "pk": 50318
     },
     {
         "fields": {
@@ -1197,7 +1197,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 80
+        "pk": 50319
     },
     {
         "fields": {
@@ -1212,7 +1212,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 81
+        "pk": 50320
     },
     {
         "fields": {
@@ -1227,7 +1227,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 82
+        "pk": 50321
     },
     {
         "fields": {
@@ -1242,7 +1242,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 83
+        "pk": 50322
     },
     {
         "fields": {
@@ -1257,7 +1257,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 84
+        "pk": 50323
     },
     {
         "fields": {
@@ -1272,7 +1272,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 85
+        "pk": 50324
     },
     {
         "fields": {
@@ -1287,7 +1287,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 86
+        "pk": 50325
     },
     {
         "fields": {
@@ -1302,7 +1302,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 87
+        "pk": 50326
     },
     {
         "fields": {
@@ -1317,7 +1317,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 88
+        "pk": 50327
     },
     {
         "fields": {
@@ -1332,7 +1332,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 89
+        "pk": 50328
     },
     {
         "fields": {
@@ -1347,7 +1347,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 90
+        "pk": 50329
     },
     {
         "fields": {
@@ -1362,7 +1362,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 91
+        "pk": 50330
     },
     {
         "fields": {
@@ -1377,7 +1377,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 92
+        "pk": 50331
     },
     {
         "fields": {
@@ -1392,7 +1392,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 93
+        "pk": 50332
     },
     {
         "fields": {
@@ -1407,7 +1407,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 94
+        "pk": 50333
     },
     {
         "fields": {
@@ -1422,7 +1422,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 95
+        "pk": 50334
     },
     {
         "fields": {
@@ -1437,7 +1437,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 96
+        "pk": 50335
     },
     {
         "fields": {
@@ -1452,7 +1452,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 97
+        "pk": 50336
     },
     {
         "fields": {
@@ -1467,7 +1467,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 98
+        "pk": 50337
     },
     {
         "fields": {
@@ -1482,7 +1482,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 99
+        "pk": 50338
     },
     {
         "fields": {
@@ -1497,7 +1497,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 100
+        "pk": 50339
     },
     {
         "fields": {
@@ -1512,7 +1512,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 101
+        "pk": 50340
     },
     {
         "fields": {
@@ -1527,7 +1527,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 102
+        "pk": 50341
     },
     {
         "fields": {
@@ -1542,7 +1542,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 103
+        "pk": 50342
     },
     {
         "fields": {
@@ -1557,7 +1557,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 104
+        "pk": 50343
     },
     {
         "fields": {
@@ -1572,7 +1572,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 105
+        "pk": 50344
     },
     {
         "fields": {
@@ -1587,7 +1587,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 106
+        "pk": 50345
     },
     {
         "fields": {
@@ -1602,7 +1602,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 107
+        "pk": 50346
     },
     {
         "fields": {
@@ -1617,7 +1617,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 108
+        "pk": 50347
     },
     {
         "fields": {
@@ -1632,7 +1632,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 109
+        "pk": 50348
     },
     {
         "fields": {
@@ -1647,7 +1647,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 110
+        "pk": 50349
     },
     {
         "fields": {
@@ -1662,7 +1662,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 111
+        "pk": 50350
     },
     {
         "fields": {
@@ -1677,7 +1677,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 112
+        "pk": 50351
     },
     {
         "fields": {
@@ -1692,7 +1692,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 113
+        "pk": 50352
     },
     {
         "fields": {
@@ -1707,7 +1707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 114
+        "pk": 50353
     },
     {
         "fields": {
@@ -1722,7 +1722,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 115
+        "pk": 50354
     },
     {
         "fields": {
@@ -1737,7 +1737,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 116
+        "pk": 50355
     },
     {
         "fields": {
@@ -1752,7 +1752,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 117
+        "pk": 50356
     },
     {
         "fields": {
@@ -1767,7 +1767,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 118
+        "pk": 50357
     },
     {
         "fields": {
@@ -1782,7 +1782,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 119
+        "pk": 50358
     },
     {
         "fields": {
@@ -1797,7 +1797,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 120
+        "pk": 50359
     },
     {
         "fields": {
@@ -1812,7 +1812,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 121
+        "pk": 50360
     },
     {
         "fields": {
@@ -1827,7 +1827,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 122
+        "pk": 50361
     },
     {
         "fields": {
@@ -1842,7 +1842,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 123
+        "pk": 50362
     },
     {
         "fields": {
@@ -1857,7 +1857,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 124
+        "pk": 50363
     },
     {
         "fields": {
@@ -1872,7 +1872,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 125
+        "pk": 50364
     },
     {
         "fields": {
@@ -1887,7 +1887,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 126
+        "pk": 50365
     },
     {
         "fields": {
@@ -1902,7 +1902,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 127
+        "pk": 50366
     },
     {
         "fields": {
@@ -1917,7 +1917,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 128
+        "pk": 50367
     },
     {
         "fields": {
@@ -1932,7 +1932,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 129
+        "pk": 50368
     },
     {
         "fields": {
@@ -1947,7 +1947,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 130
+        "pk": 50369
     },
     {
         "fields": {
@@ -1962,7 +1962,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 131
+        "pk": 50370
     },
     {
         "fields": {
@@ -1977,7 +1977,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 132
+        "pk": 50371
     },
     {
         "fields": {
@@ -1992,7 +1992,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 133
+        "pk": 50372
     },
     {
         "fields": {
@@ -2007,7 +2007,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 134
+        "pk": 50373
     },
     {
         "fields": {
@@ -2022,7 +2022,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 135
+        "pk": 50374
     },
     {
         "fields": {
@@ -2037,7 +2037,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 136
+        "pk": 50375
     },
     {
         "fields": {
@@ -2052,7 +2052,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 137
+        "pk": 50376
     },
     {
         "fields": {
@@ -2067,7 +2067,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 138
+        "pk": 50377
     },
     {
         "fields": {
@@ -2082,7 +2082,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 139
+        "pk": 50378
     },
     {
         "fields": {
@@ -2097,7 +2097,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 140
+        "pk": 50379
     },
     {
         "fields": {
@@ -2112,7 +2112,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 141
+        "pk": 50380
     },
     {
         "fields": {
@@ -2127,7 +2127,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 142
+        "pk": 50381
     },
     {
         "fields": {
@@ -2142,7 +2142,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 143
+        "pk": 50382
     },
     {
         "fields": {
@@ -2157,7 +2157,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 144
+        "pk": 50383
     },
     {
         "fields": {
@@ -2172,7 +2172,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 145
+        "pk": 50384
     },
     {
         "fields": {
@@ -2187,7 +2187,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 146
+        "pk": 50385
     },
     {
         "fields": {
@@ -2202,7 +2202,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 147
+        "pk": 50386
     },
     {
         "fields": {
@@ -2217,7 +2217,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 148
+        "pk": 50387
     },
     {
         "fields": {
@@ -2232,7 +2232,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 149
+        "pk": 50388
     },
     {
         "fields": {
@@ -2247,7 +2247,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 150
+        "pk": 50389
     },
     {
         "fields": {
@@ -2262,7 +2262,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 151
+        "pk": 50390
     },
     {
         "fields": {
@@ -2277,7 +2277,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 152
+        "pk": 50391
     },
     {
         "fields": {
@@ -2292,7 +2292,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 153
+        "pk": 50392
     },
     {
         "fields": {
@@ -2307,7 +2307,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 154
+        "pk": 50393
     },
     {
         "fields": {
@@ -2322,7 +2322,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 155
+        "pk": 50394
     },
     {
         "fields": {
@@ -2337,7 +2337,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 156
+        "pk": 50395
     },
     {
         "fields": {
@@ -2352,7 +2352,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 157
+        "pk": 50396
     },
     {
         "fields": {
@@ -2367,7 +2367,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 158
+        "pk": 50397
     },
     {
         "fields": {
@@ -2382,7 +2382,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 159
+        "pk": 50398
     },
     {
         "fields": {
@@ -2397,7 +2397,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 160
+        "pk": 50399
     },
     {
         "fields": {
@@ -2412,7 +2412,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 161
+        "pk": 50400
     },
     {
         "fields": {
@@ -2427,7 +2427,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 162
+        "pk": 50401
     },
     {
         "fields": {
@@ -2442,7 +2442,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 163
+        "pk": 50402
     },
     {
         "fields": {
@@ -2457,7 +2457,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 164
+        "pk": 50403
     },
     {
         "fields": {
@@ -2472,7 +2472,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 165
+        "pk": 50404
     },
     {
         "fields": {
@@ -2487,7 +2487,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 166
+        "pk": 50405
     },
     {
         "fields": {
@@ -2502,7 +2502,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 167
+        "pk": 50406
     },
     {
         "fields": {
@@ -2517,7 +2517,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 168
+        "pk": 50407
     },
     {
         "fields": {
@@ -2532,7 +2532,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 169
+        "pk": 50408
     },
     {
         "fields": {
@@ -2547,7 +2547,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 170
+        "pk": 50409
     },
     {
         "fields": {
@@ -2562,7 +2562,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 171
+        "pk": 50410
     },
     {
         "fields": {
@@ -2577,7 +2577,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 172
+        "pk": 50411
     },
     {
         "fields": {
@@ -2592,7 +2592,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 173
+        "pk": 50412
     },
     {
         "fields": {
@@ -2607,7 +2607,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 174
+        "pk": 50413
     },
     {
         "fields": {
@@ -2622,7 +2622,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 175
+        "pk": 50414
     },
     {
         "fields": {
@@ -2637,7 +2637,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 176
+        "pk": 50415
     },
     {
         "fields": {
@@ -2652,7 +2652,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 177
+        "pk": 50416
     },
     {
         "fields": {
@@ -2667,7 +2667,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 178
+        "pk": 50417
     },
     {
         "fields": {
@@ -2682,7 +2682,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 179
+        "pk": 50418
     },
     {
         "fields": {
@@ -2697,7 +2697,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 180
+        "pk": 50419
     },
     {
         "fields": {
@@ -2712,7 +2712,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 181
+        "pk": 50420
     },
     {
         "fields": {
@@ -2727,7 +2727,7 @@
             "state": "PUDUCHERRY"
         },
         "model": "masterdata.ifsc",
-        "pk": 182
+        "pk": 50421
     },
     {
         "fields": {
@@ -2742,7 +2742,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 183
+        "pk": 50422
     },
     {
         "fields": {
@@ -2757,7 +2757,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 184
+        "pk": 50423
     },
     {
         "fields": {
@@ -2772,7 +2772,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 185
+        "pk": 50424
     },
     {
         "fields": {
@@ -2787,7 +2787,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 186
+        "pk": 50425
     },
     {
         "fields": {
@@ -2802,7 +2802,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 187
+        "pk": 50426
     },
     {
         "fields": {
@@ -2817,7 +2817,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 188
+        "pk": 50427
     },
     {
         "fields": {
@@ -2832,7 +2832,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 189
+        "pk": 50428
     },
     {
         "fields": {
@@ -2847,7 +2847,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 190
+        "pk": 50429
     },
     {
         "fields": {
@@ -2862,7 +2862,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 191
+        "pk": 50430
     },
     {
         "fields": {
@@ -2877,7 +2877,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 192
+        "pk": 50431
     },
     {
         "fields": {
@@ -2892,7 +2892,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 193
+        "pk": 50432
     },
     {
         "fields": {
@@ -2907,7 +2907,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 194
+        "pk": 50433
     },
     {
         "fields": {
@@ -2922,7 +2922,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 195
+        "pk": 50434
     },
     {
         "fields": {
@@ -2937,7 +2937,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 196
+        "pk": 50435
     },
     {
         "fields": {
@@ -2952,7 +2952,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 197
+        "pk": 50436
     },
     {
         "fields": {
@@ -2967,7 +2967,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 198
+        "pk": 50437
     },
     {
         "fields": {
@@ -2982,7 +2982,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 199
+        "pk": 50438
     },
     {
         "fields": {
@@ -2997,7 +2997,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 200
+        "pk": 50439
     },
     {
         "fields": {
@@ -3012,7 +3012,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 201
+        "pk": 50440
     },
     {
         "fields": {
@@ -3027,7 +3027,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 202
+        "pk": 50441
     },
     {
         "fields": {
@@ -3042,7 +3042,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 203
+        "pk": 50442
     },
     {
         "fields": {
@@ -3057,7 +3057,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 204
+        "pk": 50443
     },
     {
         "fields": {
@@ -3072,7 +3072,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 205
+        "pk": 50444
     },
     {
         "fields": {
@@ -3087,7 +3087,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 206
+        "pk": 50445
     },
     {
         "fields": {
@@ -3102,7 +3102,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 207
+        "pk": 50446
     },
     {
         "fields": {
@@ -3117,7 +3117,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 208
+        "pk": 50447
     },
     {
         "fields": {
@@ -3132,7 +3132,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 209
+        "pk": 50448
     },
     {
         "fields": {
@@ -3147,7 +3147,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 210
+        "pk": 50449
     },
     {
         "fields": {
@@ -3162,7 +3162,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 211
+        "pk": 50450
     },
     {
         "fields": {
@@ -3177,7 +3177,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 212
+        "pk": 50451
     },
     {
         "fields": {
@@ -3192,7 +3192,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 213
+        "pk": 50452
     },
     {
         "fields": {
@@ -3207,7 +3207,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 214
+        "pk": 50453
     },
     {
         "fields": {
@@ -3222,7 +3222,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 215
+        "pk": 50454
     },
     {
         "fields": {
@@ -3237,7 +3237,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 216
+        "pk": 50455
     },
     {
         "fields": {
@@ -3252,7 +3252,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 217
+        "pk": 50456
     },
     {
         "fields": {
@@ -3267,7 +3267,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 218
+        "pk": 50457
     },
     {
         "fields": {
@@ -3282,7 +3282,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 219
+        "pk": 50458
     },
     {
         "fields": {
@@ -3297,7 +3297,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 220
+        "pk": 50459
     },
     {
         "fields": {
@@ -3312,7 +3312,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 221
+        "pk": 50460
     },
     {
         "fields": {
@@ -3327,7 +3327,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 222
+        "pk": 50461
     },
     {
         "fields": {
@@ -3342,7 +3342,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 223
+        "pk": 50462
     },
     {
         "fields": {
@@ -3357,7 +3357,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 224
+        "pk": 50463
     },
     {
         "fields": {
@@ -3372,7 +3372,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 225
+        "pk": 50464
     },
     {
         "fields": {
@@ -3387,7 +3387,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 226
+        "pk": 50465
     },
     {
         "fields": {
@@ -3402,7 +3402,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 227
+        "pk": 50466
     },
     {
         "fields": {
@@ -3417,7 +3417,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 228
+        "pk": 50467
     },
     {
         "fields": {
@@ -3432,7 +3432,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 229
+        "pk": 50468
     },
     {
         "fields": {
@@ -3447,7 +3447,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 230
+        "pk": 50469
     },
     {
         "fields": {
@@ -3462,7 +3462,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 231
+        "pk": 50470
     },
     {
         "fields": {
@@ -3477,7 +3477,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 232
+        "pk": 50471
     },
     {
         "fields": {
@@ -3492,7 +3492,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 233
+        "pk": 50472
     },
     {
         "fields": {
@@ -3507,7 +3507,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 234
+        "pk": 50473
     },
     {
         "fields": {
@@ -3522,7 +3522,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 235
+        "pk": 50474
     },
     {
         "fields": {
@@ -3537,7 +3537,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 236
+        "pk": 50475
     },
     {
         "fields": {
@@ -3552,7 +3552,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 237
+        "pk": 50476
     },
     {
         "fields": {
@@ -3567,7 +3567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 238
+        "pk": 50477
     },
     {
         "fields": {
@@ -3582,7 +3582,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 239
+        "pk": 50478
     },
     {
         "fields": {
@@ -3597,7 +3597,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 240
+        "pk": 50479
     },
     {
         "fields": {
@@ -3612,7 +3612,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 241
+        "pk": 50480
     },
     {
         "fields": {
@@ -3627,7 +3627,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 242
+        "pk": 50481
     },
     {
         "fields": {
@@ -3642,7 +3642,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 243
+        "pk": 50482
     },
     {
         "fields": {
@@ -3657,7 +3657,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 244
+        "pk": 50483
     },
     {
         "fields": {
@@ -3672,7 +3672,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 245
+        "pk": 50484
     },
     {
         "fields": {
@@ -3687,7 +3687,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 246
+        "pk": 50485
     },
     {
         "fields": {
@@ -3702,7 +3702,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 247
+        "pk": 50486
     },
     {
         "fields": {
@@ -3717,7 +3717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 248
+        "pk": 50487
     },
     {
         "fields": {
@@ -3732,7 +3732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 249
+        "pk": 50488
     },
     {
         "fields": {
@@ -3747,7 +3747,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 250
+        "pk": 50489
     },
     {
         "fields": {
@@ -3762,7 +3762,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 251
+        "pk": 50490
     },
     {
         "fields": {
@@ -3777,7 +3777,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 252
+        "pk": 50491
     },
     {
         "fields": {
@@ -3792,7 +3792,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 253
+        "pk": 50492
     },
     {
         "fields": {
@@ -3807,7 +3807,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 254
+        "pk": 50493
     },
     {
         "fields": {
@@ -3822,7 +3822,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 255
+        "pk": 50494
     },
     {
         "fields": {
@@ -3837,7 +3837,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 256
+        "pk": 50495
     },
     {
         "fields": {
@@ -3852,7 +3852,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 257
+        "pk": 50496
     },
     {
         "fields": {
@@ -3867,7 +3867,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 258
+        "pk": 50497
     },
     {
         "fields": {
@@ -3882,7 +3882,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 259
+        "pk": 50498
     },
     {
         "fields": {
@@ -3897,7 +3897,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 260
+        "pk": 50499
     },
     {
         "fields": {
@@ -3912,7 +3912,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 261
+        "pk": 50500
     },
     {
         "fields": {
@@ -3927,7 +3927,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 262
+        "pk": 50501
     },
     {
         "fields": {
@@ -3942,7 +3942,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 263
+        "pk": 50502
     },
     {
         "fields": {
@@ -3957,7 +3957,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 264
+        "pk": 50503
     },
     {
         "fields": {
@@ -3972,7 +3972,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 265
+        "pk": 50504
     },
     {
         "fields": {
@@ -3987,7 +3987,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 266
+        "pk": 50505
     },
     {
         "fields": {
@@ -4002,7 +4002,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 267
+        "pk": 50506
     },
     {
         "fields": {
@@ -4017,7 +4017,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 268
+        "pk": 50507
     },
     {
         "fields": {
@@ -4032,7 +4032,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 269
+        "pk": 50508
     },
     {
         "fields": {
@@ -4047,7 +4047,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 270
+        "pk": 50509
     },
     {
         "fields": {
@@ -4062,7 +4062,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 271
+        "pk": 50510
     },
     {
         "fields": {
@@ -4077,7 +4077,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 272
+        "pk": 50511
     },
     {
         "fields": {
@@ -4092,7 +4092,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 273
+        "pk": 50512
     },
     {
         "fields": {
@@ -4107,7 +4107,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 274
+        "pk": 50513
     },
     {
         "fields": {
@@ -4122,7 +4122,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 275
+        "pk": 50514
     },
     {
         "fields": {
@@ -4137,7 +4137,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 276
+        "pk": 50515
     },
     {
         "fields": {
@@ -4152,7 +4152,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 277
+        "pk": 50516
     },
     {
         "fields": {
@@ -4167,7 +4167,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 278
+        "pk": 50517
     },
     {
         "fields": {
@@ -4182,7 +4182,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 279
+        "pk": 50518
     },
     {
         "fields": {
@@ -4197,7 +4197,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 280
+        "pk": 50519
     },
     {
         "fields": {
@@ -4212,7 +4212,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 281
+        "pk": 50520
     },
     {
         "fields": {
@@ -4227,7 +4227,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 282
+        "pk": 50521
     },
     {
         "fields": {
@@ -4242,7 +4242,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 283
+        "pk": 50522
     },
     {
         "fields": {
@@ -4257,7 +4257,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 284
+        "pk": 50523
     },
     {
         "fields": {
@@ -4272,7 +4272,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 285
+        "pk": 50524
     },
     {
         "fields": {
@@ -4287,7 +4287,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 286
+        "pk": 50525
     },
     {
         "fields": {
@@ -4302,7 +4302,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 287
+        "pk": 50526
     },
     {
         "fields": {
@@ -4317,7 +4317,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 288
+        "pk": 50527
     },
     {
         "fields": {
@@ -4332,7 +4332,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 289
+        "pk": 50528
     },
     {
         "fields": {
@@ -4347,7 +4347,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 290
+        "pk": 50529
     },
     {
         "fields": {
@@ -4362,7 +4362,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 291
+        "pk": 50530
     },
     {
         "fields": {
@@ -4377,7 +4377,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 292
+        "pk": 50531
     },
     {
         "fields": {
@@ -4392,7 +4392,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 293
+        "pk": 50532
     },
     {
         "fields": {
@@ -4407,7 +4407,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 294
+        "pk": 50533
     },
     {
         "fields": {
@@ -4422,7 +4422,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 295
+        "pk": 50534
     },
     {
         "fields": {
@@ -4437,7 +4437,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 296
+        "pk": 50535
     },
     {
         "fields": {
@@ -4452,7 +4452,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 297
+        "pk": 50536
     },
     {
         "fields": {
@@ -4467,7 +4467,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 298
+        "pk": 50537
     },
     {
         "fields": {
@@ -4482,7 +4482,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 299
+        "pk": 50538
     },
     {
         "fields": {
@@ -4497,7 +4497,7 @@
             "state": "BIHAR"
         },
         "model": "masterdata.ifsc",
-        "pk": 300
+        "pk": 50539
     },
     {
         "fields": {
@@ -4512,7 +4512,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 301
+        "pk": 50540
     },
     {
         "fields": {
@@ -4527,7 +4527,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 302
+        "pk": 50541
     },
     {
         "fields": {
@@ -4542,7 +4542,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 303
+        "pk": 50542
     },
     {
         "fields": {
@@ -4557,7 +4557,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 304
+        "pk": 50543
     },
     {
         "fields": {
@@ -4572,7 +4572,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 305
+        "pk": 50544
     },
     {
         "fields": {
@@ -4587,7 +4587,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 306
+        "pk": 50545
     },
     {
         "fields": {
@@ -4602,7 +4602,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 307
+        "pk": 50546
     },
     {
         "fields": {
@@ -4617,7 +4617,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 308
+        "pk": 50547
     },
     {
         "fields": {
@@ -4632,7 +4632,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 309
+        "pk": 50548
     },
     {
         "fields": {
@@ -4647,7 +4647,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 310
+        "pk": 50549
     },
     {
         "fields": {
@@ -4662,7 +4662,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 311
+        "pk": 50550
     },
     {
         "fields": {
@@ -4677,7 +4677,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 312
+        "pk": 50551
     },
     {
         "fields": {
@@ -4692,7 +4692,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 313
+        "pk": 50552
     },
     {
         "fields": {
@@ -4707,7 +4707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 314
+        "pk": 50553
     },
     {
         "fields": {
@@ -4722,7 +4722,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 315
+        "pk": 50554
     },
     {
         "fields": {
@@ -4737,7 +4737,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 316
+        "pk": 50555
     },
     {
         "fields": {
@@ -4752,7 +4752,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 317
+        "pk": 50556
     },
     {
         "fields": {
@@ -4767,7 +4767,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 318
+        "pk": 50557
     },
     {
         "fields": {
@@ -4782,7 +4782,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 319
+        "pk": 50558
     },
     {
         "fields": {
@@ -4797,7 +4797,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 320
+        "pk": 50559
     },
     {
         "fields": {
@@ -4812,7 +4812,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 321
+        "pk": 50560
     },
     {
         "fields": {
@@ -4827,7 +4827,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 322
+        "pk": 50561
     },
     {
         "fields": {
@@ -4842,7 +4842,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 323
+        "pk": 50562
     },
     {
         "fields": {
@@ -4857,7 +4857,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 324
+        "pk": 50563
     },
     {
         "fields": {
@@ -4872,7 +4872,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 325
+        "pk": 50564
     },
     {
         "fields": {
@@ -4887,7 +4887,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 326
+        "pk": 50565
     },
     {
         "fields": {
@@ -4902,7 +4902,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 327
+        "pk": 50566
     },
     {
         "fields": {
@@ -4917,7 +4917,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 328
+        "pk": 50567
     },
     {
         "fields": {
@@ -4932,7 +4932,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 329
+        "pk": 50568
     },
     {
         "fields": {
@@ -4947,7 +4947,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 330
+        "pk": 50569
     },
     {
         "fields": {
@@ -4962,7 +4962,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 331
+        "pk": 50570
     },
     {
         "fields": {
@@ -4977,7 +4977,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 332
+        "pk": 50571
     },
     {
         "fields": {
@@ -4992,7 +4992,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 333
+        "pk": 50572
     },
     {
         "fields": {
@@ -5007,7 +5007,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 334
+        "pk": 50573
     },
     {
         "fields": {
@@ -5022,7 +5022,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 335
+        "pk": 50574
     },
     {
         "fields": {
@@ -5037,7 +5037,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 336
+        "pk": 50575
     },
     {
         "fields": {
@@ -5052,7 +5052,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 337
+        "pk": 50576
     },
     {
         "fields": {
@@ -5067,7 +5067,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 338
+        "pk": 50577
     },
     {
         "fields": {
@@ -5082,7 +5082,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 339
+        "pk": 50578
     },
     {
         "fields": {
@@ -5097,7 +5097,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 340
+        "pk": 50579
     },
     {
         "fields": {
@@ -5112,7 +5112,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 341
+        "pk": 50580
     },
     {
         "fields": {
@@ -5127,7 +5127,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 342
+        "pk": 50581
     },
     {
         "fields": {
@@ -5142,7 +5142,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 343
+        "pk": 50582
     },
     {
         "fields": {
@@ -5157,7 +5157,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 344
+        "pk": 50583
     },
     {
         "fields": {
@@ -5172,7 +5172,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 345
+        "pk": 50584
     },
     {
         "fields": {
@@ -5187,7 +5187,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 346
+        "pk": 50585
     },
     {
         "fields": {
@@ -5202,7 +5202,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 347
+        "pk": 50586
     },
     {
         "fields": {
@@ -5217,7 +5217,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 348
+        "pk": 50587
     },
     {
         "fields": {
@@ -5232,7 +5232,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 349
+        "pk": 50588
     },
     {
         "fields": {
@@ -5247,7 +5247,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 350
+        "pk": 50589
     },
     {
         "fields": {
@@ -5262,7 +5262,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 351
+        "pk": 50590
     },
     {
         "fields": {
@@ -5277,7 +5277,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 352
+        "pk": 50591
     },
     {
         "fields": {
@@ -5292,7 +5292,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 353
+        "pk": 50592
     },
     {
         "fields": {
@@ -5307,7 +5307,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 354
+        "pk": 50593
     },
     {
         "fields": {
@@ -5322,7 +5322,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 355
+        "pk": 50594
     },
     {
         "fields": {
@@ -5337,7 +5337,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 356
+        "pk": 50595
     },
     {
         "fields": {
@@ -5352,7 +5352,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 357
+        "pk": 50596
     },
     {
         "fields": {
@@ -5367,7 +5367,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 358
+        "pk": 50597
     },
     {
         "fields": {
@@ -5382,7 +5382,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 359
+        "pk": 50598
     },
     {
         "fields": {
@@ -5397,7 +5397,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 360
+        "pk": 50599
     },
     {
         "fields": {
@@ -5412,7 +5412,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 361
+        "pk": 50600
     },
     {
         "fields": {
@@ -5427,7 +5427,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 362
+        "pk": 50601
     },
     {
         "fields": {
@@ -5442,7 +5442,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 363
+        "pk": 50602
     },
     {
         "fields": {
@@ -5457,7 +5457,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 364
+        "pk": 50603
     },
     {
         "fields": {
@@ -5472,7 +5472,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 365
+        "pk": 50604
     },
     {
         "fields": {
@@ -5487,7 +5487,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 366
+        "pk": 50605
     },
     {
         "fields": {
@@ -5502,7 +5502,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 367
+        "pk": 50606
     },
     {
         "fields": {
@@ -5517,7 +5517,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 368
+        "pk": 50607
     },
     {
         "fields": {
@@ -5532,7 +5532,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 369
+        "pk": 50608
     },
     {
         "fields": {
@@ -5547,7 +5547,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 370
+        "pk": 50609
     },
     {
         "fields": {
@@ -5562,7 +5562,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 371
+        "pk": 50610
     },
     {
         "fields": {
@@ -5577,7 +5577,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 372
+        "pk": 50611
     },
     {
         "fields": {
@@ -5592,7 +5592,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 373
+        "pk": 50612
     },
     {
         "fields": {
@@ -5607,7 +5607,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 374
+        "pk": 50613
     },
     {
         "fields": {
@@ -5622,7 +5622,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 375
+        "pk": 50614
     },
     {
         "fields": {
@@ -5637,7 +5637,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 376
+        "pk": 50615
     },
     {
         "fields": {
@@ -5652,7 +5652,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 377
+        "pk": 50616
     },
     {
         "fields": {
@@ -5667,7 +5667,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 378
+        "pk": 50617
     },
     {
         "fields": {
@@ -5682,7 +5682,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 379
+        "pk": 50618
     },
     {
         "fields": {
@@ -5697,7 +5697,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 380
+        "pk": 50619
     },
     {
         "fields": {
@@ -5712,7 +5712,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 381
+        "pk": 50620
     },
     {
         "fields": {
@@ -5727,7 +5727,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 382
+        "pk": 50621
     },
     {
         "fields": {
@@ -5742,7 +5742,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 383
+        "pk": 50622
     },
     {
         "fields": {
@@ -5757,7 +5757,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 384
+        "pk": 50623
     },
     {
         "fields": {
@@ -5772,7 +5772,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 385
+        "pk": 50624
     },
     {
         "fields": {
@@ -5787,7 +5787,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 386
+        "pk": 50625
     },
     {
         "fields": {
@@ -5802,7 +5802,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 387
+        "pk": 50626
     },
     {
         "fields": {
@@ -5817,7 +5817,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 388
+        "pk": 50627
     },
     {
         "fields": {
@@ -5832,7 +5832,7 @@
             "state": "CHANDIGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 389
+        "pk": 50628
     },
     {
         "fields": {
@@ -5847,7 +5847,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 390
+        "pk": 50629
     },
     {
         "fields": {
@@ -5862,7 +5862,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 391
+        "pk": 50630
     },
     {
         "fields": {
@@ -5877,7 +5877,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 392
+        "pk": 50631
     },
     {
         "fields": {
@@ -5892,7 +5892,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 393
+        "pk": 50632
     },
     {
         "fields": {
@@ -5907,7 +5907,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 394
+        "pk": 50633
     },
     {
         "fields": {
@@ -5922,7 +5922,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 395
+        "pk": 50634
     },
     {
         "fields": {
@@ -5937,7 +5937,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 396
+        "pk": 50635
     },
     {
         "fields": {
@@ -5952,7 +5952,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 397
+        "pk": 50636
     },
     {
         "fields": {
@@ -5967,7 +5967,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 398
+        "pk": 50637
     },
     {
         "fields": {
@@ -5982,7 +5982,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 399
+        "pk": 50638
     },
     {
         "fields": {
@@ -5997,7 +5997,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 400
+        "pk": 50639
     },
     {
         "fields": {
@@ -6012,7 +6012,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 401
+        "pk": 50640
     },
     {
         "fields": {
@@ -6027,7 +6027,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 402
+        "pk": 50641
     },
     {
         "fields": {
@@ -6042,7 +6042,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 403
+        "pk": 50642
     },
     {
         "fields": {
@@ -6057,7 +6057,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 404
+        "pk": 50643
     },
     {
         "fields": {
@@ -6072,7 +6072,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 405
+        "pk": 50644
     },
     {
         "fields": {
@@ -6087,7 +6087,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 406
+        "pk": 50645
     },
     {
         "fields": {
@@ -6102,7 +6102,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 407
+        "pk": 50646
     },
     {
         "fields": {
@@ -6117,7 +6117,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 408
+        "pk": 50647
     },
     {
         "fields": {
@@ -6132,7 +6132,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 409
+        "pk": 50648
     },
     {
         "fields": {
@@ -6147,7 +6147,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 410
+        "pk": 50649
     },
     {
         "fields": {
@@ -6162,7 +6162,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 411
+        "pk": 50650
     },
     {
         "fields": {
@@ -6177,7 +6177,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 412
+        "pk": 50651
     },
     {
         "fields": {
@@ -6192,7 +6192,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 413
+        "pk": 50652
     },
     {
         "fields": {
@@ -6207,7 +6207,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 414
+        "pk": 50653
     },
     {
         "fields": {
@@ -6222,7 +6222,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 415
+        "pk": 50654
     },
     {
         "fields": {
@@ -6237,7 +6237,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 416
+        "pk": 50655
     },
     {
         "fields": {
@@ -6252,7 +6252,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 417
+        "pk": 50656
     },
     {
         "fields": {
@@ -6267,7 +6267,7 @@
             "state": "CHHATTISGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 418
+        "pk": 50657
     },
     {
         "fields": {
@@ -6282,7 +6282,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 419
+        "pk": 50658
     },
     {
         "fields": {
@@ -6297,7 +6297,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 420
+        "pk": 50659
     },
     {
         "fields": {
@@ -6312,7 +6312,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 421
+        "pk": 50660
     },
     {
         "fields": {
@@ -6327,7 +6327,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 422
+        "pk": 50661
     },
     {
         "fields": {
@@ -6342,7 +6342,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 423
+        "pk": 50662
     },
     {
         "fields": {
@@ -6357,7 +6357,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 424
+        "pk": 50663
     },
     {
         "fields": {
@@ -6372,7 +6372,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 425
+        "pk": 50664
     },
     {
         "fields": {
@@ -6387,7 +6387,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 426
+        "pk": 50665
     },
     {
         "fields": {
@@ -6402,7 +6402,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 427
+        "pk": 50666
     },
     {
         "fields": {
@@ -6417,7 +6417,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 428
+        "pk": 50667
     },
     {
         "fields": {
@@ -6432,7 +6432,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 429
+        "pk": 50668
     },
     {
         "fields": {
@@ -6447,7 +6447,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 430
+        "pk": 50669
     },
     {
         "fields": {
@@ -6462,7 +6462,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 431
+        "pk": 50670
     },
     {
         "fields": {
@@ -6477,7 +6477,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 432
+        "pk": 50671
     },
     {
         "fields": {
@@ -6492,7 +6492,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 433
+        "pk": 50672
     },
     {
         "fields": {
@@ -6507,7 +6507,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 434
+        "pk": 50673
     },
     {
         "fields": {
@@ -6522,7 +6522,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 435
+        "pk": 50674
     },
     {
         "fields": {
@@ -6537,7 +6537,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 436
+        "pk": 50675
     },
     {
         "fields": {
@@ -6552,7 +6552,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 437
+        "pk": 50676
     },
     {
         "fields": {
@@ -6567,7 +6567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 438
+        "pk": 50677
     },
     {
         "fields": {
@@ -6582,7 +6582,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 439
+        "pk": 50678
     },
     {
         "fields": {
@@ -6597,7 +6597,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 440
+        "pk": 50679
     },
     {
         "fields": {
@@ -6612,7 +6612,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 441
+        "pk": 50680
     },
     {
         "fields": {
@@ -6627,7 +6627,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 442
+        "pk": 50681
     },
     {
         "fields": {
@@ -6642,7 +6642,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 443
+        "pk": 50682
     },
     {
         "fields": {
@@ -6657,7 +6657,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 444
+        "pk": 50683
     },
     {
         "fields": {
@@ -6672,7 +6672,7 @@
             "state": "ODISHA"
         },
         "model": "masterdata.ifsc",
-        "pk": 445
+        "pk": 50684
     },
     {
         "fields": {
@@ -6687,7 +6687,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 446
+        "pk": 50685
     },
     {
         "fields": {
@@ -6702,7 +6702,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 447
+        "pk": 50686
     },
     {
         "fields": {
@@ -6717,7 +6717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 448
+        "pk": 50687
     },
     {
         "fields": {
@@ -6732,7 +6732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 449
+        "pk": 50688
     },
     {
         "fields": {
@@ -6747,7 +6747,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 450
+        "pk": 50689
     },
     {
         "fields": {
@@ -6762,7 +6762,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 451
+        "pk": 50690
     },
     {
         "fields": {
@@ -6777,7 +6777,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 452
+        "pk": 50691
     },
     {
         "fields": {
@@ -6792,7 +6792,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 453
+        "pk": 50692
     },
     {
         "fields": {
@@ -6807,7 +6807,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 454
+        "pk": 50693
     },
     {
         "fields": {
@@ -6822,7 +6822,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 455
+        "pk": 50694
     },
     {
         "fields": {
@@ -6837,7 +6837,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 456
+        "pk": 50695
     },
     {
         "fields": {
@@ -6852,7 +6852,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 457
+        "pk": 50696
     },
     {
         "fields": {
@@ -6867,7 +6867,7 @@
             "state": "JHARKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 458
+        "pk": 50697
     },
     {
         "fields": {
@@ -6882,7 +6882,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 459
+        "pk": 50698
     },
     {
         "fields": {
@@ -6897,7 +6897,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 460
+        "pk": 50699
     },
     {
         "fields": {
@@ -6912,7 +6912,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 461
+        "pk": 50700
     },
     {
         "fields": {
@@ -6927,7 +6927,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 462
+        "pk": 50701
     },
     {
         "fields": {
@@ -6942,7 +6942,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 463
+        "pk": 50702
     },
     {
         "fields": {
@@ -6957,7 +6957,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 464
+        "pk": 50703
     },
     {
         "fields": {
@@ -6972,7 +6972,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 465
+        "pk": 50704
     },
     {
         "fields": {
@@ -6987,7 +6987,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 466
+        "pk": 50705
     },
     {
         "fields": {
@@ -7002,7 +7002,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 467
+        "pk": 50706
     },
     {
         "fields": {
@@ -7017,7 +7017,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 468
+        "pk": 50707
     },
     {
         "fields": {
@@ -7032,7 +7032,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 469
+        "pk": 50708
     },
     {
         "fields": {
@@ -7047,7 +7047,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 470
+        "pk": 50709
     },
     {
         "fields": {
@@ -7062,7 +7062,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 471
+        "pk": 50710
     },
     {
         "fields": {
@@ -7077,7 +7077,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 472
+        "pk": 50711
     },
     {
         "fields": {
@@ -7092,7 +7092,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 473
+        "pk": 50712
     },
     {
         "fields": {
@@ -7107,7 +7107,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 474
+        "pk": 50713
     },
     {
         "fields": {
@@ -7122,7 +7122,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 475
+        "pk": 50714
     },
     {
         "fields": {
@@ -7137,7 +7137,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 476
+        "pk": 50715
     },
     {
         "fields": {
@@ -7152,7 +7152,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 477
+        "pk": 50716
     },
     {
         "fields": {
@@ -7167,7 +7167,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 478
+        "pk": 50717
     },
     {
         "fields": {
@@ -7182,7 +7182,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 479
+        "pk": 50718
     },
     {
         "fields": {
@@ -7197,7 +7197,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 480
+        "pk": 50719
     },
     {
         "fields": {
@@ -7212,7 +7212,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 481
+        "pk": 50720
     },
     {
         "fields": {
@@ -7227,7 +7227,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 482
+        "pk": 50721
     },
     {
         "fields": {
@@ -7242,7 +7242,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 483
+        "pk": 50722
     },
     {
         "fields": {
@@ -7257,7 +7257,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 484
+        "pk": 50723
     },
     {
         "fields": {
@@ -7272,7 +7272,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 485
+        "pk": 50724
     },
     {
         "fields": {
@@ -7287,7 +7287,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 486
+        "pk": 50725
     },
     {
         "fields": {
@@ -7302,7 +7302,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 487
+        "pk": 50726
     },
     {
         "fields": {
@@ -7317,7 +7317,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 488
+        "pk": 50727
     },
     {
         "fields": {
@@ -7332,7 +7332,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 489
+        "pk": 50728
     },
     {
         "fields": {
@@ -7347,7 +7347,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 490
+        "pk": 50729
     },
     {
         "fields": {
@@ -7362,7 +7362,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 491
+        "pk": 50730
     },
     {
         "fields": {
@@ -7377,7 +7377,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 492
+        "pk": 50731
     },
     {
         "fields": {
@@ -7392,7 +7392,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 493
+        "pk": 50732
     },
     {
         "fields": {
@@ -7407,7 +7407,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 494
+        "pk": 50733
     },
     {
         "fields": {
@@ -7422,7 +7422,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 495
+        "pk": 50734
     },
     {
         "fields": {
@@ -7437,7 +7437,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 496
+        "pk": 50735
     },
     {
         "fields": {
@@ -7452,7 +7452,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 497
+        "pk": 50736
     },
     {
         "fields": {
@@ -7467,7 +7467,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 498
+        "pk": 50737
     },
     {
         "fields": {
@@ -7482,7 +7482,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 499
+        "pk": 50738
     },
     {
         "fields": {
@@ -7497,7 +7497,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 500
+        "pk": 50739
     },
     {
         "fields": {
@@ -7512,7 +7512,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 501
+        "pk": 50740
     },
     {
         "fields": {
@@ -7527,7 +7527,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 502
+        "pk": 50741
     },
     {
         "fields": {
@@ -7542,7 +7542,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 503
+        "pk": 50742
     },
     {
         "fields": {
@@ -7557,7 +7557,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 504
+        "pk": 50743
     },
     {
         "fields": {
@@ -7572,7 +7572,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 505
+        "pk": 50744
     },
     {
         "fields": {
@@ -7587,7 +7587,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 506
+        "pk": 50745
     },
     {
         "fields": {
@@ -7602,7 +7602,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 507
+        "pk": 50746
     },
     {
         "fields": {
@@ -7617,7 +7617,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 508
+        "pk": 50747
     },
     {
         "fields": {
@@ -7632,7 +7632,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 509
+        "pk": 50748
     },
     {
         "fields": {
@@ -7647,7 +7647,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 510
+        "pk": 50749
     },
     {
         "fields": {
@@ -7662,7 +7662,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 511
+        "pk": 50750
     },
     {
         "fields": {
@@ -7677,7 +7677,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 512
+        "pk": 50751
     },
     {
         "fields": {
@@ -7692,7 +7692,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 513
+        "pk": 50752
     },
     {
         "fields": {
@@ -7707,7 +7707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 514
+        "pk": 50753
     },
     {
         "fields": {
@@ -7722,7 +7722,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 515
+        "pk": 50754
     },
     {
         "fields": {
@@ -7737,7 +7737,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 516
+        "pk": 50755
     },
     {
         "fields": {
@@ -7752,7 +7752,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 517
+        "pk": 50756
     },
     {
         "fields": {
@@ -7767,7 +7767,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 518
+        "pk": 50757
     },
     {
         "fields": {
@@ -7782,7 +7782,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 519
+        "pk": 50758
     },
     {
         "fields": {
@@ -7797,7 +7797,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 520
+        "pk": 50759
     },
     {
         "fields": {
@@ -7812,7 +7812,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 521
+        "pk": 50760
     },
     {
         "fields": {
@@ -7827,7 +7827,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 522
+        "pk": 50761
     },
     {
         "fields": {
@@ -7842,7 +7842,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 523
+        "pk": 50762
     },
     {
         "fields": {
@@ -7857,7 +7857,7 @@
             "state": "TRIPURA"
         },
         "model": "masterdata.ifsc",
-        "pk": 524
+        "pk": 50763
     },
     {
         "fields": {
@@ -7872,7 +7872,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 525
+        "pk": 50764
     },
     {
         "fields": {
@@ -7887,7 +7887,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 526
+        "pk": 50765
     },
     {
         "fields": {
@@ -7902,7 +7902,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 527
+        "pk": 50766
     },
     {
         "fields": {
@@ -7917,7 +7917,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 528
+        "pk": 50767
     },
     {
         "fields": {
@@ -7932,7 +7932,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 529
+        "pk": 50768
     },
     {
         "fields": {
@@ -7947,7 +7947,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 530
+        "pk": 50769
     },
     {
         "fields": {
@@ -7962,7 +7962,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 531
+        "pk": 50770
     },
     {
         "fields": {
@@ -7977,7 +7977,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 532
+        "pk": 50771
     },
     {
         "fields": {
@@ -7992,7 +7992,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 533
+        "pk": 50772
     },
     {
         "fields": {
@@ -8007,7 +8007,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 534
+        "pk": 50773
     },
     {
         "fields": {
@@ -8022,7 +8022,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 535
+        "pk": 50774
     },
     {
         "fields": {
@@ -8037,7 +8037,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 536
+        "pk": 50775
     },
     {
         "fields": {
@@ -8052,7 +8052,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 537
+        "pk": 50776
     },
     {
         "fields": {
@@ -8067,7 +8067,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 538
+        "pk": 50777
     },
     {
         "fields": {
@@ -8082,7 +8082,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 539
+        "pk": 50778
     },
     {
         "fields": {
@@ -8097,7 +8097,7 @@
             "state": "CHHATTISGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 540
+        "pk": 50779
     },
     {
         "fields": {
@@ -8112,7 +8112,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 541
+        "pk": 50780
     },
     {
         "fields": {
@@ -8127,7 +8127,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 542
+        "pk": 50781
     },
     {
         "fields": {
@@ -8142,7 +8142,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 543
+        "pk": 50782
     },
     {
         "fields": {
@@ -8157,7 +8157,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 544
+        "pk": 50783
     },
     {
         "fields": {
@@ -8172,7 +8172,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 545
+        "pk": 50784
     },
     {
         "fields": {
@@ -8187,7 +8187,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 546
+        "pk": 50785
     },
     {
         "fields": {
@@ -8202,7 +8202,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 547
+        "pk": 50786
     },
     {
         "fields": {
@@ -8217,7 +8217,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 548
+        "pk": 50787
     },
     {
         "fields": {
@@ -8232,7 +8232,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 549
+        "pk": 50788
     },
     {
         "fields": {
@@ -8247,7 +8247,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 550
+        "pk": 50789
     },
     {
         "fields": {
@@ -8262,7 +8262,7 @@
             "state": "CHHATTISGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 551
+        "pk": 50790
     },
     {
         "fields": {
@@ -8277,7 +8277,7 @@
             "state": "ODISHA"
         },
         "model": "masterdata.ifsc",
-        "pk": 552
+        "pk": 50791
     },
     {
         "fields": {
@@ -8292,7 +8292,7 @@
             "state": "JHARKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 553
+        "pk": 50792
     },
     {
         "fields": {
@@ -8307,7 +8307,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 554
+        "pk": 50793
     },
     {
         "fields": {
@@ -8322,7 +8322,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 555
+        "pk": 50794
     },
     {
         "fields": {
@@ -8337,7 +8337,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 556
+        "pk": 50795
     },
     {
         "fields": {
@@ -8352,7 +8352,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 557
+        "pk": 50796
     },
     {
         "fields": {
@@ -8367,7 +8367,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 558
+        "pk": 50797
     },
     {
         "fields": {
@@ -8382,7 +8382,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 559
+        "pk": 50798
     },
     {
         "fields": {
@@ -8397,7 +8397,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 560
+        "pk": 50799
     },
     {
         "fields": {
@@ -8412,7 +8412,7 @@
             "state": "MEGHALAYA"
         },
         "model": "masterdata.ifsc",
-        "pk": 561
+        "pk": 50800
     },
     {
         "fields": {
@@ -8427,7 +8427,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 562
+        "pk": 50801
     },
     {
         "fields": {
@@ -8442,7 +8442,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 563
+        "pk": 50802
     },
     {
         "fields": {
@@ -8457,7 +8457,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 564
+        "pk": 50803
     },
     {
         "fields": {
@@ -8472,7 +8472,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 565
+        "pk": 50804
     },
     {
         "fields": {
@@ -8487,7 +8487,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 566
+        "pk": 50805
     },
     {
         "fields": {
@@ -8502,7 +8502,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 567
+        "pk": 50806
     },
     {
         "fields": {
@@ -8517,7 +8517,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 568
+        "pk": 50807
     },
     {
         "fields": {
@@ -8532,7 +8532,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 569
+        "pk": 50808
     },
     {
         "fields": {
@@ -8547,7 +8547,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 570
+        "pk": 50809
     },
     {
         "fields": {
@@ -8562,7 +8562,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 571
+        "pk": 50810
     },
     {
         "fields": {
@@ -8577,7 +8577,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 572
+        "pk": 50811
     },
     {
         "fields": {
@@ -8592,7 +8592,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 573
+        "pk": 50812
     },
     {
         "fields": {
@@ -8607,7 +8607,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 574
+        "pk": 50813
     },
     {
         "fields": {
@@ -8622,7 +8622,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 575
+        "pk": 50814
     },
     {
         "fields": {
@@ -8637,7 +8637,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 576
+        "pk": 50815
     },
     {
         "fields": {
@@ -8652,7 +8652,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 577
+        "pk": 50816
     },
     {
         "fields": {
@@ -8667,7 +8667,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 578
+        "pk": 50817
     },
     {
         "fields": {
@@ -8682,7 +8682,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 579
+        "pk": 50818
     },
     {
         "fields": {
@@ -8697,7 +8697,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 580
+        "pk": 50819
     },
     {
         "fields": {
@@ -8712,7 +8712,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 581
+        "pk": 50820
     },
     {
         "fields": {
@@ -8727,7 +8727,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 582
+        "pk": 50821
     },
     {
         "fields": {
@@ -8742,7 +8742,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 583
+        "pk": 50822
     },
     {
         "fields": {
@@ -8757,7 +8757,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 584
+        "pk": 50823
     },
     {
         "fields": {
@@ -8772,7 +8772,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 585
+        "pk": 50824
     },
     {
         "fields": {
@@ -8787,7 +8787,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 586
+        "pk": 50825
     },
     {
         "fields": {
@@ -8802,7 +8802,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 587
+        "pk": 50826
     },
     {
         "fields": {
@@ -8817,7 +8817,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 588
+        "pk": 50827
     },
     {
         "fields": {
@@ -8832,7 +8832,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 589
+        "pk": 50828
     },
     {
         "fields": {
@@ -8847,7 +8847,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 590
+        "pk": 50829
     },
     {
         "fields": {
@@ -8862,7 +8862,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 591
+        "pk": 50830
     },
     {
         "fields": {
@@ -8877,7 +8877,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 592
+        "pk": 50831
     },
     {
         "fields": {
@@ -8892,7 +8892,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 593
+        "pk": 50832
     },
     {
         "fields": {
@@ -8907,7 +8907,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 594
+        "pk": 50833
     },
     {
         "fields": {
@@ -8922,7 +8922,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 595
+        "pk": 50834
     },
     {
         "fields": {
@@ -8937,7 +8937,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 596
+        "pk": 50835
     },
     {
         "fields": {
@@ -8952,7 +8952,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 597
+        "pk": 50836
     },
     {
         "fields": {
@@ -8967,7 +8967,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 598
+        "pk": 50837
     },
     {
         "fields": {
@@ -8982,7 +8982,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 599
+        "pk": 50838
     },
     {
         "fields": {
@@ -8997,7 +8997,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 600
+        "pk": 50839
     },
     {
         "fields": {
@@ -9012,7 +9012,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 601
+        "pk": 50840
     },
     {
         "fields": {
@@ -9027,7 +9027,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 602
+        "pk": 50841
     },
     {
         "fields": {
@@ -9042,7 +9042,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 603
+        "pk": 50842
     },
     {
         "fields": {
@@ -9057,7 +9057,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 604
+        "pk": 50843
     },
     {
         "fields": {
@@ -9072,7 +9072,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 605
+        "pk": 50844
     },
     {
         "fields": {
@@ -9087,7 +9087,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 606
+        "pk": 50845
     },
     {
         "fields": {
@@ -9102,7 +9102,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 607
+        "pk": 50846
     },
     {
         "fields": {
@@ -9117,7 +9117,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 608
+        "pk": 50847
     },
     {
         "fields": {
@@ -9132,7 +9132,7 @@
             "state": "ASSAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 609
+        "pk": 50848
     },
     {
         "fields": {
@@ -9147,7 +9147,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 610
+        "pk": 50849
     },
     {
         "fields": {
@@ -9162,7 +9162,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 611
+        "pk": 50850
     },
     {
         "fields": {
@@ -9177,7 +9177,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 612
+        "pk": 50851
     },
     {
         "fields": {
@@ -9192,7 +9192,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 613
+        "pk": 50852
     },
     {
         "fields": {
@@ -9207,7 +9207,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 614
+        "pk": 50853
     },
     {
         "fields": {
@@ -9222,7 +9222,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 615
+        "pk": 50854
     },
     {
         "fields": {
@@ -9237,7 +9237,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 616
+        "pk": 50855
     },
     {
         "fields": {
@@ -9252,7 +9252,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 617
+        "pk": 50856
     },
     {
         "fields": {
@@ -9267,7 +9267,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 618
+        "pk": 50857
     },
     {
         "fields": {
@@ -9282,7 +9282,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 619
+        "pk": 50858
     },
     {
         "fields": {
@@ -9297,7 +9297,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 620
+        "pk": 50859
     },
     {
         "fields": {
@@ -9312,7 +9312,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 621
+        "pk": 50860
     },
     {
         "fields": {
@@ -9327,7 +9327,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 622
+        "pk": 50861
     },
     {
         "fields": {
@@ -9342,7 +9342,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 623
+        "pk": 50862
     },
     {
         "fields": {
@@ -9357,7 +9357,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 624
+        "pk": 50863
     },
     {
         "fields": {
@@ -9372,7 +9372,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 625
+        "pk": 50864
     },
     {
         "fields": {
@@ -9387,7 +9387,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 626
+        "pk": 50865
     },
     {
         "fields": {
@@ -9402,7 +9402,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 627
+        "pk": 50866
     },
     {
         "fields": {
@@ -9417,7 +9417,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 628
+        "pk": 50867
     },
     {
         "fields": {
@@ -9432,7 +9432,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 629
+        "pk": 50868
     },
     {
         "fields": {
@@ -9447,7 +9447,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 630
+        "pk": 50869
     },
     {
         "fields": {
@@ -9462,7 +9462,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 631
+        "pk": 50870
     },
     {
         "fields": {
@@ -9477,7 +9477,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 632
+        "pk": 50871
     },
     {
         "fields": {
@@ -9492,7 +9492,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 633
+        "pk": 50872
     },
     {
         "fields": {
@@ -9507,7 +9507,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 634
+        "pk": 50873
     },
     {
         "fields": {
@@ -9522,7 +9522,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 635
+        "pk": 50874
     },
     {
         "fields": {
@@ -9537,7 +9537,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 636
+        "pk": 50875
     },
     {
         "fields": {
@@ -9552,7 +9552,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 637
+        "pk": 50876
     },
     {
         "fields": {
@@ -9567,7 +9567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 638
+        "pk": 50877
     },
     {
         "fields": {
@@ -9582,7 +9582,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 639
+        "pk": 50878
     },
     {
         "fields": {
@@ -9597,7 +9597,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 640
+        "pk": 50879
     },
     {
         "fields": {
@@ -9612,7 +9612,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 641
+        "pk": 50880
     },
     {
         "fields": {
@@ -9627,7 +9627,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 642
+        "pk": 50881
     },
     {
         "fields": {
@@ -9642,7 +9642,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 643
+        "pk": 50882
     },
     {
         "fields": {
@@ -9657,7 +9657,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 644
+        "pk": 50883
     },
     {
         "fields": {
@@ -9672,7 +9672,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 645
+        "pk": 50884
     },
     {
         "fields": {
@@ -9687,7 +9687,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 646
+        "pk": 50885
     },
     {
         "fields": {
@@ -9702,7 +9702,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 647
+        "pk": 50886
     },
     {
         "fields": {
@@ -9717,7 +9717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 648
+        "pk": 50887
     },
     {
         "fields": {
@@ -9732,7 +9732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 649
+        "pk": 50888
     },
     {
         "fields": {
@@ -9747,7 +9747,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 650
+        "pk": 50889
     },
     {
         "fields": {
@@ -9762,7 +9762,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 651
+        "pk": 50890
     },
     {
         "fields": {
@@ -9777,7 +9777,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 652
+        "pk": 50891
     },
     {
         "fields": {
@@ -9792,7 +9792,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 653
+        "pk": 50892
     },
     {
         "fields": {
@@ -9807,7 +9807,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 654
+        "pk": 50893
     },
     {
         "fields": {
@@ -9822,7 +9822,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 655
+        "pk": 50894
     },
     {
         "fields": {
@@ -9837,7 +9837,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 656
+        "pk": 50895
     },
     {
         "fields": {
@@ -9852,7 +9852,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 657
+        "pk": 50896
     },
     {
         "fields": {
@@ -9867,7 +9867,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 658
+        "pk": 50897
     },
     {
         "fields": {
@@ -9882,7 +9882,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 659
+        "pk": 50898
     },
     {
         "fields": {
@@ -9897,7 +9897,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 660
+        "pk": 50899
     },
     {
         "fields": {
@@ -9912,7 +9912,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 661
+        "pk": 50900
     },
     {
         "fields": {
@@ -9927,7 +9927,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 662
+        "pk": 50901
     },
     {
         "fields": {
@@ -9942,7 +9942,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 663
+        "pk": 50902
     },
     {
         "fields": {
@@ -9957,7 +9957,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 664
+        "pk": 50903
     },
     {
         "fields": {
@@ -9972,7 +9972,7 @@
             "state": "NAGALAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 665
+        "pk": 50904
     },
     {
         "fields": {
@@ -9987,7 +9987,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 666
+        "pk": 50905
     },
     {
         "fields": {
@@ -10002,7 +10002,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 667
+        "pk": 50906
     },
     {
         "fields": {
@@ -10017,7 +10017,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 668
+        "pk": 50907
     },
     {
         "fields": {
@@ -10032,7 +10032,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 669
+        "pk": 50908
     },
     {
         "fields": {
@@ -10047,7 +10047,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 670
+        "pk": 50909
     },
     {
         "fields": {
@@ -10062,7 +10062,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 671
+        "pk": 50910
     },
     {
         "fields": {
@@ -10077,7 +10077,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 672
+        "pk": 50911
     },
     {
         "fields": {
@@ -10092,7 +10092,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 673
+        "pk": 50912
     },
     {
         "fields": {
@@ -10107,7 +10107,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 674
+        "pk": 50913
     },
     {
         "fields": {
@@ -10122,7 +10122,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 675
+        "pk": 50914
     },
     {
         "fields": {
@@ -10137,7 +10137,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 676
+        "pk": 50915
     },
     {
         "fields": {
@@ -10152,7 +10152,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 677
+        "pk": 50916
     },
     {
         "fields": {
@@ -10167,7 +10167,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 678
+        "pk": 50917
     },
     {
         "fields": {
@@ -10182,7 +10182,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 679
+        "pk": 50918
     },
     {
         "fields": {
@@ -10197,7 +10197,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 680
+        "pk": 50919
     },
     {
         "fields": {
@@ -10212,7 +10212,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 681
+        "pk": 50920
     },
     {
         "fields": {
@@ -10227,7 +10227,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 682
+        "pk": 50921
     },
     {
         "fields": {
@@ -10242,7 +10242,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 683
+        "pk": 50922
     },
     {
         "fields": {
@@ -10257,7 +10257,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 684
+        "pk": 50923
     },
     {
         "fields": {
@@ -10272,7 +10272,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 685
+        "pk": 50924
     },
     {
         "fields": {
@@ -10287,7 +10287,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 686
+        "pk": 50925
     },
     {
         "fields": {
@@ -10302,7 +10302,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 687
+        "pk": 50926
     },
     {
         "fields": {
@@ -10317,7 +10317,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 688
+        "pk": 50927
     },
     {
         "fields": {
@@ -10332,7 +10332,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 689
+        "pk": 50928
     },
     {
         "fields": {
@@ -10347,7 +10347,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 690
+        "pk": 50929
     },
     {
         "fields": {
@@ -10362,7 +10362,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 691
+        "pk": 50930
     },
     {
         "fields": {
@@ -10377,7 +10377,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 692
+        "pk": 50931
     },
     {
         "fields": {
@@ -10392,7 +10392,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 693
+        "pk": 50932
     },
     {
         "fields": {
@@ -10407,7 +10407,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 694
+        "pk": 50933
     },
     {
         "fields": {
@@ -10422,7 +10422,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 695
+        "pk": 50934
     },
     {
         "fields": {
@@ -10437,7 +10437,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 696
+        "pk": 50935
     },
     {
         "fields": {
@@ -10452,7 +10452,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 697
+        "pk": 50936
     },
     {
         "fields": {
@@ -10467,7 +10467,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 698
+        "pk": 50937
     },
     {
         "fields": {
@@ -10482,7 +10482,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 699
+        "pk": 50938
     },
     {
         "fields": {
@@ -10497,7 +10497,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 700
+        "pk": 50939
     },
     {
         "fields": {
@@ -10512,7 +10512,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 701
+        "pk": 50940
     },
     {
         "fields": {
@@ -10527,7 +10527,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 702
+        "pk": 50941
     },
     {
         "fields": {
@@ -10542,7 +10542,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 703
+        "pk": 50942
     },
     {
         "fields": {
@@ -10557,7 +10557,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 704
+        "pk": 50943
     },
     {
         "fields": {
@@ -10572,7 +10572,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 705
+        "pk": 50944
     },
     {
         "fields": {
@@ -10587,7 +10587,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 706
+        "pk": 50945
     },
     {
         "fields": {
@@ -10602,7 +10602,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 707
+        "pk": 50946
     },
     {
         "fields": {
@@ -10617,7 +10617,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 708
+        "pk": 50947
     },
     {
         "fields": {
@@ -10632,7 +10632,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 709
+        "pk": 50948
     },
     {
         "fields": {
@@ -10647,7 +10647,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 710
+        "pk": 50949
     },
     {
         "fields": {
@@ -10662,7 +10662,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 711
+        "pk": 50950
     },
     {
         "fields": {
@@ -10677,7 +10677,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 712
+        "pk": 50951
     },
     {
         "fields": {
@@ -10692,7 +10692,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 713
+        "pk": 50952
     },
     {
         "fields": {
@@ -10707,7 +10707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 714
+        "pk": 50953
     },
     {
         "fields": {
@@ -10722,7 +10722,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 715
+        "pk": 50954
     },
     {
         "fields": {
@@ -10737,7 +10737,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 716
+        "pk": 50955
     },
     {
         "fields": {
@@ -10752,7 +10752,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 717
+        "pk": 50956
     },
     {
         "fields": {
@@ -10767,7 +10767,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 718
+        "pk": 50957
     },
     {
         "fields": {
@@ -10782,7 +10782,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 719
+        "pk": 50958
     },
     {
         "fields": {
@@ -10797,7 +10797,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 720
+        "pk": 50959
     },
     {
         "fields": {
@@ -10812,7 +10812,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 721
+        "pk": 50960
     },
     {
         "fields": {
@@ -10827,7 +10827,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 722
+        "pk": 50961
     },
     {
         "fields": {
@@ -10842,7 +10842,7 @@
             "state": "MIZORAM"
         },
         "model": "masterdata.ifsc",
-        "pk": 723
+        "pk": 50962
     },
     {
         "fields": {
@@ -10857,7 +10857,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 724
+        "pk": 50963
     },
     {
         "fields": {
@@ -10872,7 +10872,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 725
+        "pk": 50964
     },
     {
         "fields": {
@@ -10887,7 +10887,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 726
+        "pk": 50965
     },
     {
         "fields": {
@@ -10902,7 +10902,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 727
+        "pk": 50966
     },
     {
         "fields": {
@@ -10917,7 +10917,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 728
+        "pk": 50967
     },
     {
         "fields": {
@@ -10932,7 +10932,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 729
+        "pk": 50968
     },
     {
         "fields": {
@@ -10947,7 +10947,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 730
+        "pk": 50969
     },
     {
         "fields": {
@@ -10962,7 +10962,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 731
+        "pk": 50970
     },
     {
         "fields": {
@@ -10977,7 +10977,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 732
+        "pk": 50971
     },
     {
         "fields": {
@@ -10992,7 +10992,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 733
+        "pk": 50972
     },
     {
         "fields": {
@@ -11007,7 +11007,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 734
+        "pk": 50973
     },
     {
         "fields": {
@@ -11022,7 +11022,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 735
+        "pk": 50974
     },
     {
         "fields": {
@@ -11037,7 +11037,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 736
+        "pk": 50975
     },
     {
         "fields": {
@@ -11052,7 +11052,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 737
+        "pk": 50976
     },
     {
         "fields": {
@@ -11067,7 +11067,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 738
+        "pk": 50977
     },
     {
         "fields": {
@@ -11082,7 +11082,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 739
+        "pk": 50978
     },
     {
         "fields": {
@@ -11097,7 +11097,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 740
+        "pk": 50979
     },
     {
         "fields": {
@@ -11112,7 +11112,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 741
+        "pk": 50980
     },
     {
         "fields": {
@@ -11127,7 +11127,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 742
+        "pk": 50981
     },
     {
         "fields": {
@@ -11142,7 +11142,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 743
+        "pk": 50982
     },
     {
         "fields": {
@@ -11157,7 +11157,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 744
+        "pk": 50983
     },
     {
         "fields": {
@@ -11172,7 +11172,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 745
+        "pk": 50984
     },
     {
         "fields": {
@@ -11187,7 +11187,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 746
+        "pk": 50985
     },
     {
         "fields": {
@@ -11202,7 +11202,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 747
+        "pk": 50986
     },
     {
         "fields": {
@@ -11217,7 +11217,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 748
+        "pk": 50987
     },
     {
         "fields": {
@@ -11232,7 +11232,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 749
+        "pk": 50988
     },
     {
         "fields": {
@@ -11247,7 +11247,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 750
+        "pk": 50989
     },
     {
         "fields": {
@@ -11262,7 +11262,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 751
+        "pk": 50990
     },
     {
         "fields": {
@@ -11277,7 +11277,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 752
+        "pk": 50991
     },
     {
         "fields": {
@@ -11292,7 +11292,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 753
+        "pk": 50992
     },
     {
         "fields": {
@@ -11307,7 +11307,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 754
+        "pk": 50993
     },
     {
         "fields": {
@@ -11322,7 +11322,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 755
+        "pk": 50994
     },
     {
         "fields": {
@@ -11337,7 +11337,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 756
+        "pk": 50995
     },
     {
         "fields": {
@@ -11352,7 +11352,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 757
+        "pk": 50996
     },
     {
         "fields": {
@@ -11367,7 +11367,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 758
+        "pk": 50997
     },
     {
         "fields": {
@@ -11382,7 +11382,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 759
+        "pk": 50998
     },
     {
         "fields": {
@@ -11397,7 +11397,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 760
+        "pk": 50999
     },
     {
         "fields": {
@@ -11412,7 +11412,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 761
+        "pk": 51000
     },
     {
         "fields": {
@@ -11427,7 +11427,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 762
+        "pk": 51001
     },
     {
         "fields": {
@@ -11442,7 +11442,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 763
+        "pk": 51002
     },
     {
         "fields": {
@@ -11457,7 +11457,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 764
+        "pk": 51003
     },
     {
         "fields": {
@@ -11472,7 +11472,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 765
+        "pk": 51004
     },
     {
         "fields": {
@@ -11487,7 +11487,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 766
+        "pk": 51005
     },
     {
         "fields": {
@@ -11502,7 +11502,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 767
+        "pk": 51006
     },
     {
         "fields": {
@@ -11517,7 +11517,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 768
+        "pk": 51007
     },
     {
         "fields": {
@@ -11532,7 +11532,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 769
+        "pk": 51008
     },
     {
         "fields": {
@@ -11547,7 +11547,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 770
+        "pk": 51009
     },
     {
         "fields": {
@@ -11562,7 +11562,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 771
+        "pk": 51010
     },
     {
         "fields": {
@@ -11577,7 +11577,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 772
+        "pk": 51011
     },
     {
         "fields": {
@@ -11592,7 +11592,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 773
+        "pk": 51012
     },
     {
         "fields": {
@@ -11607,7 +11607,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 774
+        "pk": 51013
     },
     {
         "fields": {
@@ -11622,7 +11622,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 775
+        "pk": 51014
     },
     {
         "fields": {
@@ -11637,7 +11637,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 776
+        "pk": 51015
     },
     {
         "fields": {
@@ -11652,7 +11652,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 777
+        "pk": 51016
     },
     {
         "fields": {
@@ -11667,7 +11667,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 778
+        "pk": 51017
     },
     {
         "fields": {
@@ -11682,7 +11682,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 779
+        "pk": 51018
     },
     {
         "fields": {
@@ -11697,7 +11697,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 780
+        "pk": 51019
     },
     {
         "fields": {
@@ -11712,7 +11712,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 781
+        "pk": 51020
     },
     {
         "fields": {
@@ -11727,7 +11727,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 782
+        "pk": 51021
     },
     {
         "fields": {
@@ -11742,7 +11742,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 783
+        "pk": 51022
     },
     {
         "fields": {
@@ -11757,7 +11757,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 784
+        "pk": 51023
     },
     {
         "fields": {
@@ -11772,7 +11772,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 785
+        "pk": 51024
     },
     {
         "fields": {
@@ -11787,7 +11787,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 786
+        "pk": 51025
     },
     {
         "fields": {
@@ -11802,7 +11802,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 787
+        "pk": 51026
     },
     {
         "fields": {
@@ -11817,7 +11817,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 788
+        "pk": 51027
     },
     {
         "fields": {
@@ -11832,7 +11832,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 789
+        "pk": 51028
     },
     {
         "fields": {
@@ -11847,7 +11847,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 790
+        "pk": 51029
     },
     {
         "fields": {
@@ -11862,7 +11862,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 791
+        "pk": 51030
     },
     {
         "fields": {
@@ -11877,7 +11877,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 792
+        "pk": 51031
     },
     {
         "fields": {
@@ -11892,7 +11892,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 793
+        "pk": 51032
     },
     {
         "fields": {
@@ -11907,7 +11907,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 794
+        "pk": 51033
     },
     {
         "fields": {
@@ -11922,7 +11922,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 795
+        "pk": 51034
     },
     {
         "fields": {
@@ -11937,7 +11937,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 796
+        "pk": 51035
     },
     {
         "fields": {
@@ -11952,7 +11952,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 797
+        "pk": 51036
     },
     {
         "fields": {
@@ -11967,7 +11967,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 798
+        "pk": 51037
     },
     {
         "fields": {
@@ -11982,7 +11982,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 799
+        "pk": 51038
     },
     {
         "fields": {
@@ -11997,7 +11997,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 800
+        "pk": 51039
     },
     {
         "fields": {
@@ -12012,7 +12012,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 801
+        "pk": 51040
     },
     {
         "fields": {
@@ -12027,7 +12027,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 802
+        "pk": 51041
     },
     {
         "fields": {
@@ -12042,7 +12042,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 803
+        "pk": 51042
     },
     {
         "fields": {
@@ -12057,7 +12057,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 804
+        "pk": 51043
     },
     {
         "fields": {
@@ -12072,7 +12072,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 805
+        "pk": 51044
     },
     {
         "fields": {
@@ -12087,7 +12087,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 806
+        "pk": 51045
     },
     {
         "fields": {
@@ -12102,7 +12102,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 807
+        "pk": 51046
     },
     {
         "fields": {
@@ -12117,7 +12117,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 808
+        "pk": 51047
     },
     {
         "fields": {
@@ -12132,7 +12132,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 809
+        "pk": 51048
     },
     {
         "fields": {
@@ -12147,7 +12147,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 810
+        "pk": 51049
     },
     {
         "fields": {
@@ -12162,7 +12162,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 811
+        "pk": 51050
     },
     {
         "fields": {
@@ -12177,7 +12177,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 812
+        "pk": 51051
     },
     {
         "fields": {
@@ -12192,7 +12192,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 813
+        "pk": 51052
     },
     {
         "fields": {
@@ -12207,7 +12207,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 814
+        "pk": 51053
     },
     {
         "fields": {
@@ -12222,7 +12222,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 815
+        "pk": 51054
     },
     {
         "fields": {
@@ -12237,7 +12237,7 @@
             "state": "ODISHA"
         },
         "model": "masterdata.ifsc",
-        "pk": 816
+        "pk": 51055
     },
     {
         "fields": {
@@ -12252,7 +12252,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 817
+        "pk": 51056
     },
     {
         "fields": {
@@ -12267,7 +12267,7 @@
             "state": "TELANGANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 818
+        "pk": 51057
     },
     {
         "fields": {
@@ -12282,7 +12282,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 819
+        "pk": 51058
     },
     {
         "fields": {
@@ -12297,7 +12297,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 820
+        "pk": 51059
     },
     {
         "fields": {
@@ -12312,7 +12312,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 821
+        "pk": 51060
     },
     {
         "fields": {
@@ -12327,7 +12327,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 822
+        "pk": 51061
     },
     {
         "fields": {
@@ -12342,7 +12342,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 823
+        "pk": 51062
     },
     {
         "fields": {
@@ -12357,7 +12357,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 824
+        "pk": 51063
     },
     {
         "fields": {
@@ -12372,7 +12372,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 825
+        "pk": 51064
     },
     {
         "fields": {
@@ -12387,7 +12387,7 @@
             "state": "TELANGANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 826
+        "pk": 51065
     },
     {
         "fields": {
@@ -12402,7 +12402,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 827
+        "pk": 51066
     },
     {
         "fields": {
@@ -12417,7 +12417,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 828
+        "pk": 51067
     },
     {
         "fields": {
@@ -12432,7 +12432,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 829
+        "pk": 51068
     },
     {
         "fields": {
@@ -12447,7 +12447,7 @@
             "state": "SIKKIM"
         },
         "model": "masterdata.ifsc",
-        "pk": 830
+        "pk": 51069
     },
     {
         "fields": {
@@ -12462,7 +12462,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 831
+        "pk": 51070
     },
     {
         "fields": {
@@ -12477,7 +12477,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 832
+        "pk": 51071
     },
     {
         "fields": {
@@ -12492,7 +12492,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 833
+        "pk": 51072
     },
     {
         "fields": {
@@ -12507,7 +12507,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 834
+        "pk": 51073
     },
     {
         "fields": {
@@ -12522,7 +12522,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 835
+        "pk": 51074
     },
     {
         "fields": {
@@ -12537,7 +12537,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 836
+        "pk": 51075
     },
     {
         "fields": {
@@ -12552,7 +12552,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 837
+        "pk": 51076
     },
     {
         "fields": {
@@ -12567,7 +12567,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 838
+        "pk": 51077
     },
     {
         "fields": {
@@ -12582,7 +12582,7 @@
             "state": "TELANGANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 839
+        "pk": 51078
     },
     {
         "fields": {
@@ -12597,7 +12597,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 840
+        "pk": 51079
     },
     {
         "fields": {
@@ -12612,7 +12612,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 841
+        "pk": 51080
     },
     {
         "fields": {
@@ -12627,7 +12627,7 @@
             "state": "PUDUCHERRY"
         },
         "model": "masterdata.ifsc",
-        "pk": 842
+        "pk": 51081
     },
     {
         "fields": {
@@ -12642,7 +12642,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 843
+        "pk": 51082
     },
     {
         "fields": {
@@ -12657,7 +12657,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 844
+        "pk": 51083
     },
     {
         "fields": {
@@ -12672,7 +12672,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 845
+        "pk": 51084
     },
     {
         "fields": {
@@ -12687,7 +12687,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 846
+        "pk": 51085
     },
     {
         "fields": {
@@ -12702,7 +12702,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 847
+        "pk": 51086
     },
     {
         "fields": {
@@ -12717,7 +12717,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 848
+        "pk": 51087
     },
     {
         "fields": {
@@ -12732,7 +12732,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 849
+        "pk": 51088
     },
     {
         "fields": {
@@ -12747,7 +12747,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 850
+        "pk": 51089
     },
     {
         "fields": {
@@ -12762,7 +12762,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 851
+        "pk": 51090
     },
     {
         "fields": {
@@ -12777,7 +12777,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 852
+        "pk": 51091
     },
     {
         "fields": {
@@ -12792,7 +12792,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 853
+        "pk": 51092
     },
     {
         "fields": {
@@ -12807,7 +12807,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 854
+        "pk": 51093
     },
     {
         "fields": {
@@ -12822,7 +12822,7 @@
             "state": "TELANGANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 855
+        "pk": 51094
     },
     {
         "fields": {
@@ -12837,7 +12837,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 856
+        "pk": 51095
     },
     {
         "fields": {
@@ -12852,7 +12852,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 857
+        "pk": 51096
     },
     {
         "fields": {
@@ -12867,7 +12867,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 858
+        "pk": 51097
     },
     {
         "fields": {
@@ -12882,7 +12882,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 859
+        "pk": 51098
     },
     {
         "fields": {
@@ -12897,7 +12897,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 860
+        "pk": 51099
     },
     {
         "fields": {
@@ -12912,7 +12912,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 861
+        "pk": 51100
     },
     {
         "fields": {
@@ -12927,7 +12927,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 862
+        "pk": 51101
     },
     {
         "fields": {
@@ -12942,7 +12942,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 863
+        "pk": 51102
     },
     {
         "fields": {
@@ -12957,7 +12957,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 864
+        "pk": 51103
     },
     {
         "fields": {
@@ -12972,7 +12972,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 865
+        "pk": 51104
     },
     {
         "fields": {
@@ -12987,7 +12987,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 866
+        "pk": 51105
     },
     {
         "fields": {
@@ -13002,7 +13002,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 867
+        "pk": 51106
     },
     {
         "fields": {
@@ -13017,7 +13017,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 868
+        "pk": 51107
     },
     {
         "fields": {
@@ -13032,7 +13032,7 @@
             "state": "BIHAR"
         },
         "model": "masterdata.ifsc",
-        "pk": 869
+        "pk": 51108
     },
     {
         "fields": {
@@ -13047,7 +13047,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 870
+        "pk": 51109
     },
     {
         "fields": {
@@ -13062,7 +13062,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 871
+        "pk": 51110
     },
     {
         "fields": {
@@ -13077,7 +13077,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 872
+        "pk": 51111
     },
     {
         "fields": {
@@ -13092,7 +13092,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 873
+        "pk": 51112
     },
     {
         "fields": {
@@ -13107,7 +13107,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 874
+        "pk": 51113
     },
     {
         "fields": {
@@ -13122,7 +13122,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 875
+        "pk": 51114
     },
     {
         "fields": {
@@ -13137,7 +13137,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 876
+        "pk": 51115
     },
     {
         "fields": {
@@ -13152,7 +13152,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 877
+        "pk": 51116
     },
     {
         "fields": {
@@ -13167,7 +13167,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 878
+        "pk": 51117
     },
     {
         "fields": {
@@ -13182,7 +13182,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 879
+        "pk": 51118
     },
     {
         "fields": {
@@ -13197,7 +13197,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 880
+        "pk": 51119
     },
     {
         "fields": {
@@ -13212,7 +13212,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 881
+        "pk": 51120
     },
     {
         "fields": {
@@ -13227,7 +13227,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 882
+        "pk": 51121
     },
     {
         "fields": {
@@ -13242,7 +13242,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 883
+        "pk": 51122
     },
     {
         "fields": {
@@ -13257,7 +13257,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 884
+        "pk": 51123
     },
     {
         "fields": {
@@ -13272,7 +13272,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 885
+        "pk": 51124
     },
     {
         "fields": {
@@ -13287,7 +13287,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 886
+        "pk": 51125
     },
     {
         "fields": {
@@ -13302,7 +13302,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 887
+        "pk": 51126
     },
     {
         "fields": {
@@ -13317,7 +13317,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 888
+        "pk": 51127
     },
     {
         "fields": {
@@ -13332,7 +13332,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 889
+        "pk": 51128
     },
     {
         "fields": {
@@ -13347,7 +13347,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 890
+        "pk": 51129
     },
     {
         "fields": {
@@ -13362,7 +13362,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 891
+        "pk": 51130
     },
     {
         "fields": {
@@ -13377,7 +13377,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 892
+        "pk": 51131
     },
     {
         "fields": {
@@ -13392,7 +13392,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 893
+        "pk": 51132
     },
     {
         "fields": {
@@ -13407,7 +13407,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 894
+        "pk": 51133
     },
     {
         "fields": {
@@ -13422,7 +13422,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 895
+        "pk": 51134
     },
     {
         "fields": {
@@ -13437,7 +13437,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 896
+        "pk": 51135
     },
     {
         "fields": {
@@ -13452,7 +13452,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 897
+        "pk": 51136
     },
     {
         "fields": {
@@ -13467,7 +13467,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 898
+        "pk": 51137
     },
     {
         "fields": {
@@ -13482,7 +13482,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 899
+        "pk": 51138
     },
     {
         "fields": {
@@ -13497,7 +13497,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 900
+        "pk": 51139
     },
     {
         "fields": {
@@ -13512,7 +13512,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 901
+        "pk": 51140
     },
     {
         "fields": {
@@ -13527,7 +13527,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 902
+        "pk": 51141
     },
     {
         "fields": {
@@ -13542,7 +13542,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 903
+        "pk": 51142
     },
     {
         "fields": {
@@ -13557,7 +13557,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 904
+        "pk": 51143
     },
     {
         "fields": {
@@ -13572,7 +13572,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 905
+        "pk": 51144
     },
     {
         "fields": {
@@ -13587,7 +13587,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 906
+        "pk": 51145
     },
     {
         "fields": {
@@ -13602,7 +13602,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 907
+        "pk": 51146
     },
     {
         "fields": {
@@ -13617,7 +13617,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 908
+        "pk": 51147
     },
     {
         "fields": {
@@ -13632,7 +13632,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 909
+        "pk": 51148
     },
     {
         "fields": {
@@ -13647,7 +13647,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 910
+        "pk": 51149
     },
     {
         "fields": {
@@ -13662,7 +13662,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 911
+        "pk": 51150
     },
     {
         "fields": {
@@ -13677,7 +13677,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 912
+        "pk": 51151
     },
     {
         "fields": {
@@ -13692,7 +13692,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 913
+        "pk": 51152
     },
     {
         "fields": {
@@ -13707,7 +13707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 914
+        "pk": 51153
     },
     {
         "fields": {
@@ -13722,7 +13722,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 915
+        "pk": 51154
     },
     {
         "fields": {
@@ -13737,7 +13737,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 916
+        "pk": 51155
     },
     {
         "fields": {
@@ -13752,7 +13752,7 @@
             "state": "PUDUCHERRY"
         },
         "model": "masterdata.ifsc",
-        "pk": 917
+        "pk": 51156
     },
     {
         "fields": {
@@ -13767,7 +13767,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 918
+        "pk": 51157
     },
     {
         "fields": {
@@ -13782,7 +13782,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 919
+        "pk": 51158
     },
     {
         "fields": {
@@ -13797,7 +13797,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 920
+        "pk": 51159
     },
     {
         "fields": {
@@ -13812,7 +13812,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 921
+        "pk": 51160
     },
     {
         "fields": {
@@ -13827,7 +13827,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 922
+        "pk": 51161
     },
     {
         "fields": {
@@ -13842,7 +13842,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 923
+        "pk": 51162
     },
     {
         "fields": {
@@ -13857,7 +13857,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 924
+        "pk": 51163
     },
     {
         "fields": {
@@ -13872,7 +13872,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 925
+        "pk": 51164
     },
     {
         "fields": {
@@ -13887,7 +13887,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 926
+        "pk": 51165
     },
     {
         "fields": {
@@ -13902,7 +13902,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 927
+        "pk": 51166
     },
     {
         "fields": {
@@ -13917,7 +13917,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 928
+        "pk": 51167
     },
     {
         "fields": {
@@ -13932,7 +13932,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 929
+        "pk": 51168
     },
     {
         "fields": {
@@ -13947,7 +13947,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 930
+        "pk": 51169
     },
     {
         "fields": {
@@ -13962,7 +13962,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 931
+        "pk": 51170
     },
     {
         "fields": {
@@ -13977,7 +13977,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 932
+        "pk": 51171
     },
     {
         "fields": {
@@ -13992,7 +13992,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 933
+        "pk": 51172
     },
     {
         "fields": {
@@ -14007,7 +14007,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 934
+        "pk": 51173
     },
     {
         "fields": {
@@ -14022,7 +14022,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 935
+        "pk": 51174
     },
     {
         "fields": {
@@ -14037,7 +14037,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 936
+        "pk": 51175
     },
     {
         "fields": {
@@ -14052,7 +14052,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 937
+        "pk": 51176
     },
     {
         "fields": {
@@ -14067,6 +14067,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 938
+        "pk": 51177
     }
 ]

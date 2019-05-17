@@ -1,0 +1,962 @@
+[
+    {
+        "fields": {
+            "address": "GOKULAM BUILDING,RAM MOHAN ROAD,PUTHIYARA.P.O,KOZHIKODE,PIN 673 004",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000002",
+            "office": "PUTHIYARA",
+            "phone": "2727219",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137657
+    },
+    {
+        "fields": {
+            "address": "CSI BUILDING,BANK ROAD,KOZHIKODE,PIN 673 001",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000003",
+            "office": "CALICUT LADIES",
+            "phone": "2721656",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137658
+    },
+    {
+        "fields": {
+            "address": "HILL VIEW BUILDING,OPP.DENTAL COLLEGE,MEDICAL COLLEGE,KOZHIKODE,PIN 673 008",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MEDICAL COLLEGE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000004",
+            "office": "MEDICAL COLLEGE",
+            "phone": "2355320",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137659
+    },
+    {
+        "fields": {
+            "address": "AYSHA BUILDING,MAVOOR.P.O,KOZHIKODE,PIN 673 661",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MAVOOR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000005",
+            "office": "MAVOOR",
+            "phone": "2883211",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137660
+    },
+    {
+        "fields": {
+            "address": "POOTHERI BUILDING,FEROKE.P.O,PETTA ROAD,KOZHIKODE,PIN 673 631",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "FEROKE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000006",
+            "office": "FEROKE",
+            "phone": "2482680",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137661
+    },
+    {
+        "fields": {
+            "address": "KUNNAMANGALAM.P.O,KOZHIKODE,PIN 673 571",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KUNNAMANGALAM",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000007",
+            "office": "KUNNAMANGALAM",
+            "phone": "2800292",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137662
+    },
+    {
+        "fields": {
+            "address": "SALALA BUILDING,EDODI,VATAKARA,KOZHIKODE,PIN 673 101",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VADAKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000008",
+            "office": "VATAKARA MAIN",
+            "phone": "2522453",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137663
+    },
+    {
+        "fields": {
+            "address": "BROTHERS BUILDING,NEW BUS STAND,VATAKARA,KOZHIKODE,PIN 673 101",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VADAKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000009",
+            "office": "VATAKARA EVENING",
+            "phone": "2522891",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137664
+    },
+    {
+        "fields": {
+            "address": "KAIRALI COMPLEX,KALLACHI.P.O,NADAPURAM VIA,KOZHIKODE,PIN 673 506",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KALLACHI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000010",
+            "office": "NADAPURAM",
+            "phone": "2550276",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137665
+    },
+    {
+        "fields": {
+            "address": "KDC BANK BUILDING,KOYILANDY.P.O,KOZHIKODE,PIN 673 305",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOYILANDY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000011",
+            "office": "KOYILANDY",
+            "phone": "2620258",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137666
+    },
+    {
+        "fields": {
+            "address": "KAIRALI ROAD,BALUSSERY.P.O,KOZHIKODE,PIN 673 612",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "BALUSSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000012",
+            "office": "BALUSSERY",
+            "phone": "2642041",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137667
+    },
+    {
+        "fields": {
+            "address": "ALANKAR ARCADE,I FLOOR,KOZHIKODE ROAD,P.O.PERAMBRA,KOZHIKODE,PIN 673 525",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "PERAMBRA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000013",
+            "office": "PERAMBRA",
+            "phone": "2610253",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137668
+    },
+    {
+        "fields": {
+            "address": "SAFA BUILDINGS,KAVILUMPARA.P.O,KOZHIKODE,PIN 673 113",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "THOTTILPALAM",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000014",
+            "office": "THOTTILPALAM",
+            "phone": "2565846",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137669
+    },
+    {
+        "fields": {
+            "address": "ALANKAR TOWERS,NEAR IOC PETROL PUMP,CHUNGAM,P.O.THAMARASSERY,KOZHIKODE,PIN 673 573",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "THAMARASSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000015",
+            "office": "THAMARASSERY",
+            "phone": "2222251",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137670
+    },
+    {
+        "fields": {
+            "address": "RUBY PLAZA,MALAPARAMBA.P.O,KOZHIKODE,PIN 673 009",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MALAPARAMBA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000016",
+            "office": "MALAPARAMBA",
+            "phone": "2370124",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137671
+    },
+    {
+        "fields": {
+            "address": "THIRUVALLUR.P.O,KOZHIKODE,PIN 673 541",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "THIRUVALLUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000017",
+            "office": "THIRUVALLUR",
+            "phone": "2592046",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137672
+    },
+    {
+        "fields": {
+            "address": "ORKKATTERI.P.O,KOZHIKODE,PIN 673 501",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "ORKKATTERI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000018",
+            "office": "ORKKATTERI",
+            "phone": "2547010",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137673
+    },
+    {
+        "fields": {
+            "address": "NADAKKAVE.P.O,KOZHIKODE,PIN 673 011",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000019",
+            "office": "VELLAYIL",
+            "phone": "2767839",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137674
+    },
+    {
+        "fields": {
+            "address": "N.V.COMPLEX,RAMANATTUKARA.P.O,KOZHIKODE,PIN 673 633",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "RAMANATTUKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000020",
+            "office": "RAMANATTUKARA",
+            "phone": "2440024",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137675
+    },
+    {
+        "fields": {
+            "address": "PRESIDENCY BUILDING,KAKKODI.P.O,KOZHIKODE,PIN 673 611",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KAKKODI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000021",
+            "office": "KAKKODI",
+            "phone": "2265362",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137676
+    },
+    {
+        "fields": {
+            "address": "MELADI.P.O,KOZHIKODE,PIN 673 522",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MELADI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000022",
+            "office": "PAYYOLI",
+            "phone": "2602130",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137677
+    },
+    {
+        "fields": {
+            "address": "JP COMPLEX,NEAR CASHEW CORPORATION P.O.AZHIYUR,KOZHIKODE,PIN 673 309",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "AZHIYUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000023",
+            "office": "AZHIYUR",
+            "phone": "2500498",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137678
+    },
+    {
+        "fields": {
+            "address": "VILLIAPPALLY.P.O,VATAKARA,KOZHIKODE,PIN 673 542",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VILLIAPPALLY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000024",
+            "office": "VILLIAPPALLY",
+            "phone": "2535360",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137679
+    },
+    {
+        "fields": {
+            "address": "SOBHA TOWER,NEAR KALLYAN JWELLERS,MAVOOR ROAD,KOZHIKODE,PIN 673 001",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000025",
+            "office": "MAVOOR ROAD",
+            "phone": "2723871",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137680
+    },
+    {
+        "fields": {
+            "address": "IYYAKKATT BUILDING,WEST NADAKKAVE.P.O,NEAR ENGLISH CHURCH,KOZHIKODE,PIN 673 011",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000026",
+            "office": "NADAKKAVE",
+            "phone": "2369397",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137681
+    },
+    {
+        "fields": {
+            "address": "KOYAPPATHODI BUILDING,CHEROOTTY ROAD,KOZHIKODE,PIN 673 032",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000027",
+            "office": "CHEROOTY ROAD",
+            "phone": "2366201",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137682
+    },
+    {
+        "fields": {
+            "address": "PALAT BUILDING,KALLAI.P.O,NEAR PANNIYANKARA POLICE STATION,PANNIYANKARA,KOZHIKODE,PIN 673 003",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "PANNIYANKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000028",
+            "office": "PANNIYANKARA",
+            "phone": "2320295",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137683
+    },
+    {
+        "fields": {
+            "address": "KOLLOTH BUILDING,GOVINDANALLUR TEMPLE ROAD,P.O.ATHOLI,KOZHIKODE,PIN 673 315",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "ATHOLI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000029",
+            "office": "ATHOLI",
+            "phone": "2672203",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137684
+    },
+    {
+        "fields": {
+            "address": "GOKULAM TOWER,I FLOOR,QUEENS ROAD,VATAKARA,KOZHIKODE,PIN 673 101",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VADAKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000030",
+            "office": "VATAKARA CONVENT ROAD",
+            "phone": "2525153",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137685
+    },
+    {
+        "fields": {
+            "address": "VALLIKKA BUILDING,WEST HILL.P.O,KOZHIKODE,PIN 673 005",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "WESTHILL",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000031",
+            "office": "WESTHILL",
+            "phone": "2381908",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137686
+    },
+    {
+        "fields": {
+            "address": "POKKUNNU.P.O,KOZHIKODE,PIN 673 007",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KINASSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000032",
+            "office": "KINASSERY",
+            "phone": "2331583",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137687
+    },
+    {
+        "fields": {
+            "address": "AYANCHERI.P.O,KOZHIKODE,PIN 673 544",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "AYANCHERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000033",
+            "office": "AYANCHERY",
+            "phone": "2592149",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137688
+    },
+    {
+        "fields": {
+            "address": "THEKKEKARA BUILDING,MARUTHONKARA ROAD,KUTTIATY,KOZHIKODE,PIN 673 508",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KUTTIADY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000034",
+            "office": "KUTTIADY",
+            "phone": "2597491",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137689
+    },
+    {
+        "fields": {
+            "address": "AISWARYA COMPLEX,MUKKAM,KOZHIKODE,PIN 673 601",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MUKKAM",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000036",
+            "office": "MUKKAM",
+            "phone": "2298682",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137690
+    },
+    {
+        "fields": {
+            "address": "MANTHARATHUR.P.O,KOZHIKODE,PIN 673 105",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MANIYUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000037",
+            "office": "MANIYUR",
+            "phone": "2536696",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137691
+    },
+    {
+        "fields": {
+            "address": "KDC BANK BUILDING,CHALAPPURAM.P.O,KOZHIKODE,PIN 673 002",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000038",
+            "office": "KALLAI ROAD EVENING",
+            "phone": "2300030",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137692
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD BALUSSERY,BALUSSERY.P.O,KOZHIKODE,PIN 673 612",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "BALUSSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000039",
+            "office": "BALUSSERY EVENING",
+            "phone": "2641441",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137693
+    },
+    {
+        "fields": {
+            "address": "PANTHEERANKAVE.P.O,KOZHIKODE,PIN 673 019",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "PANTHEERANKAVE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000040",
+            "office": "PANTHEERANKAVE",
+            "phone": "2435180",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137694
+    },
+    {
+        "fields": {
+            "address": "UPERA S BUILDINGS,NARIKKUNI,KOZHIKODE,PIN 673585",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "NARIKKUNI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000041",
+            "office": "NARIKKUNI",
+            "phone": "2246577",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137695
+    },
+    {
+        "fields": {
+            "address": "T.K TRADE CENTRE,MEPPAYUR,KOZHIKODE,PIN 673 523",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MEPPAYUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000042",
+            "office": "MEPPAYUR",
+            "phone": "2678655",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137696
+    },
+    {
+        "fields": {
+            "address": "CPM COMPLEX,ARAKKINAR.P.O,KOZHIKODE,PIN 673 028",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "ARAKKINAR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000043",
+            "office": "BEYPURE",
+            "phone": "2418580",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137697
+    },
+    {
+        "fields": {
+            "address": "RANIYA COMPLEX,NADUVANNUR.P.O,KOZHIKODE,PIN 673 614",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "NADUVANNUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000044",
+            "office": "NADUVANNUR",
+            "phone": "2654242",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137698
+    },
+    {
+        "fields": {
+            "address": "C.P.K COMPLEX,MOKERI.P.O,KOZHIKODE,PIN 673 507",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MOKERI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000045",
+            "office": "MOKERI",
+            "phone": "2588900",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137699
+    },
+    {
+        "fields": {
+            "address": "KARATTE BUILDING,I FLOOR,NEAR THRIVENI SUPER MARKET,KODUVALLY.P.O,KOZHIKODE,PIN 673 572",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KODUVALLY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000046",
+            "office": "KODUVALLY",
+            "phone": "2210209",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137700
+    },
+    {
+        "fields": {
+            "address": "HAPPY COMPLEX,I FLOOR,TIPPU SULTHAN ROAD,PARAKKADAVU.P.O,KOZHIKODE,PIN 673 509",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "PARAKKADAVU",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000047",
+            "office": "PARAKKADAVU",
+            "phone": "2571242",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137701
+    },
+    {
+        "fields": {
+            "address": "ALANKAR ARCADE,I FLOOR,KOZHIKODE ROAD,P.O.PERAMBRA,KOZHIKODE,PIN 673 525",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "PERAMBRA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000048",
+            "office": "PERAMBRA EVENING",
+            "phone": "2610222",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137702
+    },
+    {
+        "fields": {
+            "address": "LEELA COMPLEX,PUTHIYANIRATH,PUTHIYA NIRATH,ELATHUR,KOZHIKODE,PIN 673 303",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "ELATHUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000049",
+            "office": "ELATHUR",
+            "phone": "2460062",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137703
+    },
+    {
+        "fields": {
+            "address": "10/538,NELLIPOYIL ROAD,P.O.KODENCHERY,KOZHIKODE,PIN 673 580",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KODENCHERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000050",
+            "office": "KODENCHERY",
+            "phone": "2237755",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137704
+    },
+    {
+        "fields": {
+            "address": "KDC BANK BUILDING,KALLAI ROAD,CHALAPPURAM.P.O,KOZHIKODE,PIN 673 002",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000051",
+            "office": "SERVICE BRANCH",
+            "phone": "2705121",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137705
+    },
+    {
+        "fields": {
+            "address": "K.J.ARCADE,NEW BUS STAND,KOYILANDY,KOZHIKODE,PIN 673 305",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOYILANDY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000052",
+            "office": "KOYILANDY EVENING",
+            "phone": "2622687",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137706
+    },
+    {
+        "fields": {
+            "address": "MISHARIYA BUILDING,CHERUVANNUR,KOZHIKODE,PIN 673 631",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "CHERUVANNUR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000053",
+            "office": "CHERUVANNUR",
+            "phone": "2483020",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137707
+    },
+    {
+        "fields": {
+            "address": "THIRUVAMBADI BRANCH,NO.TP 3/875J1,KCJ SHOPING COMPLEX,CHURCH ROAD,THIRUVAMBADI,KOZHIKODE,PIN 673 603",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "THIRUVAMBADI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000054",
+            "office": "THIRUVAMBADI",
+            "phone": "2252822",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137708
+    },
+    {
+        "fields": {
+            "address": "MERRC,VPPLZ,USTDUILDIG,MER,KOZIKODE,PI673572",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "OMASSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000055",
+            "office": "OMASSERY",
+            "phone": "2282066",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137709
+    },
+    {
+        "fields": {
+            "address": "NO.10/17,VELLIMADUKUNNU.P.O,KOZHIKODE,PIN 673 012",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VELLIMADUKUNNU",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000056",
+            "office": "VELLIMADUKUNNU",
+            "phone": "2731122",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137710
+    },
+    {
+        "fields": {
+            "address": "PALACE ARCHADE,KOVILAKAM ROAD,P.O.MANAKAVE,KOZHIKODE,PIN 673 007",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "MANKAVE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000057",
+            "office": "MANKAVE",
+            "phone": "2333032",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137711
+    },
+    {
+        "fields": {
+            "address": "MOYILOTH BUILDING,MOYILOTH MUKKU,P.O.NADAPURAM,KOZHIKODE,PIN 673 504",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "NADAPURAM",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000058",
+            "office": "NADAPURAM TOWN",
+            "phone": "2553376",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137712
+    },
+    {
+        "fields": {
+            "address": "EMPIRE BUILDING,NEAR SUB.REGISTRAR OFFICE,P.O.KAKKATTIL,KOZHIKODE,PIN 673 507",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KAKKATTIL",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000059",
+            "office": "KAKKATTIL",
+            "phone": "2446010",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137713
+    },
+    {
+        "fields": {
+            "address": "LAKSHMI COMPLEX,OPP.ULLIYERI COMMUNITY HALL,ULLIYERITHAMARASSERY ROAD,P.O.ULLIYERI,KOZHIKODE,PIN 673 323",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "ULLIYERI",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000060",
+            "office": "ULLIYERI",
+            "phone": "2650855",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137714
+    },
+    {
+        "fields": {
+            "address": "SREEHARI BUILDING,VEELINE PUBLIC SCHOOL,P.O.KUTTIKKATTOOR,KOZHIKODE,PIN 673008",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KUTTIKKATTOOR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000061",
+            "office": "KUTTIKKATTOOR",
+            "phone": "2352341",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137715
+    },
+    {
+        "fields": {
+            "address": "ANAPPARA BUILDING,THAMARASSERYKOYILANDY ROAD,UNNIKULAM.P.O,PIN 673574",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "POONOOR",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000062",
+            "office": "POONOOR",
+            "phone": "2645584",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137716
+    },
+    {
+        "fields": {
+            "address": "KUPPAYAKKODE KSHEERA SAHAKARANA SANGAM BUILDING,EENGAPPUZHA,PUTHUPPADI.P.O,PIN673586",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "EENGAPPUZHA",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000063",
+            "office": "PUTHUPPADI",
+            "phone": "2235877",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137717
+    },
+    {
+        "fields": {
+            "address": "K.P.COMPLEX,NEAR VANIMEL GRAMA PANCHAYATH OFFICE,VANIMELVILANGAD ROAD,KODIYOORA P.O,PIN 673506",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "VANIMEL",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0000064",
+            "office": "VANIMEL",
+            "phone": "2562400",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137718
+    },
+    {
+        "fields": {
+            "address": "HEAD OFFICE,KALLAI ROAD,CHALAPPURAM.P.O,KOZHIKODE,PIN -673 002",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0110000",
+            "office": "HEAD OFFICE BRANCH",
+            "phone": "2705414",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137719
+    },
+    {
+        "fields": {
+            "address": "KALLAI ROAD, CHALAPPURAM.P.O, KOZHIKODE,PIN 673002",
+            "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "KDCB0110001",
+            "office": "CALICUT MAIN",
+            "phone": "2702903",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137720
+    }
+]

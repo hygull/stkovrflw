@@ -1,0 +1,92 @@
+[
+    {
+        "fields": {
+            "address": "BENACHITY HOUSE DURGAPUR 713204",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000001",
+            "office": "BRANCH",
+            "phone": "2570593",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125638
+    },
+    {
+        "fields": {
+            "address": "BENACHTY HOUSE DURGAPUR",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000002",
+            "office": "MAIN BRANCH",
+            "phone": "2570593",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125639
+    },
+    {
+        "fields": {
+            "address": "DURGAPUR STEEL PLANT DURGAPUR",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000003",
+            "office": "PLANT BRANCH",
+            "phone": "2597073",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125640
+    },
+    {
+        "fields": {
+            "address": "50 KALIDAS ROAD B ZONE 713205",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000004",
+            "office": "CHANDIDAS BRANCH",
+            "phone": "2605452",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125641
+    },
+    {
+        "fields": {
+            "address": "YURIGAGARIN PATH MRITYUNJOY HOUSING COMPLEX",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000005",
+            "office": "MUCHIPARA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125642
+    },
+    {
+        "fields": {
+            "address": "FULJHORE DURGAPUR",
+            "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DURGAPUR",
+            "district": "PASCHIM BARDHAMAN",
+            "ifsc": "DURG0000006",
+            "office": "FULJHORE",
+            "phone": "2500004",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 125643
+    }
+]

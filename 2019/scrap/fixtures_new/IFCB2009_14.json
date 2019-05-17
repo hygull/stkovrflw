@@ -1,0 +1,992 @@
+[
+    {
+        "fields": {
+            "address": "HEAD OFFICE, CATHOLIC BANK BUILDING,PAPDY NAKA.VASAI-401207",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000001",
+            "office": "RTGS-HO",
+            "phone": "23224941",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1040
+    },
+    {
+        "fields": {
+            "address": "SAROVAR, 'B' BUILDING, PAPDY, POST : PAPDY, TAL:VASAI, DIST : THANE, 401 207",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAPDI",
+            "district": "THANE",
+            "ifsc": "BACB0000003",
+            "office": "PAPDY",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1041
+    },
+    {
+        "fields": {
+            "address": "BANGLI, SANDOR, POST : VASAI, TAL: VASAI, DIST: THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000004",
+            "office": "BANGLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1042
+    },
+    {
+        "fields": {
+            "address": "HOLI BAZAR, PAN-KELA MARKET, TAL & P.O. VASAI, DIST : THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000005",
+            "office": "HOLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1043
+    },
+    {
+        "fields": {
+            "address": "LAWRENCE SHOPPING CENTRE,NAVGHAR, P.O.VASAI ROAD,TAL : VASAI, DIST : THANE, 401 202",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANICKPUR",
+            "district": "THANE",
+            "ifsc": "BACB0000006",
+            "office": "MANICKPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1044
+    },
+    {
+        "fields": {
+            "address": "NEAR NANDAKHAL CHURCH,NANDAKHAL, P.O. AGASHI, TAL: VASAI, DIST: THANE, 401 301",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000007",
+            "office": "NANDAKHAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1045
+    },
+    {
+        "fields": {
+            "address": "NIRMAL NAKA,POST NIRMAL, TAL. VASAI,DIST .THANE, PIN-401304",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NIRMAL",
+            "district": "THANE",
+            "ifsc": "BACB0000008",
+            "office": "NIRMAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1046
+    },
+    {
+        "fields": {
+            "address": "FRENCY ARCADE,SAMELPADA,UMRALE,POST:SOPARA, NALLASOPARA(W), TAL:VASAI, 401 203",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000009",
+            "office": "UMRALE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1047
+    },
+    {
+        "fields": {
+            "address": "SUVARTA SADAN, NEAR FISH MARKET, AGASHI, POST- AGASHI, TAL. VASAI, DIST- THANE,PIN-401301",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000010",
+            "office": "AGASHI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1048
+    },
+    {
+        "fields": {
+            "address": "KOLAMBEKAR PARK,'B' BLDG.,NEAR NAIGAON STATION,POST:PAPDY,TAL:VASAI,DIST:THANE, 401 207",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000011",
+            "office": "NAIGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1049
+    },
+    {
+        "fields": {
+            "address": "ROSEBEN ENCLAVE, FIRST FLOOR, STATION ROAD, BHAYANDER(W), 401 105",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000012",
+            "office": "BHAYANDER",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1050
+    },
+    {
+        "fields": {
+            "address": "MINAZ SHOPPING CENTER',UTTAN NAKA, VIA - BHAYANDER, DIST.THANE - 401 106",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000013",
+            "office": "UTTAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1051
+    },
+    {
+        "fields": {
+            "address": "SHEETAL SAROVAR, SHEETAL NAGAR, NEAR MIRA ROAD TEL. EXCHANGE, MIRA ROAD(E), DIST:THANE, 401 107",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000014",
+            "office": "MIRA RD.",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1052
+    },
+    {
+        "fields": {
+            "address": "MOTISHA BHAVAN, NEAR DEEMPAL, ZENDABAZAR, TAL : VASAI, DIST : THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000015",
+            "office": "ZENDA BAZAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1053
+    },
+    {
+        "fields": {
+            "address": "SUVRAT CO-OPERATIVE HOUSING SOCIETY LTD, SUVRAT APARTMENT, 1ST FLOOR, NEAR JAIN TEMPLE, BHAWANI CHOWK,TEMBHI NAKA, THANE-401601",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BACB0000016",
+            "office": "THANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1054
+    },
+    {
+        "fields": {
+            "address": "SAI KIRAN BUILDING , NARAYAN NAGAR, NALLASOPARA(E), TAL.VASAI, DIST - THANE, PIN CODE-401209",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "THANE",
+            "ifsc": "BACB0000017",
+            "office": "NALLASOPARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1055
+    },
+    {
+        "fields": {
+            "address": "GOKHIVARE NAKA, POST : GOKHIVARE, TAL :VASAI, DIST : THANE, 401 208",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOKHIVARE",
+            "district": "THANE",
+            "ifsc": "BACB0000018",
+            "office": "GOKHIVARE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1056
+    },
+    {
+        "fields": {
+            "address": "NEAR POLICE STATION, POST : VIRAR (E), TAL: VASAI, 401 305",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "THANE",
+            "ifsc": "BACB0000019",
+            "office": "VIRAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1057
+    },
+    {
+        "fields": {
+            "address": "SAHAKAR BHAVAN, MADINAKA, MERCES, TAL & POST : VASAI, DIST : THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000020",
+            "office": "MADINAKA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1058
+    },
+    {
+        "fields": {
+            "address": "ST. GONSALO GARCIA SCHOOL BUILDING, GASS, POST : SOPARA, TAL : VASAI, DIST : THANE, 401 203",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000021",
+            "office": "GASS",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1059
+    },
+    {
+        "fields": {
+            "address": "ST. PAUL CHURCH BUILDING, NANBHAT, POST: SOPARA, TAL : VASAI, DIST : THANE, 401 203",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000022",
+            "office": "NANBHAT",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1060
+    },
+    {
+        "fields": {
+            "address": "GIRIZ CHURCH SCHOOL COMPOUND, GIRIZ, TAL & POST : VASAI, DIST : THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000023",
+            "office": "GIRIZ",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1061
+    },
+    {
+        "fields": {
+            "address": "BHUIGAON CHURCH SCHOOL COMPOUND, BHUIGAON, TAL & POST : VASAI, DIST : THANE, 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000024",
+            "office": "BHUIGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1062
+    },
+    {
+        "fields": {
+            "address": "ST. PETER SCHOOL, ARNALA, TAL.VASAI, DIST .THANE , PIN-401302",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ARNALA",
+            "district": "THANE",
+            "ifsc": "BACB0000025",
+            "office": "ARNALA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1063
+    },
+    {
+        "fields": {
+            "address": "KOSHYA APPARTMENT, BAMANPURI ROAD, OPP. GREATER BOMBAY BANK LTD., J. B. NAGAR, MAROL, ANDHERI (E), MUMBAI - 400059",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BACB0000026",
+            "office": "MAROL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1064
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.6, GROUND FLOOR, SHRI SAI PRASAD CO-OP HSG. SOCIETY LTD. , PLOT NO.63, SECTOR 14, VASHI, NAVI MUMBAI 400 073",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "BACB0000027",
+            "office": "VASHI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1065
+    },
+    {
+        "fields": {
+            "address": "VISHWAGANGA CO OP HSG. SOC. LTD.,GROUND FLOOR,MANDAPESHWAR ROAD,OPP BHAGWATI HOSPITAL, BORIVALI (W), MUMBAI-400092",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BACB0000028",
+            "office": "BORIVALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1066
+    },
+    {
+        "fields": {
+            "address": "HERITAGE GROTTO, GROUND FLOOR, OPP. ORLEM CHURCH, MARVE ROAD, ORLEM, MALAD (W), MUMBAI- 400 064",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BACB0000029",
+            "office": "MALAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1067
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.6 TO 10, REGENCY AVENUE, NEAR SYNDICATE BUS STOP, SANTOSHI MATA ROAD, KALYAN WEST 401 301",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "BACB0000030",
+            "office": "KALYAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1068
+    },
+    {
+        "fields": {
+            "address": "PHARMA WORLD,NOOR SHAH COMMERCIAL CENTER, C.T.S. NO.207/208 OF 200, BESIDE JAIBUN TOWER, KASHIMIRA,MIRA ROAD (E), DIST. THANE 401107",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KASHIMIRA",
+            "district": "THANE",
+            "ifsc": "BACB0000031",
+            "office": "KASHIMIRA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1069
+    },
+    {
+        "fields": {
+            "address": "CRYSTAL PLAZA,GROUND FLOOR, NEAR KALINA MARKET,KALINA VILLAGE,SANTACRUZ EAST, MUMBAI 400 029",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "BACB0000032",
+            "office": "SANTACRUZ KALINA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1070
+    },
+    {
+        "fields": {
+            "address": "ST.MARY MAGDALENE HIGH SCHOOL, NEAR MULGAON CHURCH, MULGAON, VASAI WEST- 401 201",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000033",
+            "office": "EXTENSION COUNTER-MULGAON, VASAI WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1071
+    },
+    {
+        "fields": {
+            "address": "PRATHAMESH PLAZA,OPP. PREMIUM PARK, AGASHI ROAD, BOLINJ, VIRAR (WEST) - 401 303",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "THANE",
+            "ifsc": "BACB0000034",
+            "office": "VIRAR (WEST)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1072
+    },
+    {
+        "fields": {
+            "address": "RASHMI STAR CITY, PHASE I, BUILDING A-12, SHOP NO. 5,6,7,8, JUCHANDRA ROAD, NAIGAON (EAST) - 401 208",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "BACB0000035",
+            "office": "NAIGAON (EAST)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1073
+    },
+    {
+        "fields": {
+            "address": "PRAGATI NAGAR, A WING, GROUND FLOOR,SHOP NO. 10,11,12, KHUDUS, WADA, TALUKA WADA, DIST-THANE 431 312",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "WADA",
+            "district": "THANE",
+            "ifsc": "BACB0000036",
+            "office": "WADA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1074
+    },
+    {
+        "fields": {
+            "address": "SOHAM COMMERCIAL PLAZA, GROUND FLOOR, SHOP NO. 10,11 AND 13, NEAR VASAI ROAD RAILWAY STATION, NAVGHAR ROAD, VASAI EAST, DIST. PALGHAR 401210",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000037",
+            "office": "NAVGHAR ROAD VASAI EAST",
+            "phone": "7719046600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1075
+    },
+    {
+        "fields": {
+            "address": "RADHA CHANDRA HERITAGE, TANDULWADI ROAD, NEAR MSEB OFFICE, SAPHALE EAST, TAL. PALGHAR, DIST. PALGHAR 401102",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SAPHALE",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000038",
+            "office": "SAPHALE EAST",
+            "phone": "7719048800",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1076
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, 2 AND 3, CITY POINT, NEAR PANCHBATTI, KACHERI ROAD, PALGHAR WEST, DIST. PALGHAR, 401404",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000039",
+            "office": "PALGHAR WEST",
+            "phone": "7719049900",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1077
+    },
+    {
+        "fields": {
+            "address": "KUMAR CORNER, 103,104,105,106 AND 107, MAIN ROAD, DAHANU ROAD, TAL. DAHANU, DIST. PALGHAR, 401602",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000040",
+            "office": "DAHANU WEST",
+            "phone": "7719045500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1078
+    },
+    {
+        "fields": {
+            "address": "GALA NO. 1 AND 2, S. NO. 161,H. NO. 1 (PART), KAMAN NAKA, VILLAGE KAMAN, TAL. VASAI, DIST. PALGHAR 401 208",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000041",
+            "office": "KAMAN",
+            "phone": "7719867444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1079
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 7 AND 8, SAI TOWER CHS LTD., D WING, AMBADI ROAD, POST-VASAI ROAD(WEST), TAL. VASAI, DIST. PALGHAR 401 202",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000042",
+            "office": "AMBADI ROAD",
+            "phone": "7719872444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1080
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 49, GROUND FLOOR, BUILDING NO. 5, AGARWAL NAGRI, NEW LINK ROAD, NALLASOPARA(EAST), TAL. VASAI, DIST. PALGHAR 401 208",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000043",
+            "office": "NALLASOPARA EAST NEW LINK ROAD",
+            "phone": "7719870444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1081
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 12 TO 15, GALA NO. G-1/B, RICHMOND TOWN, PHASE-2, BUILDING NO. 4, BHABOLA, TAL. VASAI, DIST. PALGHAR 401 202",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000044",
+            "office": "BHABOLA",
+            "phone": "7719869444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1082
+    },
+    {
+        "fields": {
+            "address": "GALA NO. 1, GROUND FLOOR, LOTUS APARTMENT, SRI PRASTHA COMPLEX, NALLASOPARA WEST, TAL. VASAI, DIST. PALGHAR 401 203",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000045",
+            "office": "NALLASOPARA WEST",
+            "phone": "7719871444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1083
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, MINI MARKET CO-OPERATIVE HOUSING SOCIETY LTD, B. P. ROAD, BHAYANDER EAST, DIST. THANE 401 105",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAYANDER",
+            "district": "THANE",
+            "ifsc": "BACB0000046",
+            "office": "BHAYANDER EAST",
+            "phone": "7719873444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1084
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, GROUND FLOOR, VIJAY GALAXY, KAVESAR ROAD, GHODBUNDER, WAGHBIL, VIJAY NAGAR, THANE 400 607",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "BACB0000047",
+            "office": "GHODBUNDER BRANCH",
+            "phone": "7888029950",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1085
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 786, GROUND FLOOR, NATIONAL HIGHWAY NO. 8, S. NO. 26B, TALASARI NAKA, TAL. TALASARI, DIST. PALGHAR 401 606",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TALASARI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000048",
+            "office": "TALASARI BRANCH",
+            "phone": "7888029951",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1086
+    },
+    {
+        "fields": {
+            "address": "COMMERCIAL GALA NO.1,GROUND FLOOR, ANGEL BUSINESS CENTRE, VILLAGE WALIV,SATIVALI, TAL. VASAI, DIST. PALGHAR 401 208",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000049",
+            "office": "SATIVALI BRANCH",
+            "phone": "7888029952",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1087
+    },
+    {
+        "fields": {
+            "address": "KELWA ROAD (WEST), GRAMPANCHAYAT VAKSAI, TALATHI SAJA KELWA ROAD, POST KELVE, TAL.PALGHAR 401 401",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KELVE",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000050",
+            "office": "KELVE BRANCH",
+            "phone": "7888029955",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1088
+    },
+    {
+        "fields": {
+            "address": "D/22, ROCK ENCLAVE CHSL, OPP. JOY ICE CREAM, NEAR HINDUSTAN NAKA, KANDIVALI WEST, MUMBAI 400 067",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BACB0000051",
+            "office": "CHARKOP KANDIVALI BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1089
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, GR AND FIRST FLOOR, TURNER HEIGHTS, BANDRA WEST, MUMBAI 400 050",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BACB0000052",
+            "office": "BANDRA WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1090
+    },
+    {
+        "fields": {
+            "address": "GALA NO. 3, KONARK ARCADE BUILDING, NIJAMPUR, BHIWANDI, DIST THANE 421 302",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "BACB0000053",
+            "office": "BHIWANDI BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1091
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1/15, GR FLOOR, MAKWANA COMPLEX, VEER SAVARKAR MARG, CHANDANSAR ROAD, VIRAR EAST 401 305",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR EAST",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000054",
+            "office": "CHANDANSAR VIRAR BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1092
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.9,FLAT NO. 2, AVISHKAR BUILDING, NO.C-1/A,C-1/B, GR. GLOOR, DAHISAR WEST, MUMBAI 400 068",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BACB0000055",
+            "office": "DAHISAR WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1093
+    },
+    {
+        "fields": {
+            "address": "ST. JOSEPH CHURCH,UMRALE CAMPUS,UMRALE,NALLASOPARA WEST,TAL.VASAI,DIST. PALGHAR 401 203",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NALLASOPARA WEST",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000057",
+            "office": "ST. JOSEPH EXTENSION COUNTER",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1094
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.7,8, GROUND FLOOR, SHREE SAI PRABHADEVI CHS NX., KASHINATH DHRUV ROAD, AGAR BAZAR, DADAR WEST, MUMBAI 400 028",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DADAR WEST",
+            "district": "GREATER BOMBAY",
+            "ifsc": "BACB0000059",
+            "office": "DADAR WEST BRANCH",
+            "phone": "7447417163",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1095
+    },
+    {
+        "fields": {
+            "address": "RAM NIWAS,SHOP NO.1,RHB ROAD,MULUND WEST,MUMBAI 400 080",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BACB0000060",
+            "office": "MULUND WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1096
+    },
+    {
+        "fields": {
+            "address": "LEONA RESIDENCY, SHOP NO. 1 AND 2,OPP. ROSE NAGAR,PALLI, NAIGAON WEST, VASAI,401 207",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAIGAON WEST",
+            "district": "PALGHAR",
+            "ifsc": "BACB0000061",
+            "office": "PALLI NAIGAON WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1097
+    },
+    {
+        "fields": {
+            "address": "OSTWAL EMPIRE, OPP. S.T BUS DEPOT, BOISAR (W)",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BOISAR",
+            "district": "THANE",
+            "ifsc": "BACB0000102",
+            "office": "BOISAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1098
+    },
+    {
+        "fields": {
+            "address": "JAI GANESH VISION B BUILDING, FAME GANESH MULTIPLEX, AKURDI, PUNE 411035",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BACB0000111",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1099
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO. B, C WING, KPCT MEGHA COMMERCIAL COMPLEX, FATIMANAGAR, WANAVADI, PUNE - 411 013",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "FATIMA NAGAR",
+            "district": "PUNE",
+            "ifsc": "BACB0000112",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1100
+    },
+    {
+        "fields": {
+            "address": "GAT NO. 2427 OLD,481 NEW,ARYAA PRISM COMMERCIAL COMPLEX,SHOP NO. 2A,2B AND 5, CHAKAN TALEGAON ROAD,CHAKAN, TAL.KHED,DIST. PUNE 410 501",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BACB0000113",
+            "office": "CHAKAN BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1101
+    },
+    {
+        "fields": {
+            "address": "SK OPEN MALL, NEXT TO BYK COLLEGE, COLLEGE RD, NASIK 422 005",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASIK",
+            "ifsc": "BACB0000121",
+            "office": "NASIK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1102
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 3,4,5 DESHMUKH BHAVAN, JAIL ROAD, NEAR TALATHI OFFICE, NASHIK ROAD 422101",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "BACB0000122",
+            "office": "NASHIK ROAD BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1103
+    },
+    {
+        "fields": {
+            "address": "COMMERCIAL OFFICE NO. 101,109 AND 110, FIRST FLOOR, SAI MIDAS TOUCH, T. P. SCHEME NO. 4, SAVEDI ROAD, AHMEDNAGAR 414003",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "BACB0000123",
+            "office": "AHMEDNAGAR BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1104
+    },
+    {
+        "fields": {
+            "address": "MARUTI COMPLEX,SAINATH NAGAR,NEAR JOGGING TRACK,PATHARDI ROAD,NASHIK,422 009",
+            "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "BACB0000124",
+            "office": "SAINATH NAGAR NASHIK BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 1105
+    }
+]

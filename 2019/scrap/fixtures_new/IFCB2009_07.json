@@ -1,0 +1,62 @@
+[
+    {
+        "fields": {
+            "address": "225,JOLLY MAKERS CHAMBERS II,NARIMAN POINT,MUMBAI",
+            "bank_name": "BANK OF BAHARAIN AND KUWAIT BSC",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BBKM0000001",
+            "office": "RTGS-HO",
+            "phone": "22823698",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16273
+    },
+    {
+        "fields": {
+            "address": "6 3 550,AKASHGANGA,SOMAJIGUDA,HYDERABAD 500082",
+            "bank_name": "BANK OF BAHARAIN AND KUWAIT BSC",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "BBKM0000003",
+            "office": "HYDERABAD",
+            "phone": "23305859",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16274
+    },
+    {
+        "fields": {
+            "address": "HOTEL SUNNY S BUILDING NO 19 BY 1 2 RE S.N0 26 AND 81,NH 47,DIST ERNAKULAM,KERALA",
+            "bank_name": "BANK OF BAHARAIN AND KUWAIT BSC",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "BBKM0000004",
+            "office": "ALUVA",
+            "phone": "4037437",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16275
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 3 & 4 ,GROUND FLR,EROS CORPORATE TOWER,OPP NEHRU PLACE METRO STATION,NEHRU PLACE,NEW DELHI,PIN CODE -110019",
+            "bank_name": "BANK OF BAHARAIN AND KUWAIT BSC",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "BBKM0000005",
+            "office": "NEW DELHI",
+            "phone": "9322571002",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16276
+    }
+]

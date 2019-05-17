@@ -1,0 +1,677 @@
+[
+    {
+        "fields": {
+            "address": "15-7-241/1, YADAV TOWERS BEGUM BAZAR HYD 500012",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000002",
+            "office": "BEGUM BAZAR",
+            "phone": "23437131",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "3-66, SHOBHANA COMPLEX BALANAGAR HYD -37",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "RANGA REDDY",
+            "ifsc": "APMC0000003",
+            "office": "BALANAGAR",
+            "phone": "23770307",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "6-1-1060 HAFEZ COMPLEX SAIFABAD HYD - 500004",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000004",
+            "office": "KHAIRTABAD",
+            "phone": "23431801",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "18-4-568 MAIN ROAD SHAMSHEER GUNJ HYD - 253",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000005",
+            "office": "SHAMSHEER GUNJ",
+            "phone": "23437110",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "4-3-339 BANK STREET SULTAN BAZAR HYD-500095",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000006",
+            "office": "SULTAN BAZAR",
+            "phone": "23437151",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "2-2-57/19  MG ROAD SECUNDERABAD -500003",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000007",
+            "office": "MG ROAD",
+            "phone": "23437139",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "3-6-276/2 OLD MLA QUARTERS HNGR HYD - 500029",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000008",
+            "office": "HIMAYATNAGAR",
+            "phone": "23431804",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "50-20-1&2 MAIN ROAD SERILINGAMPALLY HYD -500138",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "RANGA REDDY",
+            "ifsc": "APMC0000009",
+            "office": "SERILINGAMPALLY",
+            "phone": "23437130",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "3-4-4 KACHIGUDA STATION ROAD HYD -500027",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000010",
+            "office": "KACHIGUDA",
+            "phone": "23437144",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "15-9-363 TO 367 SIDDIAMBER BAZAR HYD-500012",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000011",
+            "office": "SIDDIAMBER BAZAR",
+            "phone": "23437150",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "PLOT 3 RAMANTHAPUR HYDERABAD - 500013",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000012",
+            "office": "RAMANTHAPUR",
+            "phone": "23437137",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "7-1-753 MONDA MARKET HYDERABAD -500003",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000013",
+            "office": "MONDA MARKET",
+            "phone": "23437136",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "18-97/1 RAJINIGANDHA APPT CHAITANYAPURI DSNR  - 60",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "RANGA REDDY",
+            "ifsc": "APMC0000014",
+            "office": "DILSUKHNAGAR",
+            "phone": "23437133",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "PLOT  102 SRI KRUPA MARKET  MAHABOOB MANSION MALAKPET -500036",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000015",
+            "office": "MALAKPET",
+            "phone": "23437135",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "12-2-831/86 MEHDIPATNAM COLONY HYD - 500028",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000016",
+            "office": "MEHDIPATNAM,",
+            "phone": "23431803",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "III FLOOR RIKAB GUNJ CHARMINAR HYD-500002",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000017",
+            "office": "CHARMINAR",
+            "phone": "23437132",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "6-3-850/1 AMEERPET SIRISHA PLAZA HYD-500016",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000018",
+            "office": "AMEERPET",
+            "phone": "23431811",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "5-32-3 OPP MUNICIPAL OFF  MALKAJGIRI HYD - 5000036",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000019",
+            "office": "MALAKAJGIRI",
+            "phone": "27050754",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "1-8-518/19/A CHIKKAD PALLY HYD -500020",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000020",
+            "office": "RTC CROSS ROADS",
+            "phone": "23437138",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "22-276/1 &2 BHAGYANAGAR COOP HOUSING SOCIETY KUKATPALLY 500072",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "RANGA REDDY",
+            "ifsc": "APMC0000021",
+            "office": "KUKATPALLY",
+            "phone": "23061578",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "10-1-624 SHENOY NURSING HOME WMARDPALLY SEC- 500026",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000022",
+            "office": "WEST MAREDPALLY",
+            "phone": "23437162",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "PLOT 1/D STREET 3 HABSIGUDA TARNAKA HYD-500007",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000023",
+            "office": "TARNAKA",
+            "phone": "23437152",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "1-15-1/3 BESIDE WATER TANK  AS RAO NAGAR HYD -500062",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000024",
+            "office": "AS ROA NAGAR",
+            "phone": "23437104",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "6-2-690 LB NAGAR CIRCLE  VANASTALIPURAM  HYD - 500070",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000025",
+            "office": "VANASTALIPURAM",
+            "phone": "23437124",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "PLOT 12 OPP  RELEIANCE FRESH KARKHANA SEC -500009",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000026",
+            "office": "KARKHANA",
+            "phone": "23437126",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "DOOR 13-1-116/116/A KUKATPALLY CIRCLE MOTINAGAR HYD -500018",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000027",
+            "office": "MOTINAGAR",
+            "phone": "23431816",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "8-2-293/K KAMALAPURI COLONY KRISHNA NAGAR HYD - 500073",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000028",
+            "office": "BANJARA HILLS",
+            "phone": "23334029",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "3-4-174/7/2 ATTAPUR HYD - 500048",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000029",
+            "office": "ATTAPUR",
+            "phone": "24012057",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "17-1-382/V/1/V/4 SAI NILAYAM CHAMPAPET HYD - 500079",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "RANGA REDDY",
+            "ifsc": "APMC0000030",
+            "office": "CHAMPAPET",
+            "phone": "23437120",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "11-1-47 48 49 SEETHAPHALMANDI HYD- 500061",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000031",
+            "office": "SEETAPHALMANDI",
+            "phone": "23437129",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "32-212 OPP RANGA THEATER CHINTAL HYD - 500055",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000032",
+            "office": "CHINTAL",
+            "phone": "23437168",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "MUNICIPAL NO.5-9-211, GROUND FLOOR GANAPATHI RESIDENCY, CHIRAG ALI LANE, ABIDS, HYDERABAD.500001",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000033",
+            "office": "A.P. MAHESH CO-OPERATIVE URBAN BANK LTD",
+            "phone": "234371001",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 96 & 97, SURVEY NO.83,GROUND FLOOR, VENKATESHWARA ENCLAVE, JEEDIMETLA VILLAGE, QUTHBULLAPUR MANDAL & GHMC CIRCLE, R.R.DIST.,KOMPALLY, HYDERABAD. 500014.",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "R.R.DISTRICT",
+            "ifsc": "APMC0000034",
+            "office": "A.P. MAHESH CO-OPERATIVE URBAN BANK LTD",
+            "phone": "23437102",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SP SQUARE, SURVEY NO-91, GROUND FLOOR, INDRANAGAR, GACHIBOWLI, HYDERABAD - 500032",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HDERABAD",
+            "ifsc": "APMC0000035",
+            "office": "GACHIBOWLI",
+            "phone": "23437171",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "D.NO.8-2-680/1&2, GROUND FLOOR, ROAD NO.12, BANJARA HILLS",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "APMC0000036",
+            "office": "ROAD NO. TWELVE, BANJARA HILLS",
+            "phone": "23431821",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "2-2-49 TO 52 GANDHI CHOWK KHAMMAM - 507003",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "KHAMMAM",
+            "district": "KHAMMAM",
+            "ifsc": "APMC0000900",
+            "office": "KHAMMAM",
+            "phone": "224128",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "27-37-147 TO 152 BANDAR ROAD VIJAYAWADA 520002",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "KRISHNA",
+            "ifsc": "APMC0000901",
+            "office": "VIJAYAWADA",
+            "phone": "2574654",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "22-7-33 LALAPET GUNTUR 522003",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "GUNTUR",
+            "district": "GUNTUR",
+            "ifsc": "APMC0000902",
+            "office": "GUNTUR",
+            "phone": "2212102",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "8-24-121 OPP I TOWN POLICE  STATION RAJMUNDRY 533101",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "RAJAMUNDRY",
+            "district": "EAST GODAVARI",
+            "ifsc": "APMC0000903",
+            "office": "RAJAMUNDRY",
+            "phone": "2426295",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "30-15-41 LEELA PLAZA DABA GARDEN VIZAG 530020",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "VIZAG",
+            "district": "VIZAG",
+            "ifsc": "APMC0000904",
+            "office": "VIZAG",
+            "phone": "2591173",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "8-3-121 STATION ROAD WARANGAL 506002",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "WARANGAL",
+            "district": "WARANGAL",
+            "ifsc": "APMC0000905",
+            "office": "WARANGAL",
+            "phone": "2506758",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "PLOT  10 MJ ROAD JAIPUR 302001",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "RAJSTHAN",
+            "ifsc": "APMC0000906",
+            "office": "JAIPUR",
+            "phone": "5107702",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "103 HOTEL ADARSH BAGH MUMBAI 400002",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MAHARASHTRA",
+            "ifsc": "APMC0000907",
+            "office": "MUMBAI",
+            "phone": "22412410",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "ASHOK TOWERS, SHOP NUMBER 11,12,13,14&15, GROUND FLOOR, NEAR GANDHI MARG, TRILOK MARG, GANDHI NAGAR, BHILWARA, RAJASTHAN.311001",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "RAJASTHAN",
+            "district": "RAJASTHAN",
+            "ifsc": "APMC0000908",
+            "office": "A.P. MAHESH CO-OPERATIVE URBAN BANK LTD",
+            "phone": "234371003",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "D.NO.4-5-488,GROUND FLOOR,VALMIKI NAGAR,NEAR RAJIV GANDHI CHOWK,KARIMNAGAR-505001",
+            "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "branch": "",
+            "city": "KARIMNAGAR",
+            "district": "KARIMNAGAR",
+            "ifsc": "APMC0000909",
+            "office": "KARIMNAGAR",
+            "phone": "2242266",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    }
+]

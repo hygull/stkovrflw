@@ -1,0 +1,1652 @@
+[
+    {
+        "fields": {
+            "address": "361, LAXMI SADAN, V.P. ROAD, GIRGAUM, MUMBAI-400004",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000001",
+            "office": "RTGS-HO",
+            "phone": "67545022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "361, LAXMI SADAN, V.P. ROAD, GIRGAUM, MUMBAI-400004",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000002",
+            "office": "GIRGAUM BRANCH",
+            "phone": "23829577",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SAMVED, S.K. BOLE ROAD, DADAR, MUMBAI-400028",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000003",
+            "office": "DADAR",
+            "phone": "24323211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "JAGRUTI CHS LTD., L.J. ROAD, MAHIM, MUMBAI-400016,",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000004",
+            "office": "MAHIM",
+            "phone": "24442463",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "ZAPURZA, SAHITYA SAHAWAS, KALANAGAR, BANDRA (E), MUMBAI-400051, STATE-MAHARASHTRA",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000005",
+            "office": "BANDRA(E)",
+            "phone": "26592796",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SHREE NIKETAN, HINDU FRIENDS SOCIETY ROAD, MUMBAI-400060, STATE-MAHARASHTRA.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000006",
+            "office": "JOGHESHWARI",
+            "phone": "28203858",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "JAI SHREE RANCHODDHAM, L.T.ROAD, DAHISAR (W), MUMBAI-400068, STATE- MAHARASHTRA",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000007",
+            "office": "DAHISAR(W)",
+            "phone": "28903753",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "MEGHDOOT, DEONAR VILLAGE ROAD, MUMBAI-400088",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000008",
+            "office": "DEONAR",
+            "phone": "25587073",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "SATNAM APARTMENTS, L.T. ROAD, MULUND (E), MUMBAI-400081, STATE- MAHARASHTRA",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000009",
+            "office": "MULUND(E)",
+            "phone": "21633718",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "PRABHAT CENTRE, 1ST FLOOR, C.B.D., NAVI MUMBAI-400611",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "NKGS0000010",
+            "office": "C.B.D.",
+            "phone": "27576443",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "BEST OFFICERS QUARTERS, GROUND FLOOR, GEN. A.K. VAIDYA,MARG, DINDOSHI, MALAD (E), MUMBAI-400097,",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000011",
+            "office": "DINDOSHI",
+            "phone": "67740453",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PATANKAR PARK, 'E' WING, NALLASOPARA (W), DIST-THANE-401203",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "NKGS0000012",
+            "office": "NALLASOPARA(W)",
+            "phone": "2405591",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "TILAKRAJ TERRACE, AGARKAR ROAD, DOMBIVALI (E), PIN-421201,",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "NKGS0000013",
+            "office": "DOMBIVALI(E)",
+            "phone": "2474208",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "NEW MATRU ASHISH, NAVGHAR ROAD, BHAYANDER (E), DIST-THANE-401105, STATE-MAHARASHTRA",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "NKGS0000014",
+            "office": "BHAYANDER(E)",
+            "phone": "28049713",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SHIV PRABHA, SHREE STHANESHWAR KRUPA CHS, SECTOR NO.1, CHARKOP, KANDIVALI (W), MUMBAI-400067, STATE-MAHARASHTRA.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000015",
+            "office": "CHARKOP(W)",
+            "phone": "28680996",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "SANJIVANI NURSING HOME BLDG., CIVIL COURT ROAD, KARWAR-581301",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "KARWAR",
+            "ifsc": "NKGS0000016",
+            "office": "KARWAR",
+            "phone": "226286",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "ROYAL HOUSE, KAZIWADA, BELGAUM ROAD, PONDA, GOA-403401,",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PONDA",
+            "district": "PONDA",
+            "ifsc": "NKGS0000017",
+            "office": "PONDA",
+            "phone": "2317589",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "MAROL BUS STATION BLDG., MAROL MAROSHI ROAD, MAROL, ANDHERI (E),",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000018",
+            "office": "MAROL",
+            "phone": "29201466",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "MULJI RAGHAVJI CHS, ADARSH BUILDING, NEHRU ROAD, VILEPARLE (E),MUMBAI-400 057",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000019",
+            "office": "VILEPARLE(E)",
+            "phone": "26173786",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "RAUNAK TOWERS, BAJI PRABHU DESHPANDE MARG, NAUPADA,THANE(W)-400 602",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "NKGS0000020",
+            "office": "THANE",
+            "phone": "25370940",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "T.B. REVANKAR COMPLEX, GROUND FLOOR, T.B. ROAD,",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HUBLI",
+            "district": "HUBLI",
+            "ifsc": "NKGS0000021",
+            "office": "HUBLI",
+            "phone": "2353682",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "SHIV PLAZA, OPP. TELEPHONE EXCHANGE, L.B.S. MARG,  GHATKOPAR (W), MUMBAI-400086, STATE-MAHARASHTRA.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000022",
+            "office": "GHATKOPAR(W)",
+            "phone": "25138844",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "16/17, RAMESHWAR TOWER, NEXT TO GOKHALE HIGH SCHOOL,  SHIMPOLI ROAD, BORIVALI (W), MUMBAI-400092, STATE-MAHARASHTRA.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000023",
+            "office": "BORIVALI(W)",
+            "phone": "28992408",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ALPS HEIGHTS, OPP.396 BUS STOP, OFF.DR.R.P.ROAD, MULUND (W), MUMBAI-400080, STATE-MAHARASHTRA.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000024",
+            "office": "MULUND(W)",
+            "phone": "25905283",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "NATIONAL AVENUE, GROUND FLOOR, OPP.SAIBABA HOSPITAL, AKURLI ROAD,MUMBAI-400 101",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000025",
+            "office": "KANDIVALI(E)",
+            "phone": "28846715",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,1955-B WARD, MANGALWAR PETH, KALAMBA ROAD, KOLHAPUR \u252c\u00fb 416012",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "NKGS0000026",
+            "office": "MAIN BRANCH",
+            "phone": "2646145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "805, B WARD,SUBHASH ROAD, UMA TALKIES,KOLHAPUR- 416012",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "NKGS0000027",
+            "office": "UMA TALKIES",
+            "phone": "2640026",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "13/14, LUNAWAT COMPLEX, OPP. KOTHRUD BUSSTAND, KOTHRUD, PUNE 411038",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000028",
+            "office": "KOTHRUD",
+            "phone": "64018338",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "CENTRE POINT,UNIT NO 10, DR.BABASAHEB AMBEDKAR ROAD,OPP.BHARATMATA TALKIES, PAREL, MUMBAI 400 012.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000029",
+            "office": "PAREL",
+            "phone": "24155137",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "Ground shop 5,5A,10 and 11, Upper Gr.Floor, B wing,Astral Court,Gaikwadnagar,Aundh Pune 411007",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000030",
+            "office": "AUNDH",
+            "phone": "65002771",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 & 2, SHAH ARCADE, MCCH  SOCIETY, F P NO 205/4, PANVEL 410 206",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "PANVEL",
+            "ifsc": "NKGS0000031",
+            "office": "PANVEL",
+            "phone": "27480992",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "GORAI BUS DEPOT BLDG,GROUND FLOOR, GORAI , BORIVALI (W) , MUMBAI 400 091",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000032",
+            "office": "GORAI",
+            "phone": "28699746",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "SHIVAM TOWER,GROUND FLOOR, PANDIT DINDAYAL ROAD,VISHNUNAGAR, DOMBIVALI (WEST)- 421202.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "DOMBIVALI",
+            "ifsc": "NKGS0000033",
+            "office": "DOMBIVALI (WEST)",
+            "phone": "2485773",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 A, HARMONY , J N ROAD, VAKOLA , MUMBAI - 400 055",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000034",
+            "office": "VAKOLA",
+            "phone": "26682242",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "GALA NO A9, ROYAL INDUSTRIAL ESTATE, NAIGAON CROSS ROAD, WADALA, MUMBAI 400 031.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000035",
+            "office": "WADALA",
+            "phone": "24155510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1, THAWAR APARTMENT, KASTURBA ROAD, BORIVALI (E), MUMBAI 400 066.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000036",
+            "office": "BORIVALI (EAST)",
+            "phone": "28629103",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "S-S210/212, GROUND FLOOR, OPP.MEGHDOOT CINEMA,SECTOR 2, VASHI, NAVI MUMBAI 400 702",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000037",
+            "office": "VASHI",
+            "phone": "27824464",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "ISHAN OPUS,CONGRESS ROAD, TILAKWADI, BELGAUM -590 006",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BELGAUM",
+            "district": "BELGAUM",
+            "ifsc": "NKGS0000038",
+            "office": "BELGAUM",
+            "phone": "2401311",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "HOTEL MANOSHANTI,BEHIND E.D.C HOUSE,DR.DADA VAIDYA ROAD,PANAJI, GOA- 403001",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PANAJI",
+            "district": "PANAJI",
+            "ifsc": "NKGS0000039",
+            "office": "PANAJI",
+            "phone": "2230852",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "SHOP 2 & 3,SHREE NIKETAN, OPP VASAI ROAD RAILWAY STATION, VASAI (W)-THANE 401202",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000040",
+            "office": "VASAI",
+            "phone": "2330161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "BEMUTHA'S NAVKAR HEIGHTS,SHARANPUR ROAD,NASHIK- 422 002",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "NKGS0000041",
+            "office": "NASHIK",
+            "phone": "2232283",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "KAMAT AVENUE, GROUND FLOOR, C.P.BAZAR,SIRSI, DIST : NORTH KANARA, KARNATAKA - 581 401.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SIRSI",
+            "district": "SIRSI",
+            "ifsc": "NKGS0000042",
+            "office": "SIRSI",
+            "phone": "225677",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "SHOP NO S-2/23,24,25 AND 46,VEDANT COMMERCIAL COMPLEX,VARTAK NAGAR,KORES ROAD, THANE WEST-400 606.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "NKGS0000043",
+            "office": "VARTAK NAGAR",
+            "phone": "25853349",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "VIKAS HEIGHTS, GR FLOOR, SANTOSHI MATA ROAD, KALYAN (W),DIST. THANE \u252c\u00fb 421 301.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "KALYAN",
+            "ifsc": "NKGS0000044",
+            "office": "KALYAN",
+            "phone": "2301164",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "GAJANAN BLDG NO 9, GROUND FLOOR , ROOM NO 1& 2, GAJANAN COLONY,JAWAHAR NAGAR, GOREGAON WEST, MUMBAI 400 062",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000045",
+            "office": "GOREGAON",
+            "phone": "28742501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "Krishnakamal CHS Ltd, Opp.Police station,Sector 21, Nerul East,Navi Mumbai 400706",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "NEW BOMBAY",
+            "ifsc": "NKGS0000046",
+            "office": "NERUL",
+            "phone": "27717370",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "KULLASWAMINI, SECTOR 13, KHARGHAR, NAVI MUMBAI 410210",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "NEW BOMBAY",
+            "ifsc": "NKGS0000047",
+            "office": "KHARGHAR",
+            "phone": "27746686",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "UMA SHIV CORNER, SECTOR 19, KAMATHE, NAVI MUMBAI",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "KAMOTHE",
+            "ifsc": "NKGS0000048",
+            "office": "KAMOTHE",
+            "phone": "27431111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "PARK VIEW,PLOT NO.27, SHOP NO.1,2,3,4 CHIKLI SPINE ROAD,PCNTDA,CHINCHWAD, PUNE 411019",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "CHINCHWAD",
+            "ifsc": "NKGS0000049",
+            "office": "CHIKHLI",
+            "phone": "60606095",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 2,3 OM SAI PLAZA,INDRAYANI CHOWK,BHOSARI, PUNE-411 026",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000050",
+            "office": "BHOSARI",
+            "phone": "27126222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "SHARDA CHAMBER,PATEL BUILDING,CHAKAN TALEGAON ROAD,CHAKAN, PUNE 410501",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "CHAKAN",
+            "ifsc": "NKGS0000051",
+            "office": "CHAKAN",
+            "phone": "60606097",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "SHANTI NIKETAN,MAGARPATTA CITY ROAD,MAGARPATTA, HADAPSAR, PUNE-411 028",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "HADAPSAR",
+            "ifsc": "NKGS0000052",
+            "office": "MAGARPATTA",
+            "phone": "26896060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "SHRIRAM TOWER, WARD NO.12, HOUSE NO.25,MAIN ROAD, ICHALKARANJI- 416115  DIST. KOLHAPUR.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "ICHALKARANJI",
+            "ifsc": "NKGS0000053",
+            "office": "ICHALKARANJI",
+            "phone": "2420620",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "CITY CENTER,KUDAL VENGURLA ROAD, KUDAL 416520",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUDAL",
+            "district": "KUDAL",
+            "ifsc": "NKGS0000054",
+            "office": "KUDAL",
+            "phone": "221139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "SWASTIK PARADISE,OPP.VIVA COLLEGE, VIRAR WEST-410 303",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIRAR",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000055",
+            "office": "VIRAR",
+            "phone": "6590002",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "SHOP 2, RAJASHRI EMPIRE, KAMATWADA, CIDCO AMBAD LINK ROAD, NASHIK 422008",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "NKGS0000056",
+            "office": "AMBAD NASHIK",
+            "phone": "2374227",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "REGENCY PLAZA, BEHIND POLICE STATION,COMBA, MADGAON - 403601",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MADGAON",
+            "district": "MARGAO",
+            "ifsc": "NKGS0000057",
+            "office": "MADGAON",
+            "phone": "2710123",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "LOUIS-OLIVA APTS, ALTINO, MAPUSA - 403507",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MAPUSA",
+            "district": "MAPUSA",
+            "ifsc": "NKGS0000058",
+            "office": "MAPUSA",
+            "phone": "2253088",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "RUNANUBANDHA, NAGAR PARISHAD ROAD,VILLAGE NACHANE, RATNAGIRI-403001",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "NKGS0000059",
+            "office": "RATNAGIRI",
+            "phone": "26733",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "G- 9, TRIVIDH CHAMBERS, OPP. FIRE STATION, RING ROAD, SURAT - 395002",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "NKGS0000060",
+            "office": "SURAT",
+            "phone": "2354464",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "SILVER ARCADE, AKOTA, MUJMAHUDA ROAD, VADODARA - 390007",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "NKGS0000061",
+            "office": "VADODARA",
+            "phone": "2354618",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "NEW CHANDAN AVENUE, MIRA BHAYANDER MAIN ROAD, MIRA ROAD (E), DISTRICT THANE - 401107",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRA ROAD",
+            "district": "MIRA-BHAYANDAR",
+            "ifsc": "NKGS0000062",
+            "office": "MIRA BHAYANDAR",
+            "phone": "28123332",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "MAXUS MALL, TEMBA ROAD, BHAYANDER (W), DISTRICT THANE - 401101",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHAYANDAR WEST",
+            "district": "MIRA-BHAYANDAR",
+            "ifsc": "NKGS0000063",
+            "office": "BHAYANDAR WEST",
+            "phone": "28141277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "GROUND PLUS 1ST FLOOR, EVEREST GRANDE , PLOT NO. 3A, CTS NO. 46/34 SITUATE AT VILLAGE MULGAON, MAHAKALI CAVES ROAD, ANDHERI (EAST), MUMBAI \u252c\u00fb 400 093",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000064",
+            "office": "ANDHERI",
+            "phone": "26879211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "TRELLIS, 1ST FLOOR OPP.ASHA PETROL PUMP,LBS ROAD, KURLA (WEST) ,MUMBAI",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000065",
+            "office": "KURLA",
+            "phone": "26528710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "R S NO. 762, A WARD OPP. I T I , KALAMBA ROAD , KOLHAPUR -  416007",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "NKGS0000066",
+            "office": "SALOKHE NAGAR",
+            "phone": "2322322",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "GOKUL HALL, P-35 MIDC GOKUL SHIRGAON KOLHAPUR \u252c\u00fb 416 234.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "NKGS0000067",
+            "office": "GOKUL SHIRGAON",
+            "phone": "2671171",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 10, BHUMI COLOSSA, PLOT NO 4, SECTOR- 19, AIROLI, NAVI MUMBAI- 400 708",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000068",
+            "office": "AIROLI",
+            "phone": "27791540",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KRISHIDHAN APARTMENT,PLOT NO 120, SAMARTH NAGAR, NR VARAD GANESH MANDIR, AURANGABAD-431 001",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABARD",
+            "district": "AURANGABARD",
+            "ifsc": "NKGS0000069",
+            "office": "AURANGABARD",
+            "phone": "2338809",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "SUNDAR SAMRUDHI BLDG, NEAR KAILAS JIVAN FACTORY,DHAYARI SINHAGAD ROAD,PUNE-411041",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000070",
+            "office": "SINHAGAD ROAD",
+            "phone": "65608060",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "129/2/6-8, SAI HERITAGE,BHUMKAR CHOWK , NEAR CHANDRAMAULI GARDEN, WAKAD, PUNE - 411057",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000071",
+            "office": "WAKAD",
+            "phone": "65321951",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "WANKHEDE TOWERS VILLAGE KATRAP BADLAPUR EAST THANE421 503",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "BADLAPUR",
+            "ifsc": "NKGS0000072",
+            "office": "BADLAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHREE HANUMAN SUBHAS ROAD,NEAR GIBB HIGH SCHOOL,KUMTA- 581343",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KUMTA",
+            "district": "UTTAR KANNAD",
+            "ifsc": "NKGS0000073",
+            "office": "KUMTA",
+            "phone": "220177",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 TO 7 BUILDING NO 68 ROAD NO 13PALACE SHIV SAGAR,TILAK NAGAR SHRADDHA CHS LTD. 'B' WING,TILAK NAGAR , CHEMBUR 400 089",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "NKGS0000074",
+            "office": "CHEMBUR",
+            "phone": "25294491",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR, SHREE SAHYADRI CO-OP. HSG. SOC, LTD,. S. V. ROAD, CHINCHAVALI, MALAD (WEST), MUMBAI 400 064.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000075",
+            "office": "MALAD",
+            "phone": "28742505",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2,3, PARTH MILAN BUILDING, OFF CG ROAD, NAVRANGPURA, ELLISEBRIDGE,AHMEDABAD \u252c\u00fb 380006",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHEMDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "NKGS0000076",
+            "office": "AHEMDABAD",
+            "phone": "26565008",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15 ,16 GROUND FLOOR, VIKAS COMPLEX,CASTLE MILL ROAD, THANE 400 601.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "NKGS0000077",
+            "office": "THANE CASTLE MILL ROAD",
+            "phone": "25474662",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "COURT CIRCLE, KALAL  BUILDING, NEXT TO IDBI CENTRE, LINE BAZAR, DHARWAD 580 001",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "NKGS0000078",
+            "office": "DHARWAD",
+            "phone": "2444074",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "ANNA BALWANT BUILDING, J.S.S ROAD,KRANTIVEER RAJGURU MARG,GIRGAUM,MUMBAI- 400 004",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000079",
+            "office": "GIRGAOON JSS ROAD",
+            "phone": "23850508",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1, 2 & 3,KRISHNA MANDIR BLDG,MARUTI NAKA,ALIBAUG DIST RAIGAD 402 201",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ALIBAUG",
+            "district": "RAIGAD",
+            "ifsc": "NKGS0000080",
+            "office": "ALIBAUG",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2,LALWANI HEIGHTS,SAIKNIKWADI,VADGAONSHERI,PUNE 411014",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000081",
+            "office": "VADGAON SHERI",
+            "phone": "27030710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.8 AND 9 VIKRAM CHAMBERS, OPP.ELPRO COMPANY, CHINCHWADGAON, PUNE 411033.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000082",
+            "office": "CHINCHAWADGAON",
+            "phone": "27357878",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "ANUGRAHA COMPLEX,OPP.NORTH SCHOOL,CORPORATION BANK ROAD,BADAGUPTE,UDUPI 567101",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UDUPI",
+            "district": "UDIPI",
+            "ifsc": "NKGS0000083",
+            "office": "UDUPI",
+            "phone": "2524177",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,JAYA APARTMENT,R.B.MEHTA ROAD,GHATKOPAR EAST MUMBAI 400077",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000084",
+            "office": "GHATKOPAR EAST",
+            "phone": "21023378",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "SARANG SOCIETY,NEAR GAJANAN MAHARAJ MANDIR,GARKHEDA,AURANGABAD 431005",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "NKGS0000085",
+            "office": "GARKHEDA",
+            "phone": "2451880",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15,SAI VISION,NEAR PLANET MILLENNIUM,PIMPLE SAUDAGAR,PUNE 411027",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000086",
+            "office": "PIMPLE SAUDAGAR",
+            "phone": "27405151",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2,SURYA BHAVAN,SURVEY NO.187,FINAL PLOT NO.555 OF CTS NO 1181,FERGUSSON COLLEGE ROAD,SHIVAJINAGAR,PUNE 411005",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000087",
+            "office": "FERGUSSON COLLEGE ROAD",
+            "phone": "25535550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "E WING,SHOP NO 32,33,AGARWAL RESIDENCY,YESHWANT VIVA TOWNSHIP,ACHOLE VILLAGE,NEW NALLASOPARA VASAI LINK ROAD,NALLASOPARA EAST,TALUKA VASAI 401208",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "THANE",
+            "ifsc": "NKGS0000088",
+            "office": "VASAI EAST",
+            "phone": "3299071",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "MAHARAJA COMPLEX,NEXT TO WANAJ COMPANY,PAUD ROAD,KOTHRUD,PUNE 411038",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000089",
+            "office": "PAUD ROAD",
+            "phone": "25285533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 8,9 AND 10 GROUND FLOOR,CITY CENTER,C.T.S.NO 8794,DHAMANKAR NAKA,BHIWANDI DIST THANE 421302",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "NKGS0000090",
+            "office": "BHIWANDI",
+            "phone": "2230322",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "SHOP NOS 1 AND 2,GROUND FLOOR,MINT CHAMBERS,PLOT NO 1139, C.S.NO 1140 OF FORT DIVISION,45-47,MINT ROAD,FORT MUMBAI 400001.",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000091",
+            "office": "FORT",
+            "phone": "22646101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "SHANKESHWARNAGAR COOP HSG SOC.SHIV VALLABH ROAD,ASHOKVAN,DAHISAR EAST MUMBAI 400056",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000092",
+            "office": "DAHISAR EAST ASHOKVAN",
+            "phone": "28972241",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1,2,3 GROUND FLOOR,JAYSHREE PLAZA SURVEY NO.212, CTS NO.643,643/1 TO 48, LBS MARG, BHANDUP WEST MUMBAI 400078",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000093",
+            "office": "BHANDUP WEST",
+            "phone": "25660957",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 101,SBI STAFF PALLAVI CO.OP.HSG SOCIETY,PLOT NO 8,VEERA DESAI ROAD,ANDHERI WEST,MUMBAI 400058",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000094",
+            "office": "ANDHERI WEST",
+            "phone": "26879359",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR,OLD NO.679,NEW NO.02,10TH MAIN,3RD BLOCK,RAJAJI NAGAR, BENGALURU 560010",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE URBAN",
+            "ifsc": "NKGS0000095",
+            "office": "RAJAJINAGAR",
+            "phone": "23110011",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "GR.FLOOR,NEW NO.15,4TH T BLOCK,18TH MAIN,JAYANAGAR,BENGALURU 560041",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE URBAN",
+            "ifsc": "NKGS0000096",
+            "office": "JAYANAGAR",
+            "phone": "26530101",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "GR.FLOOR,SHOP NO 1,2 AND 3,AADESH AVENUE,KALAKUNJ ROAD,NEAR BASANT WOMENS COLLEGE,KODIALBAIL,MANGALURU 575003",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANGALURU",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "NKGS0000097",
+            "office": "KODIALBAIL",
+            "phone": "67545083",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "PREMIER EDUCATION SOCIETIES DR. D.L. TELANG GIRLS HIGH SCHOOL, BAAD, KARWAR KARNATAKA 581304",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARWAR",
+            "district": "KARWAR",
+            "ifsc": "NKGS0000099",
+            "office": "BADD",
+            "phone": "225003",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,GR FLOOR,PLOT NO 175,CHALTA NO 48,55TO75 PTS NO 89,ANAND CHAMBERS,FI GOMES ROAD,VASCO DA GAMA, GOA 403802",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GOA",
+            "district": "SOUTH GOA",
+            "ifsc": "NKGS0000104",
+            "office": "VASCO DA GAMA",
+            "phone": "67545083",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.4,5,6 GR.FLOOR,BLDG NO1,VIJAY GALAXY,WAGHBILL,SURVEY NO 208,HISSA NO 3,KAVESAR, GHODBUNDER RD,THANE WEST 400615",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "NKGS0000107",
+            "office": "GHODBUNDER",
+            "phone": "25974324",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,GROUND FLOOR, SUYOG CENTRE, GULTEKDI, MARKET YARD PUNE 411037",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000108",
+            "office": "MARKET YARD",
+            "phone": "24272411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "GR.FLOOR,PREMISES NO 173,OM SHELTERS,J.LINGAIAH ROAD,1ST MAIN ROAD,SHESHADRIPURAM,BENGALURU 560020",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE URBAN",
+            "ifsc": "NKGS0000109",
+            "office": "SHESHADARIPURAM",
+            "phone": "23447070",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "4013-14,VISHWABHARATI HOUSING SOCIETY,80 FEET ROAD,HOSAKEREHALLI MAIN ROAD,BANASHANKARI STAGE III,BENGALURU -560020",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE URBAN",
+            "ifsc": "NKGS0000110",
+            "office": "BANASHANKARI",
+            "phone": "26690460",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "NO 25,NEHRU ROAD,KAMANHALLI,HRBR LAYOUT,BENGALURU,- 560084",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE URBAN",
+            "ifsc": "NKGS0000111",
+            "office": "HRBR LAYOUT",
+            "phone": "25802525",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "G-04,05,R-GALLERIA,RUNWAL GREENS,MULUND-GOREGAON LINK ROAD,NAHUR-WEST,MUMBAI 400078",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "NKGS0000112",
+            "office": "NAHUR",
+            "phone": "67545083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,MANDKE HEIGHTS,APPA BALWANT CHOWK,NARAYANPETH,PUNE 411030",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NKGS0000113",
+            "office": "NARAYANPETH",
+            "phone": "67545083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 924,KHATIWALA TANK,BHANWAR KUWA MAIN ROAD,INDORE 452014",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "NKGS0000114",
+            "office": "BHANWAR KUWA",
+            "phone": "2471518",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3, SATYA ONE, NR UNIVERSITY CONVENTION CENTRE, MAIN DRIVE IN ROAD,GURUKUL AHMEDABAD 380052",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NKGS0000115",
+            "office": "DRIVE IN ROAD GURUKUL",
+            "phone": "67545083",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "GF-01,ANAND CONSUMER COMMERCIAL COMPLEX,X-309,MIDC,WALUJ INDUSTRIAL AREA,WALUJ,AURANGABAD 431136",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "NKGS0000116",
+            "office": "WALUJ -- AURANGABAD",
+            "phone": "67545083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "SHOP NO GF2,GF5,GF7, GOPI KISHAN COMPLEX,KANAKIA CIRCLE,MANINAGAR AHMEDABAD 380008",
+            "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "NKGS0000117",
+            "office": "MANINAGAR",
+            "phone": "67545083",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    }
+]

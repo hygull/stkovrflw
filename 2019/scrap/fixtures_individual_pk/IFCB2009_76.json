@@ -1,0 +1,527 @@
+[
+    {
+        "fields": {
+            "address": "MUMTAJ MAHAL, ZAKARIYA MASZID, RELIEF ROAD, AHMEDABAD-380 001",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660002",
+            "office": "RELIEF ROAD",
+            "phone": "7922139024",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "JAWAHAR CHOWK CHAR RASTA,MANINAGAR, AHMEDABAD-380 008.",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660003",
+            "office": "MANINAGAR",
+            "phone": "7925450515",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "1,ATUL PARK SOCIETY, NR.NARANPURA CHAR RASTA,NARANPURA, AHMEDABAD-380 013.",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660004",
+            "office": "NARANPURA",
+            "phone": "7927682016",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "NILUMBAUG FLAT, OPP.SHAHIBAUG GUEST HOUSE,GIRDHARNAGAR, SAHIBAUG ROAD, AHMEDABAD-380 004.",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660005",
+            "office": "GIRDHARNAGAR",
+            "phone": "7922864640",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "SHANKARPURA CHAR RASTA, NR.SHAKTINAGAR, OUTSITE SHAHPUR DARWAJA,  AHMEDABAD-380 004.",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660007",
+            "office": "MAHENDIKUA",
+            "phone": "7925627218",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "VANDANA CLOTH MARKET, NR. PANCHKUVA DARWAJA, AHMEDABAD-380001",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660008",
+            "office": "PANCHKUVA",
+            "phone": "7922145646",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "NR. FATEHNAGAR BUS STAND, PALDI, AHMEDABAD-380007",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660009",
+            "office": "PALDI",
+            "phone": "7926621189",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "OJAS APT., L COLONY CHAR RASTA, S.M.ROAD,AMBAWADI, AHMEDABAD-380015",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660010",
+            "office": "AMBAWADI",
+            "phone": "7926306109",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 TO 6 GF,MANGALAM ARCADE,OPP ODHAV GAM BRTS  STOP,ODHAV,AHMEDABAD,382415",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660011",
+            "office": "ODHAV",
+            "phone": "7922891147",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "PATEL HOUSE, O/S DARIAPUR DARWAJA, NR. VINOD CHAMBER, AHMEDABAD-380004",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660012",
+            "office": "DELHICHAKLA",
+            "phone": "7922123471",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "OPP. JUMMA MASZID, PANKORENAKA, AHMEDABAD-380001",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660013",
+            "office": "PANKORNAKA",
+            "phone": "7925320430",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.20/1, PHASE- I YAMUNA INDUSTRIAL ESTATE, OPP. NEO PLAST, G.I..D.C. , VATVA , AHMEDABAD 382 445",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660014",
+            "office": "VATVA",
+            "phone": "7925896023",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "2,BHAVNA SOCIETY, GITAMANDIR ROAD, AHMEDABAD-380022",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660015",
+            "office": "LATIBAZAR",
+            "phone": "7925399122",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "AMCO HOUSE, NR. STADIUM CIRCLE, NAVRANGPURA, AHMEDABAD-380009",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660016",
+            "office": "NAVRANGPURA",
+            "phone": "7926421412",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "NIRMAL LAXMI HALL BLDG., ISANPUR VATVA ROAD, ISANPUR, AHMEDABAD-382443",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660017",
+            "office": "ISANPUR",
+            "phone": "7925734506",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "MANSI COMPLEX, PREMCHAND NAGAR ROAD, SATELLITE, AHMEDABAD-380015",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660018",
+            "office": "SATELITE",
+            "phone": "7926754428",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "OLWAY HOUSE, GURUKUL ROAD, MEMNAGAR, AHMEDABAD-380052",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660019",
+            "office": "MEMNAGAR",
+            "phone": "7927412739",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SAHJANAND TOWER, OPP JIVRAJPARK BUS STAND,  JIVRAJPARK,. AHMEDABAD-380015",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660020",
+            "office": "AYOJANNAGAR",
+            "phone": "7926820524",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "S.K.COMPLEX, NR.MANGALTIRTH HOSPITAL,  INDIA COLONY ROAD, BAPUNAGAR, AHMEDABAD-382350",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660021",
+            "office": "BAPUNAGAR",
+            "phone": "7922770015",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "VIRAT COMPLEX, SOLA ROAD,  BHUYANGDEV,  AHMEDABAD-380061",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660022",
+            "office": "SOLAROAD",
+            "phone": "7927438077",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SARDAR SHOPING CENTRE, DEHGAM-382305",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "DEHGAM",
+            "district": "GANDHINAGAR",
+            "ifsc": "AMCB0660023",
+            "office": "DEHGAM",
+            "phone": "2716232879",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "126 NARAYAN DHURU STREET, NAGDEVI, MUMBAI-400 003",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "AMCB0660024",
+            "office": "MUMBAI",
+            "phone": "2223448972",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "HIGHWAY MALL,1ST FLOOR, SHOP NO.112,112/A,114&115, NR. AMTS BUS STAND, KALOL HIGHWAY, CHANDKHEDA, AHMEDABAD-382424",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660025",
+            "office": "CHANDKHEDA",
+            "phone": "7929298142",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, SILVERSTAR COMPLEX, NR. CHANDLODIA OVERBRIDGE, CHANDLODIA-GOTA ROAD, CHANDLODIA, AHMEDABAD-382481",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660026",
+            "office": "CHANDLODIA",
+            "phone": "7927600264",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "M G ROAD, VADODARA",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "AMCB0660027",
+            "office": "VADODARA",
+            "phone": "2652413347",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "BARACHE AVENUE, PLOT NO 990 OPP GOLDEN BRIDGE",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "AMCB0660028",
+            "office": "MAKARPURA",
+            "phone": "2652651043",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "SHIVAM ARCHEDE, OPP CHANGODAR POLICE STATION",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660029",
+            "office": "CHANGODAR",
+            "phone": "2717250045",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "PLOT NO CM10, GIDC, NR. TELEPHONE EXCHANGE",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660030",
+            "office": "NARODA",
+            "phone": "7922801145",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.10 TO 12,17 TO 20,GROUND FLOOR AND BASEMENT,SHRADDHA SHOPPING ARCADE,OPP INDRAPRASTH SHOPPING CENTRE,SWAMI VIVEKANAND ROAD,BORIWALI WEST,MUMBAI -400092",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "AMCB0660031",
+            "office": "BORIWALI",
+            "phone": "28336900",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "FINAL PLOT NO.83/2,T.P.SCHEME NO.10,OPP.RAGHUVIR TEXTILE MILLS,NR.GUJARAT BOTTLING CO,RAKHIAL,AHMEDABAD,GUJARAT 380023",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660032",
+            "office": "RAKHIAL",
+            "phone": "22747002",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.15 TO 19,GROUND FLOOR,DEVKRUPA 4,BEHIND GALAXY BUSINESS PARK,NIKOL ROAD,NIKOL,AHMEDABAD,GUJARAT 382350",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660033",
+            "office": "NIKOL ROAD",
+            "phone": "29292677",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "DHIV COMPLEX-4,NR.KOTHARI WAY BRIDGE,KOTHARI CHAR RASTA,RAKANPUR,PO.SANTEJ,TA.KALOL,DIST.GANDHINAGAR,GUJARAT-382721",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "RAKANPUR",
+            "district": "GANDHINAGAR",
+            "ifsc": "AMCB0660034",
+            "office": "RAKANPUR",
+            "phone": "268166",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.67,68,GROUND FLOOR,SOBO CENTER,SOUTH BOPAL, AHMEDABAD-380058",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0660035",
+            "office": "SOUTH BOPAL",
+            "phone": "22795877",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,TELEPHONE BHAVAN,BHARAT SANCHAR NIGAM LIMITED BUILDING,FALSAWADI,TEXTILE MARKET RING ROAD,SURAT-395002",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "AMCB0660036",
+            "office": "TEXTILE MARKET RING ROAD",
+            "phone": "2492259",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "HEAD OFFICE, AMCO HOUSE, NR. STADIUM CIRCLE, NAVRANGPURA, AHMEDABAD-380009",
+            "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "AMCB0RTGS4S",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    }
+]

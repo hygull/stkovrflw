@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "62 MAKER CHAMBERS VI, 6TH FLOOR, NARIMAN POINT, MUMBAI 400 021.",
+            "bank_name": "KRUNG THAI BANK PCL",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KRTH0INBB01",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 24236
+    }
+]

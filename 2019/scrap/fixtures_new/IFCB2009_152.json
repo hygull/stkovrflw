@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "ONE INDIABULLS CENTRE, TOWER 2, WING B 702, 7TH FLOOR, ELPHINSTONE ROAD (WEST),MUMBAI \u252c\u00fb 400013",
+            "bank_name": "BANK INTERNASIONAL INDONESIA",
+            "branch": "RTGS-HO",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IBBK0000001",
+            "office": "",
+            "phone": "67303411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 131028
+    }
+]

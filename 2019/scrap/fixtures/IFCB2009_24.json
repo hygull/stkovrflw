@@ -12,7 +12,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 140808
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 140809
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 140810
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 140811
     },
     {
         "fields": {
@@ -72,6 +72,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 140812
     }
 ]

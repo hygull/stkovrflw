@@ -1,0 +1,347 @@
+[
+    {
+        "fields": {
+            "address": "HEAD OFFICE, 2ND FLOOR, 'MUNICIPAL BANK BHAVAN',245,P'DEMELLO ROAD,FORT,MUMBAI:- 400 001",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000001",
+            "office": "RTGS-HO",
+            "phone": "22616911",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104840
+    },
+    {
+        "fields": {
+            "address": "HEAD OFFICE, GROUND  FLOOR, 'MUNICIPAL BANK BHAVAN',245,P'DEMELLO ROAD,FORT,MUMBAI:- 400 001",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000002",
+            "office": "HEAD OFFICE- BRANCH",
+            "phone": "22616911",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104841
+    },
+    {
+        "fields": {
+            "address": "THE MUNICIPAL HEAD OFFICE BLDG., MAHAPALIKA MARG, C.S.T., MUMBAI 400 001.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000003",
+            "office": "CST",
+            "phone": "22634423",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104842
+    },
+    {
+        "fields": {
+            "address": "SOMAN BUILDING, DR.BHALERAO MARG, J.S.ROAD, MUMBAI-400 004.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000004",
+            "office": "GIRGAUM",
+            "phone": "23888512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104843
+    },
+    {
+        "fields": {
+            "address": "D/WARD MUNICIPAL BUILDING, JOBANPUTRA COMPOUND,NANACHOWK, MUMBAI-400 007.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000005",
+            "office": "NANACHOWK",
+            "phone": "23860759",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104844
+    },
+    {
+        "fields": {
+            "address": "E/WARD MUNICIPAL BUILDING, SANKHALI STREET, BYCULLA, MUMBAI-400 008.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000006",
+            "office": "BYCULLA",
+            "phone": "23088799",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104845
+    },
+    {
+        "fields": {
+            "address": "F/SOUTH WARD MUNICIPAL OFFICE BUILDING, DR. BABASAHEB AMBEDKAR MARG,PAREL, MUMBAI \u252c\u00fb 400 012.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000007",
+            "office": "PAREL (F/SOUTH)",
+            "phone": "24181474",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104846
+    },
+    {
+        "fields": {
+            "address": "BANDRA MUNICIPAL BUILDING, WATER FIELD ROAD, BANDRA, MUMBAI-400 050.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000008",
+            "office": "BANDRA",
+            "phone": "26425212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104847
+    },
+    {
+        "fields": {
+            "address": "GHATKOPAR N/WARD MUNICIPAL BLDG., JAWAHAR ROAD, GHATKOPAR, MUMBAI-400 077.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000009",
+            "office": "GHATKOPAR",
+            "phone": "25012670",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104848
+    },
+    {
+        "fields": {
+            "address": "T/WARD MUNICIPAL BUILDING, DEVIDAYAL ROAD, MULUND (WEST), MUMBAI-400 080",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000010",
+            "office": "MULUND",
+            "phone": "25610116",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104849
+    },
+    {
+        "fields": {
+            "address": "M-EAST WARD MUNICIPAL BUILDING PLOT NO 38-39 VILLAGE DEONARAI, DEONAR, MUMBAI-400043.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000011",
+            "office": "DEONAR",
+            "phone": "25512930",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104850
+    },
+    {
+        "fields": {
+            "address": "G/SOUTH MUNICIPAL OFFICE BUILDING, N.M.JOSHI MARG, PAREL, MUMBAI-400 013.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000012",
+            "office": "PAREL (G/SOUTH)",
+            "phone": "24229645",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104851
+    },
+    {
+        "fields": {
+            "address": "ANDHERI K/WEST MUNICIPAL OFFICE BLDG., PALIRAM MARG, ANDHERI(WEST), MUMBAI-400 058.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000013",
+            "office": "ANDHERI (WEST)",
+            "phone": "26281683",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104852
+    },
+    {
+        "fields": {
+            "address": "LOKMANYA TILAK MUNICIPAL GENERAL HOSPITAL BUILDING, SION, MUMBAI\u252c\u00fb400 022.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000018",
+            "office": "SION",
+            "phone": "24092919",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104853
+    },
+    {
+        "fields": {
+            "address": "R/SOUTH WARD OFFICE, GROUND FLOOR, NEAR KANDIVALI SWIMMING POOL, KANDIVALI (WEST), MUMBAI-400 067.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000019",
+            "office": "KANDIVALI",
+            "phone": "28634600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104854
+    },
+    {
+        "fields": {
+            "address": "B.Y.L.NAIR HOSPITAL COMPOUND, MUMBAI CENTRAL, MUMBAI \u252c\u00fb 400 008.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000020",
+            "office": "NAIR",
+            "phone": "23098669",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104855
+    },
+    {
+        "fields": {
+            "address": "PRABODHANKAR THACKARE NATYA GRIHA, SODAWALA LANE, BORIVALI (W),MUMBAI-400 092",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000021",
+            "office": "BORIVALI",
+            "phone": "28912244",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104856
+    },
+    {
+        "fields": {
+            "address": "G/NORTH MUNICIPAL OFFICE BLDG., HARISCHANDRA YELWE MARG, BEHIND PLAZA CINEMA, DADAR, MUMBAI-400 028.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000022",
+            "office": "DADAR (G/NORTH)",
+            "phone": "24326271",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104857
+    },
+    {
+        "fields": {
+            "address": "MUNICIPAL K/EAST WARD OFFICE BLDG., AZAD ROAD, GUNDAWALI VILLAGE, ANDHERI (EAST),\u252c\u00e1MUMBAI-400 059.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000023",
+            "office": "ANDHERI (EAST)",
+            "phone": "26845099",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104858
+    },
+    {
+        "fields": {
+            "address": "MUNICIPAL S/WARD OFFICE BLDG., NEAR MANGATRAM PETROL PUMP, LAL BAHADUR SHASTRI MARG, BHANDUP(W),MUMBAI-400 078.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000024",
+            "office": "BHANDUP",
+            "phone": "25941317",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104859
+    },
+    {
+        "fields": {
+            "address": "292, SHAMALDAS GANDHI MARG, PRINCESS STREET, MARINE LINES, MUMBAI-400 002.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000026",
+            "office": "MARINE LINES",
+            "phone": "22085315",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104860
+    },
+    {
+        "fields": {
+            "address": "TILAK NAGAR MUNICIPAL UPPER PRIMARY SCHOOL, GROUND FLOOR, OPP AMRAPALI HOSTEL,CHEMBUR, MUMBAI - 400 089.",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "MUBL0000027",
+            "office": "CHEMBUR",
+            "phone": "25289333",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104861
+    },
+    {
+        "fields": {
+            "address": "THE MUNICIPAL CO OPERATIVE BANK LTD., MUMBAI     P SOUTH MUNICIPAL WARD OFFICE, CTS NO. 746, S. V. RAOD, NEAR GOREGAON SKYWALK, GOREGAON (WEST)",
+            "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "MUBL0000028",
+            "office": "GOREGAON",
+            "phone": "9820827817",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 104862
+    }
+]

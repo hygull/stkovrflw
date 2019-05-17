@@ -1,0 +1,62 @@
+[
+    {
+        "fields": {
+            "address": "SALARPURIA WINDSOR, 5TH FLOOR,B-WING, NO-3, ULSOOR ROAD,BANGALORE 560042",
+            "bank_name": "BANK OF AMERICA",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "BOFA0BG3978",
+            "office": "BANGALORE BRANCH",
+            "phone": "66006203",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "EA CHAMBERS,EXPRESS AVENUE,8TH FLOOR NO.49,50 L,WHITES ROAD,ROYAPETTAH,CHENNAI 600014",
+            "bank_name": "BANK OF AMERICA",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "BOFA0CN6215",
+            "office": "CHENNAI BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "BANK OF AMERICA N.A GR.FLOOR, ONE BKC,  G-BLOCK, A-WING, BANDRA KURLA CPMPLEX , BANDRA EAST ,  MUMBAI-400051",
+            "bank_name": "BANK OF AMERICA",
+            "branch": "",
+            "city": "\u252c\u00e1MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "BOFA0MM6205",
+            "office": "RTGS-HO",
+            "phone": "66323109",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "\u252c\u00e1BANK OF AMERICA N.A,1ST FLOOR,DLF CENTRE,SANSAD MARG, NEW DELHI 110001",
+            "bank_name": "BANK OF AMERICA",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "BOFA0ND6216",
+            "office": "NEW DELHI",
+            "phone": "23715565",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    }
+]

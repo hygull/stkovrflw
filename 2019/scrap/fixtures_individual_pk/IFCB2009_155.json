@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "UNITED OVERSEAS BANK LTD, UNIT 31, 32  37, 3RD FLOOR, 3RD NORTH AVENUE, MAKER MAXITY, BKC, BANDRA EAST, MUMBAI - 400051",
+            "bank_name": "UNITED OVERSEAS BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "UOVB0000001",
+            "office": "RTGS-HO",
+            "phone": "42472828",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

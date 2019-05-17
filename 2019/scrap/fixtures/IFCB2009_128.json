@@ -12,7 +12,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 38180
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 38181
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 38182
     },
     {
         "fields": {
@@ -57,6 +57,6 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 38183
     }
 ]

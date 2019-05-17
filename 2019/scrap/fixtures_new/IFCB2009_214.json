@@ -1,0 +1,1397 @@
+[
+    {
+        "fields": {
+            "address": "1ST AND 3RD FLOOR,FORTUNE CENTRAL,BASISTHA ROAD,BASISTHAPUR BYE LANE NO.3,BELTOLA,GUWAHATI,KAMRUP,ASSAM -781028",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15951
+    },
+    {
+        "fields": {
+            "address": "S/O, MR. MAHENDRA NATH BRAHMA, RESIDING AT ZOO ROAD, PO - GUWAHATI, PS - GUWAHATI, DIST - KAMRUP(M), ASSAM - 781003",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP(METRO)",
+            "ifsc": "NESF0000002",
+            "office": "ZOO ROAD TINIALI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15952
+    },
+    {
+        "fields": {
+            "address": "KSHUDRAPALAHA, BAIHATA CHARIALI, KAMRUP, ASSAM - 781381",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BAIHATA CHARIALI",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000003",
+            "office": "BAIHATA CHARIALI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15953
+    },
+    {
+        "fields": {
+            "address": "KDM COMPLEX, GHUNUSHA, PO - JAGIROAD, PS - JAGIROAD, DIST - MORIGAON, ASSAM - 782410",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAGIROAD",
+            "district": "MORIGAON",
+            "ifsc": "NESF0000004",
+            "office": "GHUNUSA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15954
+    },
+    {
+        "fields": {
+            "address": "S/O LATE BALAK BAISHYA, RESIDING AT VILLAGE NAPARA (BUS STAND), PO - SUALKUCHI, PS - SUALKUCHI, DIST - KAMRUP, ASSAM - 781103",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SUALKUCHI",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000005",
+            "office": "SUALKUCHI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15955
+    },
+    {
+        "fields": {
+            "address": "PANIGAON CHARIALI,APARNA BHAWAN,SIX ALI ROAD,ITACHALI,NAGAON -782003",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGAON",
+            "district": "NAGAON",
+            "ifsc": "NESF0000006",
+            "office": "NAGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15956
+    },
+    {
+        "fields": {
+            "address": "W/O PROBIR BARUAH,BONGALPUKHURI TIN-ALI,JORHAT",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JORHAT",
+            "district": "JORHAT",
+            "ifsc": "NESF0000007",
+            "office": "JORHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15957
+    },
+    {
+        "fields": {
+            "address": "WARD NO 8,AMOLA PATTY,OPPOSITE INDIAN OIL PETROL PUMP,P.O.DIBRUGARH,P.S - DIBRUGARH,DIST-DIBRUGARH,PIN-786001,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DIBRUGARH",
+            "district": "DIBRUGARH",
+            "ifsc": "NESF0000008",
+            "office": "DIBRUGARH",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15958
+    },
+    {
+        "fields": {
+            "address": "OPP.DC OFFICE,NEAR E-RICKSHAW SHOWROOM,PO.BONGAIGAON PS.BONGAIGAON,DIST.BONGAIGAON-783380",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BONGAIGAON",
+            "district": "BONGAIGAON",
+            "ifsc": "NESF0000009",
+            "office": "BONGAIGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15959
+    },
+    {
+        "fields": {
+            "address": "G.D PLAZA,KACHARI GAON,NEAR TRIBENI,P.S-SONITPUR,DISTRICT-SONITPUR,ASSAM,PIN-784001",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TEZPUR",
+            "district": "SONITPUR",
+            "ifsc": "NESF0000010",
+            "office": "TEZPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15960
+    },
+    {
+        "fields": {
+            "address": "A.A ROAD,KAMARPUKURPAR,OPP.MUCHOUMUHANI,BESIDE TROPICAL NURSING HOME,CHOWMUHANI BAZAR,AGARTALA-799007,WEST TRIPURA",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AGARTALA",
+            "district": "WEST TRIPURA",
+            "ifsc": "NESF0000011",
+            "office": "AGARTALA",
+            "phone": "0",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15961
+    },
+    {
+        "fields": {
+            "address": "TADONG,DARAGAON,P.O-TADAONG DARAGAON,P.S - GANGTOK,DIST-EAST SIKKIM,SIKKIM,PIN-737102",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GANGTOK",
+            "district": "EAST SIKKIM",
+            "ifsc": "NESF0000012",
+            "office": "TADONG",
+            "phone": "0",
+            "state": "SIKKIM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15962
+    },
+    {
+        "fields": {
+            "address": "OPP.FIRE BRIGADE,WARD NO.9,PO.MANGALDOI,PS.MANGALDOI,DIST.DARRANG-784125",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANGALDOI",
+            "district": "DARRANG",
+            "ifsc": "NESF0000013",
+            "office": "MANGALDOI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15963
+    },
+    {
+        "fields": {
+            "address": "DHARMAKANTA ROAD,WARD NO.4,DHEMAJI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHEMAJI",
+            "district": "DHEMAJI",
+            "ifsc": "NESF0000014",
+            "office": "DHEMAJI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15964
+    },
+    {
+        "fields": {
+            "address": "VILL-DERGAON TOWN,WARD NO.II,PO DERGAON,PS.DERGAON,DIST.GOLAGHAT,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DERGAON",
+            "district": "GOLAGHAT",
+            "ifsc": "NESF0000015",
+            "office": "NEGHERITING",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15965
+    },
+    {
+        "fields": {
+            "address": "NEAR GOLAGHAT TENNIS CLUB ( OLD UBI BUILDING ),PO.GOLAGHAT PS.GOLAGHAT,DIST.GOLAGHAT-785621",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GOLAGHAT",
+            "district": "GOLAGHAT",
+            "ifsc": "NESF0000016",
+            "office": "GOLAGHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15966
+    },
+    {
+        "fields": {
+            "address": "DIPHU MAIN BAZAR ROAD,OPP JAYANTI RANGPI RESIDENCE,P.O.DIPHU,PS - DIPHU",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DIPHU",
+            "district": "KARBI ANGLONG",
+            "ifsc": "NESF0000017",
+            "office": "DIPHU",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15967
+    },
+    {
+        "fields": {
+            "address": "ISMAIL COMPLEX,LOVELY HOTEL BUILDING,NEAR PETROL PUMP,NH-15",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANGALDOI",
+            "district": "DARRANG",
+            "ifsc": "NESF0000018",
+            "office": "KHARUPETIA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15968
+    },
+    {
+        "fields": {
+            "address": "DHEKIAJULI,PO.DHEKIAJULI,PS.DHEKIAJULI,ASSAM,PIN-784 110",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SONITPUR",
+            "district": "SONITPUR",
+            "ifsc": "NESF0000019",
+            "office": "DHEKIAJULI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15969
+    },
+    {
+        "fields": {
+            "address": "WARD NO-4,P.O-BOKAKHAT,P.S - BOKAKHAT,DIST - GOLAGHAT,PIN-785612,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BOKAKHAT",
+            "district": "GOLAGHAT",
+            "ifsc": "NESF0000020",
+            "office": "BOKAKHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15970
+    },
+    {
+        "fields": {
+            "address": "VILL& PO JAMUGURIHAT,PS JAMUGURI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JAMUGURIHAT",
+            "district": "SONITPUR",
+            "ifsc": "NESF0000021",
+            "office": "JAMUGURIHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15971
+    },
+    {
+        "fields": {
+            "address": "BANDERDEWA,P.O-POTHALI PAHAR,P.S-BIHPURIA OUTPOST",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANDERDEWA",
+            "district": "LAKHIMPUR",
+            "ifsc": "NESF0000022",
+            "office": "BANDERDEWA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15972
+    },
+    {
+        "fields": {
+            "address": "JORETHANG,P.O.JORETHANG,P.S JORETHANG,PIN-737121",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SOUTH SIKKIM",
+            "district": "SOUTH SIKKIM",
+            "ifsc": "NESF0000023",
+            "office": "JORETHANG",
+            "phone": "0",
+            "state": "SIKKIM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15973
+    },
+    {
+        "fields": {
+            "address": "WARD NO.7,RAWMARI,PO.CHAPAR,PS.CHAPAR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHAPAR",
+            "district": "DHUBRI",
+            "ifsc": "NESF0000024",
+            "office": "CHAPAR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15974
+    },
+    {
+        "fields": {
+            "address": "NEAR OLD BUS STAND SONA LODGE,BARPETA ( SARBANANDA PATH),P.O& P.S - BARPETA,DISTRICT - BARPETA,ASSAM,PIN-781301",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARPETA TOWN",
+            "district": "BARPETA",
+            "ifsc": "NESF0000025",
+            "office": "BARPETA TOWN",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15975
+    },
+    {
+        "fields": {
+            "address": "WARD NO.4,VILL & P.O-TANGLA,DIST UDALGURI,BTAD,ASSAM,PIN-784 521",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TANGLA",
+            "district": "UDALGURI",
+            "ifsc": "NESF0000026",
+            "office": "TANGLA",
+            "phone": "9127063638",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15976
+    },
+    {
+        "fields": {
+            "address": "LAXMI NARAYAN BHAWAN,OPP.NETAJI NAGAR HIGH SCHOOL,VILL NETAJINAGAR,A.A ROAD,PO.TELIAMURA,PS.TELIAMURA,DIST.KHOWAI,WEST TRIPURA-799205",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AGARTALA",
+            "district": "KHOWAI",
+            "ifsc": "NESF0000028",
+            "office": "TELIAMURA",
+            "phone": "0",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15977
+    },
+    {
+        "fields": {
+            "address": "JIRANIA BLOCK,CHOWMUHANI,P.O JIRANIA,BIRENDRA NAGAR,DIST WEST TRIPURA-799045",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AGARTALA",
+            "district": "WEST TRIPURA",
+            "ifsc": "NESF0000029",
+            "office": "JIRANIA",
+            "phone": "0",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15978
+    },
+    {
+        "fields": {
+            "address": "WARD NO.2,PO.SIMALUGURI.PS.SIMALUGURI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIMALUGURI",
+            "district": "SIVASAGAR",
+            "ifsc": "NESF0000030",
+            "office": "SIMALUGURI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15979
+    },
+    {
+        "fields": {
+            "address": "VILL DHEKIAL,DHEKIAL CHARIALI,BLOCK - KATHALGURI,SUB DIV - DERGAON,P.S - DERGAON,DIST-GOLAGHAT,PIN-785622",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHEKIAL",
+            "district": "GOLAGHAT",
+            "ifsc": "NESF0000031",
+            "office": "DHEKIAL",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15980
+    },
+    {
+        "fields": {
+            "address": "VILL.BORHOLLA,PO.BORHOLLA PS.BORHOLLA,PIN-785631",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BORHOLA",
+            "district": "JORHAT",
+            "ifsc": "NESF0000032",
+            "office": "BORHOLA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15981
+    },
+    {
+        "fields": {
+            "address": "WARD-2,TITABOR TINIALI,PO.TITABOR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TITABOR",
+            "district": "JORHAT",
+            "ifsc": "NESF0000033",
+            "office": "TITABOR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15982
+    },
+    {
+        "fields": {
+            "address": "BAPUJINAGAR,PO.BALADMARI,PS.GOALPARA,PIN-783121,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GOALPARA",
+            "district": "GOALPARA",
+            "ifsc": "NESF0000034",
+            "office": "GOALPARA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15983
+    },
+    {
+        "fields": {
+            "address": "WARD NO 3,TIHU,P.O.TIHU,P.S - TIHU,DIST-NALBARI,PIN-781371,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TIHU",
+            "district": "NALBARI",
+            "ifsc": "NESF0000036",
+            "office": "TIHU",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15984
+    },
+    {
+        "fields": {
+            "address": "WARD NO.NO-06,SIMLAGURI,P.O - SIMLAGURI,P.S - BARPETA ROAD,DIST-BARPETA,PIN-781313,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BARPETA ROAD",
+            "district": "BARPETA",
+            "ifsc": "NESF0000037",
+            "office": "BARPETA ROAD",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15985
+    },
+    {
+        "fields": {
+            "address": "WARD NO 1 PAHSALA PO PATHSALA PS,ASSAM,PIN-781325",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATHSALA",
+            "district": "BARPETA",
+            "ifsc": "NESF0000038",
+            "office": "PATHSALA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15986
+    },
+    {
+        "fields": {
+            "address": "CHALANTAPARA,PO.CHALANTAPARA,PIN-783 388,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BOITAMARI",
+            "district": "BONGAIGAON",
+            "ifsc": "NESF0000039",
+            "office": "CHALANTHAPARA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15987
+    },
+    {
+        "fields": {
+            "address": "AT ROAD,TEOK,PO.TEOK,PS.TEOK",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TEOK",
+            "district": "JORHAT",
+            "ifsc": "NESF0000040",
+            "office": "TEOK",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15988
+    },
+    {
+        "fields": {
+            "address": "WARD NO.3,PO.NAZIRA PS.NAZIRA,SIVASAGAR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAZIRA",
+            "district": "SIVASAGAR",
+            "ifsc": "NESF0000041",
+            "office": "NAZIRA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15989
+    },
+    {
+        "fields": {
+            "address": "B.G ROAD,STATION CHARIALI,IN FRONT OF HDFC BANK,P.O.SIVASAGAR,P.S - SIVASAGAR,DIST-SIVASAGAR,PIN-785640,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIVASAGAR",
+            "district": "SIVASAGAR",
+            "ifsc": "NESF0000042",
+            "office": "SIVASAGAR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15990
+    },
+    {
+        "fields": {
+            "address": "MAINAKHORONG,PAMOHI,P.S GORCHUK,P.O PAMOHI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000043",
+            "office": "PAMOHI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15991
+    },
+    {
+        "fields": {
+            "address": "FATASIL,PO.DHIRENPARA,PS.FATASIL AMBARI,DIST.KAMRUP(M),ASSAM,PIN - 781025",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP METRO",
+            "ifsc": "NESF0000044",
+            "office": "BIRUBARI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15992
+    },
+    {
+        "fields": {
+            "address": "UMLYNGDIAT,OPPOSITE FIRE BRIGADE,PO& P.S - NONGPOH,PIN - 793102",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NONGPOH",
+            "district": "RI-BHOI",
+            "ifsc": "NESF0000045",
+            "office": "UMLYNGDIAT NONGPOH",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15993
+    },
+    {
+        "fields": {
+            "address": "SOA)",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MATIA",
+            "district": "OLR",
+            "ifsc": "NESF0000047",
+            "office": "MATIA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15994
+    },
+    {
+        "fields": {
+            "address": "GAURIPUR,P.O-GAURIPUR,P.S-GAURIPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GAURIPUR",
+            "district": "DHUBURI",
+            "ifsc": "NESF0000048",
+            "office": "GAURIPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15995
+    },
+    {
+        "fields": {
+            "address": "LALUK,P.O - LALUK,P.S - LALUK",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NORTH LAKHIMPUR",
+            "district": "LAKHIMPUR",
+            "ifsc": "NESF0000049",
+            "office": "LALUK",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15996
+    },
+    {
+        "fields": {
+            "address": "WARD NO-7,NORTH LAKHIMPUR,PO.NORTH LAKHIMPUR,PS.NORTH LAKHIMPUR,DIST.LAKHIMPUR,ASSAM,PIN-787001",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NORTH LAKHIMPUR",
+            "district": "LAKHIMPUR",
+            "ifsc": "NESF0000051",
+            "office": "NORTH LAKHIMPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15997
+    },
+    {
+        "fields": {
+            "address": "11 NO.KASHGAON,PO BISWANATH CHARIALI,PS BISWANATH CHARIALI,PIN-784176",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BISWANATH CHARIALI",
+            "district": "BISWANATH CHARIALI",
+            "ifsc": "NESF0000052",
+            "office": "BISWANATH CHARIALI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15998
+    },
+    {
+        "fields": {
+            "address": "VILL.MARAMGAON, PO. BORGANG, PS.BORGANG-BHELI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BORGANG",
+            "district": "BISWANATH CHARIALI",
+            "ifsc": "NESF0000053",
+            "office": "BORGANG",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 15999
+    },
+    {
+        "fields": {
+            "address": "SONAPUR 2 NO.JYOTINAGAR,BORKATGAON",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SONAPUR",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000054",
+            "office": "BORKAT GAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16000
+    },
+    {
+        "fields": {
+            "address": "WARD NO.3 ( OPPOSITE SBI MORIGAON BRANCH ) P.O/ P.S - MORIGAON,DISTRICT - MORIGAON,ASSAM,PIN-782105",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MORIGAON",
+            "district": "MORIGAON",
+            "ifsc": "NESF0000055",
+            "office": "MORIGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16001
+    },
+    {
+        "fields": {
+            "address": "BORKA,PO.PUB BORKA,PS.KAMALPUR,PIN-781101",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KAMRUP",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000056",
+            "office": "PANITAMA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16002
+    },
+    {
+        "fields": {
+            "address": "WARD NO - 06,PO.AMARPUR,PS.BIRGANJ",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AMARPUR",
+            "district": "GOMATI",
+            "ifsc": "NESF0000057",
+            "office": "AMARPUR",
+            "phone": "0",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16003
+    },
+    {
+        "fields": {
+            "address": "NIZKATHIATULI,JURIPAR,P.O - JUMURPUR,NAGAON",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTHIATOLI",
+            "district": "NAGAON",
+            "ifsc": "NESF0000058",
+            "office": "KOTHIATOLI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16004
+    },
+    {
+        "fields": {
+            "address": "BIJNI TOWN,P.O-BIJNI,P.S-BIJNI,PIN-783390,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BONGAIGAON",
+            "district": "CHIRANG",
+            "ifsc": "NESF0000059",
+            "office": "BIJNI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16005
+    },
+    {
+        "fields": {
+            "address": "SSSSDSPASSM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SARTHEBARI",
+            "district": "BARPETA",
+            "ifsc": "NESF0000060",
+            "office": "SARTHEBARI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16006
+    },
+    {
+        "fields": {
+            "address": "VILL - BOKO,PO - BOKO,PS-BOKO,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BOKO",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000061",
+            "office": "BOKO",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16007
+    },
+    {
+        "fields": {
+            "address": "VILL DHUPDHARA PT-2,PO DHUPDHARA PS DHUPDHARA",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHUPDHARA",
+            "district": "GOALPARA",
+            "ifsc": "NESF0000062",
+            "office": "DHUPDHARA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16008
+    },
+    {
+        "fields": {
+            "address": "VILL.CHABUA TOWN,OPP.SBI CHABUA BRANCH,PO.CHABUA PS.CHABUA,DIST.DIBRUGARH-786184",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHABUA",
+            "district": "DIBRUGARH",
+            "ifsc": "NESF0000063",
+            "office": "CHABUA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16009
+    },
+    {
+        "fields": {
+            "address": "S/O,BHUBAN CH HAZARIKA,RESIDING AT VILL.TENGAKGAT,PO.TENGAKGAT PS.TENGAKGAT,DIST.DIBRUGARH",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TENGAKHAT",
+            "district": "DIBRUGARH",
+            "ifsc": "NESF0000064",
+            "office": "TENGAKHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16010
+    },
+    {
+        "fields": {
+            "address": "GOBORDHAN GRANT,P.O-CHANDRAPUR,P.S-PRAGJYOTISHPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP METRO",
+            "ifsc": "NESF0000065",
+            "office": "GOBORDHAN CHANDRAPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16011
+    },
+    {
+        "fields": {
+            "address": "VILL.MAINAPARA,PO.GOGAMUKH",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GOGAMUKH",
+            "district": "DHEMAJI",
+            "ifsc": "NESF0000066",
+            "office": "GOGAMUKH",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16012
+    },
+    {
+        "fields": {
+            "address": "COMMERCIAL PLOT NO.652,PASSIGHAT MARKET,PASSIGHAT BAZAR,PO - PASSIGHAT,PS PASSIGHAT",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PASIGHAT",
+            "district": "EAST SIANG",
+            "ifsc": "NESF0000067",
+            "office": "PASIGHAT",
+            "phone": "0",
+            "state": "ARUNACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16013
+    },
+    {
+        "fields": {
+            "address": "VILL.BALIGAON,PO.DHAKUAKHANA PS.DHAKUAKHANA,DIST.NORTH LAKHIMPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHAKUAKHANA",
+            "district": "NORTH LAKHIMPUR",
+            "ifsc": "NESF0000068",
+            "office": "DHAKUAKHANA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16014
+    },
+    {
+        "fields": {
+            "address": "WARD NO.2 BIHPURIA,PO.BIHPURIA,PS.BIHPURIA,DIST.LAKHIMPUR,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BIHPURIA",
+            "district": "NORTH LAKHIMPUR",
+            "ifsc": "NESF0000069",
+            "office": "BIHPURIA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16015
+    },
+    {
+        "fields": {
+            "address": "OKNSUAUNHSH",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PAPUMPARE",
+            "district": "PAPUMPARE",
+            "ifsc": "NESF0000070",
+            "office": "KIMIN",
+            "phone": "0",
+            "state": "ARUNACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16016
+    },
+    {
+        "fields": {
+            "address": "AMRANGA,PO.BORIHAT,P.S-PALASHBARI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BORIHAT",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000071",
+            "office": "BORIHAT",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16017
+    },
+    {
+        "fields": {
+            "address": "NH-37,OPPOSITE-CHAYGAON POLICE STATION,CHAYGAON,ASSAM,PIN-781124",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHAYGAON",
+            "district": "CHAYGAON",
+            "ifsc": "NESF0000072",
+            "office": "CHAYGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16018
+    },
+    {
+        "fields": {
+            "address": "DEBERAPAR CHARI ALI,NEAR SBI ATM PO,JORHAT",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAKACHARI",
+            "district": "JORHAT",
+            "ifsc": "NESF0000073",
+            "office": "NAKACHARI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16019
+    },
+    {
+        "fields": {
+            "address": "VILL.NAMDANGIA BONGALIGAON,PO.GAURISA,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GAURISAGAR",
+            "district": "SIVSAGAR",
+            "ifsc": "NESF0000074",
+            "office": "GAURISAGAR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16020
+    },
+    {
+        "fields": {
+            "address": "WARD NO-4,GOHPUR,P.O-GAHPUR,P.S-GAHPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SONITPUR",
+            "district": "SONITPUR",
+            "ifsc": "NESF0000075",
+            "office": "GOHPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16021
+    },
+    {
+        "fields": {
+            "address": "WARD NO 1 JAKHRIA PO DIKRANG PS NAR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NARAYANPUR",
+            "district": "LAKHIMPUR",
+            "ifsc": "NESF0000076",
+            "office": "NARAYANPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16022
+    },
+    {
+        "fields": {
+            "address": "AHATGURI,P.O - AHATGURI,P.S-DHARAMTUL",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AHATGURI",
+            "district": "MORIGAON",
+            "ifsc": "NESF0000077",
+            "office": "AHATGURI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16023
+    },
+    {
+        "fields": {
+            "address": "VILL.NAKHANDIA,PO.CHARAIBAHI,PS.MIKIRBHETA,DIST.(ASSAM)MORIGAON",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MORIGAON",
+            "district": "MORIGAON",
+            "ifsc": "NESF0000078",
+            "office": "MIKIRBHETA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16024
+    },
+    {
+        "fields": {
+            "address": "BALISATRA ANCAHALIK SPORTS ASSOCIATION,BALISATRA,PO BALISATRA,PS - KALYAN",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BALISATRA",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000079",
+            "office": "BALISATRA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16025
+    },
+    {
+        "fields": {
+            "address": "CHIRWAPATTY,PO.TINSUKIA,PS.TINSUKIA,DIST.TINSUKIA,ASSAM-786125",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TINSUKIA",
+            "district": "TINSUKIA",
+            "ifsc": "NESF0000085",
+            "office": "TINSUKIA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16026
+    },
+    {
+        "fields": {
+            "address": "MISSION COMPOUND,IEWDUH BARABAZAR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHILLONG",
+            "district": "EAST KHASI",
+            "ifsc": "NESF0000087",
+            "office": "SHILLONG",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16027
+    },
+    {
+        "fields": {
+            "address": "VILL.NIRJULI,BAGE TINALI PO.NAHARLAGUN PS.NAHARLAGUN,DIST.PAPUMPARE,ARUNACHAL PRADESH,PIN-791109",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BAGE TINALI NAHARLAGUN",
+            "district": "PAPUMPARE",
+            "ifsc": "NESF0000089",
+            "office": "BAGE TINALI NAHARLAGUN",
+            "phone": "0",
+            "state": "ARUNACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16028
+    },
+    {
+        "fields": {
+            "address": "RUDFLR,FRTUECETRAL,BASISTHAPUR,BYELAE3,BELTLAUWAHATI,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "ARP ( ER )",
+            "ifsc": "NESF0000096",
+            "office": "BELTOLA",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16029
+    },
+    {
+        "fields": {
+            "address": "NARENGI TINIALI,P.O-NARENGI,P.S - NOONMATI,DIST-KAMRUP,ASSAM",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "ARP ( ER )",
+            "ifsc": "NESF0000105",
+            "office": "NARENGI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16030
+    },
+    {
+        "fields": {
+            "address": "VILL.BARGHULI,PS-TAMULPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DWARKUCHI",
+            "district": "BAKSA",
+            "ifsc": "NESF0000115",
+            "office": "TULSIBARI-DWARKUCHI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16031
+    },
+    {
+        "fields": {
+            "address": "VILL.BACHAGAON,PO.PANIGAON,PS.PANIGAON,DIST.NORTH LAKHIMPUR",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PANIGAON",
+            "district": "NORTH LAKHIMPUR",
+            "ifsc": "NESF0000134",
+            "office": "PANIGAON",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16032
+    },
+    {
+        "fields": {
+            "address": "WARD NO-03,PO LAMPHELPAT,PS IMPHAL",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "LAMPHELPAT",
+            "district": "IMPHAL WEST",
+            "ifsc": "NESF0000149",
+            "office": "LAMPHELPAT",
+            "phone": "0",
+            "state": "MANIPUR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16033
+    },
+    {
+        "fields": {
+            "address": "KHUWAI THANGJAM LEIKAI,PO LANGLONG,PS POROMPAT",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "POROMPAT",
+            "district": "IMPHAL EAST",
+            "ifsc": "NESF0000150",
+            "office": "POROMPAT",
+            "phone": "0",
+            "state": "MANIPUR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16034
+    },
+    {
+        "fields": {
+            "address": "WARD NO-04,PO.SILCHAR,PS.MALUGRAM,DIST.CACHAR,ASSAM,PIN-788001",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SILCHAR",
+            "district": "CACHAR",
+            "ifsc": "NESF0000151",
+            "office": "SILCHAR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16035
+    },
+    {
+        "fields": {
+            "address": "VILL / PO/PS MAIRANG,PYNDENGUMIONG,SHILLONG",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAIRANG",
+            "district": "WEST KHASI HILLS",
+            "ifsc": "NESF0000152",
+            "office": "MAIRANG",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16036
+    },
+    {
+        "fields": {
+            "address": "WARD NO - 2,PO& PS HAILAKANDI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HAILAKANDI",
+            "district": "CACHAR",
+            "ifsc": "NESF0000153",
+            "office": "HAILAKANDI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16037
+    },
+    {
+        "fields": {
+            "address": "LADTHALABOH,JOWAI,P.O-JOWAI,P.S-JOWAI,MEGHALAYA,793150",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "JOWAI",
+            "district": "ETJAINTIAHILL",
+            "ifsc": "NESF0000155",
+            "office": "JOWAI",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16038
+    },
+    {
+        "fields": {
+            "address": "KHLIEHRIAT,EAST JAINTIA HILLS,DIST-EAST JAINTIA HILLS,MEGHALAYA",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KHLIEHRIAT",
+            "district": "EAST JAINTIA HILLS",
+            "ifsc": "NESF0000156",
+            "office": "KHLIEHRIAT",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16039
+    },
+    {
+        "fields": {
+            "address": "SAHPUR RAJGHAT,PO.GAMARIMURI,PS.BELSOR,PIN - 781306",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SAHPUR",
+            "district": "NALBARI",
+            "ifsc": "NESF0000157",
+            "office": "SAHPUR",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16040
+    },
+    {
+        "fields": {
+            "address": "WARD NO-19,PO& PS KARIMGANJ",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KARIMGANJ",
+            "district": "KARIMGANJ",
+            "ifsc": "NESF0000160",
+            "office": "KARIMGANJ",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16041
+    },
+    {
+        "fields": {
+            "address": "RANI FOREST CHOWK,P.O-RANI,P.S-PALASHBARI,DIST-KAMRUP,ASSAM STATE,PIN-781131",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP RURAL",
+            "ifsc": "NESF0000165",
+            "office": "KAILASHPUR RANI",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16042
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR FORTUNE CENTRAL BASISTHAPUR BYE NO 3 BELTOLA GUWAHTI",
+            "bank_name": "NORTH EAST SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP",
+            "ifsc": "NESF0000999",
+            "office": "CPC",
+            "phone": "3617180104",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16043
+    }
+]

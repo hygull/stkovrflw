@@ -1,0 +1,602 @@
+[
+    {
+        "fields": {
+            "address": "JANVAIBHAV,OLD COTTON MARKET,AKOLA,PIN 444001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36550
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV, MAIN ROAD, MALEGAON PIN 444 503",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MALEGAON",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000002",
+            "office": "MALEGAON",
+            "phone": "271252",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36551
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV, MAIN ROAD, CIVIL LINE, RISOD PIN 4440506",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RISOD",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000003",
+            "office": "RISOD",
+            "phone": "222367",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36552
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV,RISOD NAKA, WASHIM PIN 444 505",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000004",
+            "office": "WASHIM",
+            "phone": "232190",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36553
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV, MAIN ROAD, MANGRULPIR PIN 444 403",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANGRULPIR",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000005",
+            "office": "MANGRULPIR",
+            "phone": "260369",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36554
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV, SHASIKANT TALKIES ROAD, KARANJA PIN 444 105",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KARANJA",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000006",
+            "office": "KARANJA",
+            "phone": "222194",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36555
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, TELHARA PIN 444 108",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "TELHARA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000007",
+            "office": "TELHARA",
+            "phone": "231595",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36556
+    },
+    {
+        "fields": {
+            "address": "SUBHASH ROAD, TAJNAPETH, AKOLA PIN 444 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000008",
+            "office": "TAJNAPETH",
+            "phone": "2436155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36557
+    },
+    {
+        "fields": {
+            "address": "TATYASAHEB OKE MARG, JATHARPETH CHOWK, AKOLA PIN 444 005",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000009",
+            "office": "TAPADIA NAGAR",
+            "phone": "2490714",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36558
+    },
+    {
+        "fields": {
+            "address": "PRABHU PLAZA, NEAR POWER HOUSE, GORAKSHAN ROAD, AKOLA PIN 444 004",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000010",
+            "office": "GORAKSHAN ROAD",
+            "phone": "2458851",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36559
+    },
+    {
+        "fields": {
+            "address": "HARIYA NAGAR,MAIN ROAD,MURTIZAPUR PIN 444107",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000011",
+            "office": "MURTIZAPUR",
+            "phone": "243205",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36560
+    },
+    {
+        "fields": {
+            "address": "AKOLA ROAD,SHIVAJI CHOWK,AKOT PIN 444101",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOT",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000012",
+            "office": "AKOT",
+            "phone": "222445",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36561
+    },
+    {
+        "fields": {
+            "address": "OMKAR NAGRI,WARD NO.3,BEHIND BUS STAND,SHIRPUR PIN 444 504",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SHIRPUR",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000013",
+            "office": "SHIRPUR",
+            "phone": "274018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36562
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,MANORA PIN 444 404",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MANORA",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000014",
+            "office": "MANORA",
+            "phone": "263330",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36563
+    },
+    {
+        "fields": {
+            "address": "DEVHARI COMPLEX,NEAR VASANT TALKIES,JAISTAMBH CHOWK,AMRAVATI PIN 444 601",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "AKJB0000015",
+            "office": "AMRAVATI",
+            "phone": "2576761",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36564
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV,SHRIRAM CHOWK,PHARSHI ROAD,INFRONT OF SAHELE COMPLEX,KHAMGAON PIN 444 303",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KHAMGAON",
+            "district": "BULDHANA",
+            "ifsc": "AKJB0000016",
+            "office": "KHAMGAON",
+            "phone": "254592",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36565
+    },
+    {
+        "fields": {
+            "address": "NEAR CHHAYA HOSPITAL,DABKI ROAD,OLD CITY,AKOLA PIN 444 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000017",
+            "office": "OLD CITY",
+            "phone": "2440424",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36566
+    },
+    {
+        "fields": {
+            "address": "91,NAVIPETH,NEAR L.I.C. OFFICE,JALGAON PIN 425 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "AKJB0000018",
+            "office": "JALGAON",
+            "phone": "2220736",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36567
+    },
+    {
+        "fields": {
+            "address": "DATTA CHOWK,YAVATMAL PIN 445 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "YAVATMAL",
+            "district": "YAVATMAL",
+            "ifsc": "AKJB0000019",
+            "office": "YAVATMAL",
+            "phone": "246670",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36568
+    },
+    {
+        "fields": {
+            "address": "SERVODAYA CLOTH MARKET,GANDHI BAUG,NAGPUR PIN 440 002",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "AKJB0000020",
+            "office": "NAGPUR",
+            "phone": "2772314",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36569
+    },
+    {
+        "fields": {
+            "address": "NETAJI CHOWK,MAIN ROAD,DIGRAS PIN 445 203",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "DIGRAS",
+            "district": "YAVATMAL",
+            "ifsc": "AKJB0000021",
+            "office": "DIGRAS",
+            "phone": "222584",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36570
+    },
+    {
+        "fields": {
+            "address": "MAYUR COLONY,NEAR OCTRIO NAKA,MALKAPUR ROAD,AKOLA PIN 444 004",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000022",
+            "office": "MALKAPUR ROAD",
+            "phone": "2458175",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36571
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV,NEAR HOMEOPATHIC COLLEGE,AKOT ROAD,AKOLA PIN 444 003",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000023",
+            "office": "AKOT ROAD",
+            "phone": "2442484",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36572
+    },
+    {
+        "fields": {
+            "address": "JANVAIBHAV,BHANSALI COMPLEX,BULDHANA ROAD,MALKAPUR PIN 443 101",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MALKAPUR",
+            "district": "BULDHANA",
+            "ifsc": "AKJB0000024",
+            "office": "MALKAPUR",
+            "phone": "223758",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36573
+    },
+    {
+        "fields": {
+            "address": "KACHHI BAZAR,PARBHANI PIN 431 401",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "AKJB0000025",
+            "office": "PARBHANI",
+            "phone": "225010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36574
+    },
+    {
+        "fields": {
+            "address": "GURUKRUPA MARKET,MAHAVIR CHOWK,VAZIRABAD,NANDED PIN 431 601",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "AKJB0000026",
+            "office": "NANDED",
+            "phone": "230259",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36575
+    },
+    {
+        "fields": {
+            "address": "205,207,209 NARAYAN BANSILAL BLD.,KALBADEVI RD,IN FRONT OF JAIN MANDIR,KALBADEVI,MUMBAI PIN 400 002",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "AKJB0000027",
+            "office": "KALBADEVI",
+            "phone": "22400251",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36576
+    },
+    {
+        "fields": {
+            "address": "DURANI CHOWK,PARATWADA PIN 444 805",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PARATWADA",
+            "district": "AMRAVATI",
+            "ifsc": "AKJB0000028",
+            "office": "PARATWADA",
+            "phone": "220192",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36577
+    },
+    {
+        "fields": {
+            "address": "GANDHI CHOWK,MAIN ROAD,CHANDUR RAILWAY PIN 444 904",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDUR RLY",
+            "district": "AMRAVATI",
+            "ifsc": "AKJB0000029",
+            "office": "CHANDUR RLY",
+            "phone": "254176",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36578
+    },
+    {
+        "fields": {
+            "address": "AAKASHWANI CHOWK,JALNA ROAD,AURANGABAD PIN 431 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "AKJB0000030",
+            "office": "AURANGABAD",
+            "phone": "2325141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36579
+    },
+    {
+        "fields": {
+            "address": "THAKUR MARKET,MAIN ROAD,PUSAD PIN 445 204",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "PUSAD",
+            "district": "YAVATMAL",
+            "ifsc": "AKJB0000031",
+            "office": "PUSAD",
+            "phone": "248812",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36580
+    },
+    {
+        "fields": {
+            "address": "PARINISHA,SHANWARA GATE,BURHANPUR M.P. PIN 450 331",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BURHANPUR",
+            "district": "BURHANPUR",
+            "ifsc": "AKJB0000032",
+            "office": "BURHANPUR",
+            "phone": "257901",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36581
+    },
+    {
+        "fields": {
+            "address": "CHETAK CENTRE,R.N.T.MARG,INDORE M.P.PIN 452 001",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "AKJB0000033",
+            "office": "INDORE",
+            "phone": "2526287",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36582
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO.718,1A,2B,3 PLOT NO.469,CANADA CORNER,NASIK PIN 422 005",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "AKJB0000035",
+            "office": "NASIK",
+            "phone": "2310481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36583
+    },
+    {
+        "fields": {
+            "address": "LAXMICHAND VIDYALAY SHELU BAZAR PIN 444402",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SHELU BAZAR",
+            "district": "WASHIM",
+            "ifsc": "AKJB0000036",
+            "office": "SHELU BAZAR",
+            "phone": "264769",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36584
+    },
+    {
+        "fields": {
+            "address": "GURUNANAK VIDYALAY SINDHI CAMP PIN 444004",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AKOLA",
+            "ifsc": "AKJB0000037",
+            "office": "SINDHI CAMP",
+            "phone": "2442598",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36585
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI MARKET 2, GROUND FLOOR, SHOP NO 10,11,29,30, PLOT NO 8 9 , CROMA ROAD, SECTOR 19D, INFORNT OF APMC DANA MARKET, VASHI",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "AKJB0000038",
+            "office": "VASHI",
+            "phone": "2227831446",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36586
+    },
+    {
+        "fields": {
+            "address": "LONI ROAD PLOT NO4 SURVEY NO 168/4 LONAR 443302",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "LONAR",
+            "district": "BULDHANA",
+            "ifsc": "AKJB0000039",
+            "office": "LONAR",
+            "phone": "221288",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36587
+    },
+    {
+        "fields": {
+            "address": "NEAR ABAD BHAVAN TAOR CHOWK WANI 445304",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "WANI",
+            "district": "YAVATMAL",
+            "ifsc": "AKJB0000040",
+            "office": "WANI",
+            "phone": "228383",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36588
+    },
+    {
+        "fields": {
+            "address": "RAJIV GANDHI NAGAR PARISHAD COMMERCIAL COMPLEX, NEAR NAGAR PARISHAD, ATHAVADHI BAZAR, MEHKAR",
+            "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MEHKAR",
+            "district": "BULDHANA",
+            "ifsc": "AKJB0000041",
+            "office": "MEHKAR",
+            "phone": "224555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36589
+    }
+]

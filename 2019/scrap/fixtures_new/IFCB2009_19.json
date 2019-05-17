@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "NEW DELHI MAIN BRANCH A1/16, MEZZANINE FLOOR WENGER HOUSE, RAJIV CHOWK CONNAUGHT PLACE NEW DELHI \u252c\u00fb 110001",
+            "bank_name": "CHINATRUST COMMERCIAL BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "CTCB0000001",
+            "office": "RTGS-HO",
+            "phone": "43688888",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145829
+    },
+    {
+        "fields": {
+            "address": "SRIPERUMBUDUR BRANCH (CHENNAI), PLOT NO 42 (OLD NO 105), CHENNAI BANGALORE HIGHWAY \u252c\u00fb NH4, SRIPERUMBUDUR, KANCHEEPURAM, DISTRICT TAMIL NADU - 602105.",
+            "bank_name": "CHINATRUST COMMERCIAL BANK LIMITED",
+            "branch": "",
+            "city": "SRIPERUMBUDUR",
+            "district": "SRIPERUMBUDUR",
+            "ifsc": "CTCB0000003",
+            "office": "SRIPERUMBUDUR BRANCH",
+            "phone": "66227777",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 145830
+    }
+]

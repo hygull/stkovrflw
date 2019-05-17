@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "A.M.C.COMPLEX BLDG,NEAR RANI LAXMIBAI UDYAN,KRANTI CHOWK,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000002",
+            "office": "KRANTI CHOWK",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16305
+    },
+    {
+        "fields": {
+            "address": "CTS.NO.15855/2/9,NEAR VEDANT GRUHKUL,NEW SHREYANAGAR,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000003",
+            "office": "JAWAHAR COLONY",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16306
+    },
+    {
+        "fields": {
+            "address": "N-7 SHOPPING COMPLEX,OPP.WOKHARDT COMPANY,CIDCO,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000004",
+            "office": "CIDCO",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16307
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.8,S.NO.14,PANDHARPUR POST.VALADGAON TQ.GANGAPUR DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000005",
+            "office": "WALUJ",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16308
+    },
+    {
+        "fields": {
+            "address": "DESH VIDESH MARKET,RAILWAY STATION ROAD,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000006",
+            "office": "RAILWAY STATION ROAD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16309
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.10 MAYANAGAR,N-2,CIDCO,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000007",
+            "office": "MUKUNDWADI",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16310
+    },
+    {
+        "fields": {
+            "address": "BALKRISHNA MAHARAJ MANDIR BLDG.NEAR Z.P.OFFICE,AURANGPURA,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000008",
+            "office": "GULMANDI",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16311
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.2,S.NO.12/1,WARD NO.2,JADHAVWADI,JALGAON-ROAD,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000009",
+            "office": "T.V.CENTRE",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16312
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,LASUR STATION TQ.GANGAPUR DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "LASUR STATION",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000010",
+            "office": "LASUR STATION",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16313
+    },
+    {
+        "fields": {
+            "address": "BLOCK NO.3,SHOW ROOM NO.4,ARJUN KHOTKAR BUSINESS CENTER,OLD MONDHA,JALNA",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "DEOB0000011",
+            "office": "JALNA",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16314
+    },
+    {
+        "fields": {
+            "address": "DISHA SQUARE,OPP.SUT GIRNI,GARKHEDA PARISAR,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000012",
+            "office": "SHIVAJINAGAR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16315
+    },
+    {
+        "fields": {
+            "address": "MAYUR PARK AREA,JALGAON-ROAD,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000013",
+            "office": "MAYUR PARK",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16316
+    },
+    {
+        "fields": {
+            "address": "NUTAN ROAD,SELU DIST.PARBHANI",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "SELU",
+            "district": "PARBHANI",
+            "ifsc": "DEOB0000014",
+            "office": "SELU",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16317
+    },
+    {
+        "fields": {
+            "address": "PATIL PLAZA,NEAR MHASKE PETROL PUMP,BEED-BY PASS ROAD,AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000015",
+            "office": "SATARA PARISAR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16318
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.8,9,10,RAUNAK CENTER,PIPE LINE ROAD,BHISTABHAG CHOWK,SAVEDI,AHMEDNAGAR",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "DEOB0000016",
+            "office": "AHMEDNAGAR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16319
+    },
+    {
+        "fields": {
+            "address": "52,NAVI PETH,JALGAON DIST.JALGAON",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "DEOB0000017",
+            "office": "JALGAON",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16320
+    },
+    {
+        "fields": {
+            "address": "S.NO.225/5,GADITAL,PUNE-SOLAPUR HIGHWAY,HADAPSAR,PUNE",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DEOB0000018",
+            "office": "HADAPSAR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16321
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.13,14,15,16 PART,DAMODHAR VILLA,KOTHRUD,PUNE",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "DEOB0000019",
+            "office": "KOTHRUD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16322
+    },
+    {
+        "fields": {
+            "address": "DINDAYALNAGAR,POST.HUSSAINPUR TQ.DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "HUSSAINPUR",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000020",
+            "office": "HUSSAINPUR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16323
+    },
+    {
+        "fields": {
+            "address": "OPP.POLICE STATION,JALNA-ROAD,KARMAD TQ.DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "KARMAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000021",
+            "office": "KARMAD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16324
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.40,SNEHNAGAR,CHALISGAON-ROAD,KANNAD TQ.KANNAD DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "KANNAD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000022",
+            "office": "KANNAD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16325
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.7,MANSINGHKA COMPLEX,DR.AMBEDKAR-ROAD,PACHORA DIST.JALGAON",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "PACHORA",
+            "district": "JALGAON",
+            "ifsc": "DEOB0000023",
+            "office": "PACHORA",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16326
+    },
+    {
+        "fields": {
+            "address": "H56C565043ULCELGBVLE",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "DEOB0000024",
+            "office": "DOMBIVLI",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16327
+    },
+    {
+        "fields": {
+            "address": "HL.55JH-DHLBD.BD.",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "PHULAMBRI",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000025",
+            "office": "PHULAMBRI",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16328
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1,GUT NO.8,SAVTANAGAR,NEAR NILAGGAON PHATA,BIDKIN TQ.PAITHAN DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "BIDKIN",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000026",
+            "office": "BIDKIN",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16329
+    },
+    {
+        "fields": {
+            "address": "S.NO.2,AURANGABAD-SOLAPUR HIGHWAY,SHAHAGAD TQ.AMBAD DIST.JALNA",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "SHAHAGAD",
+            "district": "JALNA",
+            "ifsc": "DEOB0000027",
+            "office": "SHAHAGAD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16330
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.3,MALMATTA NO.3134,PRIYADARSHANI CHOWK,BHOKARDAN-ROAD,SILLOD DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "SILLOD",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000028",
+            "office": "SILLOD",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16331
+    },
+    {
+        "fields": {
+            "address": "MILKAT NO.240/8,WARD NO.10,AURANGABAD-ROAD,LASUR NAKA,GANGAPUR DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "GANGAPUR",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000029",
+            "office": "GANGAPUR",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16332
+    },
+    {
+        "fields": {
+            "address": "OPP.COURT,PAITHAN ROAD,PAITHAN DIST.AURANGABAD",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "PAITHAN",
+            "district": "AURANGABAD",
+            "ifsc": "DEOB0000030",
+            "office": "PAITHAN",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16333
+    },
+    {
+        "fields": {
+            "address": "CTS.NO.3831/A,NEAR BANK OF BARODA,STATION-ROAD,CHALISGAON DIST.JALGAON",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "CHALISGAON",
+            "district": "JALGAON",
+            "ifsc": "DEOB0000031",
+            "office": "CHALISGAON",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16334
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.6-B,7-B,8-B,CTS NO.1799 WARD NO.7,BUS-STAND ROAD,CHIKHLI DIST.BULDHANA",
+            "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "branch": "",
+            "city": "CHIKHLI",
+            "district": "BULDHANA",
+            "ifsc": "DEOB0000032",
+            "office": "CHIKHLI",
+            "phone": "2240212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16335
+    }
+]

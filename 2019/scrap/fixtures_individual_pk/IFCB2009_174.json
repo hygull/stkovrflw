@@ -1,0 +1,62 @@
+[
+    {
+        "fields": {
+            "address": "GR.FLOOR, SAKHAR BHAVAN, NARIMAN POINT,40021",
+            "bank_name": "DOHA BANK QSC",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DOHB0000001",
+            "office": "RTGS-HO",
+            "phone": "33941133",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "201,RAHEJA CENTER, FREE PRESS MARG, NARIMAN POINT,MUMBAI 400021",
+            "bank_name": "DOHA BANK QSC",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DOHB0000002",
+            "office": "RAHEJA CENTER",
+            "phone": "33941120",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, GOLDEN PLAZA, CHITTOOR ROAD, OPP MYMOON THEATER, ERNAKULAM, KOCHI 682018",
+            "bank_name": "DOHA BANK QSC",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "KOCHI",
+            "ifsc": "DOHB0000003",
+            "office": "KOCHI",
+            "phone": "2370507",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "JAWAD ISPAHANI COMPLEX, 9, ANNASALAI, CHENNAI-600002, TAMILNADU",
+            "bank_name": "DOHA BANK QSC",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "DOHB0000004",
+            "office": "CHENNAI",
+            "phone": "43434848",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    }
+]

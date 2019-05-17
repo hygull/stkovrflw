@@ -1,0 +1,767 @@
+[
+    {
+        "fields": {
+            "address": "GURURANI COMPLEX, LALA BAZAR ALMORA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "AUCB0000001",
+            "office": "RTGS-HO",
+            "phone": "230743",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "CHOWK BAZAR ALMORA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "AUCB0000002",
+            "office": "nan",
+            "phone": "230702",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SADAR BAZAR ,RANIKHET",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RANIKHET",
+            "district": "ALMORA",
+            "ifsc": "AUCB0000003",
+            "office": "nan",
+            "phone": "220805",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "CHOWK BAZAR BAGESHWAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAGESHWAR",
+            "district": "BAGESHWAR",
+            "ifsc": "AUCB0000004",
+            "office": "nan",
+            "phone": "220176",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "DUNAGIRI ROAD ,DWARAHAT",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DWARAHAT",
+            "district": "ALMORA",
+            "ifsc": "AUCB0000005",
+            "office": "nan",
+            "phone": "244119",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "GANDHI CHOWK , PITHORAGARH",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PITHORAGARH",
+            "district": "PITHORAGARH",
+            "ifsc": "AUCB0000006",
+            "office": "nan",
+            "phone": "224958",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "MEERA MARG , HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000007",
+            "office": "nan",
+            "phone": "251219",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "BARA BAZAR , NAINITAL",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAINITAL",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000008",
+            "office": "nan",
+            "phone": "236985",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "VEER HAQUIKAT RAI MARG, RUDRAPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RUDRAPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000009",
+            "office": "nan",
+            "phone": "244735",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "NAVIN ADARSH MANDI, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000010",
+            "office": "nan",
+            "phone": "246043",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "JWALA LINE, RAMNAGAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAMNAGAR",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000011",
+            "office": "nan",
+            "phone": "252826",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "MAIN MARKET, TANAKPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TANAKPUR",
+            "district": "CHAMPAWAT",
+            "ifsc": "AUCB0000012",
+            "office": "nan",
+            "phone": "265911",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "KHATIMA ROAD, SITARGANJ",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SITARGANJ",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000013",
+            "office": "nan",
+            "phone": "244848",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "KALADHUNGI ROAD, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000014",
+            "office": "nan",
+            "phone": "255144",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SITARGANJ ROAD, KHATIMA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KHATIMA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000015",
+            "office": "nan",
+            "phone": "252710",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "POST OFFICE ROAD, KASHIPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KASHIPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000016",
+            "office": "nan",
+            "phone": "273252",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "MAIN MARKET, KICHHA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KICHHA",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000017",
+            "office": "nan",
+            "phone": "263310",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "MALLI TAL, BHIMTAL",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BHIMTAL",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000018",
+            "office": "nan",
+            "phone": "248381",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "HARIDWAR ROAD, RISHIKESH",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RISHIKESH",
+            "district": "HARIDWAR",
+            "ifsc": "AUCB0000019",
+            "office": "nan",
+            "phone": "2435353",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "SHYMAPUR, RISHIKESH",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHYAMPUR",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000020",
+            "office": "nan",
+            "phone": "2452488",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "RAIWALA, RISHIKESH",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAIWALA",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000021",
+            "office": "nan",
+            "phone": "2484844",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "STATION ROAD, CHAMPAWAT",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHAMPAWAT",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000022",
+            "office": "nan",
+            "phone": "231056",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "KHARI BAZAR, LOHAGHAT",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LOHAGHAT",
+            "district": "CHAMPAWAT",
+            "ifsc": "AUCB0000023",
+            "office": "nan",
+            "phone": "235477",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "HALDWANI ROAD, KALADHUNGI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALADHUNGI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000024",
+            "office": "nan",
+            "phone": "242440",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "NAINITAL ROAD, LALKUAN",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "LALKUAN",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000025",
+            "office": "nan",
+            "phone": "268833",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "DEVI ROAD, KOTDWAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOTDWAR",
+            "district": "PAURI",
+            "ifsc": "AUCB0000026",
+            "office": "nan",
+            "phone": "229975",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "NAINITAL ROAD, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000027",
+            "office": "nan",
+            "phone": "284999",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "RAMPUR ROAD, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000028",
+            "office": "nan",
+            "phone": "234308",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "BHAGAT SINGH CHOWK, BAZPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BAZPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000029",
+            "office": "nan",
+            "phone": "281355",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "JHANDA BAZAR, DEHRADUN",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000030",
+            "office": "nan",
+            "phone": "2620890",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "BHOLAGIRI ROAD, HARIDWAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARIDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "AUCB0000031",
+            "office": "nan",
+            "phone": "220299",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "GIC ROAD, GANGOLIHAT",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GANGOLIHAT",
+            "district": "PITHORAGARH",
+            "ifsc": "AUCB0000032",
+            "office": "nan",
+            "phone": "242054",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "VIDHNSABHA ROAD, DEHRADUN",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000033",
+            "office": "nan",
+            "phone": "2666756",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "CHAKRATA ROAD, VIKASNAGAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VIKASNAGAR",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000034",
+            "office": "nan",
+            "phone": "252920",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "OLD RAILWAY ROAD, ROORKEE",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ROORKEE",
+            "district": "HARIDWAR",
+            "ifsc": "AUCB0000035",
+            "office": "nan",
+            "phone": "263646",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "NEAR SARSWATI SISHU MANDIR, SULTANPUR PATTI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SULTANPUR PATTI",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000036",
+            "office": "nan",
+            "phone": "225133",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "MILAN BANQUIT HALL, JASPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "JASPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000037",
+            "office": "nan",
+            "phone": "220073",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "CHOWK BAZAR, BERINAG",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BERINAG",
+            "district": "PITHORAGARH",
+            "ifsc": "AUCB0000038",
+            "office": "nan",
+            "phone": "244675",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "NEAR GIC, GARUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GARUR",
+            "district": "BAGESHWAR",
+            "ifsc": "AUCB0000039",
+            "office": "nan",
+            "phone": "250156",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "MALL ROAD, ALMORA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ALMORA",
+            "district": "ALMORA",
+            "ifsc": "AUCB0000040",
+            "office": "nan",
+            "phone": "232323",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "BAREILLY ROAD, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000041",
+            "office": "nan",
+            "phone": "250164",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "KUSUMKHERA, HALDWANI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HALDWANI",
+            "district": "NAINITAL",
+            "ifsc": "AUCB0000042",
+            "office": "nan",
+            "phone": "260189",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "GURUDWARA ROAD, JWALAPUR, HARIDWAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARIDWAR",
+            "district": "HARIDWAR",
+            "ifsc": "AUCB0000043",
+            "office": "nan",
+            "phone": "152625",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "UPPER BAZAR, PAURI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PAURI",
+            "district": "PAURI",
+            "ifsc": "AUCB0000044",
+            "office": "nan",
+            "phone": "222233",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "KALA ROAD, SRINAGAR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SRINAGAR",
+            "district": "PAURI",
+            "ifsc": "AUCB0000045",
+            "office": "nan",
+            "phone": "250621",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "DISPENSARY ROAD, DEHRADUN",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000046",
+            "office": "nan",
+            "phone": "2710769",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "MILL ROAD, DOIWALA",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DOIWALA",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000047",
+            "office": "nan",
+            "phone": "2691896",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "GULARBHOJ ROAD, GADARPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "GADARPUR",
+            "district": "UDHAM SINGH NAGAR",
+            "ifsc": "AUCB0000048",
+            "office": "nan",
+            "phone": "271010",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "DEHRADUN ROAD, HARBARTPUR",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HARBARTPUR",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000049",
+            "office": "nan",
+            "phone": "259999",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "LAXMAN JHULA ROAD, MUNIKIRETI",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUNI KI RETI RISHIKESH",
+            "district": "DEHRADUN",
+            "ifsc": "AUCB0000050",
+            "office": "nan",
+            "phone": "2433344",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "CIVIL LINES, ROORKEE",
+            "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ROORKEE",
+            "district": "HARIDWAR",
+            "ifsc": "AUCB0000051",
+            "office": "nan",
+            "phone": "0",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    }
+]

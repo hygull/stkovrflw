@@ -1,0 +1,947 @@
+[
+    {
+        "fields": {
+            "address": "516/2, SHANIWAR PETH,SHAHU CHOWK, KARAD -  415 110.",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488000",
+            "office": "HEAD OFFICE",
+            "phone": "226013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60304
+    },
+    {
+        "fields": {
+            "address": "243,A , GURUWAR PETH ,TILAK ROAD ,KARAD - 415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488001",
+            "office": "GURUWAR PETH",
+            "phone": "222243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60305
+    },
+    {
+        "fields": {
+            "address": "PLOT NO- 533 KRISHNA BUILDING, SHANIWAR PETH ,KARAD -415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488002",
+            "office": "TALBHAG",
+            "phone": "222458",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60306
+    },
+    {
+        "fields": {
+            "address": "OPP.KANYA SHALA,PALACE STREET ,167, BHAVANI PETH, SATARA- 415 002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488003",
+            "office": "SATARA CITY",
+            "phone": "234032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60307
+    },
+    {
+        "fields": {
+            "address": "OPP. S.T.STAND, AT POST- MASUR TAL- KARAD  MASUR -415 106",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MASUR",
+            "district": "SATARA",
+            "ifsc": "KUCB0488004",
+            "office": "MASUR",
+            "phone": "252240",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60308
+    },
+    {
+        "fields": {
+            "address": "S.NO- 812, WAKDE BUILDING, \" JANAIDEVI SANKUL \", 1 ST FLOOR , UMBRAJ - 415 109",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "UMBRAJ",
+            "district": "SATARA",
+            "ifsc": "KUCB0488005",
+            "office": "UMBRAJ",
+            "phone": "264045",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60309
+    },
+    {
+        "fields": {
+            "address": "MILKAT NO- 921 ,OPP.COLLEGE OF PHARMACY ,VIDYANAGAR,  KARAD",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488006",
+            "office": "VIDHYANAGAR",
+            "phone": "271326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60310
+    },
+    {
+        "fields": {
+            "address": "M.G.ROAD ,ATTAR BUILDING,AZAD CHOWK ,RAVIWAR PETH KARAD - 415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488007",
+            "office": "SAYAM",
+            "phone": "222533",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60311
+    },
+    {
+        "fields": {
+            "address": "VYANKATESH ,AZAD CHOWK,MAIN ROAD ,KOREGAON - 415 501",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOREGAON",
+            "district": "SATARA",
+            "ifsc": "KUCB0488008",
+            "office": "KOREGAON",
+            "phone": "220328",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60312
+    },
+    {
+        "fields": {
+            "address": "C.S.NO -696,MAIN ROAD VADUJ TAL- KHATAV - 415 506",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VADUJ",
+            "district": "SATARA",
+            "ifsc": "KUCB0488009",
+            "office": "VADUJ",
+            "phone": "231325",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60313
+    },
+    {
+        "fields": {
+            "address": "JADHAV BUILDING, OPP.CIVIL COURT,DAHIVADI TAL- MAN -415 508",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "DAHIWADI",
+            "district": "SATARA",
+            "ifsc": "KUCB0488010",
+            "office": "DAHIWADI",
+            "phone": "220340",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60314
+    },
+    {
+        "fields": {
+            "address": "PLOT NO- 11, SHINDE BUILDING,P.B.ROAD, MALKAPUR -415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488011",
+            "office": "MALAKAPUR",
+            "phone": "241448",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60315
+    },
+    {
+        "fields": {
+            "address": "904/905, OM BUILDING ,MALHARPETH TAL- PATAN - 415 205",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MALHAR PETH",
+            "district": "SATARA",
+            "ifsc": "KUCB0488012",
+            "office": "MALHAR PETH",
+            "phone": "285013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60316
+    },
+    {
+        "fields": {
+            "address": "BHAGIRTHI CHAMBERS, 55 ,RAVIWAR PETH SATARA -415 002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488013",
+            "office": "POWAI NAKA",
+            "phone": "233851",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60317
+    },
+    {
+        "fields": {
+            "address": "JADHAV BUILDING,PANDHARPUR ROAD,PUSEGAON TAL -KHATAV - 415 502",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUSEGAON",
+            "district": "SATARA",
+            "ifsc": "KUCB0488014",
+            "office": "PUSEGAON",
+            "phone": "260378",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60318
+    },
+    {
+        "fields": {
+            "address": "NEAR DYANESHWAR TEMPLE,LAXMI NAGAR,PHALTAN - 415 223",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PHALTAN",
+            "district": "SATARA",
+            "ifsc": "KUCB0488015",
+            "office": "PHALTAN",
+            "phone": "222174",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60319
+    },
+    {
+        "fields": {
+            "address": "S.S.NO- 907, NINAM PADALI ROAD ,NAGTHANE TAL-SATARA",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAGTHANE",
+            "district": "SATARA",
+            "ifsc": "KUCB0488016",
+            "office": "NAGTHANE",
+            "phone": "265121",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60320
+    },
+    {
+        "fields": {
+            "address": "SHIKHAR SHINGNAPUR ROAD ,MHASWAD TAL-MAN 415 509",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MHASWAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488017",
+            "office": "MHASWAD",
+            "phone": "270302",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60321
+    },
+    {
+        "fields": {
+            "address": "PARDESHI BUILDING ,MAIN ROAD, ISLAMPUR DIST-SANGLI 415 509",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SATARA",
+            "ifsc": "KUCB0488018",
+            "office": "ISLAMPUR",
+            "phone": "222696",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60322
+    },
+    {
+        "fields": {
+            "address": "C.S.NO - 72 A,LAXMI NIWAS ,MAHAVEER NAGAR,PATEL CHOWK, SANGLI - 416 416",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SATARA",
+            "ifsc": "KUCB0488019",
+            "office": "SANGLI CITY",
+            "phone": "2620046",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60323
+    },
+    {
+        "fields": {
+            "address": "GRAMPANCHAYAT BUILDING,KALE - 415 104",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KALE",
+            "district": "SATARA",
+            "ifsc": "KUCB0488020",
+            "office": "KALE",
+            "phone": "254285",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60324
+    },
+    {
+        "fields": {
+            "address": "TANDALE BUILDING ,RAHIMATPUR,TAL- KOREGAON",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "RAHIMATPUR",
+            "district": "SATARA",
+            "ifsc": "KUCB0488021",
+            "office": "RAHIMATPUR",
+            "phone": "230281",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60325
+    },
+    {
+        "fields": {
+            "address": "C.S.NO- 629,C WARD ,SHIVAJI ROAD,ARAM CORNOR, KOLHAPUR - 416 002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KUCB0488022",
+            "office": "KOLHAPUR CITY",
+            "phone": "2541418",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60326
+    },
+    {
+        "fields": {
+            "address": "CHATRAPATI SHIVAJI MARKET,PAN BAZAR,GULTEKADI PUNE-411 037",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488023",
+            "office": "GULTAKADI",
+            "phone": "24268109",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60327
+    },
+    {
+        "fields": {
+            "address": "POOJA COMPLEX, RUKMININAGAR ,KARAD - 415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488024",
+            "office": "RUKHMININAGAR",
+            "phone": "223820",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60328
+    },
+    {
+        "fields": {
+            "address": "SHRI SWAMI SAMARTH COMPLEX,INDRAYANINAGAR,BHOSARI ,PUNE -411 026",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488025",
+            "office": "BHOSARI",
+            "phone": "27119446",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60329
+    },
+    {
+        "fields": {
+            "address": "OPP.KARAD MUNCIPAL COUNCIL,MANGALWAR PETH,KARAD - 415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488026",
+            "office": "MANGALWAR PETH",
+            "phone": "223921",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60330
+    },
+    {
+        "fields": {
+            "address": "STATUS SYMBOL' , S.NO. 2589/A, FIRST FLOOR ,MANGALWAR PETH, CHATI GALLI, SOLAPUR - 413 002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "KUCB0488027",
+            "office": "SOLAPUR",
+            "phone": "2624430",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60331
+    },
+    {
+        "fields": {
+            "address": "S.S.NO -436/7 , PLOT NO-6 , SADAR BAZAR, SATARA - 415 001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488028",
+            "office": "SADAR BAZAR",
+            "phone": "235851",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60332
+    },
+    {
+        "fields": {
+            "address": "S.S.NO-127/1 B,KARVE ROAD,KOTHRUD,PUNE -411 029",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488029",
+            "office": "KARVE ROAD",
+            "phone": "25420066",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60333
+    },
+    {
+        "fields": {
+            "address": "BAGADIA BUILD,KASBA PETH,NR PHADAKE HAUD CHOWK",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488030",
+            "office": "RAWIWAR PETH PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60334
+    },
+    {
+        "fields": {
+            "address": "SWAMI COMPLEX-2, NEAR BHAJI MARKET,BAZAR PETH,CHIPLUN -415 605",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHIPLUN",
+            "district": "RATNAGIRI",
+            "ifsc": "KUCB0488032",
+            "office": "CHIPLUN",
+            "phone": "260075",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60335
+    },
+    {
+        "fields": {
+            "address": "C.S.NO-705 A, RAJRATNA HEIGHTS, MIRAJ SANGLI SERVICE ROAD, CHANDANI CHOWK CORNER, SANGLI",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "KUCB0488033",
+            "office": "MARKET YARD SANGLI",
+            "phone": "2670925",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60336
+    },
+    {
+        "fields": {
+            "address": "1104 - E WARD, OPP.SHAHAJI LAW COLLEGE,SHAHUPURI,KOLHAPUR - 416 001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "KUCB0488034",
+            "office": "SHAHUPURI",
+            "phone": "2533326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60337
+    },
+    {
+        "fields": {
+            "address": "C.S.NO-688 TO 690 ,OFF KUMTHEKAR ROAD,SADASHIV PETH ,PUNE - 411 030",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488035",
+            "office": "LAXMI ROAD",
+            "phone": "24474700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60338
+    },
+    {
+        "fields": {
+            "address": "HEAD OFFICE, 516/2, SHAHU CHOWK,SHANIWAR PETH, KARAD.PIN- 415110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "KUCB0488036",
+            "office": "RTGS-HO",
+            "phone": "22870389",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60339
+    },
+    {
+        "fields": {
+            "address": "P.NO.8,PRIYADARSHINI CO-OP HOUSING SOCIETY,KARVE NAKA,KARAD -415 110",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "KARAD",
+            "ifsc": "KUCB0488037",
+            "office": "KARVE NAKA",
+            "phone": "229563",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60340
+    },
+    {
+        "fields": {
+            "address": "S.NO. 192 , M.G.ROAD ,CAMP PUNE - 411 001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488038",
+            "office": "CAMP",
+            "phone": "26344878",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60341
+    },
+    {
+        "fields": {
+            "address": "E-1/ E-2 ,ROYAL ARCHADE , NH - 4 ,DHANKAVADI PUNE - 411 043",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488039",
+            "office": "DHANKAWADI",
+            "phone": "24363918",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60342
+    },
+    {
+        "fields": {
+            "address": "SACHIN BUILDING, NEAR MAMATA HOSPITAL, MAYANI ROAD, VITA - 415 311",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "VITA",
+            "district": "SANGLI",
+            "ifsc": "KUCB0488044",
+            "office": "VITA",
+            "phone": "273182",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60343
+    },
+    {
+        "fields": {
+            "address": "C.S.NO- 248 / 1-2 , MANGALWAR PETH,SAYAR BULD.,MADHAVNAGAR,SANGLI",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "KUCB0488046",
+            "office": "MADHAVNAGAR",
+            "phone": "2311225",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60344
+    },
+    {
+        "fields": {
+            "address": "1579, SOMWAR PETH, BATTIS SHIRALA ,SHIRALA - 415 408",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHIRALA",
+            "district": "SANGLI",
+            "ifsc": "KUCB0488048",
+            "office": "SHIRALA",
+            "phone": "272721",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60345
+    },
+    {
+        "fields": {
+            "address": "C.S.NO- 5250 & 5201 , LAXMI MARKET ,MIRAJ - 416 410",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MIRAJ MARKET",
+            "district": "SANGLI",
+            "ifsc": "KUCB0488049",
+            "office": "MIRAJ MARKET",
+            "phone": "2228450",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60346
+    },
+    {
+        "fields": {
+            "address": "'FOCUS' , S.NO- 82, NEAR ORCHID SCHOOL, BANER PUNE - 411 045",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488051",
+            "office": "BANER",
+            "phone": "27292930",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60347
+    },
+    {
+        "fields": {
+            "address": "P-31 , KARAD INDUSTRIAL AREA , BEHIND MIDC OFFICE ,TASWADE KARAD - 415 109",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "KARAD",
+            "ifsc": "KUCB0488052",
+            "office": "TASWADE",
+            "phone": "258004",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60348
+    },
+    {
+        "fields": {
+            "address": "19- A, RAJARAM ESTATE , 1ST FLOOR , M.M.G.S.ROAD, DADAR (E), MUMBAI - 400 014",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KUCB0488053",
+            "office": "DADAR",
+            "phone": "24171471",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60349
+    },
+    {
+        "fields": {
+            "address": "S.NO.25/1/1 , IST FLOOR, KALEWADI PHATA, RAHATANI, PIMPARI , PUNE - 411 017",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488054",
+            "office": "KALEWADI",
+            "phone": "27272000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60350
+    },
+    {
+        "fields": {
+            "address": "S.NO.10/4,SINHAGAD ROAD , WADGAON KHURD,TAL-HAVELI , DIST- PUNE ,PUNE- 411 041",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488055",
+            "office": "SINHGAD ROAD",
+            "phone": "24395979",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60351
+    },
+    {
+        "fields": {
+            "address": "'SHUBH KALASH COMPLEX', GALA NO-14,15,16 , SECTOR NO-35, PHASE II ,",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "KAMOTHE",
+            "district": "RAIGAD",
+            "ifsc": "KUCB0488056",
+            "office": "KAMOTHE",
+            "phone": "65883105",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60352
+    },
+    {
+        "fields": {
+            "address": "SHREE MARIAAI MAHALAXMI COMPLEX, 174/A, RAVIWAR PETH SATARA - 415002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488057",
+            "office": "POWAI NAKA",
+            "phone": "232910",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60353
+    },
+    {
+        "fields": {
+            "address": "ABHYUDAY AARCADE, VISAVA CAMP, SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488058",
+            "office": "VISAVA CAMP",
+            "phone": "239106",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60354
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.9, BARAVKAR NAGAR, NEAR SHIVRAJ PETROL PUMP, SAMBHAJINAGAR SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488059",
+            "office": "SHIVRAJ PETROL PUMP",
+            "phone": "248275",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60355
+    },
+    {
+        "fields": {
+            "address": "GRAMPANCHAYAT BHAVAN, APASHINGE SATARA - 415518",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488060",
+            "office": "APASHINGE",
+            "phone": "265498",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60356
+    },
+    {
+        "fields": {
+            "address": "AT POST NAGTHANE, SATARA - 415519",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488061",
+            "office": "NAGTHANE",
+            "phone": "265690",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60357
+    },
+    {
+        "fields": {
+            "address": "MADHUKRUSHNA COMPLEX, 116, SADASHIV PETH SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488062",
+            "office": "SADASHIV PETH",
+            "phone": "236404",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60358
+    },
+    {
+        "fields": {
+            "address": "217, RAVIWAR PETH, MARKET YARD SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488063",
+            "office": "MARKET YARD",
+            "phone": "231145",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60359
+    },
+    {
+        "fields": {
+            "address": "VIMAL RESINDENCY, SHOP NO. 12/13, KRUSHNANAGAR( KHED) SATARA - 415003",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488064",
+            "office": "KRUSHNANAGAR",
+            "phone": "246275",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60360
+    },
+    {
+        "fields": {
+            "address": "LAXMI NIVAS, 346, YADOGOPAL PETH, SATARA - 415002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488065",
+            "office": "YADOGOPAL PETH",
+            "phone": "282427",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60361
+    },
+    {
+        "fields": {
+            "address": "AT POST SHAHUNAGAR, SHENDRE TAL & DIST SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488066",
+            "office": "SHAHUNAGAR SHENDRE",
+            "phone": "279265",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60362
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 27, SHREE GANESH HOUSING SOCIETY, SHAHUNAGAR , GODOLI SATARA - 415001",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488067",
+            "office": "SHAHUNAGAR GODOLI",
+            "phone": "220484",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60363
+    },
+    {
+        "fields": {
+            "address": "CHINTAMANI BUILDING, PLOT. NO. 2,3 MADHAVBAG CO-OP HOUSING SOCIETY, SHIVTIRTHNAGAR, POUD ROAD, KOTHRUD PUNE - 411038",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "KUCB0488068",
+            "office": "KOTHRUD",
+            "phone": "64014213",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60364
+    },
+    {
+        "fields": {
+            "address": "81, RAMNAGAR, PAWAR COLONY, SHAHUPURI, SATARA 415002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488069",
+            "office": "SHAHUPURI",
+            "phone": "250035",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60365
+    },
+    {
+        "fields": {
+            "address": "SARVE NO. 8/2/2B, RUDRAKSHA RESINDENCY, KANJE TARFE SATARA - 415002",
+            "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "KUCB0488070",
+            "office": "TAMJAINAGAR KARANJE",
+            "phone": "250027",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 60366
+    }
+]

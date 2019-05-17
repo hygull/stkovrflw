@@ -1,0 +1,422 @@
+[
+    {
+        "fields": {
+            "address": "233,N.S.C BOSE ROAD CHENNAI 600001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "TNSC0000001",
+            "office": "HEADOFFICE",
+            "phone": "25340973",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101158
+    },
+    {
+        "fields": {
+            "address": "80,BANK ROAD,COIMBATORE - 641018",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "TNSC0010000",
+            "office": "THE COIMBATORE DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2302447",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101159
+    },
+    {
+        "fields": {
+            "address": "81/10H,NETHAJI BYE-PASS ROAD,DHARMAPURI-636 701",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "DHARMAPURI",
+            "district": "DHARMAPURI",
+            "ifsc": "TNSC0010100",
+            "office": "THE DHARMAPURI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "260051",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101160
+    },
+    {
+        "fields": {
+            "address": "15-G,SHEIKPET NORTH STREET,KANCHIPURAM-631 501",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "KANCHIPURAM",
+            "district": "KANCHIPURAM",
+            "ifsc": "TNSC0010200",
+            "office": "THE KANCHIPURAM CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "27222296",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101161
+    },
+    {
+        "fields": {
+            "address": "ALEXANDER PRESS ROAD,NAGERCOIL-629001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "NAGERCOIL",
+            "district": "KANYAKUMARI",
+            "ifsc": "TNSC0010300",
+            "office": "THE KANYAKUMARI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "233384",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101162
+    },
+    {
+        "fields": {
+            "address": "2,T.S.R.BIG STREET,KUMBAKONAM-612 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "KUMBAKONAM",
+            "district": "THANJAVUR",
+            "ifsc": "TNSC0010400",
+            "office": "THE KUMBAKONAM CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2430073",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101163
+    },
+    {
+        "fields": {
+            "address": "215,PRAKASAM SALAI,CHENNAI - 600 108",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "TNSC0010500",
+            "office": "THE CHENNAI CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "23458708",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101164
+    },
+    {
+        "fields": {
+            "address": "187,NORTH VELI STREET,MADURAI - 625 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "MADURAI",
+            "district": "MADURAI",
+            "ifsc": "TNSC0010600",
+            "office": "THE MADURAI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2342051",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101165
+    },
+    {
+        "fields": {
+            "address": "CHARRING CROSS,UDHAGAMANDALAM-643 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "UDHAGAMANDALAM",
+            "district": "NILGIRIS",
+            "ifsc": "TNSC0010700",
+            "office": "THE NILGIRIS DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2443978",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101166
+    },
+    {
+        "fields": {
+            "address": "BHAVANI MAIN ROAD,ERODE - 638 003",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "ERODE",
+            "district": "ERODE",
+            "ifsc": "TNSC0010800",
+            "office": "THE ERODE DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2213401",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101167
+    },
+    {
+        "fields": {
+            "address": "834-836,EAST MAIN STREET,PUDUKKOTTAI-622 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "PUDUKKOTTAI",
+            "district": "PUDUKKOTTAI",
+            "ifsc": "TNSC0010900",
+            "office": "THE PUDUKKOTTAI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "222389",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101168
+    },
+    {
+        "fields": {
+            "address": "265-E,VANDIKARA STREET,RAMANATHAPURAM-623 501",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "RAMANATHAPURAM",
+            "district": "RAMANATHAPURAM",
+            "ifsc": "TNSC0011000",
+            "office": "THE RAMANATHAPURAM DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "220149",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101169
+    },
+    {
+        "fields": {
+            "address": "153/65-A,CHERRY ROAD,SALEM - 636 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "TNSC0011100",
+            "office": "THE SALEM DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2451761",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101170
+    },
+    {
+        "fields": {
+            "address": "BEACH ROAD,CUDDALORE - 607 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CUDDALORE",
+            "district": "CUDDALORE",
+            "ifsc": "TNSC0011200",
+            "office": "THE CUDDALORE DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "295911",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101171
+    },
+    {
+        "fields": {
+            "address": "331,MELA VEETHI,THANJAVUR - 613 009",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "THANJAVUR",
+            "district": "THANJAVUR",
+            "ifsc": "TNSC0011300",
+            "office": "THE THANJAVUR CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "223322",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101172
+    },
+    {
+        "fields": {
+            "address": "NO.1,FORT STATION ROAD,TEPPAKULAM,TIRUCHIRAPALLI-620002",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "TIRUCHIRAPALLI",
+            "district": "TIRUCHIRAPALLI",
+            "ifsc": "TNSC0011400",
+            "office": "THE TIRUCHIRAPALLI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2702441",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101173
+    },
+    {
+        "fields": {
+            "address": "TRIVANDRUM ROAD,VANNARPET,TIRUNELVELI - 627003",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "TIRUNELVELI",
+            "district": "TIRUNELVELI",
+            "ifsc": "TNSC0011500",
+            "office": "THE TIRUNELVELI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2500281",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101174
+    },
+    {
+        "fields": {
+            "address": "NO.3,OFFICERS LINE,VELLORE - 632 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "VELLORE",
+            "district": "VELLORE",
+            "ifsc": "TNSC0011600",
+            "office": "THE VELLORE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+            "phone": "2220522",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101175
+    },
+    {
+        "fields": {
+            "address": "COOP.NAGAR,TIRUCHI ROAD,DINDIGUL - 624 005",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "DINDIGUL",
+            "district": "DINDIGUL",
+            "ifsc": "TNSC0011700",
+            "office": "THE DINDIGUL CENTRAL COOPERATIVE BANK LTD,",
+            "phone": "2433153",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101176
+    },
+    {
+        "fields": {
+            "address": "104/1,MADURAI ROAD,VIRUDHUNAGAR - 626 001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "VIRUDHUNAGAR",
+            "district": "VIRUDHUNAGAR",
+            "ifsc": "TNSC0011800",
+            "office": "THE VIRUDHUNAGAR DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "245815",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101177
+    },
+    {
+        "fields": {
+            "address": "163,GANDHI STREET,SIVAGANGAI - 630 561",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "SIVAGANGAI",
+            "district": "SIVAGANGAI",
+            "ifsc": "TNSC0011900",
+            "office": "THE SIVAGANGAI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "240645",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101178
+    },
+    {
+        "fields": {
+            "address": "9,6TH STREET,GANDHI NAGAR,TIRUVANNAMALAI - 606 601",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "TIRUVANNAMALAI",
+            "district": "TIRUVANNAMALAI",
+            "ifsc": "TNSC0012000",
+            "office": "THE TIRUVANNAMALAI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "224331",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101179
+    },
+    {
+        "fields": {
+            "address": "109/5D,ETTAYAPURAM ROAD,POLEPETTAI,THOOTHUKUDI-628002",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "THOOTHUKUDI",
+            "district": "THOOTHUKUDI",
+            "ifsc": "TNSC0012100",
+            "office": "THE THOOTHUKUDI DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "2347604",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101180
+    },
+    {
+        "fields": {
+            "address": "2,HOSPITAL ROAD,VILLUPURAM-605 602",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "VILLUPURAM",
+            "district": "VILLUPURAM",
+            "ifsc": "TNSC0012200",
+            "office": "THE VILLUPURAM DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+            "phone": "224803",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101181
+    },
+    {
+        "fields": {
+            "address": "36,SOUTH CANAL BANK ROAD RAJAANNAMALAIPURAM MANDAVELIPAKKAM CHENNAI - 600028",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "TNSC0015000",
+            "office": "THE TAMILNADU INDUSTRIAL CO-OPERATIVE BANK LTD",
+            "phone": "24951509",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101182
+    },
+    {
+        "fields": {
+            "address": "233,N.S.C BOSE ROAD CHENNAI 600001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "TNSC0099999",
+            "office": "RTGS-HO",
+            "phone": "25340973",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101183
+    },
+    {
+        "fields": {
+            "address": "233 NSC BOSE ROAD GEORGETOWN -600001",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "TNSC00ROUTE",
+            "office": "NEFT ROUTING",
+            "phone": "25340973",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101184
+    },
+    {
+        "fields": {
+            "address": "204,EAST COAST ROAD,OLANDAIKEERAPALAYAM,MUDALIARPET POST,PUDUCHERRY - 605 004",
+            "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+            "branch": "",
+            "city": "PUDUCHERRY",
+            "district": "PUDUCHERRY",
+            "ifsc": "TNSC0160101",
+            "office": "PONDICHERRY STATE COOPERATIVE BANK LTD.",
+            "phone": "2285303",
+            "state": "PUDUCHERRY"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 101185
+    }
+]

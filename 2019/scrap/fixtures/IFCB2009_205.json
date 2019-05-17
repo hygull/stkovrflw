@@ -12,7 +12,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 7587
     },
     {
         "fields": {
@@ -27,6 +27,6 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 7588
     }
 ]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "COB FORT",
+            "bank_name": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "DICG0000002",
+            "office": "FORT",
+            "phone": "23019792",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 2404
+    }
+]

@@ -1,0 +1,437 @@
+[
+    {
+        "fields": {
+            "address": "471/472, MARKET YARD, GULTEKADI, PUNE 411037",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000001",
+            "office": "RTGS-HO",
+            "phone": "9881903711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "S.NO.169, SATYAPURAM,PUNE-SASWAD ROAD.,FURSUNGI, TAL.- HAVELI,DIST.- PUNE 412308",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000002",
+            "office": "FURSUNGI",
+            "phone": "9881909702",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "471/472, MARKET YARD, GULTEKADI, PUNE 411037",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000003",
+            "office": "MARKET YARD",
+            "phone": "9881909703",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "S.NO.14/1/A, PINAK SHOPPING COMPLEX, JEMS BAJAJ SHOWROOM BUILD,.PUNE-SATARA RD., DHANKWADI,PUNE  411 043",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000004",
+            "office": "DHANKAWADI",
+            "phone": "9881909704",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "OFFICE NO. 1, SHRIRAM PALACE, S. NO. 82/3, OPP. STATE BANK OF MAYSORE, MAHLUGE - BANER ROAD, PUNE 411 045",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000005",
+            "office": "BANER ROAD",
+            "phone": "9881909705",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SECTOR NO.21, SCHEME NO.23/4,SANTKRIPA COMMERCIAL COMPLEX, 1ST FLOOR, YAMUNANAGAR,BEHIND BAJAJ AUTO, NIGDI, PUNE 411 044",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000006",
+            "office": "YAMUNANAGAR",
+            "phone": "9881909706",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "UNNATTI BUNGLOW, LOKMANYA COLONY, NEAR KINARA HOTEL, PAUD ROAD,KOTHKRUD, PUNE 411 029",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000007",
+            "office": "PAUD ROAD",
+            "phone": "9881909707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "2219, VELAPURKAR  MAHARAJ MATH,BHAVAN ,GANESH ROAD,BARSHI, DIST.SOLAPUR",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BARSHI",
+            "district": "SOLAPUR",
+            "ifsc": "VSBL0000008",
+            "office": "BARSHI",
+            "phone": "9881909708",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "2134, SADASHIV PETH,VIJAYANAGAR COLONY,NEAR GIRIJA HOTEL,PUNE 411030",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000009",
+            "office": "VIJAYANAGAR",
+            "phone": "9881909709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "35/2/2, KALAMBE COMPLEX, SINHGAD ROAD., VADGAON BK.,OPP. INDIAN HUME PIPE CO., PUNE- 411 051",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000010",
+            "office": "SINHAGAD ROAD",
+            "phone": "9881909710",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "PATIL ARCADE', PLOT NO.15 A,SHOP NO.16,17 & 18,ERANDWANE, PUNE 411 004",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000011",
+            "office": "ERANDWANA",
+            "phone": "9881909711",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHRI GANESH COMPLEX, 15TH AUGUST CHOWK,NEAR LADKAT PETROL PUMP,PUNE  411011",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000012",
+            "office": "SOMWAR PETH",
+            "phone": "9881909712",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "680, BUDHWAR PETH,OPP JOGESHWARI MANDIR,APPA BALWANT CHOWK,PUNE 411 002",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000013",
+            "office": "BUDHAWAR PETH",
+            "phone": "9881909713",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "VISHWESHWAR INDUSTRIAL PREMISES CO.OP.SOC. LTD; SECTOR NO.7, PLOT NO.134/135, PRADHIKARAN,OPP. TIMES OF INDIA, BHOSARI,PUNE 411026",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000014",
+            "office": "BHOSARI",
+            "phone": "9881909714",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "PLATINUM CLASSIC,UNIT 8, S.NO. 50/2, KHARADI, PUNE- NAGAR ROAD,PUNE-411014",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000015",
+            "office": "NAGAR ROAD",
+            "phone": "9881909715",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "ASHOKNAGAR, NIPANI , TAL. CHIKODI, DIST. BELGUM, STATE KARANATAKA -591237",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NIPANI",
+            "district": "BELGAUM",
+            "ifsc": "VSBL0000016",
+            "office": "NIPANI",
+            "phone": "9881909736",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3,4, BWING, KAKADE PLAZA PHASE 2,WARJE PUNE- 411052",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000018",
+            "office": "WARJE",
+            "phone": "9881909736",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "HOTEL SAVERA COMPOUND,  TALEGOAN CHOWK, PUNE NASIK ROAD, CHAKAN, TAL. KHED, DIST PUNE 410 501",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000019",
+            "office": "CHAKAN",
+            "phone": "9881909718",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 11, \u252c\u00f4DIVYA HEIGHTS\u252c\u00f6, SURVEY NO.5,RAHATANI, PIMPALE SAUDAGAR, PUNE  411 017",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000020",
+            "office": "PIMPALE SAUDAGAR",
+            "phone": "9881909719",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "S NO.113/4,SHOP NO.4,DATTARAM BHAVAN,ALANDI ROAD,VISHRANTWADI,PUNE-411015",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000021",
+            "office": "VISHRANTWADI",
+            "phone": "9881909720",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "S.NO.1394/1/2,C WARD,NASHTE COMPLEX,LAXMIPURI,KOLHAPUR -416002",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "VSBL0000022",
+            "office": "KOLHAPUR",
+            "phone": "9881909721",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "H-32, GAT NO.796, PLOT NO.2,SECTOR 19.APMC MARKET 1,PHASE II,VASHI-TURBHE,NAVI MUMBAI 400705",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASHI-TURBHE",
+            "district": "VASHI- TURBHE",
+            "ifsc": "VSBL0000023",
+            "office": "VASHI-TURBHE",
+            "phone": "9881909722",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "PRATHAMESH HEIGHT,BUILDING B,CTS 186 A BY B SHANIWAR PETH DEVI CHOWK SATARA 415002",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "VSBL0000024",
+            "office": "SATARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "3067 1 NEAR GAJANAN MAHARAJ MATH SUYOG SHOPPING CENTER TAL PANDHARPUR DIST SOLAPUR",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANDHARPUR",
+            "district": "SOLAPUR",
+            "ifsc": "VSBL0000025",
+            "office": "PANDHARPUR",
+            "phone": "9881909725",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.1206 B.17,J.M.ROAD,OPPOSITE SAMBHAJI PARK,SHIVAJINAGAR,PUNE 411004",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000026",
+            "office": "SHIVAJI NAGAR",
+            "phone": "9881909726",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 3460 CTS NO 1814,1815 SHOP NO.11,12,13 KUNAL RIVER SIDE CHINCHWAD GAON, CHINCHWAD,PUNE 411033",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000027",
+            "office": "CHINCHWAD BRANCH",
+            "phone": "9881909727",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 3, SAMARTH ICON, OPP. STATE BANK OF INDIA, CST NO.8899 TO 8902, VISHRAMBAUG, SANGLI 416415",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "VSBL0000028",
+            "office": "SANGLI BRANCH",
+            "phone": "2302228",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "CTS NO 1498-1, PARANJAPE BUILDING, DESHPANDE GALLI, BHAVE CHOWK, BELGAVI, KARNATAKA- 599001",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BELGAVI",
+            "district": "BELGAVI",
+            "ifsc": "VSBL0000029",
+            "office": "BELGAVI BRANCH",
+            "phone": "2432929",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "45/46, RAVIWAR PETH,KASTURE CHOWK,PUNE 411002",
+            "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "VSBL0000099",
+            "office": "GANESH PETH",
+            "phone": "9881909701",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    }
+]

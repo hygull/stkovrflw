@@ -1,0 +1,1307 @@
+[
+    {
+        "fields": {
+            "address": "APNA BANK BHAVAN, DR.S.SRAO ROAD,PAREL, MUMBAI 400012.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000001",
+            "office": "RTGS-HO",
+            "phone": "24110149",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "APNA BANK BHAVAN, DR.S.SRAO ROAD,PAREL, MUMBAI 400012.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000002",
+            "office": "ADMINISTRATION OFFICE",
+            "phone": "24174860",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "APNA BAZAR, 1ST FLOOR, GOVINDJI KENY ROAD, NAIGAON, MUMBAI 400014",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000003",
+            "office": "NAIGAON",
+            "phone": "24127875",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "MATULYA CENTRE, JN.OF G.K.MARG & J PHATANKAR MARG, MUMBAI 400013",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000004",
+            "office": "LOWER PAREL",
+            "phone": "24947332",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "DHANU BLDG., DR AMBEDKAR ROAD, PAREL, MUMBAI 400012",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000005",
+            "office": "DR AMBEDKAR ROAD",
+            "phone": "24130752",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "A-4/5, RAYOL INDUSTRIAL ESTATE, WADALA, MUMBAI 400031",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000006",
+            "office": "DADASAHEB SARFARE CHOWK",
+            "phone": "24148481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, APNA BAZAR, J.P.ROAD, ANDHERI (W), MUMBAI 400058",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000007",
+            "office": "ANDHERI",
+            "phone": "26744861",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "SHYAM SADAM, MITH CHOWKI, MARVE LINK ROAD, MALAD (W), MUMBAI 400064",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000008",
+            "office": "MALAD (W)",
+            "phone": "28820732",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GAURAV, GOKULDHAM, GEN,ARUNKUMAR VAIDYA MARG, GOREGAON (E), MUMBAI 400063",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000009",
+            "office": "DINDOSHI",
+            "phone": "28400446",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "DAFFODIL, 1ST FLOOR, HIRANANDANI GARDEN, POWAI, MUMBAI 400076",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000010",
+            "office": "POWAI",
+            "phone": "25703097",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "SHATRUNJAY COMPLEX, TANAJI CHOWK, KURLA (W), MUMBAI 400070",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000011",
+            "office": "KURLA",
+            "phone": "26501515",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SECTOR-5, APNA BAZAR BLDG., DR. AMBEDKAR ROAD, CHARKOP, KANDIVALI (W), MUMBAI 400067",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000012",
+            "office": "CHARKOP",
+            "phone": "28688666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "SHIV SAGAR COMPLEX, ASHOK KADARE CHOWK, TEMBHI PADA ROAD, BHANDUP (W), MUMBAI 400078",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000013",
+            "office": "BHANDUP",
+            "phone": "25942423",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "INDRAPRASTHA CHS, DATTA PADA, BORIVLI (E), MUMBAI 400066",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000014",
+            "office": "BORIVLI",
+            "phone": "28706127",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "APNA BANK BHAVAN, DR.S.SRAO ROAD,PAREL, MUMBAI 400012.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000015",
+            "office": "PAREL MAIN",
+            "phone": "24172155",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "CENTRAL FACILITY BLDG., NO.II, PLOT NO.13, SECTOR NO.19,APMC MARKET, VASHI, NAVI MUMBAI 400709",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000016",
+            "office": "VASHI",
+            "phone": "27897882",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "DEORA COMPOUND, RANI SATI MARG, MALAD (E), MUMBAI 400097",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000017",
+            "office": "MALAD (E)",
+            "phone": "28784411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "VASANT BLDG., AGRAWAL NAKA, SATIVALI ROAD, VASAI (E), DIST.-THANE 401208",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VASAI",
+            "district": "THANE",
+            "ifsc": "ASBL0000018",
+            "office": "VASAI (E)",
+            "phone": "2454647",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI SHIKSHAN SANSTHA, NEW BLDG., GR. FLOOR, DR.ANKUSH GAWDE MARG, PANT NAGAR, GHATKOPAR (E), MUMBAI 400077",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000019",
+            "office": "GHATKOPAR",
+            "phone": "25010138",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "EVEREST SAMRUDHI, BHASKAR COLONY, MAHATMA GANDHI RIAD, OPP. TIMES IF INDIA, NAVPADA, THANE (W), 400706",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ASBL0000020",
+            "office": "THANE",
+            "phone": "25406161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SHANTINIKETAN PUBLIC SCHOOL,PLOT NO.27, SECTOR NO.2, NEW PANVEL, NAVI MUMBAI-400706",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PANVEL",
+            "district": "RAIGAD",
+            "ifsc": "ASBL0000021",
+            "office": "NEW PANVEL",
+            "phone": "27483366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "BHAWKI ROAD, AT POST ASHTA, DIST.-SANGLI-416301",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ASHTA",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000022",
+            "office": "ASHTA",
+            "phone": "243926",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "TAL.-WALWA, DIST-SANGLI-416410",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "WALWA",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000023",
+            "office": "WALWA",
+            "phone": "267525",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "SHRISHALIYA APT., HARBAT ROAD, OPP.ARWADE HIGHSCHOOL, PETH BHAG,SANGLI 416416",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000024",
+            "office": "PETH BHAG, SANGLI",
+            "phone": "2322489",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "BHRAMANPURI, PATWARDHAN HALL, MIRAJ, DIST.-SANGLI 416313",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MIRAJ",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000025",
+            "office": "MIRAJ",
+            "phone": "2223089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, KAMRAJ CHS, 90 FEET ROAD, DHARAVI, MUMBAI 400017",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000026",
+            "office": "DHARAVI",
+            "phone": "24091410",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "M 2 CHS, D WING, GALA NO.1 TO 6, PRATIKSHA NAGAR, SION, MUMBAI 400022",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000027",
+            "office": "PRATIKSHA NAGAR",
+            "phone": "24028000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "SHIV SIDHI APT., PLOT NO.6/A, G.V.SCHEME ROAD, ROAD NO.1, MULUND (E) MUMBAI 400081",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000028",
+            "office": "MULUND (E)",
+            "phone": "21638661",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "AUDHUT KRUPA, NEAR S.T. STAND, BAZAR PETH, DEVRUKH, TAL.-SANGMESHWAR, DIST.-RATNAGIRI 415804",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DEVRUKH",
+            "district": "RATNAGIRI",
+            "ifsc": "ASBL0000029",
+            "office": "DEVRUKH",
+            "phone": "240300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "VIKHROLI VIDYALAYA, TAGORE NAGAR, GROUP NO.3, VIKHROLI (E), MUMBAI",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000030",
+            "office": "VIKHROLI (E)",
+            "phone": "25747011",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "SHRI SNEHA BLDG., GR. FLOOR, SHIV MANDIR ROAD, DOMBIVLI (E), DIST.-THANE",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DOMBIVLI",
+            "district": "THANE",
+            "ifsc": "ASBL0000031",
+            "office": "DOMBIVLI (E)",
+            "phone": "2861251",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "2402/2, A WARD, UBHA MARUTI CHOWK, SHIVAJI PETH, KOLHAPUR 416012",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000032",
+            "office": "SHIVAJI PETH",
+            "phone": "2622958",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "712/1/2B, A WARD, KALAMBA ROAD, KOLHAPUR 416012",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000033",
+            "office": "TIMBER MARKET",
+            "phone": "2627658",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.359, MAHATMA PHULE HSG.SOC., PHULEWADI, KOLHAPUR 416010",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000034",
+            "office": "PHULE WADI",
+            "phone": "2631717",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "C.S.NO.233, PLOT NO.12/13, FLAT NO.7/8, E WARD, SADAR BAZAR, KOLHAPUR 416002",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000035",
+            "office": "SADAR BAZAR",
+            "phone": "2650058",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "2053/A-1, C WARD, MINCH COMPLEX, KOLHAPUR 416002",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000036",
+            "office": "KSHIRSAGAR",
+            "phone": "2542221",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "C.S.NO.1382, E WARD, SHIVAJI VIDYAPITHROAD, RAJARAPURI, KOLHAPUR 416008",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000037",
+            "office": "RAJARAMPURI",
+            "phone": "2521078",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "883 K, C WARD, NEAR UMA , LAXMIPURI, KOLHAPUR 416004",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000038",
+            "office": "LAXMIPURI",
+            "phone": "2640658",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "BAUCHKAR BLDG., AT POST-BAMBAVADE, TAL.-SHAHUWADI, KOLHAPUR 416213",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BAMBAVADE",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000039",
+            "office": "BAMBAVADE",
+            "phone": "234484",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "MAKANDAR COMPLEX, MAIN ROAD, GADHINGLAJ, KOLHAPUR 416052",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GADHINGLAJ",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000040",
+            "office": "GADHINGLAJ",
+            "phone": "224340",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "S.S.NO.1277, VANI GALLI, GARGOTI, TAL.BHUDARGAD, KOLHAPUR 416209",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GARGOTI",
+            "district": "KOLHAPUR",
+            "ifsc": "ASBL0000041",
+            "office": "GARGOTI",
+            "phone": "221476",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "RJMDS'S INST. MUMBAI, BAL VIKAS VIDYAMANDIR SCHOOL, RATNASINDHU, MEGHWADI, JOGESHWARI (E), MUMBAI 400060",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000042",
+            "office": "JOGESHWARI",
+            "phone": "28302700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "MADHUKALA CHS, R.K.VAIDYA MARG, DADAR (W) MUMBAI 400028",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000043",
+            "office": "DADAR (W)",
+            "phone": "24328337",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "223, DURGA KRUPA, TELI PADA, AGRA ROAD, DHAMANKAR NAKA, BHIWANDI, DIST-THANE 421302",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHIWANDI",
+            "district": "THANE",
+            "ifsc": "ASBL0000044",
+            "office": "BHIWANDI",
+            "phone": "254411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.A5,GR.FLOOR,BANDAL COMPLEX, OPP. PRANT OFFICE, MUMBAI-GOA HIGHWAY, KANKAVLI, DIST. SINDHURGA",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KANKAVLI",
+            "district": "SINDHUDURG",
+            "ifsc": "ASBL0000045",
+            "office": "KANKAVLI",
+            "phone": "231981",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4,5,6, PRATAPGADH CHS, PLOT NO.37, SECTOR NO.34 MANSAROVAR, KAMOTHE, NAVI MUMBAI 410209",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KAMOTHE",
+            "district": "RAIGAD",
+            "ifsc": "ASBL0000046",
+            "office": "KAMOTHE",
+            "phone": "27480627",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.2-5, RAHUL PRASAD CHS, ABB CIRCLE CORNER. OPP. HOTAL EMERALD PARK, MAHATMA NAGAR, SATPUR, NASHIK 422007",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "ASBL0000047",
+            "office": "SATPUR-NASHIK",
+            "phone": "2360029",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.362,AT & POST NAWDA PHATA, NEAR TALOJA MIDC BRIDGE, MUMBAI-PUNE-ROAD, TALOJA, NAVI MUMBAI 410206",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "TALOJA",
+            "district": "RAIGAD",
+            "ifsc": "ASBL0000048",
+            "office": "TALOJA",
+            "phone": "27412811",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "VEDMANTRA APARTMENTS, GROUND FLOOR, GHODEKHAT LANE, AGRA CROSS ROAD, KALYAN WEST, DIST THANE 421301",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "THANE",
+            "ifsc": "ASBL0000049",
+            "office": "KALYAN",
+            "phone": "2026077",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.1 TO 6, GROUND FLOOR, SARASWATI C.H.S, OPP KALYANVASTU HALL, NEAR ATITHI HOTEL, KULGAON, BADLAPUR EAST, DIST THANE 421503",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BADLAPUR",
+            "district": "THANE",
+            "ifsc": "ASBL0000050",
+            "office": "BADLAPUR",
+            "phone": "2695222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "MANDAR APARTMENTS, SHOP NO.1 & 2, GROUND LOOR, NEAR SHIV SENA OFFICE, VADAVLI SECTION, AMBERNATH EAST, DIST THANE 421501",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AMBERNATH",
+            "district": "THANE",
+            "ifsc": "ASBL0000051",
+            "office": "AMBERNATH",
+            "phone": "32600018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "RITU HORIZON, GROUND FLOOR, COMMERCIAL WING, 100 WIDE, KANAKIA ROAD, NEAR ANKUR BUILDING, BHAYANDER KASHIMIRA CROSS ROAD, BHAYANDER EAST, DIST THANE 401107",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHAYANDER",
+            "district": "THANE",
+            "ifsc": "ASBL0000052",
+            "office": "BHAYANDER",
+            "phone": "28110020",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "47/1, B. O. BHAVAN, GROUND FLOOR, PUNE SATARA ROAD, PUNE 411037",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ASBL0000053",
+            "office": "PUNE",
+            "phone": "24226300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "KANDALKAL BUILDING,ANGOD, NEAR JAMA MASJID, CHALTA NO 129 OF P T SHEET NO 147, MAPUSA, GOA 403507",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MAPUSA",
+            "district": "NORTH GOA",
+            "ifsc": "ASBL0000054",
+            "office": "MAPUSA",
+            "phone": "2255345",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "SHREE KRUPA CHS LTD, GRD FLOOR, URAN KAMITHA ROAD, NEAR VIMAL TALAV, URAN, DIST. RAIGAD 400702",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "URAN",
+            "district": "RAIGAD",
+            "ifsc": "ASBL0000055",
+            "office": "URAN",
+            "phone": "24164860",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 11, NANDANVAN CHS, SERVE NO 242, SHARE NO 1A AND 3, S V ROAD, DAHISAR EAST, MUMBAI 4000068",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ASBL0000056",
+            "office": "DAHISAR EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "VIDYASADAN, GROUND & FIRST FLOOR, MANVELPADA ROAD VIRAR EAST, DIST THANE 401303.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ASBL0000057",
+            "office": "VIRAR  EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 & 5, GROUND FLOOR, DHANRAJ RESIDENCY, DHANRAJ NAGAR,DIVA EAST, THANE 400612.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ASBL0000058",
+            "office": "DIVA EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5 & 6, SHREE MAA TRUST, GROUND FLOOR, S N 146, PATLIPADA,GHODBANDAR ROAD, HIRANANDANI ESTATE, THANE 400607.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "ASBL0000059",
+            "office": "GHODBANDAR RD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 25/26/27, RAHUL APARTMENT,PLOT NO E,125, SECTOR 12,KHARGHAR, NAVI MUMBAI 410210.",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "ASBL0000060",
+            "office": "KHARGHAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "PLTO NO1 ,FIRST FLOOR, GANESH NIWAS, M.G. ROAD GOREGAON WEST",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000061",
+            "office": "GORAGOAN WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "SHOP NO E4/5/6, MARY LAND APT. CHS,SANDU WADI CHEMBUR",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000062",
+            "office": "CHEMBUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 2 TO4, GR. FLOOR, BHAGYASHREE APT., GANESH GAWADE RD JN.,MULUND WEST",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000063",
+            "office": "MULUND WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1/2/3/4, SAMARPAN CHS, NARSI MEHTA MARG, GHATKOPER WEST",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "ASBL0000064",
+            "office": "GHATKOPER WEST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 TO 4, SHREE SIDHIVINAYAK TOWER, SECTOR 5 KOERKHAIRANE NAVI MUMBAI",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "ASBL0000065",
+            "office": "KOPERKHAIRANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1 AND 2, RIDHI SIDHI HEIGHT CHS, SECTOR 19 AIROLI NAVI MUMBAI",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "ASBL0000066",
+            "office": "AIROLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1/2/3, GR. FLOOR., PREM YESH, BRK NO 802/1 LINK ROAD ULHASNAGER",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ULHASNAGER",
+            "district": "THANE",
+            "ifsc": "ASBL0000067",
+            "office": "ULHASNAGER",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "C.S. NP 770,GROUNG FLOOR, JAIHIND CINEMA DR. AMBEDAKR RD., KALACKOWKI MUMBAI 400033",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GRATER MUMBAI",
+            "ifsc": "ASBL0000068",
+            "office": "KALACKOWKI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2 AND 3 MONARCH, GANDHI NAGER VARSHA CHS LTD, GNADHI NAGER BANDRA EAST MUMBAI 400051",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "GREATER MUMBAI",
+            "district": "GEATER MUMBAI",
+            "ifsc": "ASBL0000069",
+            "office": "BANDRA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 11 TO 16 TUJESHWARI HILL SURVEY NO 40 AMBAVADI RAMBHAU NAGER TULINJ NALLASOPARA EAST DIST PALGHAR",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NALLASOPARA",
+            "district": "PALGHAR",
+            "ifsc": "ASBL0000070",
+            "office": "NALLASOPARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 11 AND 12, F-2, ASHIRWAD APARTMENT SECTOR NO 3 NERUL EAST NAVI MUMBAI 400706",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NEW MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "ASBL0000071",
+            "office": "NERUL NAVI MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 2 SURVEY NO 17B, GUTNO. 126, STATION ROAD, VANGNI EAST DIST THANE 421503",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "VANGANI",
+            "district": "THANE",
+            "ifsc": "ASBL0000072",
+            "office": "VANGANI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 10,11,12 OM SAI SHRUSHTI BUILDING PLOT NO 31 SECTOR 17 ULWE NAVI MUMBAI 410206",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ULWE",
+            "district": "NAVI MUMBAI",
+            "ifsc": "ASBL0000073",
+            "office": "ULWE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "GR. FLOOR AND FIRST FLOOR, KARJAT MUNCIPAL COUNCIL ADMINISTRATION BUILDING, CTS NO 8A, MOUJE KARJAT DIST RAIGAD 410201",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARJAT",
+            "district": "RAIGAD",
+            "ifsc": "ASBL0000074",
+            "office": "KARJAT",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "1/8, HOUSE NO 17 CHOUDHARI HOUSE, KATAI KALYAN SHILPHATA ROAD, DIST. THANE",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHILPHATA",
+            "district": "THANE",
+            "ifsc": "ASBL0000075",
+            "office": "SHILPHATA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4 KLAPNA TARANG, 42/9 MAHARSHI KARVE RD. ERANDWANE PUNE 411004",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ASBL0000076",
+            "office": "ERANDWANE PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 1,2 AND 3 GROUND FLOOR, LAXMI BUILDING NEW MARKET MARGAON GOA 403601",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MARGAON",
+            "district": "MARGAON",
+            "ifsc": "ASBL0000077",
+            "office": "MARGAON",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "NAVAKR PLAZA, 1 ST FLOOR, A WING, SHOP NO 14,115,116 RATNAGIRI KOLHAPUR HIGHWAY, MARUTI MANDIR CIRCLE RATNAGIRI 415 612",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RATNAGIRI",
+            "district": "RATNAGIRI",
+            "ifsc": "ASBL0000078",
+            "office": "RATNAGIRI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6,7,14 AND 15, GROUNG FLOOR, MUKADAM LANDMARK, BULDING NO 1, SURVEY NO 22 A1, HISSA NO 2A/1/2 KKED RATNAGIRI 415709",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KHED",
+            "district": "RATNAGIRI",
+            "ifsc": "ASBL0000079",
+            "office": "KHED",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHAKUTALA NIWAS KACHERI ROAD, ISLAMPUR DIST SANGLI 415409",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ISLAMPUR",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000080",
+            "office": "ISLAMPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "36 A/1 EKOPA BULIDING, MAGALAWAR PETH, KARAD DIST. SATARA 415110",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KARAD",
+            "district": "SATARA",
+            "ifsc": "ASBL0000081",
+            "office": "KARAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "SERVEY NO 287/1 TO 7/6, PLOT NO 3 SHOP NO. 4/5/6/7 8 AND 9 ADARSH CORNER RADHIKA RD KARANJE SATARA 415001",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "ASBL0000082",
+            "office": "SATARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "C S 1194 1ST FLOOR DHONDIRAJ BULDING CENTRAL JUNCTION PALUS DIST SANGLI 416310",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PALUS",
+            "district": "SANGLI",
+            "ifsc": "ASBL0000083",
+            "office": "APNA  SAHAKARI  BANK  LTD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 4,5,6 AND A22, SHREE BALAJI COP OP HSG. SOC., PROPERTY NO 1001331, PALGHAR 401404",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "ASBL0000084",
+            "office": "PALGHAR",
+            "phone": "2525",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "CORPORATE CENTER,G-2,ANDHERI KURAL ROAD,ANDHERI-EAST,MUMBAI-400059",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ASBL0000085",
+            "office": "ANDHERI-EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 222-223,RSC-1A,GORAI ROAD,BORIVALI-WEST,MUMBAI 400092",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ASBL0000086",
+            "office": "BORIVALI -EAST",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5,6,7,8, TAMHANE CHEMBERS,CHIPALUN",
+            "bank_name": "APNA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHIPLUN",
+            "district": "RATNAGIRI",
+            "ifsc": "ASBL0000087",
+            "office": "CHIPLUN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "fields": {
+            "address": "MEZANINE FLOOR,AADATIYA AWAS,OLD BOMBAY MARKET,UMARWADA,",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0000001",
+            "office": "RTGS-HO",
+            "phone": "2614008181",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100484
+    },
+    {
+        "fields": {
+            "address": "AFFIL TOWER, L.H.ROAD, SURAT-395006",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289001",
+            "office": "HEAD OFFICE",
+            "phone": "2614008000",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100485
+    },
+    {
+        "fields": {
+            "address": "BHAVANI COMPLEX, KAMREJ CHAR RASTA, KAMREJ- 394185",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289002",
+            "office": "KAMREJ BRANCH",
+            "phone": "2614008051",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100486
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, VANKARSANGH BUILDING, OPP. JASH MARKET, RING ROAD, SURAT-395003",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289003",
+            "office": "RING ROAD BRANCH",
+            "phone": "2614008066",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100487
+    },
+    {
+        "fields": {
+            "address": "THAKORJI COMPLEX, KADODRA CHAR RASTA, KADODRA-394327",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289004",
+            "office": "KADODRA BRANCH",
+            "phone": "2614008081",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100488
+    },
+    {
+        "fields": {
+            "address": "NEAR SIDDHKUTIR MANDIR,KAPODRA, VARACHHA ROAD, SURAT-395006",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289005",
+            "office": "KAPODRA BRANCH",
+            "phone": "2614008096",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100489
+    },
+    {
+        "fields": {
+            "address": "SARDAR COMPLEX,KATARGAM MAIN ROAD, NEAR BAL ANATH ASHRAM, KATARGAM-395004",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289006",
+            "office": "KATARGAM BRANCH",
+            "phone": "2614008116",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100490
+    },
+    {
+        "fields": {
+            "address": "RESMA RESIDENCY, NEAR PUNAGAM CANAL ROAD, PUNAGAM SURAT-395010",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289007",
+            "office": "PUNAGAM BRANCH",
+            "phone": "2614008131",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100491
+    },
+    {
+        "fields": {
+            "address": "LAXMIVILLA TOWNSHIP, G.I.D.C., SACHIN-394230",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289008",
+            "office": "SACHIN BRANCH",
+            "phone": "2614008171",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100492
+    },
+    {
+        "fields": {
+            "address": "SNEJHKUNJ APPARTMENT, RAILWAY STATION ROAD, NAVSARI-396445",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "NAVSARI",
+            "district": "NAVSARI",
+            "ifsc": "VARA0289009",
+            "office": "NAVSARI BRANCH",
+            "phone": "2614008182",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100493
+    },
+    {
+        "fields": {
+            "address": "PANCHAM SHOPPING MALL, NEAR JIVANWADI, NIKOLGAM ROAD, AHMEDABAD-382350",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "VARA0289010",
+            "office": "NIKOL BRANCH",
+            "phone": "2614008192",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100494
+    },
+    {
+        "fields": {
+            "address": "R-16 SQUARE, NEAR JALDHARA CHOWKDI, VALIYA ROAD, ANLESHWAR-393001",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "ANKLESHWAR",
+            "district": "BHARUCH",
+            "ifsc": "VARA0289011",
+            "office": "ANKLESHWAR BRANCH",
+            "phone": "2614007200",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100495
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, SWAPN RESIDENCY, YOGI CHOWK, NR.WATER TANK, SURAT-395010",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289012",
+            "office": "YOGI CHOWK BRANCH",
+            "phone": "2614007211",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100496
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ABHISHEK-III RESIDENCY, NR. SUDAMA CHOWK, MOTA VARACHHA, SURAT 394101",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289013",
+            "office": "MOTA VARACHHA BRANCH",
+            "phone": "2614007221",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100497
+    },
+    {
+        "fields": {
+            "address": "103,DEEPKAMAL COMMERCIAL HUB,NR.NATURE PARK,SARTHANA,SURAT-KAMREJ ROAD,SURAT-395006",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289014",
+            "office": "SARTHANA BRANCH",
+            "phone": "4007231",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100498
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 7-9,MANGALDEEP COMPLEX,OPP.SHREE RAMNAGAR SOCETY,HIRABAUG,SURAT-395006",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289015",
+            "office": "HIRABAUG BRANCH",
+            "phone": "4007241",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100499
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1 TO 8,GROUND FLOOR,BUILDING A/2, DEVI COMPLEX,DABHOLI CHAR RASTA,",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289016",
+            "office": "VED DABHOLI BRANCH",
+            "phone": "4007251",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100500
+    },
+    {
+        "fields": {
+            "address": "102,103,1ST FLOOR, GREEN ALINA,ANAND MAHAL ROAD,ADAJAN ,SURAT-395009",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289017",
+            "office": "ADAJAN BRANCH",
+            "phone": "4007261",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100501
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 6 TO 10, 1ST FLOOR,TWIN TOWER,ANKUR CHAR RASTA,A.K.ROAD,SURAT",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289018",
+            "office": "A.K.ROAD BRANCH",
+            "phone": "4007271",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100502
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR 22 TO 25, 99 SHOPPING CENTRE,OPP BHAGUNAGAR, AMROLI SAYAN ROAD",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289019",
+            "office": "AMROLI BRANCH",
+            "phone": "2308936",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100503
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 110 TO 113, 1ST FLOOR,NILKANTH PLAZA,NR BALAJI RESIDENCY ,KARGIL CHOWK,PUNAGAM",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289020",
+            "office": "KARGIL CHOWK PUNAGAM BRANCH",
+            "phone": "2308946",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100504
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR, SHOP NO. 23-24,SIDDHACHAKARA RESIDENCY-B,GALAXY CIRCLE,GREEN CITY ROAD,PAL",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289021",
+            "office": "PAL BRANCH",
+            "phone": "2308956",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100505
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 401 TO 407 MEEZZANINE FLOOR, ARIHANT COMPLES, UDHANA PANDESARA ROAD,SURAT",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289022",
+            "office": "UDHANA PANDESARA ROAD BRANCH",
+            "phone": "2308966",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100506
+    },
+    {
+        "fields": {
+            "address": "2,GROUND FLOOR, ORLEAANS COMPLES, NEAR SOSYO CIRCLE, UDHANA MAGDALLA ROAD,SURAT",
+            "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "VARA0289023",
+            "office": "UDHANA MAGDALLA ROAD BRACH",
+            "phone": "2308976",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 100507
+    }
+]

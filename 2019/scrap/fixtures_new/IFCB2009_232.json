@@ -1,0 +1,302 @@
+[
+    {
+        "fields": {
+            "address": "HEAD OFFICE,TANA SOUTH,IRINJALAKUDA,680121",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "IRINJALAKUDA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000001",
+            "office": "RTGS-HO",
+            "phone": "2827279",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115405
+    },
+    {
+        "fields": {
+            "address": "MAIN BRANCH,TANA SOUTH,IRINJALAKUDA,680121",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "IRINJALAKUDA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000101",
+            "office": "MAIN BRANCH",
+            "phone": "2825379",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115406
+    },
+    {
+        "fields": {
+            "address": "NEAR PRIVATE BUSSTAND,NADA,IRINJALAKUDA,680121",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "IRINJALAKUDA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000102",
+            "office": "NADA BRANCH",
+            "phone": "2825079",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115407
+    },
+    {
+        "fields": {
+            "address": "OPPOSITE DEEPTHI HIGH SCHOOL,THALORE,680306",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "THALORE",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000108",
+            "office": "THALORE BRANCH",
+            "phone": "2352966",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115408
+    },
+    {
+        "fields": {
+            "address": "MARKET MAIN ROAD,MALA,680732",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "MALA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000109",
+            "office": "MALA BRANCH",
+            "phone": "2695079",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115409
+    },
+    {
+        "fields": {
+            "address": "CHURCH ROAD,SOUTH CHALAKUDY,680307",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "CHALAKUDY",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000110",
+            "office": "CHALAKUDY BRANCH",
+            "phone": "2705979",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115410
+    },
+    {
+        "fields": {
+            "address": "IRINJALAKUDA ROAD,KODAKARA,680684",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "KODAKARA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000111",
+            "office": "KODAKARA BRANCH",
+            "phone": "2723979",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115411
+    },
+    {
+        "fields": {
+            "address": "VARANDARAPILLY ROAD,AMBALLUR JUNCTION,680302",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "AMBALLOOR",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000112",
+            "office": "AMBALLOOR BRANCH",
+            "phone": "2750080",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115412
+    },
+    {
+        "fields": {
+            "address": "KODUNGALLUR ROAD,VELLANGALLOOR,680662",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "VELLANGALLOOR",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000113",
+            "office": "VELLANGALLOOR BRANCH",
+            "phone": "2860121",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115413
+    },
+    {
+        "fields": {
+            "address": "NEAR CHURCH,FIRST FLOOR,KORATTY EAST,680308",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "KORATTY",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000114",
+            "office": "KORATTY BRANCH",
+            "phone": "2735379",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115414
+    },
+    {
+        "fields": {
+            "address": "NEAR BANGALAV,KARUVANNUR,680711",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "KARUVANNUR",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000115",
+            "office": "KARUVANNUR BRANCH",
+            "phone": "2886279",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115415
+    },
+    {
+        "fields": {
+            "address": "NEAR PRIVATE BUSSTAND,KATTOOR,680702",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "KATTOOR",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000116",
+            "office": "KATTOOR BRANCH",
+            "phone": "2870779",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115416
+    },
+    {
+        "fields": {
+            "address": "KODALY,PADY,680699",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "KODALY",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000117",
+            "office": "KODALY BRANCH",
+            "phone": "2743179",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115417
+    },
+    {
+        "fields": {
+            "address": "CHALAKUDY ROAD,ALOOR,ALOOR,680683",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "ALOOR",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000118",
+            "office": "ALOOR BRANCH",
+            "phone": "2720679",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115418
+    },
+    {
+        "fields": {
+            "address": "NEAR BRIDGE,ANNAMANADA,680741",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "ANNAMANADA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000119",
+            "office": "ANNAMANADA BRANCH",
+            "phone": "2773879",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115419
+    },
+    {
+        "fields": {
+            "address": "NEAR PWD GUEST HOUSE,WADAKKANCHERY,680582",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "WADAKKANCHERY",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000120",
+            "office": "WADAKKANCHERY BRANCH",
+            "phone": "4231979",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115420
+    },
+    {
+        "fields": {
+            "address": "NEAR PRIVATE BUSSTAND,CHELAKKRA,680586",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "CHELAKKARA",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000121",
+            "office": "CHELAKKARA BRANCH",
+            "phone": "4254979",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115421
+    },
+    {
+        "fields": {
+            "address": "NEAR GOVT HOSPITAL,ERUMAPETTY,680584",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "ERUMAPETTY",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000122",
+            "office": "ERUMAPETTY BRANCH",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115422
+    },
+    {
+        "fields": {
+            "address": "NORTH JUNCTION,NEAR MINALLUR ROAD,ATHANI,680771",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "ATHANI",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000123",
+            "office": "ATHANI BRANCH",
+            "phone": "2203979",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115423
+    },
+    {
+        "fields": {
+            "address": "CHERUTHURUTHI JUNCTION,CHERUTHRUTHI,679531",
+            "bank_name": "Irinjalakuda Town Co-Operative Bank Ltd",
+            "branch": "",
+            "city": "CHERUTHURUTHI",
+            "district": "THRISSUR",
+            "ifsc": "ITBL0000124",
+            "office": "CHERUTHURUTHI BRANCH",
+            "phone": "4264079",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 115424
+    }
+]

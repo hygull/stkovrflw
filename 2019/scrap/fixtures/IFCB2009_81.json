@@ -12,7 +12,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 60620
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 60621
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 60622
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 60623
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 60624
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 60625
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 60626
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 60627
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 60628
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 60629
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 60630
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 60631
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 60632
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 60633
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 60634
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 60635
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 60636
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 60637
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 60638
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 60639
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 60640
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 60641
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 60642
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 60643
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 60644
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 60645
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 60646
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 60647
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 60648
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 60649
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 60650
     },
     {
         "fields": {
@@ -477,7 +477,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 60651
     },
     {
         "fields": {
@@ -492,7 +492,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 33
+        "pk": 60652
     },
     {
         "fields": {
@@ -507,7 +507,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 34
+        "pk": 60653
     },
     {
         "fields": {
@@ -522,7 +522,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 35
+        "pk": 60654
     },
     {
         "fields": {
@@ -537,7 +537,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 36
+        "pk": 60655
     },
     {
         "fields": {
@@ -552,7 +552,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 37
+        "pk": 60656
     },
     {
         "fields": {
@@ -567,7 +567,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 38
+        "pk": 60657
     },
     {
         "fields": {
@@ -582,7 +582,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 39
+        "pk": 60658
     },
     {
         "fields": {
@@ -597,7 +597,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 40
+        "pk": 60659
     },
     {
         "fields": {
@@ -612,7 +612,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 41
+        "pk": 60660
     },
     {
         "fields": {
@@ -627,7 +627,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 42
+        "pk": 60661
     },
     {
         "fields": {
@@ -642,7 +642,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 43
+        "pk": 60662
     },
     {
         "fields": {
@@ -657,7 +657,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 44
+        "pk": 60663
     },
     {
         "fields": {
@@ -672,7 +672,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 45
+        "pk": 60664
     },
     {
         "fields": {
@@ -687,7 +687,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 46
+        "pk": 60665
     },
     {
         "fields": {
@@ -702,7 +702,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 47
+        "pk": 60666
     },
     {
         "fields": {
@@ -717,7 +717,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 48
+        "pk": 60667
     },
     {
         "fields": {
@@ -732,7 +732,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 49
+        "pk": 60668
     },
     {
         "fields": {
@@ -747,7 +747,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 50
+        "pk": 60669
     },
     {
         "fields": {
@@ -762,7 +762,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 51
+        "pk": 60670
     },
     {
         "fields": {
@@ -777,7 +777,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 52
+        "pk": 60671
     },
     {
         "fields": {
@@ -792,7 +792,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 53
+        "pk": 60672
     },
     {
         "fields": {
@@ -807,7 +807,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 54
+        "pk": 60673
     },
     {
         "fields": {
@@ -822,7 +822,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 55
+        "pk": 60674
     },
     {
         "fields": {
@@ -837,7 +837,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 56
+        "pk": 60675
     },
     {
         "fields": {
@@ -852,7 +852,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 57
+        "pk": 60676
     },
     {
         "fields": {
@@ -867,7 +867,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 58
+        "pk": 60677
     },
     {
         "fields": {
@@ -882,7 +882,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 59
+        "pk": 60678
     },
     {
         "fields": {
@@ -897,7 +897,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 60
+        "pk": 60679
     },
     {
         "fields": {
@@ -912,7 +912,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 61
+        "pk": 60680
     },
     {
         "fields": {
@@ -927,7 +927,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 62
+        "pk": 60681
     },
     {
         "fields": {
@@ -942,7 +942,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 63
+        "pk": 60682
     },
     {
         "fields": {
@@ -957,7 +957,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 64
+        "pk": 60683
     },
     {
         "fields": {
@@ -972,7 +972,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 65
+        "pk": 60684
     },
     {
         "fields": {
@@ -987,7 +987,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 66
+        "pk": 60685
     },
     {
         "fields": {
@@ -1002,7 +1002,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 67
+        "pk": 60686
     },
     {
         "fields": {
@@ -1017,7 +1017,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 68
+        "pk": 60687
     },
     {
         "fields": {
@@ -1032,7 +1032,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 69
+        "pk": 60688
     },
     {
         "fields": {
@@ -1047,7 +1047,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 70
+        "pk": 60689
     },
     {
         "fields": {
@@ -1062,7 +1062,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 71
+        "pk": 60690
     },
     {
         "fields": {
@@ -1077,7 +1077,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 72
+        "pk": 60691
     },
     {
         "fields": {
@@ -1092,7 +1092,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 73
+        "pk": 60692
     },
     {
         "fields": {
@@ -1107,7 +1107,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 74
+        "pk": 60693
     },
     {
         "fields": {
@@ -1122,7 +1122,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 75
+        "pk": 60694
     },
     {
         "fields": {
@@ -1137,7 +1137,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 76
+        "pk": 60695
     },
     {
         "fields": {
@@ -1152,7 +1152,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 77
+        "pk": 60696
     },
     {
         "fields": {
@@ -1167,7 +1167,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 78
+        "pk": 60697
     },
     {
         "fields": {
@@ -1182,7 +1182,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 79
+        "pk": 60698
     },
     {
         "fields": {
@@ -1197,7 +1197,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 80
+        "pk": 60699
     },
     {
         "fields": {
@@ -1212,7 +1212,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 81
+        "pk": 60700
     },
     {
         "fields": {
@@ -1227,7 +1227,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 82
+        "pk": 60701
     },
     {
         "fields": {
@@ -1242,7 +1242,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 83
+        "pk": 60702
     },
     {
         "fields": {
@@ -1257,7 +1257,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 84
+        "pk": 60703
     },
     {
         "fields": {
@@ -1272,7 +1272,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 85
+        "pk": 60704
     },
     {
         "fields": {
@@ -1287,7 +1287,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 86
+        "pk": 60705
     },
     {
         "fields": {
@@ -1302,7 +1302,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 87
+        "pk": 60706
     },
     {
         "fields": {
@@ -1317,7 +1317,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 88
+        "pk": 60707
     },
     {
         "fields": {
@@ -1332,7 +1332,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 89
+        "pk": 60708
     },
     {
         "fields": {
@@ -1347,7 +1347,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 90
+        "pk": 60709
     },
     {
         "fields": {
@@ -1362,7 +1362,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 91
+        "pk": 60710
     },
     {
         "fields": {
@@ -1377,7 +1377,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 92
+        "pk": 60711
     },
     {
         "fields": {
@@ -1392,7 +1392,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 93
+        "pk": 60712
     },
     {
         "fields": {
@@ -1407,7 +1407,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 94
+        "pk": 60713
     },
     {
         "fields": {
@@ -1422,7 +1422,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 95
+        "pk": 60714
     },
     {
         "fields": {
@@ -1437,7 +1437,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 96
+        "pk": 60715
     },
     {
         "fields": {
@@ -1452,7 +1452,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 97
+        "pk": 60716
     },
     {
         "fields": {
@@ -1467,7 +1467,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 98
+        "pk": 60717
     },
     {
         "fields": {
@@ -1482,7 +1482,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 99
+        "pk": 60718
     },
     {
         "fields": {
@@ -1497,7 +1497,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 100
+        "pk": 60719
     },
     {
         "fields": {
@@ -1512,7 +1512,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 101
+        "pk": 60720
     },
     {
         "fields": {
@@ -1527,7 +1527,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 102
+        "pk": 60721
     },
     {
         "fields": {
@@ -1542,7 +1542,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 103
+        "pk": 60722
     },
     {
         "fields": {
@@ -1557,7 +1557,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 104
+        "pk": 60723
     },
     {
         "fields": {
@@ -1572,7 +1572,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 105
+        "pk": 60724
     },
     {
         "fields": {
@@ -1587,7 +1587,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 106
+        "pk": 60725
     },
     {
         "fields": {
@@ -1602,7 +1602,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 107
+        "pk": 60726
     },
     {
         "fields": {
@@ -1617,7 +1617,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 108
+        "pk": 60727
     },
     {
         "fields": {
@@ -1632,7 +1632,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 109
+        "pk": 60728
     },
     {
         "fields": {
@@ -1647,7 +1647,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 110
+        "pk": 60729
     },
     {
         "fields": {
@@ -1662,7 +1662,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 111
+        "pk": 60730
     },
     {
         "fields": {
@@ -1677,7 +1677,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 112
+        "pk": 60731
     },
     {
         "fields": {
@@ -1692,7 +1692,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 113
+        "pk": 60732
     },
     {
         "fields": {
@@ -1707,7 +1707,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 114
+        "pk": 60733
     },
     {
         "fields": {
@@ -1722,7 +1722,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 115
+        "pk": 60734
     },
     {
         "fields": {
@@ -1737,7 +1737,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 116
+        "pk": 60735
     },
     {
         "fields": {
@@ -1752,7 +1752,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 117
+        "pk": 60736
     },
     {
         "fields": {
@@ -1767,7 +1767,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 118
+        "pk": 60737
     },
     {
         "fields": {
@@ -1782,7 +1782,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 119
+        "pk": 60738
     },
     {
         "fields": {
@@ -1797,7 +1797,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 120
+        "pk": 60739
     },
     {
         "fields": {
@@ -1812,7 +1812,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 121
+        "pk": 60740
     },
     {
         "fields": {
@@ -1827,7 +1827,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 122
+        "pk": 60741
     },
     {
         "fields": {
@@ -1842,7 +1842,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 123
+        "pk": 60742
     },
     {
         "fields": {
@@ -1857,7 +1857,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 124
+        "pk": 60743
     },
     {
         "fields": {
@@ -1872,7 +1872,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 125
+        "pk": 60744
     },
     {
         "fields": {
@@ -1887,7 +1887,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 126
+        "pk": 60745
     },
     {
         "fields": {
@@ -1902,7 +1902,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 127
+        "pk": 60746
     },
     {
         "fields": {
@@ -1917,7 +1917,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 128
+        "pk": 60747
     },
     {
         "fields": {
@@ -1932,7 +1932,7 @@
             "state": "WEST BENGAL"
         },
         "model": "masterdata.ifsc",
-        "pk": 129
+        "pk": 60748
     },
     {
         "fields": {
@@ -1947,7 +1947,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 130
+        "pk": 60749
     },
     {
         "fields": {
@@ -1962,7 +1962,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 131
+        "pk": 60750
     },
     {
         "fields": {
@@ -1977,7 +1977,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 132
+        "pk": 60751
     },
     {
         "fields": {
@@ -1992,7 +1992,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 133
+        "pk": 60752
     },
     {
         "fields": {
@@ -2007,7 +2007,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 134
+        "pk": 60753
     },
     {
         "fields": {
@@ -2022,7 +2022,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 135
+        "pk": 60754
     },
     {
         "fields": {
@@ -2037,7 +2037,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 136
+        "pk": 60755
     },
     {
         "fields": {
@@ -2052,7 +2052,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 137
+        "pk": 60756
     },
     {
         "fields": {
@@ -2067,7 +2067,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 138
+        "pk": 60757
     },
     {
         "fields": {
@@ -2082,7 +2082,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 139
+        "pk": 60758
     },
     {
         "fields": {
@@ -2097,7 +2097,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 140
+        "pk": 60759
     },
     {
         "fields": {
@@ -2112,7 +2112,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 141
+        "pk": 60760
     },
     {
         "fields": {
@@ -2127,7 +2127,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 142
+        "pk": 60761
     },
     {
         "fields": {
@@ -2142,7 +2142,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 143
+        "pk": 60762
     },
     {
         "fields": {
@@ -2157,7 +2157,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 144
+        "pk": 60763
     },
     {
         "fields": {
@@ -2172,7 +2172,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 145
+        "pk": 60764
     },
     {
         "fields": {
@@ -2187,7 +2187,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 146
+        "pk": 60765
     },
     {
         "fields": {
@@ -2202,7 +2202,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 147
+        "pk": 60766
     },
     {
         "fields": {
@@ -2217,7 +2217,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 148
+        "pk": 60767
     },
     {
         "fields": {
@@ -2232,7 +2232,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 149
+        "pk": 60768
     },
     {
         "fields": {
@@ -2247,7 +2247,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 150
+        "pk": 60769
     },
     {
         "fields": {
@@ -2262,7 +2262,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 151
+        "pk": 60770
     },
     {
         "fields": {
@@ -2277,7 +2277,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 152
+        "pk": 60771
     },
     {
         "fields": {
@@ -2292,7 +2292,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 153
+        "pk": 60772
     },
     {
         "fields": {
@@ -2307,7 +2307,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 154
+        "pk": 60773
     },
     {
         "fields": {
@@ -2322,7 +2322,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 155
+        "pk": 60774
     },
     {
         "fields": {
@@ -2337,7 +2337,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 156
+        "pk": 60775
     },
     {
         "fields": {
@@ -2352,7 +2352,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 157
+        "pk": 60776
     },
     {
         "fields": {
@@ -2367,7 +2367,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 158
+        "pk": 60777
     },
     {
         "fields": {
@@ -2382,7 +2382,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 159
+        "pk": 60778
     },
     {
         "fields": {
@@ -2397,7 +2397,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 160
+        "pk": 60779
     },
     {
         "fields": {
@@ -2412,7 +2412,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 161
+        "pk": 60780
     },
     {
         "fields": {
@@ -2427,7 +2427,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 162
+        "pk": 60781
     },
     {
         "fields": {
@@ -2442,7 +2442,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 163
+        "pk": 60782
     },
     {
         "fields": {
@@ -2457,7 +2457,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 164
+        "pk": 60783
     },
     {
         "fields": {
@@ -2472,7 +2472,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 165
+        "pk": 60784
     },
     {
         "fields": {
@@ -2487,7 +2487,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 166
+        "pk": 60785
     },
     {
         "fields": {
@@ -2502,7 +2502,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 167
+        "pk": 60786
     },
     {
         "fields": {
@@ -2517,7 +2517,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 168
+        "pk": 60787
     },
     {
         "fields": {
@@ -2532,7 +2532,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 169
+        "pk": 60788
     },
     {
         "fields": {
@@ -2547,7 +2547,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 170
+        "pk": 60789
     },
     {
         "fields": {
@@ -2562,7 +2562,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 171
+        "pk": 60790
     },
     {
         "fields": {
@@ -2577,7 +2577,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 172
+        "pk": 60791
     },
     {
         "fields": {
@@ -2592,7 +2592,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 173
+        "pk": 60792
     },
     {
         "fields": {
@@ -2607,7 +2607,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 174
+        "pk": 60793
     },
     {
         "fields": {
@@ -2622,7 +2622,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 175
+        "pk": 60794
     },
     {
         "fields": {
@@ -2637,7 +2637,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 176
+        "pk": 60795
     },
     {
         "fields": {
@@ -2652,7 +2652,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 177
+        "pk": 60796
     },
     {
         "fields": {
@@ -2667,7 +2667,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 178
+        "pk": 60797
     },
     {
         "fields": {
@@ -2682,7 +2682,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 179
+        "pk": 60798
     },
     {
         "fields": {
@@ -2697,7 +2697,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 180
+        "pk": 60799
     },
     {
         "fields": {
@@ -2712,7 +2712,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 181
+        "pk": 60800
     },
     {
         "fields": {
@@ -2727,7 +2727,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 182
+        "pk": 60801
     },
     {
         "fields": {
@@ -2742,7 +2742,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 183
+        "pk": 60802
     },
     {
         "fields": {
@@ -2757,7 +2757,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 184
+        "pk": 60803
     },
     {
         "fields": {
@@ -2772,7 +2772,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 185
+        "pk": 60804
     },
     {
         "fields": {
@@ -2787,7 +2787,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 186
+        "pk": 60805
     },
     {
         "fields": {
@@ -2802,7 +2802,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 187
+        "pk": 60806
     },
     {
         "fields": {
@@ -2817,7 +2817,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 188
+        "pk": 60807
     },
     {
         "fields": {
@@ -2832,7 +2832,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 189
+        "pk": 60808
     },
     {
         "fields": {
@@ -2847,7 +2847,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 190
+        "pk": 60809
     },
     {
         "fields": {
@@ -2862,7 +2862,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 191
+        "pk": 60810
     },
     {
         "fields": {
@@ -2877,7 +2877,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 192
+        "pk": 60811
     },
     {
         "fields": {
@@ -2892,7 +2892,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 193
+        "pk": 60812
     },
     {
         "fields": {
@@ -2907,7 +2907,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 194
+        "pk": 60813
     },
     {
         "fields": {
@@ -2922,7 +2922,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 195
+        "pk": 60814
     },
     {
         "fields": {
@@ -2937,7 +2937,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 196
+        "pk": 60815
     },
     {
         "fields": {
@@ -2952,7 +2952,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 197
+        "pk": 60816
     },
     {
         "fields": {
@@ -2967,7 +2967,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 198
+        "pk": 60817
     },
     {
         "fields": {
@@ -2982,7 +2982,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 199
+        "pk": 60818
     },
     {
         "fields": {
@@ -2997,7 +2997,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 200
+        "pk": 60819
     },
     {
         "fields": {
@@ -3012,7 +3012,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 201
+        "pk": 60820
     },
     {
         "fields": {
@@ -3027,7 +3027,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 202
+        "pk": 60821
     },
     {
         "fields": {
@@ -3042,7 +3042,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 203
+        "pk": 60822
     },
     {
         "fields": {
@@ -3057,7 +3057,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 204
+        "pk": 60823
     },
     {
         "fields": {
@@ -3072,7 +3072,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 205
+        "pk": 60824
     },
     {
         "fields": {
@@ -3087,7 +3087,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 206
+        "pk": 60825
     },
     {
         "fields": {
@@ -3102,7 +3102,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 207
+        "pk": 60826
     },
     {
         "fields": {
@@ -3117,7 +3117,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 208
+        "pk": 60827
     },
     {
         "fields": {
@@ -3132,7 +3132,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 209
+        "pk": 60828
     },
     {
         "fields": {
@@ -3147,7 +3147,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 210
+        "pk": 60829
     },
     {
         "fields": {
@@ -3162,7 +3162,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 211
+        "pk": 60830
     },
     {
         "fields": {
@@ -3177,7 +3177,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 212
+        "pk": 60831
     },
     {
         "fields": {
@@ -3192,7 +3192,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 213
+        "pk": 60832
     },
     {
         "fields": {
@@ -3207,7 +3207,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 214
+        "pk": 60833
     },
     {
         "fields": {
@@ -3222,7 +3222,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 215
+        "pk": 60834
     },
     {
         "fields": {
@@ -3237,7 +3237,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 216
+        "pk": 60835
     },
     {
         "fields": {
@@ -3252,7 +3252,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 217
+        "pk": 60836
     },
     {
         "fields": {
@@ -3267,7 +3267,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 218
+        "pk": 60837
     },
     {
         "fields": {
@@ -3282,7 +3282,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 219
+        "pk": 60838
     },
     {
         "fields": {
@@ -3297,7 +3297,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 220
+        "pk": 60839
     },
     {
         "fields": {
@@ -3312,7 +3312,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 221
+        "pk": 60840
     },
     {
         "fields": {
@@ -3327,7 +3327,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 222
+        "pk": 60841
     },
     {
         "fields": {
@@ -3342,7 +3342,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 223
+        "pk": 60842
     },
     {
         "fields": {
@@ -3357,7 +3357,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 224
+        "pk": 60843
     },
     {
         "fields": {
@@ -3372,7 +3372,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 225
+        "pk": 60844
     },
     {
         "fields": {
@@ -3387,7 +3387,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 226
+        "pk": 60845
     },
     {
         "fields": {
@@ -3402,7 +3402,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 227
+        "pk": 60846
     },
     {
         "fields": {
@@ -3417,7 +3417,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 228
+        "pk": 60847
     },
     {
         "fields": {
@@ -3432,7 +3432,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 229
+        "pk": 60848
     },
     {
         "fields": {
@@ -3447,7 +3447,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 230
+        "pk": 60849
     },
     {
         "fields": {
@@ -3462,7 +3462,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 231
+        "pk": 60850
     },
     {
         "fields": {
@@ -3477,7 +3477,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 232
+        "pk": 60851
     },
     {
         "fields": {
@@ -3492,7 +3492,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 233
+        "pk": 60852
     },
     {
         "fields": {
@@ -3507,7 +3507,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 234
+        "pk": 60853
     },
     {
         "fields": {
@@ -3522,7 +3522,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 235
+        "pk": 60854
     },
     {
         "fields": {
@@ -3537,7 +3537,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 236
+        "pk": 60855
     },
     {
         "fields": {
@@ -3552,7 +3552,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 237
+        "pk": 60856
     },
     {
         "fields": {
@@ -3567,7 +3567,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 238
+        "pk": 60857
     },
     {
         "fields": {
@@ -3582,7 +3582,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 239
+        "pk": 60858
     },
     {
         "fields": {
@@ -3597,7 +3597,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 240
+        "pk": 60859
     },
     {
         "fields": {
@@ -3612,7 +3612,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 241
+        "pk": 60860
     },
     {
         "fields": {
@@ -3627,7 +3627,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 242
+        "pk": 60861
     },
     {
         "fields": {
@@ -3642,7 +3642,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 243
+        "pk": 60862
     },
     {
         "fields": {
@@ -3657,7 +3657,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 244
+        "pk": 60863
     },
     {
         "fields": {
@@ -3672,7 +3672,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 245
+        "pk": 60864
     },
     {
         "fields": {
@@ -3687,7 +3687,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 246
+        "pk": 60865
     },
     {
         "fields": {
@@ -3702,7 +3702,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 247
+        "pk": 60866
     },
     {
         "fields": {
@@ -3717,7 +3717,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 248
+        "pk": 60867
     },
     {
         "fields": {
@@ -3732,7 +3732,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 249
+        "pk": 60868
     },
     {
         "fields": {
@@ -3747,7 +3747,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 250
+        "pk": 60869
     },
     {
         "fields": {
@@ -3762,7 +3762,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 251
+        "pk": 60870
     },
     {
         "fields": {
@@ -3777,7 +3777,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 252
+        "pk": 60871
     },
     {
         "fields": {
@@ -3792,7 +3792,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 253
+        "pk": 60872
     },
     {
         "fields": {
@@ -3807,7 +3807,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 254
+        "pk": 60873
     },
     {
         "fields": {
@@ -3822,7 +3822,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 255
+        "pk": 60874
     },
     {
         "fields": {
@@ -3837,7 +3837,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 256
+        "pk": 60875
     },
     {
         "fields": {
@@ -3852,7 +3852,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 257
+        "pk": 60876
     },
     {
         "fields": {
@@ -3867,7 +3867,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 258
+        "pk": 60877
     },
     {
         "fields": {
@@ -3882,7 +3882,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 259
+        "pk": 60878
     },
     {
         "fields": {
@@ -3897,7 +3897,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 260
+        "pk": 60879
     },
     {
         "fields": {
@@ -3912,7 +3912,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 261
+        "pk": 60880
     },
     {
         "fields": {
@@ -3927,7 +3927,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 262
+        "pk": 60881
     },
     {
         "fields": {
@@ -3942,7 +3942,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 263
+        "pk": 60882
     },
     {
         "fields": {
@@ -3957,7 +3957,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 264
+        "pk": 60883
     },
     {
         "fields": {
@@ -3972,7 +3972,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 265
+        "pk": 60884
     },
     {
         "fields": {
@@ -3987,7 +3987,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 266
+        "pk": 60885
     },
     {
         "fields": {
@@ -4002,7 +4002,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 267
+        "pk": 60886
     },
     {
         "fields": {
@@ -4017,7 +4017,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 268
+        "pk": 60887
     },
     {
         "fields": {
@@ -4032,7 +4032,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 269
+        "pk": 60888
     },
     {
         "fields": {
@@ -4047,7 +4047,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 270
+        "pk": 60889
     },
     {
         "fields": {
@@ -4062,7 +4062,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 271
+        "pk": 60890
     },
     {
         "fields": {
@@ -4077,7 +4077,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 272
+        "pk": 60891
     },
     {
         "fields": {
@@ -4092,7 +4092,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 273
+        "pk": 60892
     },
     {
         "fields": {
@@ -4107,7 +4107,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 274
+        "pk": 60893
     },
     {
         "fields": {
@@ -4122,7 +4122,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 275
+        "pk": 60894
     },
     {
         "fields": {
@@ -4137,7 +4137,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 276
+        "pk": 60895
     },
     {
         "fields": {
@@ -4152,7 +4152,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 277
+        "pk": 60896
     },
     {
         "fields": {
@@ -4167,7 +4167,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 278
+        "pk": 60897
     },
     {
         "fields": {
@@ -4182,7 +4182,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 279
+        "pk": 60898
     },
     {
         "fields": {
@@ -4197,7 +4197,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 280
+        "pk": 60899
     },
     {
         "fields": {
@@ -4212,7 +4212,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 281
+        "pk": 60900
     },
     {
         "fields": {
@@ -4227,7 +4227,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 282
+        "pk": 60901
     },
     {
         "fields": {
@@ -4242,7 +4242,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 283
+        "pk": 60902
     },
     {
         "fields": {
@@ -4257,7 +4257,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 284
+        "pk": 60903
     },
     {
         "fields": {
@@ -4272,7 +4272,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 285
+        "pk": 60904
     },
     {
         "fields": {
@@ -4287,7 +4287,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 286
+        "pk": 60905
     },
     {
         "fields": {
@@ -4302,7 +4302,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 287
+        "pk": 60906
     },
     {
         "fields": {
@@ -4317,7 +4317,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 288
+        "pk": 60907
     },
     {
         "fields": {
@@ -4332,7 +4332,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 289
+        "pk": 60908
     },
     {
         "fields": {
@@ -4347,7 +4347,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 290
+        "pk": 60909
     },
     {
         "fields": {
@@ -4362,7 +4362,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 291
+        "pk": 60910
     },
     {
         "fields": {
@@ -4377,7 +4377,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 292
+        "pk": 60911
     },
     {
         "fields": {
@@ -4392,7 +4392,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 293
+        "pk": 60912
     },
     {
         "fields": {
@@ -4407,7 +4407,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 294
+        "pk": 60913
     },
     {
         "fields": {
@@ -4422,7 +4422,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 295
+        "pk": 60914
     },
     {
         "fields": {
@@ -4437,7 +4437,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 296
+        "pk": 60915
     },
     {
         "fields": {
@@ -4452,7 +4452,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 297
+        "pk": 60916
     },
     {
         "fields": {
@@ -4467,7 +4467,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 298
+        "pk": 60917
     },
     {
         "fields": {
@@ -4482,7 +4482,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 299
+        "pk": 60918
     },
     {
         "fields": {
@@ -4497,7 +4497,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 300
+        "pk": 60919
     },
     {
         "fields": {
@@ -4512,7 +4512,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 301
+        "pk": 60920
     },
     {
         "fields": {
@@ -4527,7 +4527,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 302
+        "pk": 60921
     },
     {
         "fields": {
@@ -4542,7 +4542,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 303
+        "pk": 60922
     },
     {
         "fields": {
@@ -4557,7 +4557,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 304
+        "pk": 60923
     },
     {
         "fields": {
@@ -4572,7 +4572,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 305
+        "pk": 60924
     },
     {
         "fields": {
@@ -4587,7 +4587,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 306
+        "pk": 60925
     },
     {
         "fields": {
@@ -4602,7 +4602,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 307
+        "pk": 60926
     },
     {
         "fields": {
@@ -4617,7 +4617,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 308
+        "pk": 60927
     },
     {
         "fields": {
@@ -4632,7 +4632,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 309
+        "pk": 60928
     },
     {
         "fields": {
@@ -4647,7 +4647,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 310
+        "pk": 60929
     },
     {
         "fields": {
@@ -4662,7 +4662,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 311
+        "pk": 60930
     },
     {
         "fields": {
@@ -4677,7 +4677,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 312
+        "pk": 60931
     },
     {
         "fields": {
@@ -4692,7 +4692,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 313
+        "pk": 60932
     },
     {
         "fields": {
@@ -4707,7 +4707,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 314
+        "pk": 60933
     },
     {
         "fields": {
@@ -4722,7 +4722,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 315
+        "pk": 60934
     },
     {
         "fields": {
@@ -4737,7 +4737,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 316
+        "pk": 60935
     },
     {
         "fields": {
@@ -4752,7 +4752,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 317
+        "pk": 60936
     },
     {
         "fields": {
@@ -4767,7 +4767,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 318
+        "pk": 60937
     },
     {
         "fields": {
@@ -4782,7 +4782,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 319
+        "pk": 60938
     },
     {
         "fields": {
@@ -4797,7 +4797,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 320
+        "pk": 60939
     },
     {
         "fields": {
@@ -4812,7 +4812,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 321
+        "pk": 60940
     },
     {
         "fields": {
@@ -4827,7 +4827,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 322
+        "pk": 60941
     },
     {
         "fields": {
@@ -4842,7 +4842,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 323
+        "pk": 60942
     },
     {
         "fields": {
@@ -4857,7 +4857,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 324
+        "pk": 60943
     },
     {
         "fields": {
@@ -4872,7 +4872,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 325
+        "pk": 60944
     },
     {
         "fields": {
@@ -4887,7 +4887,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 326
+        "pk": 60945
     },
     {
         "fields": {
@@ -4902,7 +4902,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 327
+        "pk": 60946
     },
     {
         "fields": {
@@ -4917,7 +4917,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 328
+        "pk": 60947
     },
     {
         "fields": {
@@ -4932,7 +4932,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 329
+        "pk": 60948
     },
     {
         "fields": {
@@ -4947,7 +4947,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 330
+        "pk": 60949
     },
     {
         "fields": {
@@ -4962,7 +4962,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 331
+        "pk": 60950
     },
     {
         "fields": {
@@ -4977,7 +4977,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 332
+        "pk": 60951
     },
     {
         "fields": {
@@ -4992,7 +4992,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 333
+        "pk": 60952
     },
     {
         "fields": {
@@ -5007,7 +5007,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 334
+        "pk": 60953
     },
     {
         "fields": {
@@ -5022,7 +5022,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 335
+        "pk": 60954
     },
     {
         "fields": {
@@ -5037,7 +5037,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 336
+        "pk": 60955
     },
     {
         "fields": {
@@ -5052,7 +5052,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 337
+        "pk": 60956
     },
     {
         "fields": {
@@ -5067,7 +5067,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 338
+        "pk": 60957
     },
     {
         "fields": {
@@ -5082,7 +5082,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 339
+        "pk": 60958
     },
     {
         "fields": {
@@ -5097,7 +5097,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 340
+        "pk": 60959
     },
     {
         "fields": {
@@ -5112,7 +5112,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 341
+        "pk": 60960
     },
     {
         "fields": {
@@ -5127,7 +5127,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 342
+        "pk": 60961
     },
     {
         "fields": {
@@ -5142,7 +5142,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 343
+        "pk": 60962
     },
     {
         "fields": {
@@ -5157,7 +5157,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 344
+        "pk": 60963
     },
     {
         "fields": {
@@ -5172,7 +5172,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 345
+        "pk": 60964
     },
     {
         "fields": {
@@ -5187,7 +5187,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 346
+        "pk": 60965
     },
     {
         "fields": {
@@ -5202,7 +5202,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 347
+        "pk": 60966
     },
     {
         "fields": {
@@ -5217,7 +5217,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 348
+        "pk": 60967
     },
     {
         "fields": {
@@ -5232,7 +5232,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 349
+        "pk": 60968
     },
     {
         "fields": {
@@ -5247,7 +5247,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 350
+        "pk": 60969
     },
     {
         "fields": {
@@ -5262,7 +5262,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 351
+        "pk": 60970
     },
     {
         "fields": {
@@ -5277,7 +5277,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 352
+        "pk": 60971
     },
     {
         "fields": {
@@ -5292,7 +5292,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 353
+        "pk": 60972
     },
     {
         "fields": {
@@ -5307,7 +5307,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 354
+        "pk": 60973
     },
     {
         "fields": {
@@ -5322,7 +5322,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 355
+        "pk": 60974
     },
     {
         "fields": {
@@ -5337,7 +5337,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 356
+        "pk": 60975
     },
     {
         "fields": {
@@ -5352,7 +5352,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 357
+        "pk": 60976
     },
     {
         "fields": {
@@ -5367,7 +5367,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 358
+        "pk": 60977
     },
     {
         "fields": {
@@ -5382,7 +5382,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 359
+        "pk": 60978
     },
     {
         "fields": {
@@ -5397,7 +5397,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 360
+        "pk": 60979
     },
     {
         "fields": {
@@ -5412,7 +5412,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 361
+        "pk": 60980
     },
     {
         "fields": {
@@ -5427,7 +5427,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 362
+        "pk": 60981
     },
     {
         "fields": {
@@ -5442,7 +5442,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 363
+        "pk": 60982
     },
     {
         "fields": {
@@ -5457,7 +5457,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 364
+        "pk": 60983
     },
     {
         "fields": {
@@ -5472,7 +5472,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 365
+        "pk": 60984
     },
     {
         "fields": {
@@ -5487,7 +5487,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 366
+        "pk": 60985
     },
     {
         "fields": {
@@ -5502,7 +5502,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 367
+        "pk": 60986
     },
     {
         "fields": {
@@ -5517,7 +5517,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 368
+        "pk": 60987
     },
     {
         "fields": {
@@ -5532,7 +5532,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 369
+        "pk": 60988
     },
     {
         "fields": {
@@ -5547,7 +5547,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 370
+        "pk": 60989
     },
     {
         "fields": {
@@ -5562,7 +5562,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 371
+        "pk": 60990
     },
     {
         "fields": {
@@ -5577,7 +5577,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 372
+        "pk": 60991
     },
     {
         "fields": {
@@ -5592,7 +5592,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 373
+        "pk": 60992
     },
     {
         "fields": {
@@ -5607,7 +5607,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 374
+        "pk": 60993
     },
     {
         "fields": {
@@ -5622,7 +5622,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 375
+        "pk": 60994
     },
     {
         "fields": {
@@ -5637,7 +5637,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 376
+        "pk": 60995
     },
     {
         "fields": {
@@ -5652,7 +5652,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 377
+        "pk": 60996
     },
     {
         "fields": {
@@ -5667,7 +5667,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 378
+        "pk": 60997
     },
     {
         "fields": {
@@ -5682,7 +5682,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 379
+        "pk": 60998
     },
     {
         "fields": {
@@ -5697,7 +5697,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 380
+        "pk": 60999
     },
     {
         "fields": {
@@ -5712,7 +5712,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 381
+        "pk": 61000
     },
     {
         "fields": {
@@ -5727,7 +5727,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 382
+        "pk": 61001
     },
     {
         "fields": {
@@ -5742,7 +5742,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 383
+        "pk": 61002
     },
     {
         "fields": {
@@ -5757,7 +5757,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 384
+        "pk": 61003
     },
     {
         "fields": {
@@ -5772,7 +5772,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 385
+        "pk": 61004
     },
     {
         "fields": {
@@ -5787,7 +5787,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 386
+        "pk": 61005
     },
     {
         "fields": {
@@ -5802,7 +5802,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 387
+        "pk": 61006
     },
     {
         "fields": {
@@ -5817,7 +5817,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 388
+        "pk": 61007
     },
     {
         "fields": {
@@ -5832,7 +5832,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 389
+        "pk": 61008
     },
     {
         "fields": {
@@ -5847,7 +5847,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 390
+        "pk": 61009
     },
     {
         "fields": {
@@ -5862,7 +5862,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 391
+        "pk": 61010
     },
     {
         "fields": {
@@ -5877,7 +5877,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 392
+        "pk": 61011
     },
     {
         "fields": {
@@ -5892,7 +5892,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 393
+        "pk": 61012
     },
     {
         "fields": {
@@ -5907,7 +5907,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 394
+        "pk": 61013
     },
     {
         "fields": {
@@ -5922,7 +5922,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 395
+        "pk": 61014
     },
     {
         "fields": {
@@ -5937,7 +5937,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 396
+        "pk": 61015
     },
     {
         "fields": {
@@ -5952,7 +5952,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 397
+        "pk": 61016
     },
     {
         "fields": {
@@ -5967,7 +5967,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 398
+        "pk": 61017
     },
     {
         "fields": {
@@ -5982,7 +5982,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 399
+        "pk": 61018
     },
     {
         "fields": {
@@ -5997,7 +5997,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 400
+        "pk": 61019
     },
     {
         "fields": {
@@ -6012,7 +6012,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 401
+        "pk": 61020
     },
     {
         "fields": {
@@ -6027,7 +6027,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 402
+        "pk": 61021
     },
     {
         "fields": {
@@ -6042,7 +6042,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 403
+        "pk": 61022
     },
     {
         "fields": {
@@ -6057,7 +6057,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 404
+        "pk": 61023
     },
     {
         "fields": {
@@ -6072,7 +6072,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 405
+        "pk": 61024
     },
     {
         "fields": {
@@ -6087,7 +6087,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 406
+        "pk": 61025
     },
     {
         "fields": {
@@ -6102,7 +6102,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 407
+        "pk": 61026
     },
     {
         "fields": {
@@ -6117,7 +6117,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 408
+        "pk": 61027
     },
     {
         "fields": {
@@ -6132,7 +6132,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 409
+        "pk": 61028
     },
     {
         "fields": {
@@ -6147,7 +6147,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 410
+        "pk": 61029
     },
     {
         "fields": {
@@ -6162,7 +6162,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 411
+        "pk": 61030
     },
     {
         "fields": {
@@ -6177,7 +6177,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 412
+        "pk": 61031
     },
     {
         "fields": {
@@ -6192,7 +6192,7 @@
             "state": "RAJASTHAN"
         },
         "model": "masterdata.ifsc",
-        "pk": 413
+        "pk": 61032
     },
     {
         "fields": {
@@ -6207,7 +6207,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 414
+        "pk": 61033
     },
     {
         "fields": {
@@ -6222,7 +6222,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 415
+        "pk": 61034
     },
     {
         "fields": {
@@ -6237,7 +6237,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 416
+        "pk": 61035
     },
     {
         "fields": {
@@ -6252,7 +6252,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 417
+        "pk": 61036
     },
     {
         "fields": {
@@ -6267,7 +6267,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 418
+        "pk": 61037
     },
     {
         "fields": {
@@ -6282,7 +6282,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 419
+        "pk": 61038
     },
     {
         "fields": {
@@ -6297,7 +6297,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 420
+        "pk": 61039
     },
     {
         "fields": {
@@ -6312,7 +6312,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 421
+        "pk": 61040
     },
     {
         "fields": {
@@ -6327,7 +6327,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 422
+        "pk": 61041
     },
     {
         "fields": {
@@ -6342,7 +6342,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 423
+        "pk": 61042
     },
     {
         "fields": {
@@ -6357,7 +6357,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 424
+        "pk": 61043
     },
     {
         "fields": {
@@ -6372,7 +6372,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 425
+        "pk": 61044
     },
     {
         "fields": {
@@ -6387,7 +6387,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 426
+        "pk": 61045
     },
     {
         "fields": {
@@ -6402,7 +6402,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 427
+        "pk": 61046
     },
     {
         "fields": {
@@ -6417,7 +6417,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 428
+        "pk": 61047
     },
     {
         "fields": {
@@ -6432,7 +6432,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 429
+        "pk": 61048
     },
     {
         "fields": {
@@ -6447,7 +6447,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 430
+        "pk": 61049
     },
     {
         "fields": {
@@ -6462,7 +6462,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 431
+        "pk": 61050
     },
     {
         "fields": {
@@ -6477,7 +6477,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 432
+        "pk": 61051
     },
     {
         "fields": {
@@ -6492,7 +6492,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 433
+        "pk": 61052
     },
     {
         "fields": {
@@ -6507,7 +6507,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 434
+        "pk": 61053
     },
     {
         "fields": {
@@ -6522,7 +6522,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 435
+        "pk": 61054
     },
     {
         "fields": {
@@ -6537,7 +6537,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 436
+        "pk": 61055
     },
     {
         "fields": {
@@ -6552,7 +6552,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 437
+        "pk": 61056
     },
     {
         "fields": {
@@ -6567,7 +6567,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 438
+        "pk": 61057
     },
     {
         "fields": {
@@ -6582,7 +6582,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 439
+        "pk": 61058
     },
     {
         "fields": {
@@ -6597,7 +6597,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 440
+        "pk": 61059
     },
     {
         "fields": {
@@ -6612,7 +6612,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 441
+        "pk": 61060
     },
     {
         "fields": {
@@ -6627,7 +6627,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 442
+        "pk": 61061
     },
     {
         "fields": {
@@ -6642,7 +6642,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 443
+        "pk": 61062
     },
     {
         "fields": {
@@ -6657,7 +6657,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 444
+        "pk": 61063
     },
     {
         "fields": {
@@ -6672,7 +6672,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 445
+        "pk": 61064
     },
     {
         "fields": {
@@ -6687,7 +6687,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 446
+        "pk": 61065
     },
     {
         "fields": {
@@ -6702,7 +6702,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 447
+        "pk": 61066
     },
     {
         "fields": {
@@ -6717,7 +6717,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 448
+        "pk": 61067
     },
     {
         "fields": {
@@ -6732,7 +6732,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 449
+        "pk": 61068
     },
     {
         "fields": {
@@ -6747,7 +6747,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 450
+        "pk": 61069
     },
     {
         "fields": {
@@ -6762,7 +6762,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 451
+        "pk": 61070
     },
     {
         "fields": {
@@ -6777,7 +6777,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 452
+        "pk": 61071
     },
     {
         "fields": {
@@ -6792,7 +6792,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 453
+        "pk": 61072
     },
     {
         "fields": {
@@ -6807,7 +6807,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 454
+        "pk": 61073
     },
     {
         "fields": {
@@ -6822,7 +6822,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 455
+        "pk": 61074
     },
     {
         "fields": {
@@ -6837,7 +6837,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 456
+        "pk": 61075
     },
     {
         "fields": {
@@ -6852,7 +6852,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 457
+        "pk": 61076
     },
     {
         "fields": {
@@ -6867,7 +6867,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 458
+        "pk": 61077
     },
     {
         "fields": {
@@ -6882,7 +6882,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 459
+        "pk": 61078
     },
     {
         "fields": {
@@ -6897,7 +6897,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 460
+        "pk": 61079
     },
     {
         "fields": {
@@ -6912,7 +6912,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 461
+        "pk": 61080
     },
     {
         "fields": {
@@ -6927,7 +6927,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 462
+        "pk": 61081
     },
     {
         "fields": {
@@ -6942,7 +6942,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 463
+        "pk": 61082
     },
     {
         "fields": {
@@ -6957,7 +6957,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 464
+        "pk": 61083
     },
     {
         "fields": {
@@ -6972,7 +6972,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 465
+        "pk": 61084
     },
     {
         "fields": {
@@ -6987,7 +6987,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 466
+        "pk": 61085
     },
     {
         "fields": {
@@ -7002,7 +7002,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 467
+        "pk": 61086
     },
     {
         "fields": {
@@ -7017,7 +7017,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 468
+        "pk": 61087
     },
     {
         "fields": {
@@ -7032,7 +7032,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 469
+        "pk": 61088
     },
     {
         "fields": {
@@ -7047,7 +7047,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 470
+        "pk": 61089
     },
     {
         "fields": {
@@ -7062,7 +7062,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 471
+        "pk": 61090
     },
     {
         "fields": {
@@ -7077,7 +7077,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 472
+        "pk": 61091
     },
     {
         "fields": {
@@ -7092,7 +7092,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 473
+        "pk": 61092
     },
     {
         "fields": {
@@ -7107,7 +7107,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 474
+        "pk": 61093
     },
     {
         "fields": {
@@ -7122,7 +7122,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 475
+        "pk": 61094
     },
     {
         "fields": {
@@ -7137,7 +7137,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 476
+        "pk": 61095
     },
     {
         "fields": {
@@ -7152,7 +7152,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 477
+        "pk": 61096
     },
     {
         "fields": {
@@ -7167,7 +7167,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 478
+        "pk": 61097
     },
     {
         "fields": {
@@ -7182,7 +7182,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 479
+        "pk": 61098
     },
     {
         "fields": {
@@ -7197,7 +7197,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 480
+        "pk": 61099
     },
     {
         "fields": {
@@ -7212,7 +7212,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 481
+        "pk": 61100
     },
     {
         "fields": {
@@ -7227,7 +7227,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 482
+        "pk": 61101
     },
     {
         "fields": {
@@ -7242,7 +7242,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 483
+        "pk": 61102
     },
     {
         "fields": {
@@ -7257,7 +7257,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 484
+        "pk": 61103
     },
     {
         "fields": {
@@ -7272,7 +7272,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 485
+        "pk": 61104
     },
     {
         "fields": {
@@ -7287,7 +7287,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 486
+        "pk": 61105
     },
     {
         "fields": {
@@ -7302,7 +7302,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 487
+        "pk": 61106
     },
     {
         "fields": {
@@ -7317,7 +7317,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 488
+        "pk": 61107
     },
     {
         "fields": {
@@ -7332,7 +7332,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 489
+        "pk": 61108
     },
     {
         "fields": {
@@ -7347,7 +7347,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 490
+        "pk": 61109
     },
     {
         "fields": {
@@ -7362,7 +7362,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 491
+        "pk": 61110
     },
     {
         "fields": {
@@ -7377,7 +7377,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 492
+        "pk": 61111
     },
     {
         "fields": {
@@ -7392,7 +7392,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 493
+        "pk": 61112
     },
     {
         "fields": {
@@ -7407,7 +7407,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 494
+        "pk": 61113
     },
     {
         "fields": {
@@ -7422,7 +7422,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 495
+        "pk": 61114
     },
     {
         "fields": {
@@ -7437,7 +7437,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 496
+        "pk": 61115
     },
     {
         "fields": {
@@ -7452,7 +7452,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 497
+        "pk": 61116
     },
     {
         "fields": {
@@ -7467,7 +7467,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 498
+        "pk": 61117
     },
     {
         "fields": {
@@ -7482,7 +7482,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 499
+        "pk": 61118
     },
     {
         "fields": {
@@ -7497,7 +7497,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 500
+        "pk": 61119
     },
     {
         "fields": {
@@ -7512,7 +7512,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 501
+        "pk": 61120
     },
     {
         "fields": {
@@ -7527,7 +7527,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 502
+        "pk": 61121
     },
     {
         "fields": {
@@ -7542,7 +7542,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 503
+        "pk": 61122
     },
     {
         "fields": {
@@ -7557,7 +7557,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 504
+        "pk": 61123
     },
     {
         "fields": {
@@ -7572,7 +7572,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 505
+        "pk": 61124
     },
     {
         "fields": {
@@ -7587,7 +7587,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 506
+        "pk": 61125
     },
     {
         "fields": {
@@ -7602,7 +7602,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 507
+        "pk": 61126
     },
     {
         "fields": {
@@ -7617,7 +7617,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 508
+        "pk": 61127
     },
     {
         "fields": {
@@ -7632,7 +7632,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 509
+        "pk": 61128
     },
     {
         "fields": {
@@ -7647,7 +7647,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 510
+        "pk": 61129
     },
     {
         "fields": {
@@ -7662,7 +7662,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 511
+        "pk": 61130
     },
     {
         "fields": {
@@ -7677,7 +7677,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 512
+        "pk": 61131
     },
     {
         "fields": {
@@ -7692,7 +7692,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 513
+        "pk": 61132
     },
     {
         "fields": {
@@ -7707,7 +7707,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 514
+        "pk": 61133
     },
     {
         "fields": {
@@ -7722,7 +7722,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 515
+        "pk": 61134
     },
     {
         "fields": {
@@ -7737,7 +7737,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 516
+        "pk": 61135
     },
     {
         "fields": {
@@ -7752,7 +7752,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 517
+        "pk": 61136
     },
     {
         "fields": {
@@ -7767,7 +7767,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 518
+        "pk": 61137
     },
     {
         "fields": {
@@ -7782,7 +7782,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 519
+        "pk": 61138
     },
     {
         "fields": {
@@ -7797,7 +7797,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 520
+        "pk": 61139
     },
     {
         "fields": {
@@ -7812,7 +7812,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 521
+        "pk": 61140
     },
     {
         "fields": {
@@ -7827,7 +7827,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 522
+        "pk": 61141
     },
     {
         "fields": {
@@ -7842,7 +7842,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 523
+        "pk": 61142
     },
     {
         "fields": {
@@ -7857,7 +7857,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 524
+        "pk": 61143
     },
     {
         "fields": {
@@ -7872,7 +7872,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 525
+        "pk": 61144
     },
     {
         "fields": {
@@ -7887,7 +7887,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 526
+        "pk": 61145
     },
     {
         "fields": {
@@ -7902,7 +7902,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 527
+        "pk": 61146
     },
     {
         "fields": {
@@ -7917,7 +7917,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 528
+        "pk": 61147
     },
     {
         "fields": {
@@ -7932,7 +7932,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 529
+        "pk": 61148
     },
     {
         "fields": {
@@ -7947,7 +7947,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 530
+        "pk": 61149
     },
     {
         "fields": {
@@ -7962,7 +7962,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 531
+        "pk": 61150
     },
     {
         "fields": {
@@ -7977,7 +7977,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 532
+        "pk": 61151
     },
     {
         "fields": {
@@ -7992,7 +7992,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 533
+        "pk": 61152
     },
     {
         "fields": {
@@ -8007,7 +8007,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 534
+        "pk": 61153
     },
     {
         "fields": {
@@ -8022,7 +8022,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 535
+        "pk": 61154
     },
     {
         "fields": {
@@ -8037,7 +8037,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 536
+        "pk": 61155
     },
     {
         "fields": {
@@ -8052,7 +8052,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 537
+        "pk": 61156
     },
     {
         "fields": {
@@ -8067,7 +8067,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 538
+        "pk": 61157
     },
     {
         "fields": {
@@ -8082,7 +8082,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 539
+        "pk": 61158
     },
     {
         "fields": {
@@ -8097,7 +8097,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 540
+        "pk": 61159
     },
     {
         "fields": {
@@ -8112,7 +8112,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 541
+        "pk": 61160
     },
     {
         "fields": {
@@ -8127,7 +8127,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 542
+        "pk": 61161
     },
     {
         "fields": {
@@ -8142,7 +8142,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 543
+        "pk": 61162
     },
     {
         "fields": {
@@ -8157,7 +8157,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 544
+        "pk": 61163
     },
     {
         "fields": {
@@ -8172,7 +8172,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 545
+        "pk": 61164
     },
     {
         "fields": {
@@ -8187,7 +8187,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 546
+        "pk": 61165
     },
     {
         "fields": {
@@ -8202,7 +8202,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 547
+        "pk": 61166
     },
     {
         "fields": {
@@ -8217,7 +8217,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 548
+        "pk": 61167
     },
     {
         "fields": {
@@ -8232,7 +8232,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 549
+        "pk": 61168
     },
     {
         "fields": {
@@ -8247,7 +8247,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 550
+        "pk": 61169
     },
     {
         "fields": {
@@ -8262,7 +8262,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 551
+        "pk": 61170
     },
     {
         "fields": {
@@ -8277,7 +8277,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 552
+        "pk": 61171
     },
     {
         "fields": {
@@ -8292,7 +8292,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 553
+        "pk": 61172
     },
     {
         "fields": {
@@ -8307,7 +8307,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 554
+        "pk": 61173
     },
     {
         "fields": {
@@ -8322,7 +8322,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 555
+        "pk": 61174
     },
     {
         "fields": {
@@ -8337,7 +8337,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 556
+        "pk": 61175
     },
     {
         "fields": {
@@ -8352,7 +8352,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 557
+        "pk": 61176
     },
     {
         "fields": {
@@ -8367,7 +8367,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 558
+        "pk": 61177
     },
     {
         "fields": {
@@ -8382,7 +8382,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 559
+        "pk": 61178
     },
     {
         "fields": {
@@ -8397,7 +8397,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 560
+        "pk": 61179
     },
     {
         "fields": {
@@ -8412,7 +8412,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 561
+        "pk": 61180
     },
     {
         "fields": {
@@ -8427,7 +8427,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 562
+        "pk": 61181
     },
     {
         "fields": {
@@ -8442,7 +8442,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 563
+        "pk": 61182
     },
     {
         "fields": {
@@ -8457,7 +8457,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 564
+        "pk": 61183
     },
     {
         "fields": {
@@ -8472,7 +8472,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 565
+        "pk": 61184
     },
     {
         "fields": {
@@ -8487,7 +8487,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 566
+        "pk": 61185
     },
     {
         "fields": {
@@ -8502,7 +8502,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 567
+        "pk": 61186
     },
     {
         "fields": {
@@ -8517,7 +8517,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 568
+        "pk": 61187
     },
     {
         "fields": {
@@ -8532,7 +8532,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 569
+        "pk": 61188
     },
     {
         "fields": {
@@ -8547,7 +8547,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 570
+        "pk": 61189
     },
     {
         "fields": {
@@ -8562,7 +8562,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 571
+        "pk": 61190
     },
     {
         "fields": {
@@ -8577,7 +8577,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 572
+        "pk": 61191
     },
     {
         "fields": {
@@ -8592,7 +8592,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 573
+        "pk": 61192
     },
     {
         "fields": {
@@ -8607,7 +8607,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 574
+        "pk": 61193
     },
     {
         "fields": {
@@ -8622,7 +8622,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 575
+        "pk": 61194
     },
     {
         "fields": {
@@ -8637,7 +8637,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 576
+        "pk": 61195
     },
     {
         "fields": {
@@ -8652,7 +8652,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 577
+        "pk": 61196
     },
     {
         "fields": {
@@ -8667,7 +8667,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 578
+        "pk": 61197
     },
     {
         "fields": {
@@ -8682,7 +8682,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 579
+        "pk": 61198
     },
     {
         "fields": {
@@ -8697,7 +8697,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 580
+        "pk": 61199
     },
     {
         "fields": {
@@ -8712,7 +8712,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 581
+        "pk": 61200
     },
     {
         "fields": {
@@ -8727,7 +8727,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 582
+        "pk": 61201
     },
     {
         "fields": {
@@ -8742,7 +8742,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 583
+        "pk": 61202
     },
     {
         "fields": {
@@ -8757,7 +8757,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 584
+        "pk": 61203
     },
     {
         "fields": {
@@ -8772,7 +8772,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 585
+        "pk": 61204
     },
     {
         "fields": {
@@ -8787,7 +8787,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 586
+        "pk": 61205
     },
     {
         "fields": {
@@ -8802,7 +8802,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 587
+        "pk": 61206
     },
     {
         "fields": {
@@ -8817,7 +8817,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 588
+        "pk": 61207
     },
     {
         "fields": {
@@ -8832,7 +8832,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 589
+        "pk": 61208
     },
     {
         "fields": {
@@ -8847,7 +8847,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 590
+        "pk": 61209
     },
     {
         "fields": {
@@ -8862,7 +8862,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 591
+        "pk": 61210
     },
     {
         "fields": {
@@ -8877,7 +8877,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 592
+        "pk": 61211
     },
     {
         "fields": {
@@ -8892,7 +8892,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 593
+        "pk": 61212
     },
     {
         "fields": {
@@ -8907,7 +8907,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 594
+        "pk": 61213
     },
     {
         "fields": {
@@ -8922,7 +8922,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 595
+        "pk": 61214
     },
     {
         "fields": {
@@ -8937,7 +8937,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 596
+        "pk": 61215
     },
     {
         "fields": {
@@ -8952,7 +8952,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 597
+        "pk": 61216
     },
     {
         "fields": {
@@ -8967,7 +8967,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 598
+        "pk": 61217
     },
     {
         "fields": {
@@ -8982,7 +8982,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 599
+        "pk": 61218
     },
     {
         "fields": {
@@ -8997,7 +8997,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 600
+        "pk": 61219
     },
     {
         "fields": {
@@ -9012,7 +9012,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 601
+        "pk": 61220
     },
     {
         "fields": {
@@ -9027,7 +9027,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 602
+        "pk": 61221
     },
     {
         "fields": {
@@ -9042,7 +9042,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 603
+        "pk": 61222
     },
     {
         "fields": {
@@ -9057,7 +9057,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 604
+        "pk": 61223
     },
     {
         "fields": {
@@ -9072,7 +9072,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 605
+        "pk": 61224
     },
     {
         "fields": {
@@ -9087,7 +9087,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 606
+        "pk": 61225
     },
     {
         "fields": {
@@ -9102,7 +9102,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 607
+        "pk": 61226
     },
     {
         "fields": {
@@ -9117,7 +9117,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 608
+        "pk": 61227
     },
     {
         "fields": {
@@ -9132,7 +9132,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 609
+        "pk": 61228
     },
     {
         "fields": {
@@ -9147,7 +9147,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 610
+        "pk": 61229
     },
     {
         "fields": {
@@ -9162,7 +9162,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 611
+        "pk": 61230
     },
     {
         "fields": {
@@ -9177,7 +9177,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 612
+        "pk": 61231
     },
     {
         "fields": {
@@ -9192,7 +9192,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 613
+        "pk": 61232
     },
     {
         "fields": {
@@ -9207,7 +9207,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 614
+        "pk": 61233
     },
     {
         "fields": {
@@ -9222,7 +9222,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 615
+        "pk": 61234
     },
     {
         "fields": {
@@ -9237,7 +9237,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 616
+        "pk": 61235
     },
     {
         "fields": {
@@ -9252,7 +9252,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 617
+        "pk": 61236
     },
     {
         "fields": {
@@ -9267,7 +9267,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 618
+        "pk": 61237
     },
     {
         "fields": {
@@ -9282,7 +9282,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 619
+        "pk": 61238
     },
     {
         "fields": {
@@ -9297,7 +9297,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 620
+        "pk": 61239
     },
     {
         "fields": {
@@ -9312,7 +9312,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 621
+        "pk": 61240
     },
     {
         "fields": {
@@ -9327,7 +9327,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 622
+        "pk": 61241
     },
     {
         "fields": {
@@ -9342,7 +9342,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 623
+        "pk": 61242
     },
     {
         "fields": {
@@ -9357,7 +9357,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 624
+        "pk": 61243
     },
     {
         "fields": {
@@ -9372,7 +9372,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 625
+        "pk": 61244
     },
     {
         "fields": {
@@ -9387,7 +9387,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 626
+        "pk": 61245
     },
     {
         "fields": {
@@ -9402,7 +9402,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 627
+        "pk": 61246
     },
     {
         "fields": {
@@ -9417,7 +9417,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 628
+        "pk": 61247
     },
     {
         "fields": {
@@ -9432,7 +9432,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 629
+        "pk": 61248
     },
     {
         "fields": {
@@ -9447,7 +9447,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 630
+        "pk": 61249
     },
     {
         "fields": {
@@ -9462,7 +9462,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 631
+        "pk": 61250
     },
     {
         "fields": {
@@ -9477,7 +9477,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 632
+        "pk": 61251
     },
     {
         "fields": {
@@ -9492,7 +9492,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 633
+        "pk": 61252
     },
     {
         "fields": {
@@ -9507,7 +9507,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 634
+        "pk": 61253
     },
     {
         "fields": {
@@ -9522,7 +9522,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 635
+        "pk": 61254
     },
     {
         "fields": {
@@ -9537,7 +9537,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 636
+        "pk": 61255
     },
     {
         "fields": {
@@ -9552,7 +9552,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 637
+        "pk": 61256
     },
     {
         "fields": {
@@ -9567,7 +9567,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 638
+        "pk": 61257
     },
     {
         "fields": {
@@ -9582,7 +9582,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 639
+        "pk": 61258
     },
     {
         "fields": {
@@ -9597,7 +9597,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 640
+        "pk": 61259
     },
     {
         "fields": {
@@ -9612,7 +9612,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 641
+        "pk": 61260
     },
     {
         "fields": {
@@ -9627,7 +9627,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 642
+        "pk": 61261
     },
     {
         "fields": {
@@ -9642,7 +9642,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 643
+        "pk": 61262
     },
     {
         "fields": {
@@ -9657,7 +9657,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 644
+        "pk": 61263
     },
     {
         "fields": {
@@ -9672,7 +9672,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 645
+        "pk": 61264
     },
     {
         "fields": {
@@ -9687,7 +9687,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 646
+        "pk": 61265
     },
     {
         "fields": {
@@ -9702,7 +9702,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 647
+        "pk": 61266
     },
     {
         "fields": {
@@ -9717,7 +9717,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 648
+        "pk": 61267
     },
     {
         "fields": {
@@ -9732,7 +9732,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 649
+        "pk": 61268
     },
     {
         "fields": {
@@ -9747,7 +9747,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 650
+        "pk": 61269
     },
     {
         "fields": {
@@ -9762,7 +9762,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 651
+        "pk": 61270
     },
     {
         "fields": {
@@ -9777,7 +9777,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 652
+        "pk": 61271
     },
     {
         "fields": {
@@ -9792,7 +9792,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 653
+        "pk": 61272
     },
     {
         "fields": {
@@ -9807,7 +9807,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 654
+        "pk": 61273
     },
     {
         "fields": {
@@ -9822,7 +9822,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 655
+        "pk": 61274
     },
     {
         "fields": {
@@ -9837,7 +9837,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 656
+        "pk": 61275
     },
     {
         "fields": {
@@ -9852,7 +9852,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 657
+        "pk": 61276
     },
     {
         "fields": {
@@ -9867,7 +9867,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 658
+        "pk": 61277
     },
     {
         "fields": {
@@ -9882,7 +9882,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 659
+        "pk": 61278
     },
     {
         "fields": {
@@ -9897,7 +9897,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 660
+        "pk": 61279
     },
     {
         "fields": {
@@ -9912,7 +9912,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 661
+        "pk": 61280
     },
     {
         "fields": {
@@ -9927,7 +9927,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 662
+        "pk": 61281
     },
     {
         "fields": {
@@ -9942,7 +9942,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 663
+        "pk": 61282
     },
     {
         "fields": {
@@ -9957,7 +9957,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 664
+        "pk": 61283
     },
     {
         "fields": {
@@ -9972,7 +9972,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 665
+        "pk": 61284
     },
     {
         "fields": {
@@ -9987,7 +9987,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 666
+        "pk": 61285
     },
     {
         "fields": {
@@ -10002,7 +10002,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 667
+        "pk": 61286
     },
     {
         "fields": {
@@ -10017,7 +10017,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 668
+        "pk": 61287
     },
     {
         "fields": {
@@ -10032,7 +10032,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 669
+        "pk": 61288
     },
     {
         "fields": {
@@ -10047,7 +10047,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 670
+        "pk": 61289
     },
     {
         "fields": {
@@ -10062,7 +10062,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 671
+        "pk": 61290
     },
     {
         "fields": {
@@ -10077,7 +10077,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 672
+        "pk": 61291
     },
     {
         "fields": {
@@ -10092,7 +10092,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 673
+        "pk": 61292
     },
     {
         "fields": {
@@ -10107,7 +10107,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 674
+        "pk": 61293
     },
     {
         "fields": {
@@ -10122,7 +10122,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 675
+        "pk": 61294
     },
     {
         "fields": {
@@ -10137,7 +10137,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 676
+        "pk": 61295
     },
     {
         "fields": {
@@ -10152,7 +10152,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 677
+        "pk": 61296
     },
     {
         "fields": {
@@ -10167,7 +10167,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 678
+        "pk": 61297
     },
     {
         "fields": {
@@ -10182,7 +10182,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 679
+        "pk": 61298
     },
     {
         "fields": {
@@ -10197,7 +10197,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 680
+        "pk": 61299
     },
     {
         "fields": {
@@ -10212,7 +10212,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 681
+        "pk": 61300
     },
     {
         "fields": {
@@ -10227,7 +10227,7 @@
             "state": "GOA"
         },
         "model": "masterdata.ifsc",
-        "pk": 682
+        "pk": 61301
     },
     {
         "fields": {
@@ -10242,7 +10242,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 683
+        "pk": 61302
     },
     {
         "fields": {
@@ -10257,7 +10257,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 684
+        "pk": 61303
     },
     {
         "fields": {
@@ -10272,7 +10272,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 685
+        "pk": 61304
     },
     {
         "fields": {
@@ -10287,7 +10287,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 686
+        "pk": 61305
     },
     {
         "fields": {
@@ -10302,7 +10302,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 687
+        "pk": 61306
     },
     {
         "fields": {
@@ -10317,7 +10317,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 688
+        "pk": 61307
     },
     {
         "fields": {
@@ -10332,7 +10332,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 689
+        "pk": 61308
     },
     {
         "fields": {
@@ -10347,7 +10347,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 690
+        "pk": 61309
     },
     {
         "fields": {
@@ -10362,7 +10362,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 691
+        "pk": 61310
     },
     {
         "fields": {
@@ -10377,7 +10377,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 692
+        "pk": 61311
     },
     {
         "fields": {
@@ -10392,7 +10392,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 693
+        "pk": 61312
     },
     {
         "fields": {
@@ -10407,7 +10407,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 694
+        "pk": 61313
     },
     {
         "fields": {
@@ -10422,7 +10422,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 695
+        "pk": 61314
     },
     {
         "fields": {
@@ -10437,7 +10437,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 696
+        "pk": 61315
     },
     {
         "fields": {
@@ -10452,7 +10452,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 697
+        "pk": 61316
     },
     {
         "fields": {
@@ -10467,7 +10467,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 698
+        "pk": 61317
     },
     {
         "fields": {
@@ -10482,7 +10482,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 699
+        "pk": 61318
     },
     {
         "fields": {
@@ -10497,7 +10497,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 700
+        "pk": 61319
     },
     {
         "fields": {
@@ -10512,7 +10512,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 701
+        "pk": 61320
     },
     {
         "fields": {
@@ -10527,7 +10527,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 702
+        "pk": 61321
     },
     {
         "fields": {
@@ -10542,7 +10542,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 703
+        "pk": 61322
     },
     {
         "fields": {
@@ -10557,7 +10557,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 704
+        "pk": 61323
     },
     {
         "fields": {
@@ -10572,7 +10572,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 705
+        "pk": 61324
     },
     {
         "fields": {
@@ -10587,7 +10587,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 706
+        "pk": 61325
     },
     {
         "fields": {
@@ -10602,7 +10602,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 707
+        "pk": 61326
     },
     {
         "fields": {
@@ -10617,7 +10617,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 708
+        "pk": 61327
     },
     {
         "fields": {
@@ -10632,7 +10632,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 709
+        "pk": 61328
     },
     {
         "fields": {
@@ -10647,7 +10647,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 710
+        "pk": 61329
     },
     {
         "fields": {
@@ -10662,7 +10662,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 711
+        "pk": 61330
     },
     {
         "fields": {
@@ -10677,7 +10677,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 712
+        "pk": 61331
     },
     {
         "fields": {
@@ -10692,7 +10692,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 713
+        "pk": 61332
     },
     {
         "fields": {
@@ -10707,7 +10707,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 714
+        "pk": 61333
     },
     {
         "fields": {
@@ -10722,7 +10722,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 715
+        "pk": 61334
     },
     {
         "fields": {
@@ -10737,7 +10737,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 716
+        "pk": 61335
     },
     {
         "fields": {
@@ -10752,7 +10752,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 717
+        "pk": 61336
     },
     {
         "fields": {
@@ -10767,7 +10767,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 718
+        "pk": 61337
     },
     {
         "fields": {
@@ -10782,7 +10782,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 719
+        "pk": 61338
     },
     {
         "fields": {
@@ -10797,7 +10797,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 720
+        "pk": 61339
     },
     {
         "fields": {
@@ -10812,7 +10812,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 721
+        "pk": 61340
     },
     {
         "fields": {
@@ -10827,7 +10827,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 722
+        "pk": 61341
     },
     {
         "fields": {
@@ -10842,7 +10842,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 723
+        "pk": 61342
     },
     {
         "fields": {
@@ -10857,7 +10857,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 724
+        "pk": 61343
     },
     {
         "fields": {
@@ -10872,7 +10872,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 725
+        "pk": 61344
     },
     {
         "fields": {
@@ -10887,7 +10887,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 726
+        "pk": 61345
     },
     {
         "fields": {
@@ -10902,7 +10902,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 727
+        "pk": 61346
     },
     {
         "fields": {
@@ -10917,7 +10917,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 728
+        "pk": 61347
     },
     {
         "fields": {
@@ -10932,7 +10932,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 729
+        "pk": 61348
     },
     {
         "fields": {
@@ -10947,7 +10947,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 730
+        "pk": 61349
     },
     {
         "fields": {
@@ -10962,7 +10962,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 731
+        "pk": 61350
     },
     {
         "fields": {
@@ -10977,7 +10977,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 732
+        "pk": 61351
     },
     {
         "fields": {
@@ -10992,7 +10992,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 733
+        "pk": 61352
     },
     {
         "fields": {
@@ -11007,7 +11007,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 734
+        "pk": 61353
     },
     {
         "fields": {
@@ -11022,7 +11022,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 735
+        "pk": 61354
     },
     {
         "fields": {
@@ -11037,7 +11037,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 736
+        "pk": 61355
     },
     {
         "fields": {
@@ -11052,7 +11052,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 737
+        "pk": 61356
     },
     {
         "fields": {
@@ -11067,7 +11067,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 738
+        "pk": 61357
     },
     {
         "fields": {
@@ -11082,7 +11082,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 739
+        "pk": 61358
     },
     {
         "fields": {
@@ -11097,7 +11097,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 740
+        "pk": 61359
     },
     {
         "fields": {
@@ -11112,7 +11112,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 741
+        "pk": 61360
     },
     {
         "fields": {
@@ -11127,7 +11127,7 @@
             "state": "CHANDIGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 742
+        "pk": 61361
     },
     {
         "fields": {
@@ -11142,7 +11142,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 743
+        "pk": 61362
     },
     {
         "fields": {
@@ -11157,7 +11157,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 744
+        "pk": 61363
     },
     {
         "fields": {
@@ -11172,7 +11172,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 745
+        "pk": 61364
     },
     {
         "fields": {
@@ -11187,7 +11187,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 746
+        "pk": 61365
     },
     {
         "fields": {
@@ -11202,7 +11202,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 747
+        "pk": 61366
     },
     {
         "fields": {
@@ -11217,7 +11217,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 748
+        "pk": 61367
     },
     {
         "fields": {
@@ -11232,7 +11232,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 749
+        "pk": 61368
     },
     {
         "fields": {
@@ -11247,7 +11247,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 750
+        "pk": 61369
     },
     {
         "fields": {
@@ -11262,7 +11262,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 751
+        "pk": 61370
     },
     {
         "fields": {
@@ -11277,7 +11277,7 @@
             "state": "JHARKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 752
+        "pk": 61371
     },
     {
         "fields": {
@@ -11292,7 +11292,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 753
+        "pk": 61372
     },
     {
         "fields": {
@@ -11307,7 +11307,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 754
+        "pk": 61373
     },
     {
         "fields": {
@@ -11322,7 +11322,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 755
+        "pk": 61374
     },
     {
         "fields": {
@@ -11337,7 +11337,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 756
+        "pk": 61375
     },
     {
         "fields": {
@@ -11352,7 +11352,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 757
+        "pk": 61376
     },
     {
         "fields": {
@@ -11367,7 +11367,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 758
+        "pk": 61377
     },
     {
         "fields": {
@@ -11382,7 +11382,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 759
+        "pk": 61378
     },
     {
         "fields": {
@@ -11397,7 +11397,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 760
+        "pk": 61379
     },
     {
         "fields": {
@@ -11412,7 +11412,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 761
+        "pk": 61380
     },
     {
         "fields": {
@@ -11427,7 +11427,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 762
+        "pk": 61381
     },
     {
         "fields": {
@@ -11442,7 +11442,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 763
+        "pk": 61382
     },
     {
         "fields": {
@@ -11457,7 +11457,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 764
+        "pk": 61383
     },
     {
         "fields": {
@@ -11472,7 +11472,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 765
+        "pk": 61384
     },
     {
         "fields": {
@@ -11487,7 +11487,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 766
+        "pk": 61385
     },
     {
         "fields": {
@@ -11502,7 +11502,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 767
+        "pk": 61386
     },
     {
         "fields": {
@@ -11517,7 +11517,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 768
+        "pk": 61387
     },
     {
         "fields": {
@@ -11532,7 +11532,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 769
+        "pk": 61388
     },
     {
         "fields": {
@@ -11547,7 +11547,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 770
+        "pk": 61389
     },
     {
         "fields": {
@@ -11562,7 +11562,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 771
+        "pk": 61390
     },
     {
         "fields": {
@@ -11577,7 +11577,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 772
+        "pk": 61391
     },
     {
         "fields": {
@@ -11592,7 +11592,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 773
+        "pk": 61392
     },
     {
         "fields": {
@@ -11607,7 +11607,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 774
+        "pk": 61393
     },
     {
         "fields": {
@@ -11622,7 +11622,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 775
+        "pk": 61394
     },
     {
         "fields": {
@@ -11637,7 +11637,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 776
+        "pk": 61395
     },
     {
         "fields": {
@@ -11652,7 +11652,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 777
+        "pk": 61396
     },
     {
         "fields": {
@@ -11667,7 +11667,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 778
+        "pk": 61397
     },
     {
         "fields": {
@@ -11682,7 +11682,7 @@
             "state": "UTTARAKHAND"
         },
         "model": "masterdata.ifsc",
-        "pk": 779
+        "pk": 61398
     },
     {
         "fields": {
@@ -11697,7 +11697,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 780
+        "pk": 61399
     },
     {
         "fields": {
@@ -11712,7 +11712,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 781
+        "pk": 61400
     },
     {
         "fields": {
@@ -11727,7 +11727,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 782
+        "pk": 61401
     },
     {
         "fields": {
@@ -11742,7 +11742,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 783
+        "pk": 61402
     },
     {
         "fields": {
@@ -11757,7 +11757,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 784
+        "pk": 61403
     },
     {
         "fields": {
@@ -11772,7 +11772,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 785
+        "pk": 61404
     },
     {
         "fields": {
@@ -11787,7 +11787,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 786
+        "pk": 61405
     },
     {
         "fields": {
@@ -11802,7 +11802,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 787
+        "pk": 61406
     },
     {
         "fields": {
@@ -11817,7 +11817,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 788
+        "pk": 61407
     },
     {
         "fields": {
@@ -11832,7 +11832,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 789
+        "pk": 61408
     },
     {
         "fields": {
@@ -11847,7 +11847,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 790
+        "pk": 61409
     },
     {
         "fields": {
@@ -11862,7 +11862,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 791
+        "pk": 61410
     },
     {
         "fields": {
@@ -11877,7 +11877,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 792
+        "pk": 61411
     },
     {
         "fields": {
@@ -11892,7 +11892,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 793
+        "pk": 61412
     },
     {
         "fields": {
@@ -11907,7 +11907,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 794
+        "pk": 61413
     },
     {
         "fields": {
@@ -11922,7 +11922,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 795
+        "pk": 61414
     },
     {
         "fields": {
@@ -11937,7 +11937,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 796
+        "pk": 61415
     },
     {
         "fields": {
@@ -11952,7 +11952,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 797
+        "pk": 61416
     },
     {
         "fields": {
@@ -11967,7 +11967,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 798
+        "pk": 61417
     },
     {
         "fields": {
@@ -11982,7 +11982,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 799
+        "pk": 61418
     },
     {
         "fields": {
@@ -11997,7 +11997,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 800
+        "pk": 61419
     },
     {
         "fields": {
@@ -12012,7 +12012,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 801
+        "pk": 61420
     },
     {
         "fields": {
@@ -12027,7 +12027,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 802
+        "pk": 61421
     },
     {
         "fields": {
@@ -12042,7 +12042,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 803
+        "pk": 61422
     },
     {
         "fields": {
@@ -12057,7 +12057,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 804
+        "pk": 61423
     },
     {
         "fields": {
@@ -12072,7 +12072,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 805
+        "pk": 61424
     },
     {
         "fields": {
@@ -12087,7 +12087,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 806
+        "pk": 61425
     },
     {
         "fields": {
@@ -12102,7 +12102,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 807
+        "pk": 61426
     },
     {
         "fields": {
@@ -12117,7 +12117,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 808
+        "pk": 61427
     },
     {
         "fields": {
@@ -12132,7 +12132,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 809
+        "pk": 61428
     },
     {
         "fields": {
@@ -12147,7 +12147,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 810
+        "pk": 61429
     },
     {
         "fields": {
@@ -12162,7 +12162,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 811
+        "pk": 61430
     },
     {
         "fields": {
@@ -12177,7 +12177,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 812
+        "pk": 61431
     },
     {
         "fields": {
@@ -12192,7 +12192,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 813
+        "pk": 61432
     },
     {
         "fields": {
@@ -12207,7 +12207,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 814
+        "pk": 61433
     },
     {
         "fields": {
@@ -12222,7 +12222,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 815
+        "pk": 61434
     },
     {
         "fields": {
@@ -12237,7 +12237,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 816
+        "pk": 61435
     },
     {
         "fields": {
@@ -12252,7 +12252,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 817
+        "pk": 61436
     },
     {
         "fields": {
@@ -12267,7 +12267,7 @@
             "state": "ANDHRA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 818
+        "pk": 61437
     },
     {
         "fields": {
@@ -12282,7 +12282,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 819
+        "pk": 61438
     },
     {
         "fields": {
@@ -12297,7 +12297,7 @@
             "state": "CHANDIGARH"
         },
         "model": "masterdata.ifsc",
-        "pk": 820
+        "pk": 61439
     },
     {
         "fields": {
@@ -12312,7 +12312,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 821
+        "pk": 61440
     },
     {
         "fields": {
@@ -12327,7 +12327,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 822
+        "pk": 61441
     },
     {
         "fields": {
@@ -12342,7 +12342,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 823
+        "pk": 61442
     },
     {
         "fields": {
@@ -12357,7 +12357,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 824
+        "pk": 61443
     },
     {
         "fields": {
@@ -12372,7 +12372,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 825
+        "pk": 61444
     },
     {
         "fields": {
@@ -12387,7 +12387,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 826
+        "pk": 61445
     },
     {
         "fields": {
@@ -12402,7 +12402,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 827
+        "pk": 61446
     },
     {
         "fields": {
@@ -12417,7 +12417,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 828
+        "pk": 61447
     },
     {
         "fields": {
@@ -12432,7 +12432,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 829
+        "pk": 61448
     },
     {
         "fields": {
@@ -12447,7 +12447,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 830
+        "pk": 61449
     },
     {
         "fields": {
@@ -12462,7 +12462,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 831
+        "pk": 61450
     },
     {
         "fields": {
@@ -12477,7 +12477,7 @@
             "state": "BIHAR"
         },
         "model": "masterdata.ifsc",
-        "pk": 832
+        "pk": 61451
     },
     {
         "fields": {
@@ -12492,7 +12492,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 833
+        "pk": 61452
     },
     {
         "fields": {
@@ -12507,7 +12507,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 834
+        "pk": 61453
     },
     {
         "fields": {
@@ -12522,7 +12522,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 835
+        "pk": 61454
     },
     {
         "fields": {
@@ -12537,7 +12537,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 836
+        "pk": 61455
     },
     {
         "fields": {
@@ -12552,7 +12552,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 837
+        "pk": 61456
     },
     {
         "fields": {
@@ -12567,7 +12567,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 838
+        "pk": 61457
     },
     {
         "fields": {
@@ -12582,7 +12582,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 839
+        "pk": 61458
     },
     {
         "fields": {
@@ -12597,7 +12597,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 840
+        "pk": 61459
     },
     {
         "fields": {
@@ -12612,7 +12612,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 841
+        "pk": 61460
     },
     {
         "fields": {
@@ -12627,7 +12627,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 842
+        "pk": 61461
     },
     {
         "fields": {
@@ -12642,7 +12642,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 843
+        "pk": 61462
     },
     {
         "fields": {
@@ -12657,7 +12657,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 844
+        "pk": 61463
     },
     {
         "fields": {
@@ -12672,7 +12672,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 845
+        "pk": 61464
     },
     {
         "fields": {
@@ -12687,7 +12687,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 846
+        "pk": 61465
     },
     {
         "fields": {
@@ -12702,7 +12702,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 847
+        "pk": 61466
     },
     {
         "fields": {
@@ -12717,7 +12717,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 848
+        "pk": 61467
     },
     {
         "fields": {
@@ -12732,7 +12732,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 849
+        "pk": 61468
     },
     {
         "fields": {
@@ -12747,7 +12747,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 850
+        "pk": 61469
     },
     {
         "fields": {
@@ -12762,7 +12762,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 851
+        "pk": 61470
     },
     {
         "fields": {
@@ -12777,7 +12777,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 852
+        "pk": 61471
     },
     {
         "fields": {
@@ -12792,7 +12792,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 853
+        "pk": 61472
     },
     {
         "fields": {
@@ -12807,7 +12807,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 854
+        "pk": 61473
     },
     {
         "fields": {
@@ -12822,7 +12822,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 855
+        "pk": 61474
     },
     {
         "fields": {
@@ -12837,7 +12837,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 856
+        "pk": 61475
     },
     {
         "fields": {
@@ -12852,7 +12852,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 857
+        "pk": 61476
     },
     {
         "fields": {
@@ -12867,7 +12867,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 858
+        "pk": 61477
     },
     {
         "fields": {
@@ -12882,7 +12882,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 859
+        "pk": 61478
     },
     {
         "fields": {
@@ -12897,7 +12897,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 860
+        "pk": 61479
     },
     {
         "fields": {
@@ -12912,7 +12912,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 861
+        "pk": 61480
     },
     {
         "fields": {
@@ -12927,7 +12927,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 862
+        "pk": 61481
     },
     {
         "fields": {
@@ -12942,7 +12942,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 863
+        "pk": 61482
     },
     {
         "fields": {
@@ -12957,7 +12957,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 864
+        "pk": 61483
     },
     {
         "fields": {
@@ -12972,7 +12972,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 865
+        "pk": 61484
     },
     {
         "fields": {
@@ -12987,7 +12987,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 866
+        "pk": 61485
     },
     {
         "fields": {
@@ -13002,7 +13002,7 @@
             "state": "HIMACHAL PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 867
+        "pk": 61486
     },
     {
         "fields": {
@@ -13017,7 +13017,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 868
+        "pk": 61487
     },
     {
         "fields": {
@@ -13032,7 +13032,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 869
+        "pk": 61488
     },
     {
         "fields": {
@@ -13047,7 +13047,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 870
+        "pk": 61489
     },
     {
         "fields": {
@@ -13062,7 +13062,7 @@
             "state": "GUJARAT"
         },
         "model": "masterdata.ifsc",
-        "pk": 871
+        "pk": 61490
     },
     {
         "fields": {
@@ -13077,7 +13077,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 872
+        "pk": 61491
     },
     {
         "fields": {
@@ -13092,7 +13092,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 873
+        "pk": 61492
     },
     {
         "fields": {
@@ -13107,7 +13107,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 874
+        "pk": 61493
     },
     {
         "fields": {
@@ -13122,7 +13122,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 875
+        "pk": 61494
     },
     {
         "fields": {
@@ -13137,7 +13137,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 876
+        "pk": 61495
     },
     {
         "fields": {
@@ -13152,7 +13152,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 877
+        "pk": 61496
     },
     {
         "fields": {
@@ -13167,7 +13167,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 878
+        "pk": 61497
     },
     {
         "fields": {
@@ -13182,7 +13182,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 879
+        "pk": 61498
     },
     {
         "fields": {
@@ -13197,7 +13197,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 880
+        "pk": 61499
     },
     {
         "fields": {
@@ -13212,7 +13212,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 881
+        "pk": 61500
     },
     {
         "fields": {
@@ -13227,7 +13227,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 882
+        "pk": 61501
     },
     {
         "fields": {
@@ -13242,7 +13242,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 883
+        "pk": 61502
     },
     {
         "fields": {
@@ -13257,7 +13257,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 884
+        "pk": 61503
     },
     {
         "fields": {
@@ -13272,7 +13272,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 885
+        "pk": 61504
     },
     {
         "fields": {
@@ -13287,7 +13287,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 886
+        "pk": 61505
     },
     {
         "fields": {
@@ -13302,7 +13302,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 887
+        "pk": 61506
     },
     {
         "fields": {
@@ -13317,7 +13317,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 888
+        "pk": 61507
     },
     {
         "fields": {
@@ -13332,7 +13332,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 889
+        "pk": 61508
     },
     {
         "fields": {
@@ -13347,7 +13347,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 890
+        "pk": 61509
     },
     {
         "fields": {
@@ -13362,7 +13362,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 891
+        "pk": 61510
     },
     {
         "fields": {
@@ -13377,7 +13377,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 892
+        "pk": 61511
     },
     {
         "fields": {
@@ -13392,7 +13392,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 893
+        "pk": 61512
     },
     {
         "fields": {
@@ -13407,7 +13407,7 @@
             "state": "TAMIL NADU"
         },
         "model": "masterdata.ifsc",
-        "pk": 894
+        "pk": 61513
     },
     {
         "fields": {
@@ -13422,7 +13422,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 895
+        "pk": 61514
     },
     {
         "fields": {
@@ -13437,7 +13437,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 896
+        "pk": 61515
     },
     {
         "fields": {
@@ -13452,7 +13452,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 897
+        "pk": 61516
     },
     {
         "fields": {
@@ -13467,7 +13467,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 898
+        "pk": 61517
     },
     {
         "fields": {
@@ -13482,7 +13482,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 899
+        "pk": 61518
     },
     {
         "fields": {
@@ -13497,7 +13497,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 900
+        "pk": 61519
     },
     {
         "fields": {
@@ -13512,7 +13512,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 901
+        "pk": 61520
     },
     {
         "fields": {
@@ -13527,7 +13527,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 902
+        "pk": 61521
     },
     {
         "fields": {
@@ -13542,7 +13542,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 903
+        "pk": 61522
     },
     {
         "fields": {
@@ -13557,7 +13557,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 904
+        "pk": 61523
     },
     {
         "fields": {
@@ -13572,7 +13572,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 905
+        "pk": 61524
     },
     {
         "fields": {
@@ -13587,7 +13587,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 906
+        "pk": 61525
     },
     {
         "fields": {
@@ -13602,7 +13602,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 907
+        "pk": 61526
     },
     {
         "fields": {
@@ -13617,7 +13617,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 908
+        "pk": 61527
     },
     {
         "fields": {
@@ -13632,7 +13632,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 909
+        "pk": 61528
     },
     {
         "fields": {
@@ -13647,7 +13647,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 910
+        "pk": 61529
     },
     {
         "fields": {
@@ -13662,7 +13662,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 911
+        "pk": 61530
     },
     {
         "fields": {
@@ -13677,7 +13677,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 912
+        "pk": 61531
     },
     {
         "fields": {
@@ -13692,7 +13692,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 913
+        "pk": 61532
     },
     {
         "fields": {
@@ -13707,7 +13707,7 @@
             "state": "KERALA"
         },
         "model": "masterdata.ifsc",
-        "pk": 914
+        "pk": 61533
     },
     {
         "fields": {
@@ -13722,7 +13722,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 915
+        "pk": 61534
     },
     {
         "fields": {
@@ -13737,7 +13737,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 916
+        "pk": 61535
     },
     {
         "fields": {
@@ -13752,7 +13752,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 917
+        "pk": 61536
     },
     {
         "fields": {
@@ -13767,7 +13767,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 918
+        "pk": 61537
     },
     {
         "fields": {
@@ -13782,7 +13782,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 919
+        "pk": 61538
     },
     {
         "fields": {
@@ -13797,7 +13797,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 920
+        "pk": 61539
     },
     {
         "fields": {
@@ -13812,7 +13812,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 921
+        "pk": 61540
     },
     {
         "fields": {
@@ -13827,7 +13827,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 922
+        "pk": 61541
     },
     {
         "fields": {
@@ -13842,7 +13842,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 923
+        "pk": 61542
     },
     {
         "fields": {
@@ -13857,7 +13857,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 924
+        "pk": 61543
     },
     {
         "fields": {
@@ -13872,7 +13872,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 925
+        "pk": 61544
     },
     {
         "fields": {
@@ -13887,7 +13887,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 926
+        "pk": 61545
     },
     {
         "fields": {
@@ -13902,7 +13902,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 927
+        "pk": 61546
     },
     {
         "fields": {
@@ -13917,7 +13917,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 928
+        "pk": 61547
     },
     {
         "fields": {
@@ -13932,7 +13932,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 929
+        "pk": 61548
     },
     {
         "fields": {
@@ -13947,7 +13947,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 930
+        "pk": 61549
     },
     {
         "fields": {
@@ -13962,7 +13962,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 931
+        "pk": 61550
     },
     {
         "fields": {
@@ -13977,7 +13977,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 932
+        "pk": 61551
     },
     {
         "fields": {
@@ -13992,7 +13992,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 933
+        "pk": 61552
     },
     {
         "fields": {
@@ -14007,7 +14007,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 934
+        "pk": 61553
     },
     {
         "fields": {
@@ -14022,7 +14022,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 935
+        "pk": 61554
     },
     {
         "fields": {
@@ -14037,7 +14037,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 936
+        "pk": 61555
     },
     {
         "fields": {
@@ -14052,7 +14052,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 937
+        "pk": 61556
     },
     {
         "fields": {
@@ -14067,7 +14067,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 938
+        "pk": 61557
     },
     {
         "fields": {
@@ -14082,7 +14082,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 939
+        "pk": 61558
     },
     {
         "fields": {
@@ -14097,7 +14097,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 940
+        "pk": 61559
     },
     {
         "fields": {
@@ -14112,7 +14112,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 941
+        "pk": 61560
     },
     {
         "fields": {
@@ -14127,7 +14127,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 942
+        "pk": 61561
     },
     {
         "fields": {
@@ -14142,7 +14142,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 943
+        "pk": 61562
     },
     {
         "fields": {
@@ -14157,7 +14157,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 944
+        "pk": 61563
     },
     {
         "fields": {
@@ -14172,7 +14172,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 945
+        "pk": 61564
     },
     {
         "fields": {
@@ -14187,7 +14187,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 946
+        "pk": 61565
     },
     {
         "fields": {
@@ -14202,7 +14202,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 947
+        "pk": 61566
     },
     {
         "fields": {
@@ -14217,7 +14217,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 948
+        "pk": 61567
     },
     {
         "fields": {
@@ -14232,7 +14232,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 949
+        "pk": 61568
     },
     {
         "fields": {
@@ -14247,7 +14247,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 950
+        "pk": 61569
     },
     {
         "fields": {
@@ -14262,7 +14262,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 951
+        "pk": 61570
     },
     {
         "fields": {
@@ -14277,7 +14277,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 952
+        "pk": 61571
     },
     {
         "fields": {
@@ -14292,7 +14292,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 953
+        "pk": 61572
     },
     {
         "fields": {
@@ -14307,7 +14307,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 954
+        "pk": 61573
     },
     {
         "fields": {
@@ -14322,7 +14322,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 955
+        "pk": 61574
     },
     {
         "fields": {
@@ -14337,7 +14337,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 956
+        "pk": 61575
     },
     {
         "fields": {
@@ -14352,7 +14352,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 957
+        "pk": 61576
     },
     {
         "fields": {
@@ -14367,7 +14367,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 958
+        "pk": 61577
     },
     {
         "fields": {
@@ -14382,7 +14382,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 959
+        "pk": 61578
     },
     {
         "fields": {
@@ -14397,7 +14397,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 960
+        "pk": 61579
     },
     {
         "fields": {
@@ -14412,7 +14412,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 961
+        "pk": 61580
     },
     {
         "fields": {
@@ -14427,7 +14427,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 962
+        "pk": 61581
     },
     {
         "fields": {
@@ -14442,7 +14442,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 963
+        "pk": 61582
     },
     {
         "fields": {
@@ -14457,7 +14457,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 964
+        "pk": 61583
     },
     {
         "fields": {
@@ -14472,7 +14472,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 965
+        "pk": 61584
     },
     {
         "fields": {
@@ -14487,7 +14487,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 966
+        "pk": 61585
     },
     {
         "fields": {
@@ -14502,7 +14502,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 967
+        "pk": 61586
     },
     {
         "fields": {
@@ -14517,7 +14517,7 @@
             "state": "MAHARASHTRA"
         },
         "model": "masterdata.ifsc",
-        "pk": 968
+        "pk": 61587
     },
     {
         "fields": {
@@ -14532,7 +14532,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 969
+        "pk": 61588
     },
     {
         "fields": {
@@ -14547,7 +14547,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 970
+        "pk": 61589
     },
     {
         "fields": {
@@ -14562,7 +14562,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 971
+        "pk": 61590
     },
     {
         "fields": {
@@ -14577,7 +14577,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 972
+        "pk": 61591
     },
     {
         "fields": {
@@ -14592,7 +14592,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 973
+        "pk": 61592
     },
     {
         "fields": {
@@ -14607,7 +14607,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 974
+        "pk": 61593
     },
     {
         "fields": {
@@ -14622,7 +14622,7 @@
             "state": "DELHI"
         },
         "model": "masterdata.ifsc",
-        "pk": 975
+        "pk": 61594
     },
     {
         "fields": {
@@ -14637,7 +14637,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 976
+        "pk": 61595
     },
     {
         "fields": {
@@ -14652,7 +14652,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 977
+        "pk": 61596
     },
     {
         "fields": {
@@ -14667,7 +14667,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 978
+        "pk": 61597
     },
     {
         "fields": {
@@ -14682,7 +14682,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 979
+        "pk": 61598
     },
     {
         "fields": {
@@ -14697,7 +14697,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 980
+        "pk": 61599
     },
     {
         "fields": {
@@ -14712,7 +14712,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 981
+        "pk": 61600
     },
     {
         "fields": {
@@ -14727,7 +14727,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 982
+        "pk": 61601
     },
     {
         "fields": {
@@ -14742,7 +14742,7 @@
             "state": "PUNJAB"
         },
         "model": "masterdata.ifsc",
-        "pk": 983
+        "pk": 61602
     },
     {
         "fields": {
@@ -14757,7 +14757,7 @@
             "state": "KARNATAKA"
         },
         "model": "masterdata.ifsc",
-        "pk": 984
+        "pk": 61603
     },
     {
         "fields": {
@@ -14772,7 +14772,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 985
+        "pk": 61604
     },
     {
         "fields": {
@@ -14787,7 +14787,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 986
+        "pk": 61605
     },
     {
         "fields": {
@@ -14802,7 +14802,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 987
+        "pk": 61606
     },
     {
         "fields": {
@@ -14817,7 +14817,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 988
+        "pk": 61607
     },
     {
         "fields": {
@@ -14832,7 +14832,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 989
+        "pk": 61608
     },
     {
         "fields": {
@@ -14847,7 +14847,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 990
+        "pk": 61609
     },
     {
         "fields": {
@@ -14862,7 +14862,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 991
+        "pk": 61610
     },
     {
         "fields": {
@@ -14877,7 +14877,7 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 992
+        "pk": 61611
     },
     {
         "fields": {
@@ -14892,6 +14892,6 @@
             "state": "JAMMU AND KASHMIR"
         },
         "model": "masterdata.ifsc",
-        "pk": 993
+        "pk": 61612
     }
 ]

@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "ONE INDIABULLS CENTRE, TOWER 2, WING B 702, 7TH FLOOR, ELPHINSTONE ROAD (WEST),MUMBAI \u252c\u00fb 400013",
+            "bank_name": "PT BANK MAYBANK INDONESIA TBK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IBBK0000001",
+            "office": "RTGS-HO",
+            "phone": "67303411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    }
+]

@@ -1,0 +1,6347 @@
+[
+    {
+        "fields": {
+            "address": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG00000SC",
+            "office": "SERVICE CENTRE",
+            "phone": "2476140",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0004000",
+            "office": "HEAD OFFICE",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE NANDED DR KESRALE BUILDING YASHWANT NAGAR PAWDEWADINAKA NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004100",
+            "office": "REGIONAL OFFICE NANDED",
+            "phone": "250695",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "AT ISALAPUR TQ KINWAT DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ISLAPUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004101",
+            "office": "ISLAPUR",
+            "phone": "244040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "AT ARDHAPUR TQ ARDHAPUR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ARDHAPUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004102",
+            "office": "ARDHAPUR",
+            "phone": "272483",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "AT ARJAPUR TQ BILOLI DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ARJAPUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004103",
+            "office": "ARJAPUR",
+            "phone": "202209",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "AT BILOLI TQ BILOLI DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BILOLI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004104",
+            "office": "BILOLI",
+            "phone": "223688",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "AT BARAD TQ MUDKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BARAD",
+            "district": "NANDED",
+            "ifsc": "MAHG0004105",
+            "office": "BARAD",
+            "phone": "276537",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "AT BARBADA TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BARBADA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004106",
+            "office": "BARBADA",
+            "phone": "268397",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "AT BARUL TQ KANDHAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BARUL",
+            "district": "NANDED",
+            "ifsc": "MAHG0004107",
+            "office": "BARUL",
+            "phone": "269574",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "AT BETMOGRA TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BETMOGRA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004108",
+            "office": "BETMOGRA",
+            "phone": "240057",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "AT KASRALI TQ BILOLI DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KASRALI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004109",
+            "office": "KASRALI",
+            "phone": "226707",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "AT BODHADI TQ KINWAT DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BODHADI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004110",
+            "office": "BODHADI",
+            "phone": "234673",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "AT CHANDOLA TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHANDOLA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004111",
+            "office": "CHANDOLA",
+            "phone": "202044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "AT DEGLOOR TQ DEGLOOR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DEGLOOR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004112",
+            "office": "DEGLOOR",
+            "phone": "255064",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "AT DIGRAS N TQ KANDHAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DIGRAS N",
+            "district": "NANDED",
+            "ifsc": "MAHG0004113",
+            "office": "DIGRAS N",
+            "phone": "260152",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "AT GADGA TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GADGA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004114",
+            "office": "GADGA",
+            "phone": "254204",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "AT HANEGAON TQ DEGLOOR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HANEGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004115",
+            "office": "HANEGAON",
+            "phone": "263291",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "AT JAHOOR TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JAHOOR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004116",
+            "office": "JAHOOR",
+            "phone": "244713",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "AT JAMB TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JAMB",
+            "district": "NANDED",
+            "ifsc": "MAHG0004118",
+            "office": "JAMB",
+            "phone": "242172",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "AT DHARMABAD TQ DHARMABAD DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHARMABAD",
+            "district": "NANDED",
+            "ifsc": "MAHG0004119",
+            "office": "DHARMABAD",
+            "phone": "244512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "AT KAMARI TQ HIMAYTNAGR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KAMARI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004120",
+            "office": "KAMARI",
+            "phone": "202270",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "AT KANDHAR TQ KANDHAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KANDHAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004121",
+            "office": "KANDHAR",
+            "phone": "223603",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "AT KAPSI TQ LOHA DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KAPSI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004122",
+            "office": "KAPSI",
+            "phone": "252138",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "AT KARADKHED TQ DEGLOOR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KARADKHED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004123",
+            "office": "KARADKHED",
+            "phone": "264258",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "AT KHATGAON TQ BILOLI DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHATGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004124",
+            "office": "KHATGAON",
+            "phone": "264317",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "AT KRUSHNUR TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KRUSHNUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004125",
+            "office": "KRUSHNUR",
+            "phone": "279998",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "AT KUNTUR TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KUNTUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004126",
+            "office": "KUNTUR",
+            "phone": "258604",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "AT LAHAN TQ ARDHAPUR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LAHAN",
+            "district": "NANDED",
+            "ifsc": "MAHG0004127",
+            "office": "LAHAN",
+            "phone": "277589",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "AT LIMBGAON TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LIMBGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004128",
+            "office": "LIMBGAON",
+            "phone": "270483",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "AT LOHGAON TQ BILOLI DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LOHGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004129",
+            "office": "LOHGAON",
+            "phone": "202757",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "AT MAHUR TQ MAHUR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MAHUR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004130",
+            "office": "MAHUR",
+            "phone": "268432",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "AT MALAKOLI TQ LOHA DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MALAKOLI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004131",
+            "office": "MALAKOLI",
+            "phone": "246204",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "AT MALEGAON TQ ARDHAPUR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MALEGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004132",
+            "office": "MALEGAON",
+            "phone": "273354",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "AT MANATHA TQ HADGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MANATHA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004133",
+            "office": "MANATHA",
+            "phone": "274277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "AT MUDKHED TQ MUDKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUDKHED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004134",
+            "office": "MUDKHED",
+            "phone": "275403",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "AT MUKRAMABAD TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUKRAMABAD",
+            "district": "NANDED",
+            "ifsc": "MAHG0004135",
+            "office": "MUKRAMABAD",
+            "phone": "267160",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "AT BHAGYANAGAR NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHAGYANAGAR NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004136",
+            "office": "BHAGYANAGAR NANDED",
+            "phone": "251075",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "AT OSMANNAGAR TQ LOHA DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "OSMANNAGAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004138",
+            "office": "OSMANNAGAR",
+            "phone": "262637",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "AT BHOKAR TQ BHOKAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHOKAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004139",
+            "office": "BHOKAR",
+            "phone": "222790",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "AT PETHWADAJ TQ KANDHAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PETHWADAJ",
+            "district": "NANDED",
+            "ifsc": "MAHG0004141",
+            "office": "PETHWADAJ",
+            "phone": "261386",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "AT HADGAON TQ HADGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HADGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004142",
+            "office": "HADGAON",
+            "phone": "222552",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "AT MUKHED TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUKHED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004143",
+            "office": "MUKHED",
+            "phone": "222075",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "AT LOHA TQ LOHA DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LOHA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004144",
+            "office": "LOHA",
+            "phone": "242211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "AT UMARI PETH TQ UMARI PETH DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UMARI PETH",
+            "district": "NANDED",
+            "ifsc": "MAHG0004145",
+            "office": "UMARI PETH",
+            "phone": "244088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "AT TALNI TQ HADGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TALNI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004147",
+            "office": "TALNI",
+            "phone": "273369",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "AT TAMLOOR TQ DEGLOOR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TAMLOOR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004148",
+            "office": "TAMLOOR",
+            "phone": "269019",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "AT UMRI BAZAR TQ KINWAT DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UMRI BAZAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004149",
+            "office": "UMRI BAZAR",
+            "phone": "263170",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "AT WADEPURI TQ LOHA DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADEPURI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004150",
+            "office": "WADEPURI",
+            "phone": "245048",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "AT VISHNUPURI TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VISHNUPURI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004151",
+            "office": "VISHNUPURI",
+            "phone": "229334",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "AT WAI BAZAR TQ MAHUR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WAI BAZAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004152",
+            "office": "WAI BAZAR",
+            "phone": "264836",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "AT TAMSA TQ HADGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TAMSA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004153",
+            "office": "TAMSA",
+            "phone": "266614",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "AT KINWAT TQ KINWAT DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KINWAT",
+            "district": "NANDED",
+            "ifsc": "MAHG0004154",
+            "office": "KINWAT",
+            "phone": "223016",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "AT WAGHALA TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WAGHALA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004155",
+            "office": "WAGHALA",
+            "phone": "227463",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "AT SHIVAJINAGAR NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVAJINAGAR NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004157",
+            "office": "SHIVAJINAGAR NANDED",
+            "phone": "242845",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "AT TARODA TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TARODA",
+            "district": "NANDED",
+            "ifsc": "MAHG0004158",
+            "office": "TARODA",
+            "phone": "262510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "AT NAIGAON TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NAIGAON",
+            "district": "NANDED",
+            "ifsc": "MAHG0004159",
+            "office": "NAIGAON",
+            "phone": "262116",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "AT VAZIRABAD NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VAZIRABAD NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004160",
+            "office": "VAZIRABAD NANDED",
+            "phone": "239853",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "AT PAWADEWADI NAKA NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PAWADEWADI NAKA NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004161",
+            "office": "PAWADEWADI NAKA NANDED",
+            "phone": "255932",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "AT BHAVSAR CHOWK NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHAVSAR CHOWK NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004162",
+            "office": "BHAVSAR CHOWK NANDED",
+            "phone": "266472",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "AT CHAITANYA NAGAR NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHAITANYA NAGAR NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004163",
+            "office": "CHAITANYA NAGAR NANDED",
+            "phone": "267531",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "AT HIMAYATNAGAR TQ HIMAYATNAGAR DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HIMAYATNAGAR",
+            "district": "NANDED",
+            "ifsc": "MAHG0004164",
+            "office": "HIMAYATNAGAR",
+            "phone": "244083",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "AT VISHNUPURI SRTMU NANDED TQ NANDED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VISHNUPURI SRTMU NANDED",
+            "district": "NANDED",
+            "ifsc": "MAHG0004165",
+            "office": "VISHNUPURI SRTMU NANDED",
+            "phone": "229500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "AT BARHALI TQ MUKHED DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BARHALI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004166",
+            "office": "BARHALI",
+            "phone": "246124",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "AT NARSI TQ NAIGAON DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NARSI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004167",
+            "office": "NARSI",
+            "phone": "266366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "AT SHIVANI TQ KINWAT DIST NANDED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVANI",
+            "district": "NANDED",
+            "ifsc": "MAHG0004168",
+            "office": "SHIVANI",
+            "phone": "245050",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE PARBHANI SANT GURUKRUPA SHIVAJINAGAR TQ DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004200",
+            "office": "REGIONAL OFFICE PARBHANI",
+            "phone": "232042",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "AT AJEGAON TQ SENGAON DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AJEGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004201",
+            "office": "AJEGAON",
+            "phone": "241084",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "AT AMBACHONDI TQ BASMAT DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMBACHONDI",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004202",
+            "office": "AMBACHONDI",
+            "phone": "242215",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "AT ASOLA TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ASOLA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004203",
+            "office": "ASOLA",
+            "phone": "265165",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "AT ADGAON TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ADGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004204",
+            "office": "ADGAON",
+            "phone": "266200",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "AT JINTUR TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JINTUR",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004205",
+            "office": "JINTUR",
+            "phone": "220470",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "AT BHOGAON TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHOGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004206",
+            "office": "BHOGAON",
+            "phone": "267057",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "AT CHARTHANA TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHARTHANA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004207",
+            "office": "CHARTHANA",
+            "phone": "265010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "AT CHATORI TQ PALAM DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHATORI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004208",
+            "office": "CHATORI",
+            "phone": "272041",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "AT CHUDAWA TQ PURNA DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHUDAWA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004209",
+            "office": "CHUDAWA",
+            "phone": "258220",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "AT DIGRAS H TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DIGRAS H",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004210",
+            "office": "DIGRAS H",
+            "phone": "249124",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "AT DUDHGAON TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DUDHGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004211",
+            "office": "DUDHGAON",
+            "phone": "262057",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "AT GANGAKHED TQ GANGAKHED DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GANGAKHED",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004213",
+            "office": "GANGAKHED",
+            "phone": "222207",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "AT GIRGAON TQ BASMAT DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GIRGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004214",
+            "office": "GIRGAON",
+            "phone": "243018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "AT HATTA TQ BASMAT DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HATTA",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004215",
+            "office": "HATTA",
+            "phone": "244212",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "AT PATHRI TQ PATHRI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PATHRI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004216",
+            "office": "PATHRI",
+            "phone": "255288",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "AT BASMAT TQ BASMAT DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BASMAT",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004217",
+            "office": "BASMAT",
+            "phone": "220817",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "AT KATNESHWAR TQ PURNA DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KATNESHWAR",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004218",
+            "office": "KATNESHWAR",
+            "phone": "251161",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "AT KOLHA TQ MANWAT DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KOLHA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004219",
+            "office": "KOLHA",
+            "phone": "264131",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "AT KANERGAON TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KANERGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004220",
+            "office": "KANERGAON",
+            "phone": "266003",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "AT BORI P TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BORI P",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004221",
+            "office": "BORI P",
+            "phone": "242530",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "AT KURUNDA TQ BASMAT DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KURUNDA",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004222",
+            "office": "KURUNDA",
+            "phone": "246068",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "AT KAWALGAON TQ PURNA DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KAWALGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004223",
+            "office": "KAWALGAON",
+            "phone": "257176",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "AT KEKARJAWALA TQ PATHRI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KEKARJAWALA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004224",
+            "office": "KEKARJAWALA",
+            "phone": "262234",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "AT JAWALA BAZAR TQ AUNDHAN DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JAWALA BAZAR",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004225",
+            "office": "JAWALA BAZAR",
+            "phone": "240027",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "AT HINGOLI TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HINGOLI",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004226",
+            "office": "HINGOLI",
+            "phone": "221138",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "AT KALAMNURI TQ KALAMNURI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KALAMNURI",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004227",
+            "office": "KALAMNURI",
+            "phone": "220157",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "AT NARSI TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NARSI",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004228",
+            "office": "NARSI",
+            "phone": "268080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "AT PARBHANI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004229",
+            "office": "PARBHANI",
+            "phone": "223487",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "AT PINGLI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PINGLI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004230",
+            "office": "PINGLI",
+            "phone": "266798",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "AT AKHADA BALAPUR TQ KALAMNURI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AKHADA BALAPUR",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004231",
+            "office": "AKHADA BALAPUR",
+            "phone": "242513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "AT PUSEGAON TQ SENGAON DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PUSEGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004232",
+            "office": "PUSEGAON",
+            "phone": "246171",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "AT PEDGAON TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PEDGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004233",
+            "office": "PEDGAON",
+            "phone": "269252",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "AT PALAM TQ PALAM DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PALAM",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004234",
+            "office": "PALAM",
+            "phone": "270243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "AT POKHARNI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "POKHARNI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004235",
+            "office": "POKHARNI",
+            "phone": "267382",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "AT RANISAWARGAON TQ GANGAKHED DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RANISAWARGAON",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004236",
+            "office": "RANISAWARGAON",
+            "phone": "266290",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "AT PURNA TQ PURNA DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PURNA",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004237",
+            "office": "PURNA",
+            "phone": "255415",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "AT SAILU TQ SAILU DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAILU",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004238",
+            "office": "SAILU",
+            "phone": "222598",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "AT MANWAT TQ MANWAT DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MANWAT",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004239",
+            "office": "MANWAT",
+            "phone": "240001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "AT SHELGAONG TQ SONPETH DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHELGAONG",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004240",
+            "office": "SHELGAONG",
+            "phone": "263242",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "AT SHIRAD SHAHAPUR TQ AUNDHAN DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRAD SHAHAPUR",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004241",
+            "office": "SHIRAD SHAHAPUR",
+            "phone": "248260",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "AT SENGAON TQ SENGAON DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SENGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004242",
+            "office": "SENGAON",
+            "phone": "250306",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "AT SINGNAPUR TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SINGNAPUR",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004243",
+            "office": "SINGNAPUR",
+            "phone": "264063",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "AT SIRSAM TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SIRSAM",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004244",
+            "office": "SIRSAM",
+            "phone": "232037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "AT TADKALAS TQ PURNA DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TADKALAS",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004245",
+            "office": "TADKALAS",
+            "phone": "256289",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "AT UKHALI TQ SONPETH DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UKHALI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004246",
+            "office": "UKHALI",
+            "phone": "280805",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "AT WARANGA TQ KALAMNURI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WARANGA",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004248",
+            "office": "WARANGA",
+            "phone": "248208",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "AT AUNDHANAGNATH TQ AUNDHAN DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AUNDHANAGNATH",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004249",
+            "office": "AUNDHANAGNATH",
+            "phone": "260091",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "AT WADGAONG TQ SONPETH DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADGAONG",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004251",
+            "office": "WADGAONG",
+            "phone": "268182",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "AT WALOOR TQ SAILU DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WALOOR",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004252",
+            "office": "WALOOR",
+            "phone": "267089",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "AT YELDARI CAMP TQ JINTUR DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "YELDARI CAMP",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004254",
+            "office": "YELDARI CAMP",
+            "phone": "260255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "AT YEHLEGAON TUKARAM TQ KALAMNURI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "YEHLEGAON TUKARAM",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004255",
+            "office": "YEHLEGAON TUKARAM",
+            "phone": "245068",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "AT PIMPALDARI TQ GANGAKHED DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PIMPALDARI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004257",
+            "office": "PIMPALDARI",
+            "phone": "265187",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "AT BANWAS TQ PALAM DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BANWAS",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004258",
+            "office": "BANWAS",
+            "phone": "278094",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "AT VIVEKNAGAR PARBHANI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VIVEKNAGAR PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004259",
+            "office": "VIVEKNAGAR PARBHANI",
+            "phone": "249010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "AT SONPETH TQ SONPETH DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SONPETH",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004260",
+            "office": "SONPETH",
+            "phone": "240306",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "AT JINTUR ROAD PARBHANI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JINTUR ROAD PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004261",
+            "office": "JINTUR ROAD PARBHANI",
+            "phone": "241263",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "AT AKOLA ROAD HINGOLI TQ HINGOLI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AKOLA ROAD HINGOLI",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004262",
+            "office": "AKOLA ROAD HINGOLI",
+            "phone": "224583",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "AT SHIVRAMNAGAR PARBHANI TQ PARBHANI DIST PARBHANI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVRAMNAGAR PARBHANI",
+            "district": "PARBHANI",
+            "ifsc": "MAHG0004263",
+            "office": "SHIVRAMNAGAR PARBHANI",
+            "phone": "234542",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "AT PANKANERGAON TQ SENGAON DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PANKANERGAON",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004264",
+            "office": "PANKANERGAON",
+            "phone": "244122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "AT DONGARKADA TQ KALAMNURI DIST HINGOLI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DONGARKADA",
+            "district": "HINGOLI",
+            "ifsc": "MAHG0004265",
+            "office": "DONGARKADA",
+            "phone": "232042",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE LATUR SHIVAJI CHOWAK SAMBHAJI COMPLEX TQ DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LATUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004300",
+            "office": "REGIONAL OFFICE LATUR",
+            "phone": "256708",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "AT AMBULGA TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMBULGA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004301",
+            "office": "AMBULGA",
+            "phone": "267233",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "AT ANDHORI TQ AHMADPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ANDHORI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004302",
+            "office": "ANDHORI",
+            "phone": "278342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "AT ASHIV TQ AUSA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ASHIV",
+            "district": "LATUR",
+            "ifsc": "MAHG0004303",
+            "office": "ASHIV",
+            "phone": "234574",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "AT ATNUR TQ JALKOT DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ATNUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004305",
+            "office": "ATNUR",
+            "phone": "271333",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "AT BELKUND TQ AUSA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BELKUND",
+            "district": "LATUR",
+            "ifsc": "MAHG0004306",
+            "office": "BELKUND",
+            "phone": "221444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "AT AUSA TQ AUSA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AUSA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004307",
+            "office": "AUSA",
+            "phone": "222364",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "AT BORI L TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BORI L",
+            "district": "LATUR",
+            "ifsc": "MAHG0004308",
+            "office": "BORI L",
+            "phone": "260688",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "AT BORUL TQ DEVANI DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BORUL",
+            "district": "LATUR",
+            "ifsc": "MAHG0004309",
+            "office": "BORUL",
+            "phone": "262340",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "AT CHAPOLI TQ CHAKUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHAPOLI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004310",
+            "office": "CHAPOLI",
+            "phone": "257567",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "AT CHINCHOLI PAN TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHINCHOLI PAN",
+            "district": "LATUR",
+            "ifsc": "MAHG0004311",
+            "office": "CHINCHOLI PAN",
+            "phone": "263522",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "AT DEVARJAN TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DEVARJAN",
+            "district": "LATUR",
+            "ifsc": "MAHG0004312",
+            "office": "DEVARJAN",
+            "phone": "265077",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "AT CHAKUR TQ CHAKUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHAKUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004313",
+            "office": "CHAKUR",
+            "phone": "252088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "AT AURADSHAHJANI TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURADSHAHJANI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004314",
+            "office": "AURADSHAHJANI",
+            "phone": "245981",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "AT HALI TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HALI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004315",
+            "office": "HALI",
+            "phone": "264037",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "AT UDGIR TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UDGIR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004316",
+            "office": "UDGIR",
+            "phone": "257590",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "AT SHIVAJI CHOWK LATUR TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVAJI CHOWK LATUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004317",
+            "office": "SHIVAJI CHOWK LATUR",
+            "phone": "224696",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "AT JALKOT U TQ JALKOT DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JALKOT U",
+            "district": "LATUR",
+            "ifsc": "MAHG0004318",
+            "office": "JALKOT U",
+            "phone": "276176",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "AT JAWLA BK TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JAWLA BK",
+            "district": "LATUR",
+            "ifsc": "MAHG0004319",
+            "office": "JAWLA BK",
+            "phone": "275622",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "AT KADEPUR TQ RENAPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KADEPUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004320",
+            "office": "KADEPUR",
+            "phone": "207208",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "AT KASAR BALKUNDA TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KASAR BALKUNDA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004321",
+            "office": "KASAR BALKUNDA",
+            "phone": "266751",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "AT KASAR SHIRSHI TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KASAR SHIRSHI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004322",
+            "office": "KASAR SHIRSHI",
+            "phone": "262657",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "AT KHADGAON TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHADGAON",
+            "district": "LATUR",
+            "ifsc": "MAHG0004323",
+            "office": "KHADGAON",
+            "phone": "245415",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "AT AHAMADPUR TQ AHMADPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AHAMADPUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004324",
+            "office": "AHAMADPUR",
+            "phone": "262396",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "AT KHAROLA TQ RENAPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHAROLA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004325",
+            "office": "KHAROLA",
+            "phone": "235876",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "AT KHAROSA TQ AUSA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHAROSA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004326",
+            "office": "KHAROSA",
+            "phone": "239535",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "AT KINGAON TQ AHMADPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KINGAON",
+            "district": "LATUR",
+            "ifsc": "MAHG0004327",
+            "office": "KINGAON",
+            "phone": "268504",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "AT NAGALGAON TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NAGALGAON",
+            "district": "LATUR",
+            "ifsc": "MAHG0004328",
+            "office": "NAGALGAON",
+            "phone": "234550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "AT NALGIR TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NALGIR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004329",
+            "office": "NALGIR",
+            "phone": "263017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "AT SHIRUR TAJBAND TQ AHMADPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRUR TAJBAND",
+            "district": "LATUR",
+            "ifsc": "MAHG0004330",
+            "office": "SHIRUR TAJBAND",
+            "phone": "220176",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "AT TANDULJA TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TANDULJA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004331",
+            "office": "TANDULJA",
+            "phone": "273659",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "AT WADHONA TQ UDGIR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADHONA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004332",
+            "office": "WADHONA",
+            "phone": "268273",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "AT WADWAL NAGNATH TQ CHAKUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADWAL NAGNATH",
+            "district": "LATUR",
+            "ifsc": "MAHG0004333",
+            "office": "WADWAL NAGNATH",
+            "phone": "255673",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "AT WALANDI TQ DEVANI DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WALANDI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004334",
+            "office": "WALANDI",
+            "phone": "266179",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "AT WANJARWADA TQ JALKOT DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WANJARWADA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004335",
+            "office": "WANJARWADA",
+            "phone": "272732",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "AT BHUISAMUDRA TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHUISAMUDRA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004336",
+            "office": "BHUISAMUDRA",
+            "phone": "204200",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "AT NILANGA TQ NILANGA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NILANGA",
+            "district": "LATUR",
+            "ifsc": "MAHG0004337",
+            "office": "NILANGA",
+            "phone": "242538",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "AT NALEGAON TQ CHAKUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NALEGAON",
+            "district": "LATUR",
+            "ifsc": "MAHG0004338",
+            "office": "NALEGAON",
+            "phone": "256709",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "AT DEVANI TQ DEVANI DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DEVANI",
+            "district": "LATUR",
+            "ifsc": "MAHG0004339",
+            "office": "DEVANI",
+            "phone": "269918",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "AT GANJGOLAI LATUR TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GANJGOLAI LATUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004340",
+            "office": "GANJGOLAI LATUR",
+            "phone": "259743",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "AT SHIRUR ANANTPAL TQ SHIRUR ANANTPA DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRUR ANANTPAL",
+            "district": "LATUR",
+            "ifsc": "MAHG0004341",
+            "office": "SHIRUR ANANTPAL",
+            "phone": "250500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "AT RENAPUR TQ RENAPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RENAPUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004342",
+            "office": "RENAPUR",
+            "phone": "233076",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "AT PANGAON TQ RENAPUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PANGAON",
+            "district": "LATUR",
+            "ifsc": "MAHG0004343",
+            "office": "PANGAON",
+            "phone": "236136",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "AT VASANTRAO NAIK CHOWK LATUR TQ LATUR DIST LATUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VASANTRAO NAIK CHOWK LATUR",
+            "district": "LATUR",
+            "ifsc": "MAHG0004344",
+            "office": "VASANTRAO NAIK CHOWK LATUR",
+            "phone": "256708",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "AT ALOOR TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ALOOR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004401",
+            "office": "ALOOR",
+            "phone": "264049",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "AT ANALA TQ PARANDA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ANALA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004402",
+            "office": "ANALA",
+            "phone": "234051",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "AT ASHTA KASAR TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ASHTA KASAR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004403",
+            "office": "ASHTA KASAR",
+            "phone": "259046",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "AT BEMBLI TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BEMBLI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004404",
+            "office": "BEMBLI",
+            "phone": "235188",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "AT GUNJOTI TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GUNJOTI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004405",
+            "office": "GUNJOTI",
+            "phone": "253937",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "AT KALAMB TQ KALAMB DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KALAMB",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004406",
+            "office": "KALAMB",
+            "phone": "262582",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "AT JALKOT T TQ TULJAPUR DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JALKOT T",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004407",
+            "office": "JALKOT T",
+            "phone": "250509",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "AT JEVLI TQ LOHARA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JEVLI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004409",
+            "office": "JEVLI",
+            "phone": "263439",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "AT KATI TQ TULJAPUR DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KATI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004410",
+            "office": "KATI",
+            "phone": "260532",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "AT KHAMASWADI TQ KALAMB DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHAMASWADI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004411",
+            "office": "KHAMASWADI",
+            "phone": "285631",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "AT KOND TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KOND",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004412",
+            "office": "KOND",
+            "phone": "243187",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "AT LOHARA TQ LOHARA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LOHARA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004413",
+            "office": "LOHARA",
+            "phone": "266591",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "AT MAKNI TQ LOHARA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MAKNI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004414",
+            "office": "MAKNI",
+            "phone": "260047",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "AT TULJAPUR TQ TULJAPUR DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TULJAPUR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004415",
+            "office": "TULJAPUR",
+            "phone": "242760",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "AT MANKESHWAR TQ BHOOM DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MANKESHWAR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004416",
+            "office": "MANKESHWAR",
+            "phone": "278855",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "AT MASSA TQ KALAMB DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MASSA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004417",
+            "office": "MASSA",
+            "phone": "269550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "AT MOHA K TQ KALAMB DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MOHA K",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004418",
+            "office": "MOHA K",
+            "phone": "260390",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "AT NAICHAKUR TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NAICHAKUR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004419",
+            "office": "NAICHAKUR",
+            "phone": "288001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "AT OSMANABAD TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004420",
+            "office": "OSMANABAD",
+            "phone": "223418",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "AT PARA TQ WASHI DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004421",
+            "office": "PARA",
+            "phone": "271524",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "AT PARANDA TQ PARANDA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARANDA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004422",
+            "office": "PARANDA",
+            "phone": "232169",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "AT PATHRUD TQ BHOOM DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PATHRUD",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004423",
+            "office": "PATHRUD",
+            "phone": "274508",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "AT SALGARA TQ TULJAPUR DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SALGARA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004424",
+            "office": "SALGARA",
+            "phone": "263285",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "AT SAMUDRAWANI TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAMUDRAWANI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004425",
+            "office": "SAMUDRAWANI",
+            "phone": "234081",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "AT SASTUR TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SASTUR",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004426",
+            "office": "SASTUR",
+            "phone": "259550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "AT SHELGAON P TQ PARANDA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHELGAON P",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004428",
+            "office": "SHELGAON P",
+            "phone": "234653",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "AT SHIRADHON TQ KALAMB DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRADHON",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004429",
+            "office": "SHIRADHON",
+            "phone": "261150",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "AT TER TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TER",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004430",
+            "office": "TER",
+            "phone": "233348",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "AT TURORI TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TURORI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004431",
+            "office": "TURORI",
+            "phone": "254277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "AT WAGHOLI TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WAGHOLI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004432",
+            "office": "WAGHOLI",
+            "phone": "244500",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "AT BHOOM TQ BHOOM DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHOOM",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004433",
+            "office": "BHOOM",
+            "phone": "272229",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "AT WASHI TQ WASHI DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WASHI",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004434",
+            "office": "WASHI",
+            "phone": "276189",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "AT ANANDNAGAR OSMANABAD TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ANANDNAGAR OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004435",
+            "office": "ANANDNAGAR OSMANABAD",
+            "phone": "224730",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "AT OMERGA TQ OMERGA DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "OMERGA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004436",
+            "office": "OMERGA",
+            "phone": "252723",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "AT NALDURG TQ TULJAPUR DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NALDURG",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004437",
+            "office": "NALDURG",
+            "phone": "246600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "AT SANJA TQ OSMANABAD DIST OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SANJA",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004438",
+            "office": "SANJA",
+            "phone": "223416",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK AT POST KATI SAWANGI HOUSE OF SHREE DEVIDAS SANGVIKAR KATI SAWANGI OSMANABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "MAHG0004439",
+            "office": "SANGAVI KATI",
+            "phone": "9028202025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE BEED SUBHASH ROAD BEED TQ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "MAHG0004500",
+            "office": "REGIONAL OFFICE BEED",
+            "phone": "228938",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "AT ADAS TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ADAS",
+            "district": "BEED",
+            "ifsc": "MAHG0004501",
+            "office": "ADAS",
+            "phone": "275537",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "AT APEGAON TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "APEGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004502",
+            "office": "APEGAON",
+            "phone": "253503",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "AT BARDAPUR TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BARDAPUR",
+            "district": "BEED",
+            "ifsc": "MAHG0004503",
+            "office": "BARDAPUR",
+            "phone": "271330",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "AT BEED TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BEED",
+            "district": "BEED",
+            "ifsc": "MAHG0004504",
+            "office": "BEED",
+            "phone": "222698",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "AT KADA TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KADA",
+            "district": "BEED",
+            "ifsc": "MAHG0004506",
+            "office": "KADA",
+            "phone": "239790",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "AT CHAKLAMBA TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHAKLAMBA",
+            "district": "BEED",
+            "ifsc": "MAHG0004507",
+            "office": "CHAKLAMBA",
+            "phone": "258163",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "AT CHINCHOLI MALI TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHINCHOLI MALI",
+            "district": "BEED",
+            "ifsc": "MAHG0004508",
+            "office": "CHINCHOLI MALI",
+            "phone": "235501",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "AT DEOLA TQ WADWANI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DEOLA",
+            "district": "BEED",
+            "ifsc": "MAHG0004509",
+            "office": "DEOLA",
+            "phone": "271617",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "AT DHAMANGAON TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHAMANGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004510",
+            "office": "DHAMANGAON",
+            "phone": "224696",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    },
+    {
+        "fields": {
+            "address": "AT DHARMAPURI TQ PARALI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHARMAPURI",
+            "district": "BEED",
+            "ifsc": "MAHG0004511",
+            "office": "DHARMAPURI",
+            "phone": "254073",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 219
+    },
+    {
+        "fields": {
+            "address": "AT DINDRUD TQ MAJALGAON DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DINDRUD",
+            "district": "BEED",
+            "ifsc": "MAHG0004512",
+            "office": "DINDRUD",
+            "phone": "244558",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 220
+    },
+    {
+        "fields": {
+            "address": "AT DONGARKINI TQ PATODA DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DONGARKINI",
+            "district": "BEED",
+            "ifsc": "MAHG0004513",
+            "office": "DONGARKINI",
+            "phone": "248481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 221
+    },
+    {
+        "fields": {
+            "address": "AT EDDA TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "EDDA",
+            "district": "BEED",
+            "ifsc": "MAHG0004514",
+            "office": "EDDA",
+            "phone": "234609",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 222
+    },
+    {
+        "fields": {
+            "address": "AT MAJALGAON TQ MAJALGAON DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MAJALGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004515",
+            "office": "MAJALGAON",
+            "phone": "234723",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 223
+    },
+    {
+        "fields": {
+            "address": "AT GHATNANDUR TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GHATNANDUR",
+            "district": "BEED",
+            "ifsc": "MAHG0004516",
+            "office": "GHATNANDUR",
+            "phone": "242580",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 224
+    },
+    {
+        "fields": {
+            "address": "AT HOAL TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "HOAL",
+            "district": "BEED",
+            "ifsc": "MAHG0004517",
+            "office": "HOAL",
+            "phone": "237601",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 225
+    },
+    {
+        "fields": {
+            "address": "AT JATEGAON TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JATEGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004518",
+            "office": "JATEGAON",
+            "phone": "255510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 226
+    },
+    {
+        "fields": {
+            "address": "AT KAIJ TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KAIJ",
+            "district": "BEED",
+            "ifsc": "MAHG0004519",
+            "office": "KAIJ",
+            "phone": "252336",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 227
+    },
+    {
+        "fields": {
+            "address": "AT WADWANI TQ WADWANI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADWANI",
+            "district": "BEED",
+            "ifsc": "MAHG0004520",
+            "office": "WADWANI",
+            "phone": "257642",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 228
+    },
+    {
+        "fields": {
+            "address": "AT UMAPUR TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UMAPUR",
+            "district": "BEED",
+            "ifsc": "MAHG0004521",
+            "office": "UMAPUR",
+            "phone": "267056",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 229
+    },
+    {
+        "fields": {
+            "address": "AT KITTI ADGAON TQ MAJALGAON DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KITTI ADGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004522",
+            "office": "KITTI ADGAON",
+            "phone": "247646",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 230
+    },
+    {
+        "fields": {
+            "address": "AT KOLGAON TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KOLGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004523",
+            "office": "KOLGAON",
+            "phone": "203510",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 231
+    },
+    {
+        "fields": {
+            "address": "AT KUSLAMB TQ PATODA DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KUSLAMB",
+            "district": "BEED",
+            "ifsc": "MAHG0004524",
+            "office": "KUSLAMB",
+            "phone": "244169",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 232
+    },
+    {
+        "fields": {
+            "address": "AT LIMBAGANESH TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LIMBAGANESH",
+            "district": "BEED",
+            "ifsc": "MAHG0004525",
+            "office": "LIMBAGANESH",
+            "phone": "251853",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 233
+    },
+    {
+        "fields": {
+            "address": "AT MOHA M TQ PARALI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MOHA M",
+            "district": "BEED",
+            "ifsc": "MAHG0004526",
+            "office": "MOHA M",
+            "phone": "267459",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 234
+    },
+    {
+        "fields": {
+            "address": "AT NANDURGHAT TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NANDURGHAT",
+            "district": "BEED",
+            "ifsc": "MAHG0004527",
+            "office": "NANDURGHAT",
+            "phone": "231506",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 235
+    },
+    {
+        "fields": {
+            "address": "AT TELGAON TQ WADWANI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TELGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004529",
+            "office": "TELGAON",
+            "phone": "241537",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 236
+    },
+    {
+        "fields": {
+            "address": "AT PADALSINGI TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PADALSINGI",
+            "district": "BEED",
+            "ifsc": "MAHG0004530",
+            "office": "PADALSINGI",
+            "phone": "256621",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 237
+    },
+    {
+        "fields": {
+            "address": "AT PATODA AMBA TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PATODA AMBA",
+            "district": "BEED",
+            "ifsc": "MAHG0004531",
+            "office": "PATODA AMBA",
+            "phone": "255563",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 238
+    },
+    {
+        "fields": {
+            "address": "AT PIMPALNER B TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PIMPALNER B",
+            "district": "BEED",
+            "ifsc": "MAHG0004532",
+            "office": "PIMPALNER B",
+            "phone": "203160",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 239
+    },
+    {
+        "fields": {
+            "address": "AT SHIRUR KASAR TQ SHIRUR KASAR DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRUR KASAR",
+            "district": "BEED",
+            "ifsc": "MAHG0004533",
+            "office": "SHIRUR KASAR",
+            "phone": "259514",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 240
+    },
+    {
+        "fields": {
+            "address": "AT PIMPLA TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PIMPLA",
+            "district": "BEED",
+            "ifsc": "MAHG0004534",
+            "office": "PIMPLA",
+            "phone": "254513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 241
+    },
+    {
+        "fields": {
+            "address": "AT POHNER TQ PARALI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "POHNER",
+            "district": "BEED",
+            "ifsc": "MAHG0004535",
+            "office": "POHNER",
+            "phone": "203170",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 242
+    },
+    {
+        "fields": {
+            "address": "AT RAIMOHA TQ SHIRUR DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RAIMOHA",
+            "district": "BEED",
+            "ifsc": "MAHG0004536",
+            "office": "RAIMOHA",
+            "phone": "258581",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 243
+    },
+    {
+        "fields": {
+            "address": "AT RAJURI BK TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RAJURI BK",
+            "district": "BEED",
+            "ifsc": "MAHG0004537",
+            "office": "RAJURI BK",
+            "phone": "255558",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 244
+    },
+    {
+        "fields": {
+            "address": "AT SHIRAL TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRAL",
+            "district": "BEED",
+            "ifsc": "MAHG0004538",
+            "office": "SHIRAL",
+            "phone": "234643",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 245
+    },
+    {
+        "fields": {
+            "address": "AT GEORAI TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GEORAI",
+            "district": "BEED",
+            "ifsc": "MAHG0004539",
+            "office": "GEORAI",
+            "phone": "262791",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 246
+    },
+    {
+        "fields": {
+            "address": "AT SIRSALA TQ PARALI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SIRSALA",
+            "district": "BEED",
+            "ifsc": "MAHG0004540",
+            "office": "SIRSALA",
+            "phone": "262457",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 247
+    },
+    {
+        "fields": {
+            "address": "AT TAKARWAN TQ MAJALGAON DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TAKARWAN",
+            "district": "BEED",
+            "ifsc": "MAHG0004541",
+            "office": "TAKARWAN",
+            "phone": "245386",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 248
+    },
+    {
+        "fields": {
+            "address": "AT TALWADA TQ GEORAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TALWADA",
+            "district": "BEED",
+            "ifsc": "MAHG0004542",
+            "office": "TALWADA",
+            "phone": "252022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 249
+    },
+    {
+        "fields": {
+            "address": "AT WADGAON DAULA TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADGAON DAULA",
+            "district": "BEED",
+            "ifsc": "MAHG0004544",
+            "office": "WADGAON DAULA",
+            "phone": "202316",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 250
+    },
+    {
+        "fields": {
+            "address": "AT NEKNOOR TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NEKNOOR",
+            "district": "BEED",
+            "ifsc": "MAHG0004545",
+            "office": "NEKNOOR",
+            "phone": "250585",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 251
+    },
+    {
+        "fields": {
+            "address": "AT YUSUF WADGAON TQ KAIJ DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "YUSUF WADGAON",
+            "district": "BEED",
+            "ifsc": "MAHG0004546",
+            "office": "YUSUF WADGAON",
+            "phone": "232756",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 252
+    },
+    {
+        "fields": {
+            "address": "AT AMBAJOGAI TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMBAJOGAI",
+            "district": "BEED",
+            "ifsc": "MAHG0004547",
+            "office": "AMBAJOGAI",
+            "phone": "248172",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 253
+    },
+    {
+        "fields": {
+            "address": "AT PARALI TQ PARALI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARALI",
+            "district": "BEED",
+            "ifsc": "MAHG0004548",
+            "office": "PARALI",
+            "phone": "223408",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 254
+    },
+    {
+        "fields": {
+            "address": "AT PATODA TQ PATODA DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PATODA",
+            "district": "BEED",
+            "ifsc": "MAHG0004549",
+            "office": "PATODA",
+            "phone": "242406",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 255
+    },
+    {
+        "fields": {
+            "address": "AT DHARUR TQ DHARUR DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHARUR",
+            "district": "BEED",
+            "ifsc": "MAHG0004550",
+            "office": "DHARUR",
+            "phone": "274040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 256
+    },
+    {
+        "fields": {
+            "address": "AT ASHTI TQ ASHTI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ASHTI",
+            "district": "BEED",
+            "ifsc": "MAHG0004551",
+            "office": "ASHTI",
+            "phone": "282173",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 257
+    },
+    {
+        "fields": {
+            "address": "AT DHANORA ROAD BEED TQ BEED DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHANORA ROAD BEED",
+            "district": "BEED",
+            "ifsc": "MAHG0004552",
+            "office": "DHANORA ROAD BEED",
+            "phone": "236693",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 258
+    },
+    {
+        "fields": {
+            "address": "AT MOREWADI TQ AMBAJOGAI DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MOREWADI",
+            "district": "BEED",
+            "ifsc": "MAHG0004553",
+            "office": "MOREWADI",
+            "phone": "246088",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 259
+    },
+    {
+        "fields": {
+            "address": "AT KHALAPURI TQ SHIRUR KASAR DIST BEED",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHALAPURI",
+            "district": "BEED",
+            "ifsc": "MAHG0004554",
+            "office": "KHALAPURI",
+            "phone": "268265",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 260
+    },
+    {
+        "fields": {
+            "address": "AT WAGHOLI P TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WAGHOLI P",
+            "district": "PUNE",
+            "ifsc": "MAHG0004601",
+            "office": "WAGHOLI P",
+            "phone": "52550",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 261
+    },
+    {
+        "fields": {
+            "address": "AT SANASWADI TQ SHIRUR DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SANASWADI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004602",
+            "office": "SANASWADI",
+            "phone": "253570",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 262
+    },
+    {
+        "fields": {
+            "address": "AT KADAMWAKWASTI TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KADAMWAKWASTI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004603",
+            "office": "KADAMWAKWASTI",
+            "phone": "912025",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 263
+    },
+    {
+        "fields": {
+            "address": "AT BORI PARDHI TQ DAUND DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BORI PARDHI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004604",
+            "office": "BORI PARDHI",
+            "phone": "223022",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 264
+    },
+    {
+        "fields": {
+            "address": "AT KANHE TQ WADGAONMAVAL DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KANHE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004605",
+            "office": "KANHE",
+            "phone": "255014",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 265
+    },
+    {
+        "fields": {
+            "address": "AT PERNE TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PERNE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004606",
+            "office": "PERNE",
+            "phone": "287116",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 266
+    },
+    {
+        "fields": {
+            "address": "AT URALI DEVACHI TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "URALI DEVACHI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004607",
+            "office": "URALI DEVACHI",
+            "phone": "266277",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 267
+    },
+    {
+        "fields": {
+            "address": "AT KUNJARWADI TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KUNJARWADI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004608",
+            "office": "KUNJARWADI",
+            "phone": "913956",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 268
+    },
+    {
+        "fields": {
+            "address": "AT LOHAGAON PUNE TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LOHAGAON PUNE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004609",
+            "office": "LOHAGAON PUNE",
+            "phone": "261333",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 269
+    },
+    {
+        "fields": {
+            "address": "AT BAHUL TQ KHED DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BAHUL",
+            "district": "PUNE",
+            "ifsc": "MAHG0004610",
+            "office": "BAHUL",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 270
+    },
+    {
+        "fields": {
+            "address": "AT KONDWE DHAWADE TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KONDWE DHAWADE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004611",
+            "office": "KONDWE DHAWADE",
+            "phone": "292535",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 271
+    },
+    {
+        "fields": {
+            "address": "AT KARANDI TQ SHIRUR DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KARANDI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004612",
+            "office": "KARANDI",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 272
+    },
+    {
+        "fields": {
+            "address": "AT KESHAVNAGAR TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KESHAVNAGAR",
+            "district": "PUNE",
+            "ifsc": "MAHG0004614",
+            "office": "KESHAVNAGAR",
+            "phone": "20263111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 273
+    },
+    {
+        "fields": {
+            "address": "AT SHIRASWADI TQ HAVELI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRASWADI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004615",
+            "office": "SHIRASWADI",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 274
+    },
+    {
+        "fields": {
+            "address": "AT MEDANKARWADI TQ DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MEDANKARWADI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004616",
+            "office": "MEDANKARWADI",
+            "phone": "204202",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 275
+    },
+    {
+        "fields": {
+            "address": "AT KOYALI TQ DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KOYALI",
+            "district": "PUNE",
+            "ifsc": "MAHG0004617",
+            "office": "KOYALI",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 276
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 101 VARAD VINAYAK COMPLEX SURVEY NO 26 1 NARHE DHAYRI ROAD NARHE TQ HAVILI DIST PUNE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NARHE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004618",
+            "office": "NARHE",
+            "phone": "25435154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 277
+    },
+    {
+        "fields": {
+            "address": "INDYAYANI PLAZA MIDDLE AKLUJ ROAD VYANKETESHNAGAR INDAPUR TALUKA INDAPUR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004619",
+            "office": "INDAPUR",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 278
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 862 PUNE PAUD ROAD BHUGAON PO BHUGAON TALUKA MULSHI",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "MAHG0004620",
+            "office": "BHUGAON",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 279
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK, SHIRUR BRANCH, SURVEY NO 1148/2, OXI GOLD BABURAO NAGAR PUNE-AHMEDNAGAR ROAD SHIRUR TALUKA SHIRUR DIST. PUNE 412210",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "PUNE",
+            "ifsc": "MAHG0004621",
+            "office": "SHIRUR GHODNADI",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 280
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE AURANGABAD SAMARTHNAGAR 108 JIVANGANGA SAMARTHANAGAR AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005100",
+            "office": "REGIONAL OFFICE AURANGABAD",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 281
+    },
+    {
+        "fields": {
+            "address": "AT GARKHEDA ROAD AURANGABAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GARKHEDA ROAD AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005101",
+            "office": "GARKHEDA ROAD AURANGABAD",
+            "phone": "2338252",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 282
+    },
+    {
+        "fields": {
+            "address": "AT WALUJ TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WALUJ",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005102",
+            "office": "WALUJ",
+            "phone": "2564523",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 283
+    },
+    {
+        "fields": {
+            "address": "AT BALANAGAR TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BALANAGAR",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005103",
+            "office": "BALANAGAR",
+            "phone": "261053",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 284
+    },
+    {
+        "fields": {
+            "address": "AT GALLEBORGAON TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GALLEBORGAON",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005104",
+            "office": "GALLEBORGAON",
+            "phone": "243513",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 285
+    },
+    {
+        "fields": {
+            "address": "AT KHANDALA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHANDALA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005105",
+            "office": "KHANDALA",
+            "phone": "281325",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 286
+    },
+    {
+        "fields": {
+            "address": "AT PARSODA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARSODA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005106",
+            "office": "PARSODA",
+            "phone": "283373",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 287
+    },
+    {
+        "fields": {
+            "address": "AT LONI KH TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LONI KH",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005107",
+            "office": "LONI KH",
+            "phone": "288329",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 288
+    },
+    {
+        "fields": {
+            "address": "AT LADSAVANGI TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LADSAVANGI",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005109",
+            "office": "LADSAVANGI",
+            "phone": "626645",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 289
+    },
+    {
+        "fields": {
+            "address": "AT SHIVNA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVNA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005110",
+            "office": "SHIVNA",
+            "phone": "289408",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 290
+    },
+    {
+        "fields": {
+            "address": "AT KARMAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KARMAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005111",
+            "office": "KARMAD",
+            "phone": "623339",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 291
+    },
+    {
+        "fields": {
+            "address": "AT PANVADOD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PANVADOD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005112",
+            "office": "PANVADOD",
+            "phone": "287317",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 292
+    },
+    {
+        "fields": {
+            "address": "AT GHATNANDRA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GHATNANDRA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005113",
+            "office": "GHATNANDRA",
+            "phone": "287456",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 293
+    },
+    {
+        "fields": {
+            "address": "AT NACHANVEL TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NACHANVEL",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005114",
+            "office": "NACHANVEL",
+            "phone": "239452",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 294
+    },
+    {
+        "fields": {
+            "address": "AT PHULAMBRI TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PHULAMBRI",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005115",
+            "office": "PHULAMBRI",
+            "phone": "634091",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 295
+    },
+    {
+        "fields": {
+            "address": "AT SHENDURWADA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHENDURWADA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005116",
+            "office": "SHENDURWADA",
+            "phone": "235854",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 296
+    },
+    {
+        "fields": {
+            "address": "AT CHITTEPIMPALGAON TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHITTEPIMPALGAON",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005118",
+            "office": "CHITTEPIMPALGAON",
+            "phone": "643622",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 297
+    },
+    {
+        "fields": {
+            "address": "AT LASUR STATION TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "LASUR STATION",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005120",
+            "office": "LASUR STATION",
+            "phone": "241548",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 298
+    },
+    {
+        "fields": {
+            "address": "AT SHEKTA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHEKTA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005121",
+            "office": "SHEKTA",
+            "phone": "624454",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 299
+    },
+    {
+        "fields": {
+            "address": "AT BABRA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BABRA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005122",
+            "office": "BABRA",
+            "phone": "285342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 300
+    },
+    {
+        "fields": {
+            "address": "AT AMBHAI TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMBHAI",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005123",
+            "office": "AMBHAI",
+            "phone": "286342",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 301
+    },
+    {
+        "fields": {
+            "address": "AT MAHALGAON TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MAHALGAON",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005124",
+            "office": "MAHALGAON",
+            "phone": "282327",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 302
+    },
+    {
+        "fields": {
+            "address": "AT GANGAPUR TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GANGAPUR",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005125",
+            "office": "GANGAPUR",
+            "phone": "220597",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 303
+    },
+    {
+        "fields": {
+            "address": "AT JARANDI TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JARANDI",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005126",
+            "office": "JARANDI",
+            "phone": "264965",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 304
+    },
+    {
+        "fields": {
+            "address": "AT VAIJAPUR TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VAIJAPUR",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005127",
+            "office": "VAIJAPUR",
+            "phone": "222512",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 305
+    },
+    {
+        "fields": {
+            "address": "AT SAWALATBARA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAWALATBARA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005128",
+            "office": "SAWALATBARA",
+            "phone": "245130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 306
+    },
+    {
+        "fields": {
+            "address": "AT SAMARTHNAGAR AURANGABAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAMARTHNAGAR AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005129",
+            "office": "SAMARTHNAGAR AURANGABAD",
+            "phone": "223952",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 307
+    },
+    {
+        "fields": {
+            "address": "AT SILLOD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SILLOD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005130",
+            "office": "SILLOD",
+            "phone": "2343606",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 308
+    },
+    {
+        "fields": {
+            "address": "AT MUKUNDWADI AURANGABAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUKUNDWADI AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005131",
+            "office": "MUKUNDWADI AURANGABAD",
+            "phone": "2487785",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 309
+    },
+    {
+        "fields": {
+            "address": "AT SHIVAJINAGAR SATARAPARISAR AURANGABAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIVAJINAGAR SATARAPARISAR AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005132",
+            "office": "SHIVAJINAGAR SATARAPARISAR AURANGABAD",
+            "phone": "2451232",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 310
+    },
+    {
+        "fields": {
+            "address": "AT KANNAD TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KANNAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005133",
+            "office": "KANNAD",
+            "phone": "222229",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 311
+    },
+    {
+        "fields": {
+            "address": "AT PAITHAN TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PAITHAN",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005134",
+            "office": "PAITHAN",
+            "phone": "223366",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 312
+    },
+    {
+        "fields": {
+            "address": "AT SATARA TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SATARA",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005135",
+            "office": "SATARA",
+            "phone": "2653100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 313
+    },
+    {
+        "fields": {
+            "address": "AT BIDKIN TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BIDKIN",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005136",
+            "office": "BIDKIN",
+            "phone": "241017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 314
+    },
+    {
+        "fields": {
+            "address": "AT ALAND TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ALAND",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005137",
+            "office": "ALAND",
+            "phone": "284667",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 315
+    },
+    {
+        "fields": {
+            "address": "AT RANJANGAON TQ DIST AURANGABAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RANJANGAON",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005138",
+            "office": "RANJANGAON",
+            "phone": "2553309",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 316
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 18, SURVEY NO 179/5/A, RASHMINAGAR, NEAR AUDITORS SOCIETY, HARSUL T-POINT, AURANGABAD 431008",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005139",
+            "office": "RASHMINAGAR",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 317
+    },
+    {
+        "fields": {
+            "address": "AURANGABAD-BEED HIGH-WAY AT POST ADUL TQ PAITHAN",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ADUL",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0005140",
+            "office": "ADUL",
+            "phone": "9823742280",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 318
+    },
+    {
+        "fields": {
+            "address": "AT JALNA MAIN TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JALNA MAIN",
+            "district": "JALNA",
+            "ifsc": "MAHG0005201",
+            "office": "JALNA MAIN",
+            "phone": "232529",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 319
+    },
+    {
+        "fields": {
+            "address": "AT SATONA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SATONA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005202",
+            "office": "SATONA",
+            "phone": "226218",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 320
+    },
+    {
+        "fields": {
+            "address": "AT MANTHA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MANTHA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005203",
+            "office": "MANTHA",
+            "phone": "270282",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 321
+    },
+    {
+        "fields": {
+            "address": "AT PARTUR MONDHA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARTUR MONDHA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005204",
+            "office": "PARTUR MONDHA",
+            "phone": "221278",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 322
+    },
+    {
+        "fields": {
+            "address": "AT MAHORA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MAHORA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005205",
+            "office": "MAHORA",
+            "phone": "225208",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 323
+    },
+    {
+        "fields": {
+            "address": "AT BHOKARDAN TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHOKARDAN",
+            "district": "JALNA",
+            "ifsc": "MAHG0005206",
+            "office": "BHOKARDAN",
+            "phone": "240172",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 324
+    },
+    {
+        "fields": {
+            "address": "AT ANWA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ANWA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005207",
+            "office": "ANWA",
+            "phone": "242243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 325
+    },
+    {
+        "fields": {
+            "address": "AT TIRTHPURI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TIRTHPURI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005208",
+            "office": "TIRTHPURI",
+            "phone": "226596",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 326
+    },
+    {
+        "fields": {
+            "address": "AT DABHADI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DABHADI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005209",
+            "office": "DABHADI",
+            "phone": "264014",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 327
+    },
+    {
+        "fields": {
+            "address": "AT SHELGAON TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHELGAON",
+            "district": "JALNA",
+            "ifsc": "MAHG0005210",
+            "office": "SHELGAON",
+            "phone": "262052",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 328
+    },
+    {
+        "fields": {
+            "address": "AT VADIGODRI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VADIGODRI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005211",
+            "office": "VADIGODRI",
+            "phone": "227293",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 329
+    },
+    {
+        "fields": {
+            "address": "AT TALNI J TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TALNI J",
+            "district": "JALNA",
+            "ifsc": "MAHG0005212",
+            "office": "TALNI J",
+            "phone": "275907",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 330
+    },
+    {
+        "fields": {
+            "address": "AT GONDI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GONDI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005213",
+            "office": "GONDI",
+            "phone": "232018",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 331
+    },
+    {
+        "fields": {
+            "address": "AT BADNAPUR TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BADNAPUR",
+            "district": "JALNA",
+            "ifsc": "MAHG0005214",
+            "office": "BADNAPUR",
+            "phone": "261140",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 332
+    },
+    {
+        "fields": {
+            "address": "AT SEVALI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SEVALI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005215",
+            "office": "SEVALI",
+            "phone": "253253",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 333
+    },
+    {
+        "fields": {
+            "address": "AT RAMNAGAR TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RAMNAGAR",
+            "district": "JALNA",
+            "ifsc": "MAHG0005216",
+            "office": "RAMNAGAR",
+            "phone": "256239",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 334
+    },
+    {
+        "fields": {
+            "address": "AT WATURPHATA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WATURPHATA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005217",
+            "office": "WATURPHATA",
+            "phone": "224540",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 335
+    },
+    {
+        "fields": {
+            "address": "AT WAGHRUL JAHANGIR TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WAGHRUL JAHANGIR",
+            "district": "JALNA",
+            "ifsc": "MAHG0005218",
+            "office": "WAGHRUL JAHANGIR",
+            "phone": "255240",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 336
+    },
+    {
+        "fields": {
+            "address": "AT GOLAPANGRI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GOLAPANGRI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005219",
+            "office": "GOLAPANGRI",
+            "phone": "204231",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 337
+    },
+    {
+        "fields": {
+            "address": "AT KUMBHAR PIMPALGAON TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KUMBHAR PIMPALGAON",
+            "district": "JALNA",
+            "ifsc": "MAHG0005220",
+            "office": "KUMBHAR PIMPALGAON",
+            "phone": "228385",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 338
+    },
+    {
+        "fields": {
+            "address": "AT RAJUR GANPATI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RAJUR GANPATI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005221",
+            "office": "RAJUR GANPATI",
+            "phone": "252417",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 339
+    },
+    {
+        "fields": {
+            "address": "AT PARTUR CITY TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PARTUR CITY",
+            "district": "JALNA",
+            "ifsc": "MAHG0005222",
+            "office": "PARTUR CITY",
+            "phone": "221086",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 340
+    },
+    {
+        "fields": {
+            "address": "AT PIMPALGAON RENUKAI TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PIMPALGAON RENUKAI",
+            "district": "JALNA",
+            "ifsc": "MAHG0005223",
+            "office": "PIMPALGAON RENUKAI",
+            "phone": "245206",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 341
+    },
+    {
+        "fields": {
+            "address": "AT JAFRABAD TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JAFRABAD",
+            "district": "JALNA",
+            "ifsc": "MAHG0005224",
+            "office": "JAFRABAD",
+            "phone": "222773",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 342
+    },
+    {
+        "fields": {
+            "address": "AT AMBAD TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMBAD",
+            "district": "JALNA",
+            "ifsc": "MAHG0005226",
+            "office": "AMBAD",
+            "phone": "220579",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 343
+    },
+    {
+        "fields": {
+            "address": "AT NEW JALNA TQ DIST JALNA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NEW JALNA",
+            "district": "JALNA",
+            "ifsc": "MAHG0005227",
+            "office": "NEW JALNA",
+            "phone": "243393",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 344
+    },
+    {
+        "fields": {
+            "address": "AT GULMOHAR COLONEY AHMEDNAGAR TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GULMOHAR COLONEY AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005401",
+            "office": "GULMOHAR COLONEY AHMEDNAGAR",
+            "phone": "428912",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 345
+    },
+    {
+        "fields": {
+            "address": "AT SANGAMNER TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SANGAMNER",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005402",
+            "office": "SANGAMNER",
+            "phone": "227272",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 346
+    },
+    {
+        "fields": {
+            "address": "AT KOPARGAON TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KOPARGAON",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005403",
+            "office": "KOPARGAON",
+            "phone": "225300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 347
+    },
+    {
+        "fields": {
+            "address": "AT MADHI TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MADHI",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005404",
+            "office": "MADHI",
+            "phone": "244007",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 348
+    },
+    {
+        "fields": {
+            "address": "AT SAROLA KASAR TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAROLA KASAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005405",
+            "office": "SAROLA KASAR",
+            "phone": "537005",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 349
+    },
+    {
+        "fields": {
+            "address": "AT MUKINDPUR NEWASA PHATA TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUKINDPUR NEWASA PHATA",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005406",
+            "office": "MUKINDPUR NEWASA PHATA",
+            "phone": "244080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 350
+    },
+    {
+        "fields": {
+            "address": "AT RASHIN TQ DIST AHMEDNAGAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RASHIN",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005407",
+            "office": "RASHIN",
+            "phone": "258699",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 351
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK BURHANNAGAR BRANCH PLOT NO 17 SHRIRAM TAPOVAN ROAD AT PO BURHANNAGAR TALUKA DIST AHMEDNAGAR 414003",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005408",
+            "office": "BURHANNAGAR",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 352
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK NAVNAGAPUR BRANCH PMOT NO 11 49 2B HOUSE NO 909 VADGAON GUPTA ROAD GAJANAN COLONY NAVNAGAPUR TALUKA DIST AHMEDNAGAR 414003",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "MAHG0005409",
+            "office": "NAVNAGAPUR",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 353
+    },
+    {
+        "fields": {
+            "address": "AT JALGAON TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005501",
+            "office": "JALGAON",
+            "phone": "254400",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 354
+    },
+    {
+        "fields": {
+            "address": "AT PACHORA TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PACHORA",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005502",
+            "office": "PACHORA",
+            "phone": "244544",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 355
+    },
+    {
+        "fields": {
+            "address": "AT MUKTAINAGAR TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MUKTAINAGAR",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005503",
+            "office": "MUKTAINAGAR",
+            "phone": "235300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 356
+    },
+    {
+        "fields": {
+            "address": "AT AMADADE TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMADADE",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005504",
+            "office": "AMADADE",
+            "phone": "231269",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 357
+    },
+    {
+        "fields": {
+            "address": "AT KEKATNIMBHORA TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KEKATNIMBHORA",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005505",
+            "office": "KEKATNIMBHORA",
+            "phone": "256255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 358
+    },
+    {
+        "fields": {
+            "address": "AT SATGAON TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SATGAON",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005506",
+            "office": "SATGAON",
+            "phone": "281555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 359
+    },
+    {
+        "fields": {
+            "address": "AT VARANGAON TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VARANGAON",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005507",
+            "office": "VARANGAON",
+            "phone": "262258",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 360
+    },
+    {
+        "fields": {
+            "address": "AT YAWAL TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "YAWAL",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005508",
+            "office": "YAWAL",
+            "phone": "260044",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 361
+    },
+    {
+        "fields": {
+            "address": "AT MEHUNBARE TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MEHUNBARE",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005509",
+            "office": "MEHUNBARE",
+            "phone": "244190",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 362
+    },
+    {
+        "fields": {
+            "address": "AT SHIRSOLI P B TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHIRSOLI P B",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005510",
+            "office": "SHIRSOLI P B",
+            "phone": "359221",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 363
+    },
+    {
+        "fields": {
+            "address": "AT MHASAWAD TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MHASAWAD",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005511",
+            "office": "MHASAWAD",
+            "phone": "355855",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 364
+    },
+    {
+        "fields": {
+            "address": "AT PAROLA TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PAROLA",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005512",
+            "office": "PAROLA",
+            "phone": "294666",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 365
+    },
+    {
+        "fields": {
+            "address": "AT RAVER TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "RAVER",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005513",
+            "office": "RAVER",
+            "phone": "250140",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 366
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK KAMALSHANTI VYAPARI BIGAR SHETI SAHAKARI PATASANSTHA PREMISES NEAR BUS STAND KAJGAON DIST JALGAON 424103",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHADGAON",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005514",
+            "office": "KAJGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 367
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 5 SHRIDHAR NAGAR PAMPING ROAD SAVKHEDA BRANCH TQ DIST JALGAON",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005515",
+            "office": "SAVKHEDA BK",
+            "phone": "231269",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 368
+    },
+    {
+        "fields": {
+            "address": "BAJAJ PLAZA 2382/83 PATHAK GALLI MAIN ROAD AT POST AND TQ CHOPDA",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHOPDA",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005516",
+            "office": "CHOPDA",
+            "phone": "9823742280",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 369
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI ROAD NEW PLOT NEAR DADAWADI AMALNER TQ AMALNER",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AMALNER",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005517",
+            "office": "AMALNER",
+            "phone": "9823742280",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 370
+    },
+    {
+        "fields": {
+            "address": "SADGURU VILLA BIRLA CHOWK NEAR PANDAV WADA AT POST AND TQ ERANDOL",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ERANDOL",
+            "district": "JALGAON",
+            "ifsc": "MAHG0005518",
+            "office": "ERANDOL",
+            "phone": "9823742280",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 371
+    },
+    {
+        "fields": {
+            "address": "REGIONAL OFFICE THANE 3RD FLOOR MTNL CHARAI BHAVAN INFRONT OF GANESH TALKIES MAULI MANDAL CHARAI TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "MAHG0005600",
+            "office": "REGIONAL OFFICE THANE",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 372
+    },
+    {
+        "fields": {
+            "address": "AT VRINDAVAN THANEW TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VRINDAVAN THANEW",
+            "district": "THANE",
+            "ifsc": "MAHG0005601",
+            "office": "VRINDAVAN THANEW",
+            "phone": "437653",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 373
+    },
+    {
+        "fields": {
+            "address": "AT BELAVALI TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BELAVALI",
+            "district": "THANE",
+            "ifsc": "MAHG0005602",
+            "office": "BELAVALI",
+            "phone": "673523",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 374
+    },
+    {
+        "fields": {
+            "address": "AT TOKAWADE TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TOKAWADE",
+            "district": "THANE",
+            "ifsc": "MAHG0005603",
+            "office": "TOKAWADE",
+            "phone": "242041",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 375
+    },
+    {
+        "fields": {
+            "address": "AT KUDUS TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KUDUS",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005604",
+            "office": "KUDUS",
+            "phone": "221111",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 376
+    },
+    {
+        "fields": {
+            "address": "AT ALONDE TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "ALONDE",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005605",
+            "office": "ALONDE",
+            "phone": "231023",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 377
+    },
+    {
+        "fields": {
+            "address": "AT DOLKHAMB TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DOLKHAMB",
+            "district": "THANE",
+            "ifsc": "MAHG0005606",
+            "office": "DOLKHAMB",
+            "phone": "234144",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 378
+    },
+    {
+        "fields": {
+            "address": "AT UDHAWA TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "UDHAWA",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005608",
+            "office": "UDHAWA",
+            "phone": "232109",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 379
+    },
+    {
+        "fields": {
+            "address": "AT KELWA TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KELWA",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005609",
+            "office": "KELWA",
+            "phone": "222120",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 380
+    },
+    {
+        "fields": {
+            "address": "AT WADA TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "WADA",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005612",
+            "office": "WADA",
+            "phone": "271115",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 381
+    },
+    {
+        "fields": {
+            "address": "AT GIRGAON T TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GIRGAON T",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005614",
+            "office": "GIRGAON T",
+            "phone": "992690",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 382
+    },
+    {
+        "fields": {
+            "address": "AT MURBE TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MURBE",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005615",
+            "office": "MURBE",
+            "phone": "289032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 383
+    },
+    {
+        "fields": {
+            "address": "AT MHASA TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MHASA",
+            "district": "THANE",
+            "ifsc": "MAHG0005619",
+            "office": "MHASA",
+            "phone": "249195",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 384
+    },
+    {
+        "fields": {
+            "address": "AT KHADAVALI TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHADAVALI",
+            "district": "THANE",
+            "ifsc": "MAHG0005620",
+            "office": "KHADAVALI",
+            "phone": "370021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 385
+    },
+    {
+        "fields": {
+            "address": "AT GOVELI TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GOVELI",
+            "district": "THANE",
+            "ifsc": "MAHG0005622",
+            "office": "GOVELI",
+            "phone": "390017",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 386
+    },
+    {
+        "fields": {
+            "address": "AT MOKHADA TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MOKHADA",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005623",
+            "office": "MOKHADA",
+            "phone": "256684",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 387
+    },
+    {
+        "fields": {
+            "address": "AT TALASARI TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TALASARI",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005625",
+            "office": "TALASARI",
+            "phone": "220375",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 388
+    },
+    {
+        "fields": {
+            "address": "AT GOTHEGHAR TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GOTHEGHAR",
+            "district": "THANE",
+            "ifsc": "MAHG0005628",
+            "office": "GOTHEGHAR",
+            "phone": "270835",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 389
+    },
+    {
+        "fields": {
+            "address": "AT VIKRAMGHAD TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VIKRAMGHAD",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005629",
+            "office": "VIKRAMGHAD",
+            "phone": "240376",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 390
+    },
+    {
+        "fields": {
+            "address": "AT KHADAKPADA CHOWK KALYAN W TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "KHADAKPADA CHOWK KALYAN W",
+            "district": "THANE",
+            "ifsc": "MAHG0005630",
+            "office": "KHADAKPADA CHOWK KALYAN W",
+            "phone": "230284",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 391
+    },
+    {
+        "fields": {
+            "address": "AT PALGHAR TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "PALGHAR",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005631",
+            "office": "PALGHAR",
+            "phone": "250422",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 392
+    },
+    {
+        "fields": {
+            "address": "AT GHANSOLI TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GHANSOLI",
+            "district": "THANE",
+            "ifsc": "MAHG0005632",
+            "office": "GHANSOLI",
+            "phone": "606580",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 393
+    },
+    {
+        "fields": {
+            "address": "AT GHODBUNDER ROAD THANE TQ DIST THANE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "GHODBUNDER ROAD THANE",
+            "district": "THANE",
+            "ifsc": "MAHG0005633",
+            "office": "GHODBUNDER ROAD THANE",
+            "phone": "971447",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 394
+    },
+    {
+        "fields": {
+            "address": "AT DAHANU TQ DIST PALGHAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DAHANU",
+            "district": "PALGHAR",
+            "ifsc": "MAHG0005634",
+            "office": "DAHANU",
+            "phone": "224411",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 395
+    },
+    {
+        "fields": {
+            "address": "AT NASIK TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MAHG0005701",
+            "office": "NASIK",
+            "phone": "472050",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 396
+    },
+    {
+        "fields": {
+            "address": "AT DINDORI TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DINDORI",
+            "district": "NASIK",
+            "ifsc": "MAHG0005702",
+            "office": "DINDORI",
+            "phone": "221919",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 397
+    },
+    {
+        "fields": {
+            "address": "AT NANDGAON TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NANDGAON",
+            "district": "NASIK",
+            "ifsc": "MAHG0005703",
+            "office": "NANDGAON",
+            "phone": "242041",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 398
+    },
+    {
+        "fields": {
+            "address": "AT SINNAR TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SINNAR",
+            "district": "NASIK",
+            "ifsc": "MAHG0005704",
+            "office": "SINNAR",
+            "phone": "220010",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 399
+    },
+    {
+        "fields": {
+            "address": "AT YEOLA TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "YEOLA",
+            "district": "NASIK",
+            "ifsc": "MAHG0005705",
+            "office": "YEOLA",
+            "phone": "266621",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 400
+    },
+    {
+        "fields": {
+            "address": "AT SATANA TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SATANA",
+            "district": "NASIK",
+            "ifsc": "MAHG0005706",
+            "office": "SATANA",
+            "phone": "223700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 401
+    },
+    {
+        "fields": {
+            "address": "AT SHINDE TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHINDE",
+            "district": "NASIK",
+            "ifsc": "MAHG0005707",
+            "office": "SHINDE",
+            "phone": "802548",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 402
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 528 TRIMBAK ROAD 6TH MILE BELGAON DHAGA PO TRIMBAK VIDYA MANDIR TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BELGAON DHAGA",
+            "district": "NASHIK",
+            "ifsc": "MAHG0005708",
+            "office": "BELGAON DHAGA",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 403
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 7 SAI DARSHAN COMPLEX OZAR SAIKHEDA ROAD TQ NIPHAD DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "OZAR MIG",
+            "district": "NASHIK",
+            "ifsc": "MAHG0005709",
+            "office": "OZAR MIG",
+            "phone": "25435154",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 404
+    },
+    {
+        "fields": {
+            "address": "GUT NO 295 4 PLOT NO 5 SHREE GANESH SANKUL NASIK AURANGABAD HIGHWAY AT MADSANGVI TQ DIST NASIK",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MADSANGVI",
+            "district": "NASHIK",
+            "ifsc": "MAHG0005710",
+            "office": "MADSANGVI",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 405
+    },
+    {
+        "fields": {
+            "address": "PINGLE PLAZA YESH CYBER CAFE BESIDE IRREGATION COLONY MAKHAMALABAD MHASRUL LINK ROAD MAKHAMALABAD 422003",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MAHG0005711",
+            "office": "MAKHAMALABAD",
+            "phone": "9096305273",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 406
+    },
+    {
+        "fields": {
+            "address": "SAIJYOT CO OP HOUSING SOCIETY SURVEY NO 1018 2 PLOT NO 1 ABHIYANTA NAGAR CIDCO NASIK 422009",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MAHG0005712",
+            "office": "CIDCO NASIK",
+            "phone": "9545692169",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 407
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK BHAGUR BRANCH SURVEY NO 457 BAGDE NIWAS OLD NAGAR PARISHAD ROAD AT BHAGUR TALUKA DIST NASIK 422502",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "BHAGUR",
+            "district": "NASIK",
+            "ifsc": "MAHG0005713",
+            "office": "BHAGUR",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 408
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK EKLEHERE BRANCH SHOP NO 4 5 OM RESIDENCY SAIKHEDA ROAD JAIL ROAD NASIK ROAD EKLEHERE TALUKA DIST NASIK 422101",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "EKLEHERE",
+            "district": "NASIK",
+            "ifsc": "MAHG0005714",
+            "office": "EKLEHERE",
+            "phone": "25344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 409
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK, CHANDSI BRANCH, SHOP NO. 3,4,5 & 6 AARADDHYA PRESIDENCY AT & PO. CHANDSI TALUKA AND DISTRICT NASIK 422003",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "MAHG0005715",
+            "office": "CHANDSI",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 410
+    },
+    {
+        "fields": {
+            "address": "AT DEOPUR DHULE TQ DIST DHULE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DEOPUR DHULE",
+            "district": "DHULE",
+            "ifsc": "MAHG0005801",
+            "office": "DEOPUR DHULE",
+            "phone": "222699",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 411
+    },
+    {
+        "fields": {
+            "address": "AT VARUL TQ DIST DHULE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VARUL",
+            "district": "DHULE",
+            "ifsc": "MAHG0005802",
+            "office": "VARUL",
+            "phone": "271211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 412
+    },
+    {
+        "fields": {
+            "address": "AT SAKARI TQ DIST DHULE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SAKARI",
+            "district": "DHULE",
+            "ifsc": "MAHG0005803",
+            "office": "SAKARI",
+            "phone": "344059",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 413
+    },
+    {
+        "fields": {
+            "address": "MAHARASHTRA GRAMIN BANK, PAROLA ROAD DHULE BRANCH, B SQUARE LATE R R AABA PATIL COMMERTIAL COMPLEX, PAROLA ROAD DHULE TALUKA AND DISTRICT DHULE",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "MAHG0005804",
+            "office": "PAROLA ROAD DHULE",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 414
+    },
+    {
+        "fields": {
+            "address": "AT CHENDHARE ALIBAG TQ DIST RAIGAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "CHENDHARE ALIBAG",
+            "district": "RAIGAD",
+            "ifsc": "MAHG0005901",
+            "office": "CHENDHARE ALIBAG",
+            "phone": "282162",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 415
+    },
+    {
+        "fields": {
+            "address": "AT DAHIVALI TQ DIST RAIGAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "DAHIVALI",
+            "district": "RAIGAD",
+            "ifsc": "MAHG0005902",
+            "office": "DAHIVALI",
+            "phone": "222448",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 416
+    },
+    {
+        "fields": {
+            "address": "AT SUKAPUR TQ DIST RAIGAD",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SUKAPUR",
+            "district": "RAIGAD",
+            "ifsc": "MAHG0005903",
+            "office": "SUKAPUR",
+            "phone": "232032",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 417
+    },
+    {
+        "fields": {
+            "address": "AT NANDURBAR TQ DIST NANDURBAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "NANDURBAR",
+            "district": "NANDURBAR",
+            "ifsc": "MAHG0006000",
+            "office": "NANDURBAR",
+            "phone": "220100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 418
+    },
+    {
+        "fields": {
+            "address": "AT SHANIMANDAL TQ DIST NANDURBAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "SHANIMANDAL",
+            "district": "NANDURBAR",
+            "ifsc": "MAHG0006001",
+            "office": "SHANIMANDAL",
+            "phone": "251333",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 419
+    },
+    {
+        "fields": {
+            "address": "AT MOD TQ DIST NANDURBAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "MOD",
+            "district": "NANDURBAR",
+            "ifsc": "MAHG0006002",
+            "office": "MOD",
+            "phone": "236281",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 420
+    },
+    {
+        "fields": {
+            "address": "AT VADALI TQ DIST NANDURBAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "VADALI",
+            "district": "NANDURBAR",
+            "ifsc": "MAHG0006003",
+            "office": "VADALI",
+            "phone": "255414",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 421
+    },
+    {
+        "fields": {
+            "address": "AT TALODA TQ DIST NANDURBAR",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "TALODA",
+            "district": "NANDURBAR",
+            "ifsc": "MAHG0006004",
+            "office": "TALODA",
+            "phone": "233202",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 422
+    },
+    {
+        "fields": {
+            "address": "AT JEEVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD MAHARASHTRA 431005",
+            "bank_name": "Maharashtra Gramin Bank",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "MAHG0099922",
+            "office": "VIRTUAL BRANCH",
+            "phone": "2476139",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 423
+    }
+]

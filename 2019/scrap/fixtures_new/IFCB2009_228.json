@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "SANCHETI CHAMBERS,OPP.VIJAY TALKIES,LAXMI ROAD,PUNE 411030",
+            "bank_name": "BHAGINI NIVEDITA SAHAKARI BANK LTD PUNE",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "BNSB0000002",
+            "office": "NARAYAN PETH",
+            "phone": "24458632",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 16272
+    }
+]

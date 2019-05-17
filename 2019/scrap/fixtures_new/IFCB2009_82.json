@@ -1,0 +1,872 @@
+[
+    {
+        "fields": {
+            "address": "RAVI COMPLEX, WALIA CROSS ROAD, GIDC , ANKLESHWAR - 393002",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ANKLESHWAR",
+            "district": "BHARUCH",
+            "ifsc": "KCCB0AKL045",
+            "office": "ANKLESHWAR",
+            "phone": "224032",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66513
+    },
+    {
+        "fields": {
+            "address": "106-108,SHIVALIK ARCADE,OPP PRAHLADNAGAR GARDEN,ANANDNAGAR ROAD,AHMEDABAD-380015",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0AND033",
+            "office": "ANANDNAGAR",
+            "phone": "26931172",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66514
+    },
+    {
+        "fields": {
+            "address": "UNIT NO 4 GROUND AND FIRST FLOOR TIMES SQUARE WING-A OPP. MITTAL INDUSTRIAL ESTATE ANDHERI-KURLA ROAD MAROL ANDHERI-E MUMBAI-400059",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "KCCB0AND052",
+            "office": "ANDHERI",
+            "phone": "28510015",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66515
+    },
+    {
+        "fields": {
+            "address": "JAY TOWER, AMUL DAIRY ROAD, ANAND,\u252c\u00e1DIST : ANAND-388001",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "ANAND",
+            "district": "ANAND",
+            "ifsc": "KCCB0ANN022",
+            "office": "ANAND",
+            "phone": "240303",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66516
+    },
+    {
+        "fields": {
+            "address": "KALUPUR BANK BHAVAN NR, INCOME TAX, ASHRAM ROAD, AHMEDABAD- 380014",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0ASR010",
+            "office": "ASHRAM ROAD",
+            "phone": "27582022",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66517
+    },
+    {
+        "fields": {
+            "address": "GOYAL TERACE,NR.JUDGE'S BUNGLOW, BODAKDEV,\u252c\u00e1AHMEDABAD-380054",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0BDK021",
+            "office": "BODAKDEV",
+            "phone": "26859551",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66518
+    },
+    {
+        "fields": {
+            "address": "16,17 AARYAMAN ARCADE,OPP. GAJANAN LIBRARY,TOWER ROAD, BHAGAL,SURAT - 395003",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0BGL043",
+            "office": "BHAGAL",
+            "phone": "2453054",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66519
+    },
+    {
+        "fields": {
+            "address": "79,SHIVALISH SOC, NR.INDUCTROTHERM LTD. BOPAL ROAD, AHMEDABAD-380058",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0BPL018",
+            "office": "BOPAL",
+            "phone": "234590",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66520
+    },
+    {
+        "fields": {
+            "address": "SHYAM SHIKHAR COMPLEX\u252c\u00e1,OPP:DINESH CHEMBERS,\u252c\u00e1INDIA COLONY CHAR RASTA,BAPUNAGAR\u252c\u00e1,AHMEDABAD-380024\u252c\u00e1",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0BPN028",
+            "office": "BAPUNAGAR",
+            "phone": "26462058",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66521
+    },
+    {
+        "fields": {
+            "address": "TIN BATTI, AT : BAREJA, TA : DASKROI,\u252c\u00e1DIST : AHMEDABAD-382425",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BAREJA",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0BRJ004",
+            "office": "BAREJA",
+            "phone": "233917",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66522
+    },
+    {
+        "fields": {
+            "address": "R.A COMPLEX (MUKHINU JIN) STATION ROAD BAZAAR, BAVLA TA:- BAVLA,DIST :AHMEDABAD-382220",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "BAVLA",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0BVL003",
+            "office": "BAVLA",
+            "phone": "232878",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66523
+    },
+    {
+        "fields": {
+            "address": "29,30 SHAYONA CENTER, BLOCK A, MEMCO CROSS ROAD, AHMEDABAD - 380 025",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0CGR048",
+            "office": "MEMCO CROSS ROAD",
+            "phone": "26444112",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66524
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 5/H-4/16,CHHATRAL INDUSTRIAL ESTATE,OPP HDFC BANK,CHHATRAL,TA-KALOL,DIST-GANDHINAGAR-382729",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KALOL",
+            "district": "GANDHINAGAR",
+            "ifsc": "KCCB0CHH056",
+            "office": "CHHATRAL",
+            "phone": "233600",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66525
+    },
+    {
+        "fields": {
+            "address": "KAMDHENU BHAVAN,OPP. T.V.TOWER, DRIVE-IN ROAD, AHMEDABAD-380054",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0DRV017",
+            "office": "DRIVE IN",
+            "phone": "26859486",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66526
+    },
+    {
+        "fields": {
+            "address": "NEAR OLD PANCHYAT OFFICE, GHATLODIYA GAM, AHMEDABAD-380061",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0GHA046",
+            "office": "GHATLODIYA",
+            "phone": "27481547",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66527
+    },
+    {
+        "fields": {
+            "address": "KADI SARVE VIDHLAYAY CAMPUS, GATE NO.1, NEAR GH-6,SECTOR-23,GANDHINAGAR-382023",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "KCCB0GNR038",
+            "office": "GANDHINAGAR",
+            "phone": "23241962",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66528
+    },
+    {
+        "fields": {
+            "address": "2, ASOPALAVNAGAR SOC, NR.RAMWADI BUS-STOP, ISANPUR, AHMEDABAD-382443",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0ISP019",
+            "office": "ISANPUR",
+            "phone": "25330540",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66529
+    },
+    {
+        "fields": {
+            "address": "PANDIT DINDAYAL MARKET, APMC, JETALPUR-BAREJA ROAD,JETALPUR-382426",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "JETALPUR",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0JBR035",
+            "office": "JETALPUR",
+            "phone": "233755",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66530
+    },
+    {
+        "fields": {
+            "address": "1 GROUND FLOOR SACHET-4 BUILDING PRERANA TRITH DERASAR ROAD JODHPUR SATTELLITE AHMEDABAD - 380015",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0JOD051",
+            "office": "JODHPUR",
+            "phone": "26922291",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66531
+    },
+    {
+        "fields": {
+            "address": "B 3-7 MANGALDAS BUILDING NO. 1, SHAMALDAS GANDHI MARG\u252c\u00e1,KALBADEVI,\u252c\u00e1MUMBAI - 400002",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "KCCB0KLB026",
+            "office": "KALBADEVI - MUMBAI",
+            "phone": "22074013",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66532
+    },
+    {
+        "fields": {
+            "address": "415,CHOKHA BAZAR,KALUPUR,\u252c\u00e1AHMEDABAD 380002",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0KLP001",
+            "office": "KALUPUR - CHOKHA BAZAR",
+            "phone": "22139422",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66533
+    },
+    {
+        "fields": {
+            "address": "NIJANANDA,NR. DR.COMPLEX,\u252c\u00e1STATION ROAD, KHAMBHAT\u252c\u00e1, TALUKA: KHAMBHAT, DIST : ANAND-388620",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "KHAMBHAT",
+            "district": "ANAND",
+            "ifsc": "KCCB0KMB027",
+            "office": "KHAMBHAT",
+            "phone": "223644",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66534
+    },
+    {
+        "fields": {
+            "address": "NEW GRAIN MARKET, OPP. ANUPAM CINEMA, KHOKHRA MAHEMDABAD,\u252c\u00e1AHMEDABAD - 380008",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0KMD002",
+            "office": "KHOKHARA",
+            "phone": "22162778",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66535
+    },
+    {
+        "fields": {
+            "address": "PLOT NO - 545,DIVYA MANGAL ARCAD,KATHWADA GIDC,AHMEDABAD - 382430",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0KTW039",
+            "office": "KATHWADA",
+            "phone": "65218442",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66536
+    },
+    {
+        "fields": {
+            "address": "NILGAGAN PLAZA, OPP. POLICE COMMISSIONER'S OFFICE, SHAHIBAUG ROAD, MADHUPURA, AHMEDABAD - 380 004.",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0MDR030",
+            "office": "MADHUPURA",
+            "phone": "25626699",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66537
+    },
+    {
+        "fields": {
+            "address": "1,2,3, VINAYAK COMPLEX, NR. SARASWATI CHAR RASTA, MANJALPUR ROAD, VADODARA-390011",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "KCCB0MJL036",
+            "office": "MANJALPUR - VADODARA",
+            "phone": "2661751",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66538
+    },
+    {
+        "fields": {
+            "address": "39, RADHA VALLABH COLONY NR. DURGA SCHOOL,\u252c\u00e1JAWAHAR CHOWK CHAR RASTA MANINAGAR,\u252c\u00e1AHMEDABAD \u252c\u00fb 380008\u252c\u00e1",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0MNN025",
+            "office": "MANINAGAR",
+            "phone": "25452004",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66539
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR 7,8,9 AASHTHA AVENUE,NEAR BSNL TELE. EXCHANGE,GIDC,NARODA,AHMEDABAD-382330",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0NAR050",
+            "office": "NARODA",
+            "phone": "22812120",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66540
+    },
+    {
+        "fields": {
+            "address": "MADHAV COMPLEX, NEW RANCHHOD NAGAR, OPP.PRIME ARCADE, ANAND MAHAL ROAD, ADAJAN,SURAT-395009",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0NPR044",
+            "office": "ANAND MAHAL ROAD",
+            "phone": "2462848",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66541
+    },
+    {
+        "fields": {
+            "address": "NIRMA INSTITUTE OF TECHNOLOGY,SGHIGHWAY,CHHARODI",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0NRM097",
+            "office": "NIRMA UNIVERSITY",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66542
+    },
+    {
+        "fields": {
+            "address": "NEEL COMPLEX, OPP.VYAS WADI, NAVA WADAJ,\u252c\u00e1AHMEDABAD-380013",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0NVW016",
+            "office": "NAVA WADAJ",
+            "phone": "27646976",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66543
+    },
+    {
+        "fields": {
+            "address": "ANKUR COMMERCIAL CENTRE, NR.ANKUR BUS STAND,NARANPURA, AHMEDABAD-380013",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0PCR011",
+            "office": "PATRAKAR COLONY",
+            "phone": "27433028",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66544
+    },
+    {
+        "fields": {
+            "address": "SUN POINT SHANTISADAN SOC,NR. PARIMAL GARDEN, ELLIS BRIDGE, AHMEDABAD-380006",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0PCV013",
+            "office": "PANCHVATI",
+            "phone": "26444952",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66545
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SWAMINARAYAN COMPLEX,BLOCK NO 83,AMBICA NAGAR SOCIETY,POR-KAYAVAROHAN ROAD,POR-391243",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "KCCB0POR053",
+            "office": "POR",
+            "phone": "2830321",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66546
+    },
+    {
+        "fields": {
+            "address": "240 SHIV NAGAR SOCIETY,G.I.D.C ROAD,PANDESARA,SURAT - 394221",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0PSR041",
+            "office": "PANDESARA",
+            "phone": "2893245",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66547
+    },
+    {
+        "fields": {
+            "address": "GANESH TRADE CENTER,PLOT NO 105,BETWEEN KKV HALL AND INDIRA CIRCLE,150 FEET RING ROAD,RAJKOT-360005",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "KCCB0RJT057",
+            "office": "RAJKOT",
+            "phone": "2578003",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66548
+    },
+    {
+        "fields": {
+            "address": "PARISHRAM COMPLEX.OPP. PARAG HOUSE, RING ROAD,SURAT - 395003",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0RRD042",
+            "office": "RING ROAD",
+            "phone": "2310546",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66549
+    },
+    {
+        "fields": {
+            "address": "KALUPUR BANK BHAVAN NR, INCOME TAX, ASHRAM ROAD, AHMEDABAD- 380014",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0RTGS4C",
+            "office": "RTGS-HO",
+            "phone": "27582020",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66550
+    },
+    {
+        "fields": {
+            "address": "20,21,120,121,ORCHID CENTER,NEAR SOBO CENTER,SOUTH BOPAL,AHMEDABAD",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SBP055",
+            "office": "SOUTHBOPAL",
+            "phone": "29795199",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66551
+    },
+    {
+        "fields": {
+            "address": "SWASTIK CHAR RASTA, NR. SHUSHILABEN RATILAL HALL,C.G.ROAD, NAVRANGPUARA, AHMEDABAD-380009",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SCR023",
+            "office": "SWASTIK",
+            "phone": "26406945",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66552
+    },
+    {
+        "fields": {
+            "address": "7-8-9 MORYA TIME SQUARE,INFRONT OFF R.K. ROYAL HALL,SCIENCECITY ROAD,SOLA,AHMEDABAD-380061",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SCT034",
+            "office": "SCIENCE CITY",
+            "phone": "29299940",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66553
+    },
+    {
+        "fields": {
+            "address": "ROYAL HOUSE 16-B, MAHADEV NAGER SOC. STADIUM ROAD, NAVRANGPURA, AHMEDABAD-380014",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SDR031",
+            "office": "STADIUM ROAD",
+            "phone": "26462058",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66554
+    },
+    {
+        "fields": {
+            "address": "1,2,3 VANDEMATRAM CROSS WIND,OPP. VANEMATRAM ICON, VANDEMATRAM ROAD,GOTA,AHMEDABAD-382481",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SGR058",
+            "office": "NEW S.G.ROAD",
+            "phone": "9712956280",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66555
+    },
+    {
+        "fields": {
+            "address": "1, TIRTHNAGAR CO-OP HOU. SOCIETY, PART - III, OPP. SARVODAYA SOCIETY PART I, BHUYANGDEV CHAR RASTA, SATASHAR ROAD, SOLA ROAD, AHMEDABAD-380061",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SLR012",
+            "office": "SOLA ROAD",
+            "phone": "27433529",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66556
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR, ANNEXE BUILDING, KALUPUR BANK BHAVAN, NEAR INCOME TAX CIRCLE, ASHRAM ROAD, AHMEDABAD - 380014",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SME049",
+            "office": "SME-MID CORPORATE",
+            "phone": "27582020",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66557
+    },
+    {
+        "fields": {
+            "address": "1,VASANT RAJAB SOC, NR. P & T COLONY, SATELLITE ROAD,\u252c\u00e1SATELLITE\u252c\u00e1,AHMEDABAD-380015",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SMR007",
+            "office": "S M ROAD",
+            "phone": "26731182",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66558
+    },
+    {
+        "fields": {
+            "address": "NR.KHARID VECHAN SANGH,NALSAROVAR THREE ROAD, TAL : SANAND.\u252c\u00e1DIST: AHMEDABAD-382110",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SANAND",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SNN005",
+            "office": "SANAND",
+            "phone": "224351",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66559
+    },
+    {
+        "fields": {
+            "address": "AKSHAR ARCADE, GROUND FLOOR, OPP MEMNAGAR FIRE STATION, NAVRANGPURA,\u252c\u00e1AHMEDABAD-380009",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0SXS008",
+            "office": "ST. XAVIERS",
+            "phone": "26462241",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66560
+    },
+    {
+        "fields": {
+            "address": "38-39, AJANTA SHOPPING CENTRE,NEAR KINNARI CINEMA,RING ROAD,SURAT-395002",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0TXM032",
+            "office": "TEXTILE MARKET - SURAT",
+            "phone": "2343442",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66561
+    },
+    {
+        "fields": {
+            "address": "1ST. FLOOR, SURYA PLAZA,NEAR BHATAR SQUARE,SURAT-385007",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0UDN037",
+            "office": "UDHNA - SURAT",
+            "phone": "2234111",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66562
+    },
+    {
+        "fields": {
+            "address": "OPP. UDHNA ACADEMIC SCHOOL,CENTRAL ROAD NO. 14,UDHYOGNAGAR,UDHNA,SURAT-394210",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "KCCB0UDN040",
+            "office": "UDHANA UDHYOGNAGAR",
+            "phone": "2758492",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66563
+    },
+    {
+        "fields": {
+            "address": "KIRTISAGAR COMPLEX, NR. RANCHODJI MANDIR, USMANPURA, AHMEDABAD-380014\u252c\u00e1",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0USM006",
+            "office": "USHMANPURA",
+            "phone": "27561140",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66564
+    },
+    {
+        "fields": {
+            "address": "3-4, AALIN COMPLEX, NEAR GUJARAT VIDHYAPITH, USMANPURA, AHMEDABAD-380014",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0USM047",
+            "office": "USMANPURA NEW",
+            "phone": "27541415",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66565
+    },
+    {
+        "fields": {
+            "address": "54,PUNITNAGAR SOC, OPP.VCCINE INSUTITUTE, OLD PADRA ROAD, VADODARA-390015",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "KCCB0VDD024",
+            "office": "OLD PADRA - VADODARA",
+            "phone": "2354367",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66566
+    },
+    {
+        "fields": {
+            "address": "NR. RATNASAGAR FLAT,KESARIYAJI CHAR RASTA, JIVRAJ MEHTA HOSPITAL ROAD, VASNA, AHMEDABAD-380007",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0VSN020",
+            "office": "VASNA",
+            "phone": "26611279",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66567
+    },
+    {
+        "fields": {
+            "address": "HIMALAYA ARCADE, NR. VASTRAPUR LAKE, VASTRAPUR, AHMEDABAD-380015",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0VSR015",
+            "office": "VASTRAPUR",
+            "phone": "26750673",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66568
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1110, GIDC, PHASE-3 F-ROAD,NR.ABAD BAKERY, VATVA, AHMEDABAD - 382445",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "KCCB0VTV009",
+            "office": "VATWA",
+            "phone": "25831067",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66569
+    },
+    {
+        "fields": {
+            "address": "1-2,GIRIRAJ BAUG SOCIETY,NEAR PRABHAT BUS STATION,WAGHODIYA ROAD,VADODARA-390019",
+            "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "KCCB0WRB054",
+            "office": "WAGHODIYA ROAD",
+            "phone": "2522900",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 66570
+    }
+]

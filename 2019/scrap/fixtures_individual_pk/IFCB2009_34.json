@@ -1,0 +1,452 @@
+[
+    {
+        "fields": {
+            "address": "NO  25  BARAKHAMBA ROAD  NEW DELHI 110 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "HSBC0110002",
+            "office": "MAIN BRANCH  NEW DELHI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "F 43  SOUTH EXTENSIONI  NEW DELHI 110 049",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "HSBC0110004",
+            "office": "SOUTH EXTENSION",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "JMD REGENT SQUARE  GURGAON MEHRAULI ROAD  DLF PHAS II  GURGAON 122 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "HSBC0110005",
+            "office": "GURGAON",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "R 47  GREATER KAILASH I  NEW DELHI 110 048",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "HSBC0110006",
+            "office": "GREATER KAILASH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "K 14 18  SECTOR 18  GAUTAM BUDH NAGAR  NOIDA 201 301",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BODDA NAGAR",
+            "ifsc": "HSBC0110007",
+            "office": "NOIDA  U P",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SCO 1  SECTOR 9 D  CHANDIGARH 160 017",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HSBC0160002",
+            "office": "CHANDIGARH",
+            "phone": "0",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "FORT,MUMBAI.",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC01INDIA",
+            "office": "FORT",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "61 A  VASANTI BUILDING  SARDAR PATEL MARG  C  SCHEME  JAIPUR 302 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "HSBC0302002",
+            "office": "JAIPUR",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "MARDIA PLAZA C G ROAD  AHMEDABAD 380 006",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "HSBC0380002",
+            "office": "AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "52 BY 60,M.G.ROAD,MUMBAI 400 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "HSBC03INDIA",
+            "office": "PAYMENTS DIVISION",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "52/60, M.G. ROAD, MUMBAI 400001, MAHARASHTRA",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "HSBC0400001",
+            "office": "TREASURY",
+            "phone": "61743100",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "52 BY 60  M G  ROAD  MUMBAI 400 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400002",
+            "office": "MAIN BRANCH  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "KAMALA BHAVAN  SWAMI NITYANAND MARG  ANDHERI  EASTMUMBAI 400 069",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400003",
+            "office": "ANDHERI  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "HSBC CENTRE  DR AMBEDKAR ROAD  BANDRA  WESTMUMBAI 400 050",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400004",
+            "office": "BANDRA  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SIDDHARTH ARCADE  L T ROADFACTORY LANE JUNCTION  BORIVLI  WESTMUMBAI 400 092",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400005",
+            "office": "BORIVALI  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "MERCANTILE APARTMENTS  DR CHOITRAM GIDWANI ROAD  CHEMBUR  MUMBAI 400 074",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400006",
+            "office": "CHEMBUR  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "ASHA MAHAL  46 B  DR G DESHMUKH MARG  MUMBAI 400 026",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400007",
+            "office": "PEDDAR ROAD  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SAROJ  B7  KAPOLE SOCIETY  V L MEHTA ROAD  JUHU  MUMBAI 400 049",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400008",
+            "office": "JUHU  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "E 2 BY 3 BY 4  MANISH GARDEN  GROUND FLOOR  J P ROAD  ANDHERI  WMUMBAI 400 053",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400010",
+            "office": "LOKHANDWALA  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "PRUDENTIAL HOUSE  GROUND FLOOR  HIRANANDANI BUSINESS PARK  POWAI  MUMBAI 400 076",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER MUMBAI",
+            "ifsc": "HSBC0400012",
+            "office": "POWAI  MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "AMAR AVINASH CORPORATE CITY  SECTOR NO  11  BUND GARDEN ROAD  PUNE 411 011",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "HSBC0411002",
+            "office": "PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "UMA PLAZARAJAGOPAL TOWERS  ROAD NO 1  NAGARJUNA HILLS  HYDERABAD  500 082",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD URBAN",
+            "ifsc": "HSBC0500002",
+            "office": "HYDERABAD",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "NO  7  MAHATMA GANDHI ROAD  BANGALORE 560 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "HSBC0560002",
+            "office": "MAIN BRANCH  BANGALORE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "SURAJ GANGA ARCADE  332 BY 7  14TH CROSS  II BLOCK  JAYANAGAR  BANGALORE 560 011",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "HSBC0560003",
+            "office": "JAYANAGAR  BANGALORE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "96  DR RADHAKRISHNAN SALAI  MYLAPORE  CHENNAI 600 004",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "HSBC0600002",
+            "office": "MAIN BRANCH  CHENNAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "SRIVARI GOKUL TOWERS  108  RACE COURSE ROAD  COIMBATORE 641 018",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBOTORE",
+            "ifsc": "HSBC0641002",
+            "office": "COIMBATORE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "39 BY 6765  HARBOUR VIEW RESIDENCY  OPPOSITE SHIPYARD  M G ROAD  KOCHI  682 015",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "KOCHI",
+            "district": "ERNAKULAM",
+            "ifsc": "HSBC0682002",
+            "office": "KOCHI",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "31 BBD BAGH  DALHOUSIE SQUARE  KOLKATA 700 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "HSBC0700004",
+            "office": "MAIN BRANCH  KOLKATA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "NO  2 BY 1  EKDALIA ROAD  KOLKATA 700 019",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "HSBC0700005",
+            "office": "GARIAHAT  KOLKATA",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "52/60, M G ROAD, FORT, MUMBAI 400 001",
+            "bank_name": "HSBC BANK",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "HSBC0RTGSMI",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "fields": {
+            "address": "HAKIKAT NAGAR, SAHARANPUR - 247001",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001000",
+            "office": "HEAD OFFICE",
+            "phone": "2726125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108593
+    },
+    {
+        "fields": {
+            "address": "13 BY 1207,ANSARI ROAD,SAHARANPUR 247001 UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001001",
+            "office": "ANSARI ROAD",
+            "phone": "2612381",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108594
+    },
+    {
+        "fields": {
+            "address": "RAMBAGH ROAD,GANGOH 247341 DISTT.SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GANGOH",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001002",
+            "office": "GANGOH",
+            "phone": "234437",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108595
+    },
+    {
+        "fields": {
+            "address": "BHAGAT SINGH COLONY, NEAR OLD SALES TAX OFFICE,HAKIKAT NAGAR,SAHARANPUR 247001 UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001003",
+            "office": "HAKIKAT NAGAR",
+            "phone": "2726125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108596
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 780, SUBHASH CHOWK, RAILWAY ROAD, DEOBAND, DISTRICT SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DEOBAND",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001004",
+            "office": "DEOBAND",
+            "phone": "222808",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108597
+    },
+    {
+        "fields": {
+            "address": "H. NO. 688 BY 15,NEAR BUS STAND,MAIN ROAD, AMBEHTA, DISTRICT SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "AMBEHTA",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001005",
+            "office": "AMBEHTA",
+            "phone": "225311",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108598
+    },
+    {
+        "fields": {
+            "address": "3B 4,WARD NO.8 BY 22,OPP.DHARESHWAR MANDIR,MANDI SAMITI ROAD,DHAR 454001 MP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "SMCB0001006",
+            "office": "DHAR",
+            "phone": "222413",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108599
+    },
+    {
+        "fields": {
+            "address": "BHOJA MARKET,NEAR VINAYAK HOSPITAL,SECTOR 27,NOIDA 201301 UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDH NAGAR",
+            "ifsc": "SMCB0001007",
+            "office": "NOIDA SECTOR TWENTY SEVEN",
+            "phone": "2555333",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108600
+    },
+    {
+        "fields": {
+            "address": "C 2 BY 6, NAYI SADAK, SASHTRI NAGAR, MEERUT, DISTRICT MEERUT UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MEERUT",
+            "district": "MEERUT",
+            "ifsc": "SMCB0001008",
+            "office": "MEERUT",
+            "phone": "2604364",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108601
+    },
+    {
+        "fields": {
+            "address": "8 BY 3805 AND 8 BY 3805 BY 1, DARRA KOTTALA, GYAN GARDEN COLONY, CHILKANA ROAD, SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001009",
+            "office": "CHILKANA ROAD",
+            "phone": "2650021",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108602
+    },
+    {
+        "fields": {
+            "address": "100, JAORA COMPOUND, BHAGWATI PALACE, INDORE MP 452001",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "SMCB0001010",
+            "office": "INDORE",
+            "phone": "2704268",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108603
+    },
+    {
+        "fields": {
+            "address": "SAHARANPUR MUZAFFARNAGAR G. T. ROAD, NAGAL 247551, DISTRICT SAHARANPUR",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NAGAL",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001011",
+            "office": "NAGAL",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108604
+    },
+    {
+        "fields": {
+            "address": "51AND53, AMBALA ROAD, SARSAWA, DISTRICT SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARSAWA",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001012",
+            "office": "SARSAWA",
+            "phone": "246125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108605
+    },
+    {
+        "fields": {
+            "address": "NANAUTA DEOBAND ROAD, NANAUTA, DISTRICT SAHARANPUR",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NANAUTA",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001013",
+            "office": "NANAUTA",
+            "phone": "9927986125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108606
+    },
+    {
+        "fields": {
+            "address": "MAHAJANAN, RAMPUR MANIHARAN, DISTRICT SAHARANPUR",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "RAMPUR MANIHARAN",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001014",
+            "office": "RAMPUR MANIHARAN",
+            "phone": "9927007125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108607
+    },
+    {
+        "fields": {
+            "address": "SACHIN COMPLEX, 507 BHATIA MORE, G.T.ROAD, GHAZIABAD UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "SMCB0001015",
+            "office": "GHAZIABAD G T RD",
+            "phone": "8750037000",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108608
+    },
+    {
+        "fields": {
+            "address": "68, UPPER GROUND FLOOR, WA, SECTOR 135, NOIDA, DISTRICT GAUTAM BUDHNAGAR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDH NAGAR",
+            "ifsc": "SMCB0001016",
+            "office": "NOIDA SECTOR ONE THITYFIVE",
+            "phone": "9990106135",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108609
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 1 BY 1245, WAK MOHALA, KHALASI LINE, SHARDA NAGAR, SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001017",
+            "office": "SHARDA NAGAR",
+            "phone": "8477006125",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108610
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 311, SOUTH BHOPA ROAD, NAI MANDI, MUZAFFARNAGAR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MUZAFFER NAGAR",
+            "district": "MUZAFFAR NAGAR",
+            "ifsc": "SMCB0001018",
+            "office": "MUZAFFAR NAGAR",
+            "phone": "9837400037",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108611
+    },
+    {
+        "fields": {
+            "address": "RAISON SHOPPING COMPLEX, PLOT NO.3, MALL ROAD, AHINSA KHAND II, INDIRAPURAM, GHAZIABAD UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "SMCB0001019",
+            "office": "INDIRAPURAM GBD",
+            "phone": "9760020091",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108612
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 08, MOH GANESH PURI, NEAR GHANTA GHAR, G. T. ROAD, KHATAULI, DISTRICT MUZAFFARNAGAR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KHATAULI",
+            "district": "MUZAFFAR NAGAR",
+            "ifsc": "SMCB0001020",
+            "office": "KHATAULI",
+            "phone": "9568925000",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108613
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 6 BY 6276, NEW MADHO NAGAR, SAHARANPUR UP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SAHARANPUR",
+            "district": "SAHARANPUR",
+            "ifsc": "SMCB0001021",
+            "office": "MADHO NAGAR",
+            "phone": "9837060380",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108614
+    },
+    {
+        "fields": {
+            "address": "73, JAWAHAR NAGAR, KHARGONE, MP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "KHARGONE",
+            "district": "KHARGONE",
+            "ifsc": "SMCB0001022",
+            "office": "KHARGONE",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108615
+    },
+    {
+        "fields": {
+            "address": "565-KA/68, AMRUDHI BAGH, SRINGARNAGAR, ALAMBAGH, LUCKNOW",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "SMCB0001023",
+            "office": "ALAMBAGH",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108616
+    },
+    {
+        "fields": {
+            "address": "M/S ASHA ROOP APARTMENT, 1/135, VIKAS NAGAR, LUCKNOW",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "SMCB0001024",
+            "office": "VIKAS NAGAR",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108617
+    },
+    {
+        "fields": {
+            "address": "W-29/73(1), OPP. COLLECTOR GANJ, RAILWAY ROAD, HAPUR",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "HAPUR",
+            "district": "HAPUR",
+            "ifsc": "SMCB0001025",
+            "office": "HAPUR",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108618
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 99/2, V.V. INTERNAL COLLEGE ROAD, SHAMLI \u0013 247776",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SHAMLI",
+            "district": "SHAMLI",
+            "ifsc": "SMCB0001026",
+            "office": "SHAMLI",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108619
+    },
+    {
+        "fields": {
+            "address": "SDA 08 A, SEC-45,NOIDA, GAUTAM BUDH NAGAR, PIN-201303",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDH NAGAR",
+            "ifsc": "SMCB0001027",
+            "office": "NOIDA SECTOR FORTY FIVE",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108620
+    },
+    {
+        "fields": {
+            "address": "2422-2423, HASTINAPUR ROAD, MAWANA, MEERUT-250401",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "MAWANA",
+            "district": "MEERUT",
+            "ifsc": "SMCB0001028",
+            "office": "MAWANA",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108621
+    },
+    {
+        "fields": {
+            "address": "8, TARANI COLONY, A.B. ROAD, DEWAS (MP)- 455001",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "DEWAS",
+            "district": "DEWAS",
+            "ifsc": "SMCB0001029",
+            "office": "DEWAS",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108622
+    },
+    {
+        "fields": {
+            "address": "64, VARUCHI MARG, FREEGANJ, UJJAIN, MP",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "UJJAIN",
+            "district": "UJJAIN",
+            "ifsc": "SMCB0001030",
+            "office": "UJJAIN",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108623
+    },
+    {
+        "fields": {
+            "address": "567-569,CHAUDHARY MARKET,NEAR UNION BANK OF INDIA,BINOLI ROAD,SARDHANA,DISTT MEERUT(UP)-250342",
+            "bank_name": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD",
+            "branch": "",
+            "city": "SARDHANA",
+            "district": "MEERUT",
+            "ifsc": "SMCB0001031",
+            "office": "SARDHANA",
+            "phone": "237015",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 108624
+    }
+]

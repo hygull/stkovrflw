@@ -1,0 +1,3422 @@
+[
+    {
+        "fields": {
+            "address": "HEPZIBAH COMPLEX, SECOND FLOOR NO X/101/M4, MANNUTHY P.O, THRISSUR , KERALA 680651",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANNUTHY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0000001",
+            "office": "RTGS-HO",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "PMO OFFICE, SREE BHADRA COMPLEX, MANNUTHY P O, THRISSUR - 680651",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANNUTHY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001101",
+            "office": "HO MIGRATION",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "V/140/(2) GROUND FLOOR, JSR SQUARE BUILDING, KALATHODE, OLLUKKARA, THRISSUR DISTRICT. PIN 680655",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KALATHODE",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001102",
+            "office": "KALATHODE",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "38/211 A, GRACE TOWER, NEAR EDAPPALLY BYE PASS JUNCTION, EDAPPALLY, ERNAKULAM DISTRICT. PIN 682204",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "EDAPALLY",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001103",
+            "office": "EDAPALLY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "XIV/579, GROUND FLOOR, SAFA TOWER, NEAR SAI MEDICAL CENTRE, PAYYALORE, KOLLENGODE, PALAKKAD DITRICT PIN 678506",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLLENGODE",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001104",
+            "office": "KOLLENGODE",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "THE MELHOR BUILDING,GOUND FLOOR, ROOM NO 372, A1, NEAR RTO OFFICE ,CHETHIMATTOM, PALA, KOTTAYAM PIN 686575",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALA",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001105",
+            "office": "PALA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,NEAR MMUP SCHOOL,VALKULAMBU,KORENCHIRA PO,KIZHEKKENCHERY,PALAKKAD PIN 678684",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VALKULAMBU",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001106",
+            "office": "VALKULAMBU",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "34KP1/1110 CSI SHOPPING COMPLEX,NEAR EMPLOYMENT EXCHANGE,PALLIKAVALA KATTAPANA,IDUKKI DISTRICT.PIN 685508",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KATTAPANA",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001107",
+            "office": "KATTAPANA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "6/140 A, GROUND FLOOR, GRAND ARCADE, NEAR CHRISTIAN COLLEGE, KANNUR ROAD, NADAKKUV, KOZHIKODE DISTRICT PIN 673011",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOZHIKODE",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001108",
+            "office": "KOZHIKODE",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "ROOM NO A3/3163/15,GROUND FLOOR , OPP VGUARD STOCKIST , NH CHANDRA NAGAR, PALAKKAD PIN 678007",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001109",
+            "office": "PALAKKAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "14/32/6 METRO TOWER,GROUND FLOOR,JUBILEE JUNCTION,NEAR METRO,REGENCY,PATTAMBI ROAD,PERINTHALMANNA PIN 679322",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PERINTHALMANNA",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001110",
+            "office": "PERINTHALMANNA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "20/1170 A, NEAR JACOBITE CHURCH, KOTTAYAM ROAD, PERUMBAVOOR, PIN 683542",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PERUMBAVOOR",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001111",
+            "office": "PERUMBAVOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "1132, 1ST FLOOR, VALIYAPARAMBIL COMPLEX, NH-49, ADIMALY, IDUKKI DISTRICT, PIN 685561",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ADIMALY",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001112",
+            "office": "ADIMALY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "XV/ 1053,XV/ 1054,GF,TRICHUR TOWER,NEAR ALATUR COURT,COURT ROAD,ALATHUR,PALAKKAD 678541",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALATHUR",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001113",
+            "office": "ALATHUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "26/76,E,F GROUND FLOOR,PEARL TOWER,NEAR SIGNAL JUNCTION,VELLOORKUNNAM,MUVATTUPUZHA PIN 686661",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUVATTUPUZHA",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001114",
+            "office": "MUVATTUPUZHA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "XXVI 185/1, PULIMATTATHU BUILDING, RAMANCHIRA, MUTHOOR P.O MC ROAD, THIRUVALLA, PIN 689107",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVALLA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001115",
+            "office": "THIRUVALLA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "NO VIII/165/2 GROUND FLOOR, CHIRAYIL BUILDING, ATTINGAL - AVANVANCHERRY (PART), AVANAVANCHERRY P O ATTINGAL THIRUVANANTHAPURAM DISTRICT PIN 695101",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AVANAVANCHERY",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001116",
+            "office": "AVANAVANCHERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "SY NO 583.NEAR IOC PETROL PUMP,NH 17,EDAMUTTOM,THRISSUR 680568",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "EDAMUTTAM",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001117",
+            "office": "EDAMUTTAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "NO 197, 198, 199, 200, GROUND FLOOR, EDISON COMPEX, NORTH PARAVUR ROAD, KODUNGALLUR, THRISSUR DISTRICT PIN 680664",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KODUNGALLUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001118",
+            "office": "KODUNGALLUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "IV/651, 652, 649, GROUND FLOOR, SANTHI PARK APPARTMENTS, MADURAI KOCHI ROAD, KOLENCHERRY JUNCTION, ERNAKULAM DISTRICT PIN 682311",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLENCHERY",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001119",
+            "office": "KOLENCHERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 338/5/6,GF,RAHATH ANNEX,KUTTIPURAM ROAD,VALANCHERY,MALAPPURAM 676552",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VALANCHERY",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001120",
+            "office": "VALANCHERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MERCHERRY PLAZA, NEAR NORTH BUS STAND, CHALAKUDY, THRISSUR DISTRICT PIN 680307",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHALAKUDY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001121",
+            "office": "CHALAKUDY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "NEW NO 20/237,GROUND FLOOR,TROJAN TOWERS,OPP ST THOMAS CATHEDRAL,CHANDAMUKHU JUNCTION,IRINJALAKUDA,THRISSUR DISTRICT.PIN 680121",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "IRINJALAKUDA",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001122",
+            "office": "IRINJALAKUDA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "10/89, 10/90, 10/91, GROUND FLOOR , U M K TOWER, JUBILEE ROAD, BYPASS-UPHILL, MALAPPURAM PIN- 676505",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MALAPPURAM",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001123",
+            "office": "MALAPPURAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "RAGAM,DOOR NO 10106,MARADU,ERNAKULAM 682304",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MARADU",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001124",
+            "office": "MARADU",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "NO 4/313 GROUND FLOOR, KUMALI MUNNAR ROAD, SANTHANPARA, POOPARA, IDUKKI DTISTRICT 685619",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "POOPARA",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001125",
+            "office": "POOPARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "WARD NO 2/368, MM TOWERS, ALUVA MUNNAR BYPASS, MALAYINKEEZHU JUNCTION, KOTHAMANGALAM, ERNAKULAM DISTRICT PIN 686691",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTHAMANGALAM",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001126",
+            "office": "KOTHAMANGALAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "13/832,SURVEY NO SV-104/1,MAS BUILDING,EDARIKODE,THIRURANGADI,MALAPPURAM 676501",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTAKKAL",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001127",
+            "office": "KOTTAKKAL",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "1/829 A/829/829C, GROUND FLOOR, K V COMPLEX, MUKKAM, KOZHIKODE DISTRIT PIN 673602",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUKKAM",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001128",
+            "office": "MUKKAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "VITHAYAHIL SQUARE,SY NO 245/2 B.NEAR KMK JUNCTION,PARAVUR-CHERAI ROAD,PARAVUR,ERNAKULAM 683513",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NORTH PARAVOOR",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001129",
+            "office": "NORTH PARAVOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "309/1-3-1, THADATHIL BUILDING, VENNIKULAM , PURAMATTOM,PATHANAMTHITTA DISTRICT PIN 689544",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VENNIKULAM",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001130",
+            "office": "VENNIKULAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "RESURVEY NO 462/1/3/2,462/2/2/2,462/1/2/1,GF A AND S TOWERS,KALLUMTHAZHUM JN,KOLLAM -691 004",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLLAM",
+            "district": "KOLLAM",
+            "ifsc": "ESMF0001131",
+            "office": "KOLLAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "ADITHYA COMMERICAL ARCADE,GROUND AND FIRST FLOOR, NO XVI/118B, 118H, MC ROAD, KOTTAYAM KOTTAYAM DISTRICT PIN 686001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTAYAM",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001132",
+            "office": "KOTTAYAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "VII/613-620, GROUND FLOOR, KAT SWAMY COMPLEX, NEAR AR KALYANAMANDAPAM , POLLACHI ROAD, KOZHINJAMPAR, PALAKKAD DISTRICT PIN 678555",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOZHINJAMPARA",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001133",
+            "office": "KOZHINJAMPARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "XVII/434, GROUND FLOOR, ASCO TOWER, PALAKKAD ROAD, OTTAPALAM, PIN 679101",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "OTTAPALAM",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001134",
+            "office": "OTTAPALAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "6/657, KOPAN COMMERCIAL CENTRE, PALAKKAD MAIN ROAD, PATTAMBI, PALAKKAD DISTRICT PIN 679306",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATTAMBI",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001135",
+            "office": "PATTAMBI",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "NO XV 381 GROUND FLOOR,KANNANUR JUNCTION,KANNADI",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001136",
+            "office": "KUZHALMANNAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "16 441,16 442 GROUND FLOOR,GLASCO TOWER,CHANGARAMKULAM MAIN ROAD,MALAPPURAM DISTRICT,PIN 679574",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PONNANI",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001137",
+            "office": "CHANGARAMKULAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "ROOM NO 292,GROUND FLOOR,ST ANTONYS SHOPPING COMPLEX,CHENGALAM PAIGA ROAD,KOTTAYAM DISTRICT.PIN 686585",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHENGALAM EAST",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001138",
+            "office": "CHENGALAM EAST",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "101/2,GROUND FLOOR,NEAR MOSQUE,KALLAPURAM ROAD,ELAYAMUTHUR,TRIUPPUR DISTRICT,TAMILNADU.PIN 642154",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ELAYAMUTHUR",
+            "district": "TIRUPPUR",
+            "ifsc": "ESMF0001139",
+            "office": "ELAYAMUTHUR",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "NO.189/1B,GROUND FLOOR,DHARMAPURI KOTTUR MAIN ROAD,POOMALAIKUNDU,DHARMAPURI.THENI DISTRICT,TAMILNADU,PIN 625520",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "POOMALAIKUNDA",
+            "district": "THENI",
+            "ifsc": "ESMF0001140",
+            "office": "POOMALAIKUNDU",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 24 P,NEAR GOVT SCHOOL,THALASSERY DESAMANGALAM ROAD,THALASSERY,THRISSUR DISTRICT,PIN 679532",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WADAKKANCHERY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001141",
+            "office": "THALASSERY TCR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "MARVALLIL,DRKOSHY BUILDING,TC 29 4013 1,GROUND FLOOR NEAR BAKERY FLYOVER,THYCAUD PO PANAVILA THIRUVANANTHAPURAM,PIN 695014",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001142",
+            "office": "THIRUVANANTHAPURAM BAKERY JN",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "KURUTHUKULAM ARCADE,KANJIRAMATTAM BYPASS RD,OPP KSRTC BUS STAND,THODUPUZHA 685584",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THODUPUZHA",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001143",
+            "office": "THODUPUZHA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "NO 5/328 AND 328A,GROUND FLOOR,NEAR RATION SHOP,THUNERI,OOTY,NILGIRI DISTRICT,TAMIL NADU PIN 643002",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THUNERI",
+            "district": "NILGIRIS",
+            "ifsc": "ESMF0001144",
+            "office": "THUNERI",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "222 5,PUTHIYAKUNNEL BUILDINGS,NEAR ST STEPHENS CHURCH,UZHAVOOR,KOTTAYAM DISTRICT,PIN 686634",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UZHAVOOR",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001145",
+            "office": "UZHAVOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "NO 466 A1,2,3SIVASAKTHI SHOPPING CENTRE,VADAKKUMBHAGOM VILLAGE,THRISSUR DISTRICT,PIN 680731",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUKUNDAPURAM",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001146",
+            "office": "VADAKKUMBHAGOM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "78 NEAR KOVILOOR POST OFFICE,KOVILOOR,KODEKANAL ROAD,VATTAVA,IDUKKI DISTRICT,PIN 685615",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DEVIKULAM",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001147",
+            "office": "VATTAVADA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "address": "UNIT NO15,OPTIONS PRIMO MAROL INDUSTRIAL AREA,MIDC CROSS ROAD,NUMBER 21,NEAR VIJAY NAGAR FLYOVER BRIDGE,ANDHERI EAST,MUMBAI,MAHARASHTRA 400093",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "ESMF0001148",
+            "office": "ANDHERI EAST",
+            "phone": "8046443723",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO239 1,CHERPU THRIPRAYAR ROAD,CHIRAKKAL JN,INCHAMUDI,THRISSUR 680564",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANTHIKKAD",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001149",
+            "office": "INCHAMUDI",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "address": "8 516 A,B,C,D,OPPST JOHNS HS SCHOOL PALAVAYAL PO,KASARGOD 670511",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALAVAYAL",
+            "district": "KASARGOD",
+            "ifsc": "ESMF0001150",
+            "office": "PALAVAYAL",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "address": "SARIGA COMPLEX,415 2P,THAYYUR,THRISSUR 680584",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TALAPILLY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001151",
+            "office": "THAYYUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "address": "7 158 C KINALUR,NEAR EZHUKANDI JUNCTION,THAMARASSERY,KOZHIKODE 673612",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THAMARASSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001152",
+            "office": "KINALUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "address": "SY NO 116 3,SRISHTI BUILDING NEAR POLICE STATION,VAIKOM ROAD,THRIPUNITHARA 682301",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRIPUNITHURA",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001153",
+            "office": "THRIPUNITHURA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 153 16AND148 25 1,NEAR FIRE STATION,M C ROAD,ADOOR,PATHANAMTHITTA 689693",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ADOOR",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001154",
+            "office": "ADOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "address": "PRASAD ARCADE,GROUND FLOOR,SY NO 1610 3P,OPPOSITE CMI DEVAMATHA PROVINCIAL HOUSE,SHORNUR ROAD,PATTURAIKKAL,THRISSUR 680022",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001155",
+            "office": "THRISSUR-PATTURAICKAL",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "address": "SY NO1422 1 ROOM NO25 469 6 13,POOMA COMPLEX,NEAR NADUVILAL JUNCTION,M G ROAD,THRISSUR 680 001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001156",
+            "office": "THRISSUR M G ROAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,DOOR NO 14 349 SURVEY NO 355 4,KAMBILINE JUNCTION,ANAVIRATTY P O,IDUKKI DITRICT PIN 628057",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANAVIRATTY",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001157",
+            "office": "ANAVIRATTY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,8 399 A2 A3,TRADE CENTRE,NEAR HP PETROL PUMP,MYCA JUNCTION,KANJIRAPALLY,KOTTAYAM DISTRICT PIN 686512",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANJIRAPPALLY",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001158",
+            "office": "KANJIRAPPALLY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,TTN 9,794,PRAKANS BUILDING,THAVAKARRA,KANNUR,KANNUR 670002",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANNUR",
+            "district": "KANNUR",
+            "ifsc": "ESMF0001159",
+            "office": "KANNUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 8 553 E,SY NO 203 1P KIRALUR VILLIAGE,THALAPPILLY THALUK,THRISSUR DIST,PIN 680601",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THALAPILLY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001160",
+            "office": "KIRALUR -TCR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 3 239,SV NO 449 9,KOCHUMALAYIL HOUSE,KEEZHANTHOOR,KANTHALOOR P O,IDUKKI DIST,PIN 685620",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANTHALOOR",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001161",
+            "office": "KEEZHANTHUR MARAYUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SY NO 605 3 1,604 2,JOHNS TOWER,NEAR BSNL OFFICE,JB JUNCTION,MC ROAD,KOOTHATTUKULAM,ERNAKULAM DIST,PIN 686662",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOOTHATTUKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001162",
+            "office": "KOOTHATTUKULAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,70 1,71,68 ZAIAIA3 AND 68 2 B,SQUARE MALL,MYSORE ROAD,MANANTHAVADY,WAYANAD DIST PIN 670645",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANANTHAVADI",
+            "district": "WAYANAD",
+            "ifsc": "ESMF0001163",
+            "office": "MANANTHAVADI",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "address": "VETTIKUNNEL ARCADE,NEAR BEST BAKERY,MANARCAD PUTHUPALLY BYPASS ROAD,KOTTAYAM 686019",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANARCAD",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001164",
+            "office": "MANARCAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,16 811 822,V K BUILDING,MANJERI NILAMBUR ROAD,MANJERI,MALAPPURAM DISTRICT PIN 676121",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANJERI",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001165",
+            "office": "MANJERI",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "address": "New Stylo Complex, Near Police Station, Kasaragod",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "Kasaragod",
+            "district": "Kasaragod",
+            "ifsc": "ESMF0001166",
+            "office": "Kasaragod",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "address": "83 A,GROUND FLOOR,SK TOWER,NEAR MUNICIPAL BUS STAND,NILAMBUR,MALAPPURAM DISTRICT PIN 679329",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NILAMBUR",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001167",
+            "office": "NILAMBUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,18 763 2,AHAMED SQUARE,NEAR KSRTC STAND,KSRTC LINK ROAD,DPO JUNCTION,PALAKKAD,PIN 678007",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PALAKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001168",
+            "office": "PALAKKAD - TOWN",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,ROOM NO 10 330 C D E,KPM BUILDING,NEAR POZHUTHANA TOWN BUS STOP,VYTHIRI 6TH MILE ROAD,WAYANAD DIST PIN 673 575",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VYTHIRI",
+            "district": "WAYANAD",
+            "ifsc": "ESMF0001169",
+            "office": "POZHUTHANA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,G 32,GASIDAS PLAZA,AMAPARA CHAWK,GE ROAD RAIPUR,CHHATTISGARH 492001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "ESMF0001170",
+            "office": "RAIPUR",
+            "phone": "8046443723",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,TC 82 1779,VIGNESH TOWER,OPP HOLY ANGELS SCHOOL,CONVENT ROAD,VANCHIYOOR,THIRUVANANTHAPURAM PIN 695035",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVANANTHAPURAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001171",
+            "office": "THIRUVANATHAPURAM- VANCHIYOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "address": "GOLDEN HOUSE,820,8TH BLOCK,GANAPATI TEMPLE ROAD KORAMANGLA,BANGALORE",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBEN",
+            "ifsc": "ESMF0001172",
+            "office": "KORAMANGALA",
+            "phone": "8046443723",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO PLOT NO R 03 BLOCK C 5,GROUND FLOOR,KAROL BAGH,NEW ROHTAK ROAD,NORTH DELHI,DELHI",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "CENTRAL DELHI",
+            "ifsc": "ESMF0001173",
+            "office": "KAROLBAGH",
+            "phone": "8046443723",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "address": "GROUNDFLOOR,NIDHIRY BAZAR,NEAR PANCHAYATH OFFICE,KURUVILANGAD CENTRAL JN,MC ROAD,KURUVILANGADU,KOTTAYAM.",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTAYAM",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001174",
+            "office": "KURUVILANGAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "address": "THANNIMOOTTIL BUILDING,GROUND FLOOR,NEAR SC UP SCHOOL,PAZHAVANGADI,PUNALUR MUVATTUPUZHA ROAD,RANNI,PATHANAMTHITTA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001175",
+            "office": "RANNI",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "address": "14 474GROUND FLOOR,SUNDER VIHAR,PASCHIM VIHAR,NORTH DELHI",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NORTH DELHI",
+            "district": "WEST DELHI",
+            "ifsc": "ESMF0001176",
+            "office": "PASCHIM VIHAR",
+            "phone": "8046443723",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "address": "NO11 35,WARD NO 13,PLOT NO72 76,NEAR TEEN BAZAR CHOWK,BHAGALPUR ROAD,DUMKA,JHARKHAND",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DUMKA",
+            "district": "DUMKA",
+            "ifsc": "ESMF0001177",
+            "office": "DUMKA",
+            "phone": "8046443723",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,NADAR BUILDING NO 1371,TRICHY ROAD,COIMBATORE",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001178",
+            "office": "COIMBATORE",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "address": "NO15,BLOCK AND POCKET F 26,SECTOR 7,ROHINI,DELHI",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NORTH WEST DELHI",
+            "ifsc": "ESMF0001179",
+            "office": "NEW DELHI -ROHINI",
+            "phone": "8046443723",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "address": "NO L110ANDL111,GROUND FLOOR,NEAR RING ROAD,LAJPAT NAGAR11,NEW DELHI",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH DELHI",
+            "ifsc": "ESMF0001180",
+            "office": "LAJPAT NAGAR",
+            "phone": "8046443723",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,POCUDYIL BUILDING,32 2496,A,BNEAR SL PLAZA,PALARIVATTOM,KOCHIN",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOCHIN",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001181",
+            "office": "PALARIVATTOM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,CHIRAYIL ARCADE,ETTUMANOOR,KOTTAYAM",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTAYAM",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001182",
+            "office": "ETTUMANOOR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,ST MARYS TOWER,SA ROAD,ELAMKULAM,ERNAKULAM 682020",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001183",
+            "office": "ELAMKULAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR AND FIRST FLOOR,KIZHAKEETHIL BUILDING,NEAR GOVERMENT SCHOOL,PAZHU",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THISSUR",
+            "ifsc": "ESMF0001184",
+            "office": "CHEMMANTHATTA",
+            "phone": "8046443723",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "address": "SVY NO. 54 12,54 13,RABEEH TOWER,PILAKKAD JN,THALI ROAD,THRISSUR 680585",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THISSUR",
+            "ifsc": "ESMF0001185",
+            "office": "PILAKKAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "address": "15 139 A,SWEETY BUILDING,LAIKKAD BUS STOP,PERUNNA,CHANGANASSERY 686102",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTAYAM",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001186",
+            "office": "CHANGANASSERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,VATTASSERIL PLAZA,THEATRE JUNCTION,MALLAPPALLY-THIRUVALLA ROAD,PATHANAMTHITTA-689585",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MALLAPALLY",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001187",
+            "office": "MALLAPALLY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "address": "KUZHIYIL GEEVS ARCADE,SV NO P-168,12-3,POLICE STATION ROAD,OPPOSITE MARKET,PATHANAMTHITTA,PIN689645",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATHANAMTHITTA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001188",
+            "office": "PATHANAMTHITTA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "address": "JT TRADE CENTRE,NEAR X RAY JUNCTION,TSC ROAD,ALLEPPY CHERTHALA ROAD,ALLEPPY688524",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALAPPUZHA",
+            "district": "ALAPPUZHA",
+            "ifsc": "ESMF0001189",
+            "office": "CHERTHALA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "address": "PVP-13,144,145,147,SYNO-1,4,B,KOTTAYEN,ARAVANCHAL BUS STOP,PAYYANUR RAJAGIRI ROAD,PERINTHATTA,THALIPARAMBA,KANNUR-670353",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THALIPARAMBA",
+            "district": "KANNUR",
+            "ifsc": "ESMF0001190",
+            "office": "PERUMTHATTA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "address": "KRISHAN,SY NO 494,48,1290 SQFT,NEAR BHAJANA MADAM,SH 27,CHITTUR-KOZHINJAMPARA ROAD.THATHAMANGALAM,PIN-678102",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THATHAMANGALAM",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001191",
+            "office": "THATHAMANGALAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "address": "THOPPIL BUILDINGS, GROUND FLOOR, 6/160, CHERIANKOLLY KUPPADITHARA ROAD, CHERIANKOLLY, KUPPADITHARA, WAYANAD 670645",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KUPPADITHARA",
+            "district": "WAYANAD",
+            "ifsc": "ESMF0001192",
+            "office": "KUPPADITHARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "address": "RABIYA TOWER,SURVEY NO 79,4,VIRUPAKKA,VAZHANI PO,THRISSUR-680589",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VAZHANI",
+            "district": "THISSUR",
+            "ifsc": "ESMF0001193",
+            "office": "VIRUPAKKA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "address": "DOOR NO-2,3,MANORANJAN APARTMENTS,KADRU MAIN ROAD,RANCHI,JHARKHAND-834002",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RANCHI",
+            "district": "RANCHI",
+            "ifsc": "ESMF0001194",
+            "office": "RANCHI",
+            "phone": "8046443723",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,40-9/1-24,119/1B,3B,OPPOSITE TO PARADISE HOTEL,BENZ CIRCLE,BENZ CIRCLE ROAD,VIJAYAWADA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "KRISHAN",
+            "ifsc": "ESMF0001195",
+            "office": "VIJAYAWADA",
+            "phone": "8046443723",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR 123,3531,4999 JAYDEV VIHAR BANK LINE JAYDEV VIHAR JAYDEV VIHAR ROAD BHUBANESHWAR",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHUBANESHWAR",
+            "district": "KHURDA",
+            "ifsc": "ESMF0001196",
+            "office": "BHUBANESHWAR",
+            "phone": "8046443723",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "address": "KAINAKARI BUILDING GROUND FLOOR AND FIRST FLOOR,15,492D,BL 04,27 GF AND 1329 SQ FEET FIRST FLOOR,NEAR TO POWER HOUSE,SHAVAKOTTAPALAM,ERNAKULAM ALAPUZHA ROAD,ALAPUZHA PIN 688007",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALAPUZHA",
+            "district": "ALAPUZHA",
+            "ifsc": "ESMF0001197",
+            "office": "ALAPUZHA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "address": "BASKAR MEETHAL TOWER,OPP NEW BUS STAND,ALAMIPALLY,KANHANGAD,KASARAGOD 671315",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANHANGAD",
+            "district": "KASARGODE",
+            "ifsc": "ESMF0001198",
+            "office": "KANHANGAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "address": "977,D,OPP YATHEEM KHANA,VALIAPALLY P O,VADAKARA,KOZHIKODE DIST 673542",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VADAKARA",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001199",
+            "office": "VADAKARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 100
+    },
+    {
+        "fields": {
+            "address": "GREEN GARDEN BUILDINGS,PUTHIYIDAM,KAYAMKULAM 676505,ALAPUZHA DISTRICT",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KAYAMKULAM",
+            "district": "ALAPUZHA",
+            "ifsc": "ESMF0001200",
+            "office": "KAYAMKULAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 101
+    },
+    {
+        "fields": {
+            "address": "NEDIYODATH BUILDING,THRIKKANDIYOOR,NEAR GOVT HOSPITAL,TIRUR 676101,MALAPPURMA DISTRICT",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "TIRUR",
+            "district": "MALAPPURMA",
+            "ifsc": "ESMF0001201",
+            "office": "TIRUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 102
+    },
+    {
+        "fields": {
+            "address": "10,111 BHASKARA TOWERS,NEAR SARASWATHY SCHOOL,ARAPPURA JN,VATTIYOORKAVU,TRIVANDRUM 695013",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VATTIYOORKAVU",
+            "district": "TRIVANDRM",
+            "ifsc": "ESMF0001202",
+            "office": "VATTIYOORKAVU",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 103
+    },
+    {
+        "fields": {
+            "address": "VISMA PALM,OVUNGAL PALLY,CHAVAKAD,THRISSUR DISTRICT PIN 680506",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHAVAKKAD",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001203",
+            "office": "CHAVAKKAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 104
+    },
+    {
+        "fields": {
+            "address": "PKH COMPLEX,HOSPITAL JN,MANARKKAD,PALAKKAD 678582",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANNARKKAD",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001204",
+            "office": "MANNARKKAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 105
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BL 2,552 21T,B JUNCTION,MANJAPRA ROAD,ANGAMALY",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANGAMALY",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001205",
+            "office": "ANGAMALY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 106
+    },
+    {
+        "fields": {
+            "address": "PADINJATTATHIL COMPLEX,GOVINTHA MANGALAM ROAD,PULAMON JN,KOTTARAKKARA 691531",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOTTARAKKARA",
+            "district": "KOLLAM",
+            "ifsc": "ESMF0001206",
+            "office": "KOTTARAKKARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 107
+    },
+    {
+        "fields": {
+            "address": "ACEL PARK JUNCTION GROUND FLOOR,15 1002,303 2 NEAR MUTTUMON BUS STOP,MUTTUMON JUNCTION T K ROAD THIRUVALLA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVALLA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001207",
+            "office": "KUMBANAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 108
+    },
+    {
+        "fields": {
+            "address": "GEO COMMERCIAL COMPLEX GROUND FLOOR,VI 62,63,BL 55 17 MITCHEL JUNCTION,HARIPAD CHENGANNUR ROAD,MAVELIKARA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAVELIKARA",
+            "district": "ALAPPUZHA",
+            "ifsc": "ESMF0001208",
+            "office": "MAVELIKARA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 109
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 12,681,12,MANDRAMBILLY BUILDING,NEAR LAKSHMI HOSPITAL,SUB JAIL ROAD,ALUVA 683101 DIST ERNAKULAM",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALUVA",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001209",
+            "office": "ALUVA",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 110
+    },
+    {
+        "fields": {
+            "address": "MANNARKUDY BUILDING,GROUND FLOOR,NEAR PRIVATE BUS STAND,VADAKKANCHERY 678683",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VADAKKANCHERRY",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001210",
+            "office": "VADAKKANCHERRY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 111
+    },
+    {
+        "fields": {
+            "address": "ESAF TOWER,PATTIKKAD,THRISSUR 680652",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PATTIKADU",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001211",
+            "office": "PATTIKADU",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 112
+    },
+    {
+        "fields": {
+            "address": "UA TOWER,NEAR RAILWAY GATE,WADAKKANCHERY,PIN 680589",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001212",
+            "office": "WADAKKANCHERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 113
+    },
+    {
+        "fields": {
+            "address": "MOHANA COMPLEX GROUND FLOOR,430 1B,OPPOSITE TO BHARAT PETROLIUM PUMP,ANNUR AVINASHI ROAD,KANJAPALLY",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANJAPPALLY",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001213",
+            "office": "KANJAPPALLY",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 114
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,336 1D,OPPOSITE TO J V COMPLEX,POLLACHI KOVAI MAINROAD,KINATTUKADAVU",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KINATTUKADAVU",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001214",
+            "office": "VADAPUDUR",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 115
+    },
+    {
+        "fields": {
+            "address": "NO 6,266,OPP MARIAMMAN KOVIL,KARAVALUR ROAD,PONNAIGANDANPUDUR BUS STOP,MASAGOUNDANCHETTIPALAYAM VILLAGE,COIMBATORE DISTRICT,TAMILNADU PIN 641107",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001215",
+            "office": "MASAGOUNDEN CHETTIPALAYAM",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 116
+    },
+    {
+        "fields": {
+            "address": "GLOBAL CENTRE,MANNUTHY JN,MANNUTHY,THRISSUR 680651",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANNUTHY",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001216",
+            "office": "MANNUTHY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 117
+    },
+    {
+        "fields": {
+            "address": "RAFA COMPLEX GROUND FLOOR KP,IV,199 C D E F OPPOSITE TO IOC OUTLET KAZHAKOOTTAM,PIN695582",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KAZHAKKOOTTAM",
+            "district": "THIRUVANATHAPURAM",
+            "ifsc": "ESMF0001217",
+            "office": "KAZHAKKOOTTAM- THIRUVANANTHAPURAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 118
+    },
+    {
+        "fields": {
+            "address": "NO267,33,RITE CHOICE APARTMENTS,VELACHERY MAIN ROAD,VELACHERY,CHENNAI600042",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VELACHERY",
+            "district": "CHENNAI",
+            "ifsc": "ESMF0001218",
+            "office": "CHENNAI-VELACHERY",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 119
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SV NO273,RE SV NO273,6NAIDU HALL,NEAR DAV HIGH SCHOOL PANNEER NAGAR MOGAPPAIR EAST MOGAPPAIR VILLAGE,AMBATTUR TALUK,CHENNAI 600053",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MOGAPPAIR EAST",
+            "district": "CHENNAI",
+            "ifsc": "ESMF0001219",
+            "office": "CHENNAI-MOGAPPAIR EAST",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 120
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,484 ASHOKA ROAD,MYSORE,KARNATAKA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "ESMF0001220",
+            "office": "MYSORE",
+            "phone": "8046443723",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 121
+    },
+    {
+        "fields": {
+            "address": "SRIVARI KIKANI CENTER,GROUND FLOOR,WD22,2,4,CHINTHAMANI JN,KRISHNASWAMI ROAD,COIMBATORE641002",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001221",
+            "office": "R.S.PURAM",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 122
+    },
+    {
+        "fields": {
+            "address": "SV NO372,7,2,THOTTAPPUZHASSERI VILLAGE,THIRUVALLA TALUK,PATHANAMTHITTA DIST,KERALA689549",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVALLA",
+            "district": "PATHANAMTHITTA",
+            "ifsc": "ESMF0001222",
+            "office": "KOZHENCHERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 123
+    },
+    {
+        "fields": {
+            "address": "MJRK TOWER,GROUND FLOOR PREMICES NO 8,RE SURVEY NO740,1,OLD SV NO285 PART DOC NO2852 OF PURASAWALKAM SRO OPPOSITE GANGADESWARA KOIL PURASAWALKAM GANGADESWARA KOIL STREET CHENNAI CORPORATION600084",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PURASAIWALKAM",
+            "district": "CHENNAI",
+            "ifsc": "ESMF0001223",
+            "office": "CHENNAI-PURASAWALKAM",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 124
+    },
+    {
+        "fields": {
+            "address": "PIRAVOM TOWER,GROUND FLOOR,5,212 E,NEAR OLD PETROL PUMP JN,PIRAVOM MUVATTUPUZHA ROAD,PIRAVOM ERNAKULAMDIST686664",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PIRAVOM",
+            "district": "ERNAKULAM",
+            "ifsc": "ESMF0001224",
+            "office": "PIRAVOM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 125
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR S 163,9,2 PUKKULAM BUS STOP JN PARAVUR PART PARAVUR CHATHANNUR ROAD PARAVUR PARTKOLLAM PIN691301",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PARAVOOR",
+            "district": "KOLLAM",
+            "ifsc": "ESMF0001225",
+            "office": "PARAVOOR PART",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 126
+    },
+    {
+        "fields": {
+            "address": "NO37,9,DANIEL TOWER,M C ROAD,MANNANTHALA,MANNANTHALA P O,THIRUVANATHAPURAM695015",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANNANTHALA",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001226",
+            "office": "MANNANTHALA- THIRUVANANTHAPURAM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 127
+    },
+    {
+        "fields": {
+            "address": "PLOT NO43,MISAL LAYOUT,PATANKAR CHOWK,NAGPUR440017MAHARASHTRA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "ESMF0001227",
+            "office": "NAGPUR",
+            "phone": "8046443723",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 128
+    },
+    {
+        "fields": {
+            "address": "G9 TOWER GROUND FLOOR A4 A5 OPPOSITE TO AURA MALL GULMOHAR MAHAKALI GIRINIRMAD SEHKARI SAMITI MARYADIT BHOPAL PIN462001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "ESMF0001228",
+            "office": "BHOPAL",
+            "phone": "8046443723",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 129
+    },
+    {
+        "fields": {
+            "address": "MOIDEEN BUILDINGS,NEAR SANTHI CLINIC,KETTUNGAL JUNCTION,IRIMBRANALLUR,POST KUNDALIYUR,THRISSUR 680616",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "IRIMBRANALLUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001229",
+            "office": "IRIMBRANALLUR",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 130
+    },
+    {
+        "fields": {
+            "address": "DOOR NO21 22,GLORIA ARCADE,NEAR R K JUNCTION,N H 66,HARIPAD,ALAPUZHA DISTRICT PINCODE 690514",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HARIPAD",
+            "district": "Alapuzha",
+            "ifsc": "ESMF0001230",
+            "office": "HARIPAD",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 131
+    },
+    {
+        "fields": {
+            "address": "PPS COMPLEX,452,PERIYAKULAM ROAD,UNJAMPATTY VILLAGE,THENI DISTRICT,TAMILNADU,PIN 625531",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "UNJAMPATTY",
+            "district": "THENI",
+            "ifsc": "ESMF0001231",
+            "office": "UNJAMPATTY",
+            "phone": "8046443723",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 132
+    },
+    {
+        "fields": {
+            "address": "MEMORIAL BUILDINGS,SY NO 1 42AIB,KODOM VILLAGE,VELLARIKUNDU TALUK,KASARGOD",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KASARGODE",
+            "district": "KASARGOD",
+            "ifsc": "ESMF0001232",
+            "office": "KODOM",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 133
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 10 31C,D,CHITILAPPALLY TOWERS,OLD MARKET JUNCTION,CHALAKKAL",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001233",
+            "office": "CHALAKKAL",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 134
+    },
+    {
+        "fields": {
+            "address": "MARATTE TOWER, NEAR PRIVATE BUS STAND,PLACE ROAD",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHANGANASSERY",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001234",
+            "office": "CHANGANASSERY",
+            "phone": "8046443723",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 135
+    },
+    {
+        "fields": {
+            "address": "DOOR NO2 104,NAGULAGOUNDANPATTY VILLAGE AND P O MOTTANUTHU,THENI DISCTRICT,TAMIL NADU,625512",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THENI",
+            "district": "THENI",
+            "ifsc": "ESMF0001235",
+            "office": "MOTTANUTHU",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 136
+    },
+    {
+        "fields": {
+            "address": "SY NO44 1,CHEEMENI VILLAGE,KALICHAMARAM JUNCTION,KASARGOD DISTRICT,670314",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KASARGODE",
+            "district": "KASARGOD",
+            "ifsc": "ESMF0001236",
+            "office": "CHEEMENI II",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 137
+    },
+    {
+        "fields": {
+            "address": "EB 237,KACHAN PLACE,OPP BOMBAY HOSPITAL,94 SCHEME,BOMBAY HOSPITAL ROAD,INDORE,MADHYA PRADESH 452010",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "ESMF0001237",
+            "office": "INDORE",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 138
+    },
+    {
+        "fields": {
+            "address": "NO 9,10,19,SAMRUDDHI CENTER,NEAR CHANDAN NAGAR SQUARE,KHARADI,PUNE NAGAR ROAD,PUNE,MAHARASHTRA,411014",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "ESMF0001238",
+            "office": "PUNE",
+            "phone": "8589026181",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 139
+    },
+    {
+        "fields": {
+            "address": "NO 34,BAGATI HOUSE,GANESH CHANDRA AVENUE,KOLKATA,PIN700013",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "ESMF0001240",
+            "office": "KOLKATA G C AVENUE",
+            "phone": "8589026181",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 140
+    },
+    {
+        "fields": {
+            "address": "PREMA PERUMAL TRINITY COMMERCIAL COMPLEX,NEAR KEERTHANA THEATRE,SALEM JUNCTION,SALEM,TAMIL NADU 636005",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "ESMF0001241",
+            "office": "SALEM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 141
+    },
+    {
+        "fields": {
+            "address": "NO 271A,ELITE MANOR BUILDING,NEAR GEETANJALI METRO STN,GARIA RATHTALA,N S ROAD,KOLKATA,PIN700047",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "ESMF0001242",
+            "office": "KOLKATA GARIA RATHTALLA",
+            "phone": "8589026181",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 142
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,VELMURUGAN COMPLEX,NEAR DINA THANTHI OFFICE,NACHIAPPA STREET,ERODE,TAMIL NADU 638001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ERODE",
+            "district": "ERODE",
+            "ifsc": "ESMF0001244",
+            "office": "ERODE",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 143
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHANTI PALZA,NEAR MAA AMBEY HOSPITAL,POWER HOUSE,G E ROAD,BHILAI,DURG,CHHATTISGARH 490011",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHILAI",
+            "district": "BHILAI,DURG",
+            "ifsc": "ESMF0001245",
+            "office": "BHILAI",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 144
+    },
+    {
+        "fields": {
+            "address": "YOGITA SADAN,GROUND FLOOR,PLOT NO 3,SECTOR 26 A,TURBHE ROAD,VASHI,NAVI MUMBAI-400705",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI VASHI",
+            "district": "MUMBAI",
+            "ifsc": "ESMF0001247",
+            "office": "MUMBAI VASHI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 145
+    },
+    {
+        "fields": {
+            "address": "643 1 D,RKG MANOR,OPP TRAFFIC POLICE STN,BANGALORE BYPASS ROAD,HOSUR,TAMIL NADU 635109",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HOSUR",
+            "district": "HOSUR",
+            "ifsc": "ESMF0001249",
+            "office": "HOSUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 146
+    },
+    {
+        "fields": {
+            "address": "S R CONCLAVE,NEAR SANGAM CINEMA HALL,MAHATAB ROAD,ARUNODAYA MARKET P.O,CUTTACK,ODISHA753012",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CUTTACK",
+            "district": "CUTTACK",
+            "ifsc": "ESMF0001251",
+            "office": "CUTTACK",
+            "phone": "8589026181",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 147
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 419 A,GROUND FLOOR,4 20,NEAR ANNASILAI JN,ANNASILAI BEACH ROAD,COLACHEL,KANYAKUMARI,TAMIL NADU 629251",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "COLACHEL",
+            "district": "KANYAKUMARI",
+            "ifsc": "ESMF0001253",
+            "office": "COLACHEL",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 148
+    },
+    {
+        "fields": {
+            "address": "NO 354 5A,HENRY ARCADE,VIZHINJAM,THIRUVANANTHAPURAM 695521",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VIZHINJAM",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001254",
+            "office": "VIZHINJAM",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 149
+    },
+    {
+        "fields": {
+            "address": "BHRAMDEO CHAMBERS,SARAIDHELA MAIN ROAD,NEAR OZONE GALLERIA MALL,SARAIDHELA,DHANBAD,JHARKHAND 828127",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHANBAD",
+            "district": "DHANBAD",
+            "ifsc": "ESMF0001255",
+            "office": "DHANBAD",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 150
+    },
+    {
+        "fields": {
+            "address": "BALAJI PLAZA,PLOT NO43 1,43 4,GROUND AND FIRST FLOOR,MOTOR STAND WARD,DHAMTARI,CHATTISGARH 493773",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DHAMTARI",
+            "district": "DHAMTARI",
+            "ifsc": "ESMF0001256",
+            "office": "DHAMTARI",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 151
+    },
+    {
+        "fields": {
+            "address": "KRISHNA PLAZA,NEAR RAILWAY STATION,HALDI,BALOD RAJNANDGAON ROAD,BALOD,CHHATTISGARH 491226",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BALOD",
+            "district": "BALOD",
+            "ifsc": "ESMF0001257",
+            "office": "BALOD",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 152
+    },
+    {
+        "fields": {
+            "address": "PATNI COMMERCIAL COMPLEX,WING B,NO 3,4,5,RISOD ROAD,WASHIM,MAHARASHTRA 444505",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WASHIM",
+            "district": "WASHIM",
+            "ifsc": "ESMF0001258",
+            "office": "WASHIM",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 153
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 908,SURVEY NO 503 2,NEAR BUS STAND,SIRONCHA,GADCHIROLI,MAHARASHTRA 442504",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SIRONCHA",
+            "district": "GADCHIROLI",
+            "ifsc": "ESMF0001260",
+            "office": "SIRONCHA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 154
+    },
+    {
+        "fields": {
+            "address": "METRO SQUARE,NO 28,29,30,PLOT NO X 1,NEAR POLICE STN,BUTIBORI INDUSTRIAL AREA,RENGAPAR,NAGPUR,MAHARASHTRA 441122",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BUTIBORI",
+            "district": "NAGPUR",
+            "ifsc": "ESMF0001262",
+            "office": "BUTIBORI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 155
+    },
+    {
+        "fields": {
+            "address": "GIRIRAJ BHAVAN,PLOT NO 2,AARTI CHOWK,NEAR AARTI TAKIES,NAGPUR ROAD,WARDHA,MAHARASHTRA 442001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WARDHA",
+            "district": "WARDHA",
+            "ifsc": "ESMF0001263",
+            "office": "WARDHA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 156
+    },
+    {
+        "fields": {
+            "address": "MINI BHARAS COMPLEX,KOTTAYI I VILLAGE,PALAKKAD,678572",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOYTTAYI I",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001264",
+            "office": "KOYTTAYI I",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 157
+    },
+    {
+        "fields": {
+            "address": "58 3A,OPP ATSC THEATER,MUNCIPAL BOYS HSS STREET,POLLACHI,COIMBATORE,TAMIL NADU 642001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "POLLACHI",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001266",
+            "office": "POLLACHI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 158
+    },
+    {
+        "fields": {
+            "address": "KANNAN ARCADE,13 872 C D,NEAR SREE KRISHNA SWAMI TEMPLE,ANJAL ROAD,PUNALUR,KOLLAM 691305",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PUNALUR",
+            "district": "KOLLAM",
+            "ifsc": "ESMF0001267",
+            "office": "PUNALUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 159
+    },
+    {
+        "fields": {
+            "address": "4 5,RAJAPPA MUTHALIYAR STREET,NEAR S R LODGE,ANAMALAI,COIMABTORE,TAMIL NADU 642104",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANAMALAI",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001269",
+            "office": "ANAMALAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 160
+    },
+    {
+        "fields": {
+            "address": "IST FLOOR,P S S PLAZA,MUTHALAMADA ROAD,MUTHALAMADA,PALAKKAD 678507",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MUTHALAMADA",
+            "district": "PALAKKAD",
+            "ifsc": "ESMF0001273",
+            "office": "MUTHALAMADA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 161
+    },
+    {
+        "fields": {
+            "address": "GURU SHRADDHA TOWER,KHASRA NO 192 17,193 11,NAHARIKA GANTAGARH ROAD,KORBA,CHHATTISGARH 495677",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KORBA",
+            "district": "KORBA",
+            "ifsc": "ESMF0001274",
+            "office": "KORBA",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 162
+    },
+    {
+        "fields": {
+            "address": "NO 12,WARD NO 47,BUS STAND ROAD,PITHORA,MAHASAMUND,CHATTISGARH 493551",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PITHORA",
+            "district": "MAHASAMUND",
+            "ifsc": "ESMF0001275",
+            "office": "PITHORA",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 163
+    },
+    {
+        "fields": {
+            "address": "RAJPUT TOWER,RAIPUR ROAD,MAHASAMUND,CHATTISGARH 493445",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MAHASAMUND",
+            "district": "MAHASAMUND",
+            "ifsc": "ESMF0001276",
+            "office": "MAHASAMUND",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 164
+    },
+    {
+        "fields": {
+            "address": "SHYAM TOWER,JAGATPUR VILLAGE,DHIMRAPUR,RAIGARH,CHHATTISGARH 496001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAIGARH",
+            "district": "RAIGARH",
+            "ifsc": "ESMF0001278",
+            "office": "RAIGARH",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 165
+    },
+    {
+        "fields": {
+            "address": "KHAN COMPLEX,PLOT NO 34,GROUND FLOOR,OPP JINDAL PETROL PUMP,SAINATH COLONY,NH 6 ROAD,BHANDARA,MAHARASHTRA 441904",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BHANDARA",
+            "district": "BHANDARA",
+            "ifsc": "ESMF0001279",
+            "office": "BHANDARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 166
+    },
+    {
+        "fields": {
+            "address": "SWAPNAPUTRI,PLOT NO 13,14,19,20,NEAR NAGAR PARISHADH,ADILABAD ROAD,GADCHANDUR,CHANDRAPUR DIST,MAHARASHTRA 442908",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "GADCHANDUR",
+            "district": "CHANDRAPUR",
+            "ifsc": "ESMF0001280",
+            "office": "GADCHANDUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 167
+    },
+    {
+        "fields": {
+            "address": "NO 463 15,NEAR KALE HOSPITAL,NH 6 ROAD,NAGBHID,CHANDRAPUR DIST,MAHARASHTRA 442908",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGBHID",
+            "district": "CHANDRAPUR",
+            "ifsc": "ESMF0001281",
+            "office": "NAGBHID",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 168
+    },
+    {
+        "fields": {
+            "address": "NO 21,VINAYAK LAYOUT,TILAK WARD,NEAR RATNAMALA SQUARE,WARORA,CHANDRAPUR DIST,MAHARASHTRA 442907",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WARORA",
+            "district": "CHANDRAPUR",
+            "ifsc": "ESMF0001282",
+            "office": "WARORA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 169
+    },
+    {
+        "fields": {
+            "address": "MUSLIYARANGADI,EDAKKARA P O,MALAPPURAM,KERALA 679331",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "EDAKKARA",
+            "district": "MALAPPURAM",
+            "ifsc": "ESMF0001283",
+            "office": "EDAKKARA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 170
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHAM COMPLEX,OPP RAILWAY STATION,VARKALA,THIRUVANANTHAPURAM 695141",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VARKALA",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001285",
+            "office": "VARKALA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 171
+    },
+    {
+        "fields": {
+            "address": "KANWAR HEIGHTS,KHASRA NI80 14,86 19,KOURIN BHATHA VILLAGE,RAJNANDGAON,CHATTISGARH 491441",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAJNANDGAON",
+            "district": "RAJNANDGAON",
+            "ifsc": "ESMF0001286",
+            "office": "RAJNANDGAON",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 172
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 2 185 4,IST FLOOR,ARANIVILAI,NEAR JAYA HOSPITAL,KULASEKARAM,KANYAKUMARI,TAMIL NADU 629161",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KULASEKARAM",
+            "district": "KANYAKUMARI",
+            "ifsc": "ESMF0001287",
+            "office": "KULASEKARAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 173
+    },
+    {
+        "fields": {
+            "address": "BLDNG NO 932 2 3,NEAR BHAGAT SINGH SQUARE,DONGARGARH,RAJNANDGAON,CHATTISGARH 491445",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "DONAGARGARH",
+            "district": "RAJNANDGAON",
+            "ifsc": "ESMF0001289",
+            "office": "DONAGARGARH",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 174
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR,SRI NANDKISHOR DEVAJI,PISE PLOT NO 50,SHESHNAGAR,BRAHMAPURI,CHANDRAPUR DIST,MAHARASHTRA 441206",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BRAHMAPURI",
+            "district": "BRAHMAPURI",
+            "ifsc": "ESMF0001290",
+            "office": "BRAHMAPURI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 175
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 31,32,9,SY NO 105 2,VENNUR VILLAGE,VENNUR P O,THRISSUR 680587",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001291",
+            "office": "VENNUR",
+            "phone": "8589041612",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 176
+    },
+    {
+        "fields": {
+            "address": "NO.167 D,PAZHAYAMPALLIL BUILDING,KAINAKARY NORTH VILLAGE,KAINAKARY P.O,ALAPPUZHA DIST PIN688501",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ALAPUZHA",
+            "district": "ALAPUZHA",
+            "ifsc": "ESMF0001292",
+            "office": "KAINAKARY NORTH",
+            "phone": "8589944472",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 177
+    },
+    {
+        "fields": {
+            "address": "NO4 1067 72,NELLAMKUZHIYIL BUILDING,NERIAMANGALAM MAIN ROAD,KARIMBAN,IDUKKI,KERALA 685602",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KARIMBAN",
+            "district": "IDUKKI",
+            "ifsc": "ESMF0001293",
+            "office": "KARIMBAN",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 178
+    },
+    {
+        "fields": {
+            "address": "UTKARSHA CITY,WARD NO8,WARASEONI,BALAGHAT,MADHYA PRADESH 481331",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WARASEONI",
+            "district": "BALAGHAT",
+            "ifsc": "ESMF0001294",
+            "office": "WARASEONI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 179
+    },
+    {
+        "fields": {
+            "address": "KRISHNA KUNJI,PLOT NO30 9,LALPUR,BAGBAHARA,MAHASAMUND,CHHATTISGARH 493449",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BAGBAHARA",
+            "district": "MAHASAMUND",
+            "ifsc": "ESMF0001297",
+            "office": "BAGBAHARA",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 180
+    },
+    {
+        "fields": {
+            "address": "CHANNA CLASSES,AMBEDKAR CHOWK,TEHSIL ROAD,RAMTEK,MAHARASHTRA 441106",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAMTEK",
+            "district": "RAMTEK",
+            "ifsc": "ESMF0001298",
+            "office": "RAMTEK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 181
+    },
+    {
+        "fields": {
+            "address": "NO 357,GROUND FLOOR,SHRIRAOWADI,APPROACH ROAD,WARUD,AMRAVATI 444906",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "WARUD",
+            "district": "WARUD",
+            "ifsc": "ESMF0001299",
+            "office": "WARUD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 182
+    },
+    {
+        "fields": {
+            "address": "MATHARAKAL COMPLEX,PARASUVAIKKAL,KALIAKKAVILAI THIRUVANANTHAPURAM ROAD,PARASSALA,THIRUVANANTHAPURAM 695508",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PARASSALA",
+            "district": "THIRUVANANTHAPURAM",
+            "ifsc": "ESMF0001300",
+            "office": "PARASSALA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 183
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,DOWN TOWN COMPLEX,BALUSSERY KOILANDI S H ROAD,BALUSSERY,KOZHIKODE,KERALA 673612",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BALUSSERY",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001301",
+            "office": "BALUSSERY",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 184
+    },
+    {
+        "fields": {
+            "address": "NO 70 22,70 21,VELAKANNI BUS STOP,OPP IYAPPAN KOVIL KARAMADAI ROAD,MATTUPALAYAM,COIMBATORE,TAMIL NADU 641601",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "METTUPALAYAM",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001308",
+            "office": "METTUPALAYAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 185
+    },
+    {
+        "fields": {
+            "address": "NO 14 5,GANDHINAGAR,BATLAGUNDU,NILAKOTAI TK,DINDIGUL,TAMIL NADU 624202",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BATLAGUNDU",
+            "district": "DINDIGUL",
+            "ifsc": "ESMF0001310",
+            "office": "BATLAGUNDU",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 186
+    },
+    {
+        "fields": {
+            "address": "SY NO 123 812,THINOOR VILLAGE,KUMBALALACHOLA JUNCTION,P O VILANGAD,KOZHIKODE 673506",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THINOOR",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001312",
+            "office": "THINOOR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 187
+    },
+    {
+        "fields": {
+            "address": "SY NO 284 17,ELAVAMALAI VILLAGE,NEAR GRACE HSS,BHAWANI KAVUNDAPADI ROAD,ERODE,TAMIL NADU 638316",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ELAVAMALI",
+            "district": "ERODE",
+            "ifsc": "ESMF0001313",
+            "office": "ELAVAMALI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 188
+    },
+    {
+        "fields": {
+            "address": "SYNO 229,NEAR SELLAP PANPALAYAM BUS STOP,COIMBATORE SATHYAMANGALAM ROAD,COIMBATORE,TAMIL NADU 638459",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AMBODI",
+            "district": "OMAOE",
+            "ifsc": "ESMF0001321",
+            "office": "AMBODI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 189
+    },
+    {
+        "fields": {
+            "address": "NO3 2 1,2,R R COMPLEX,NEAR P A M SCHOOL,ARASUR ROAD,VELLANAIPATTI VILLAGE,COIMBATORE,TAMIL NADU 641048",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VELLANAIPATTI",
+            "district": "OMAOE",
+            "ifsc": "ESMF0001323",
+            "office": "VELLANAIPATTI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 190
+    },
+    {
+        "fields": {
+            "address": "MANORAMA COMPLEX,THANA ROAD,BOUNSI,BANKA,BIHAR 813104",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BOUNSI",
+            "district": "BANKA",
+            "ifsc": "ESMF0001343",
+            "office": "BOUNSI",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 191
+    },
+    {
+        "fields": {
+            "address": "P V116,COLLEGE ROAD,NEAR YAMAHA SHOWROOM,PAKHANJORE,KANKER,CHHATTISGARH 494776",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PAKHANJORE",
+            "district": "KANKER",
+            "ifsc": "ESMF0001344",
+            "office": "PAKHANJORE",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 192
+    },
+    {
+        "fields": {
+            "address": "SHRI KESHRI NANDAN COMPLEX,NEAR DURGA MANDIR,BAGODAR,GIRIDIH,JHARKHAND 825322",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BAGODAR",
+            "district": "GIRIDIH",
+            "ifsc": "ESMF0001345",
+            "office": "BAGODAR",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 193
+    },
+    {
+        "fields": {
+            "address": "IIND FLOOR,APARNA MARKET COMPLEX,THANAPARA,HATPARA,PAKUR,JHARKHAND 816107",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PAKUR",
+            "district": "PAKUR",
+            "ifsc": "ESMF0001346",
+            "office": "PAKUR",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 194
+    },
+    {
+        "fields": {
+            "address": "ASHA COMPLEX,BUJANGESHWARA EXTENSION SAMPIGE ROAD,NEAR AXIS BANK,CHAMARAJANAGAR,KARNATAKA 571313",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHAMARAJANAGAR",
+            "district": "KARNATAKA",
+            "ifsc": "ESMF0001347",
+            "office": "CHAMARAJANAGAR",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 195
+    },
+    {
+        "fields": {
+            "address": "NO11,1ST FLOOR SHIVAPRA,COMMERCIAL COMPLEX,M C ROAD,NEAR KALLAHALLI CIRCLE,MADYA,KARNATAKA 571401",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MANDYA",
+            "district": "MADYA",
+            "ifsc": "ESMF0001348",
+            "office": "MANDYA",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 196
+    },
+    {
+        "fields": {
+            "address": "KALABAIRAVESHWARA TOWER,WARD NO 34,H N PURA ROAD,CHANNAPATTANA,HASSAN DIST,KARNATAKA 573201",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "HASSAN",
+            "district": "HASSAN",
+            "ifsc": "ESMF0001349",
+            "office": "HASSAN",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 197
+    },
+    {
+        "fields": {
+            "address": "SR TOWER,NEAR LEO HOSPITAL,KALPETTA,WAYANAD DISTRICT,KERALA 673132",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KALPETTA",
+            "district": "WAYANAD",
+            "ifsc": "ESMF0001352",
+            "office": "KALPETTA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 198
+    },
+    {
+        "fields": {
+            "address": "HS HAMEED COMPLEX,OPPOSITE KSRTC BUS STAND,POOVAR P O,THIRUVANATHAPURAM 695525",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "POOVAR",
+            "district": "THIRUVANATHAPURAM",
+            "ifsc": "ESMF0001353",
+            "office": "POOVAR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 199
+    },
+    {
+        "fields": {
+            "address": "ELAMABASSERIL BUILDING,IST FLOOR,VALIYAKAVALA,NORTH GATE,VAIKOM TOWN P O,KOTTAYAM 686141",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "VAIKOM",
+            "district": "KOTTAYAM",
+            "ifsc": "ESMF0001354",
+            "office": "VAIKOM",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 200
+    },
+    {
+        "fields": {
+            "address": "KOOTUNGAL BUILDING,KOTTEMURI,THRIKKUNNAPUZHA,ALAPUZHA,KERALA 688011",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRIKKUNNAPUZHA",
+            "district": "ALAPUZHA",
+            "ifsc": "ESMF0001355",
+            "office": "THRIKKUNNAPUZHA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 201
+    },
+    {
+        "fields": {
+            "address": "KOODLY ARCADE,ALAGAPPA NAGAR,AMBALLUR,THRISSUR 680302",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AMBALLUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001356",
+            "office": "AMBALLUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 202
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR,NELLIKKAVELIL BUILDING,OPP AROOR POST OFFICE,AROOR P O,ALAPUZHA 688534",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "AROOR",
+            "district": "ALAPUZHA",
+            "ifsc": "ESMF0001357",
+            "office": "AROOR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 203
+    },
+    {
+        "fields": {
+            "address": "A A BUILDING,NEAR INDIAN OIL PETROL PUMP,TRIVANDRUM ROAD,KATTAKADA",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KATTAKKADA",
+            "district": "TRIVANDRUM",
+            "ifsc": "ESMF0001358",
+            "office": "KATTAKKADA",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 204
+    },
+    {
+        "fields": {
+            "address": "K SAROJ COMPLEX,RAILWAY STATION ROAD,KOYILANDY,KOZHIKODE,KERALA 673613",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOYILANDI",
+            "district": "KOZHIKODE",
+            "ifsc": "ESMF0001359",
+            "office": "KOYILANDI",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 205
+    },
+    {
+        "fields": {
+            "address": "NEAR MALABAR TVS BIKE SHOWROOM,PERUMBA BYPASS ROAD,PAYYANNUR,KANNUR 670307",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "PAYYANNUR",
+            "district": "KANNUR",
+            "ifsc": "ESMF0001360",
+            "office": "PAYYANNUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 206
+    },
+    {
+        "fields": {
+            "address": "OPP TO CSI CHURCH,MISSION QUARTERS ROAD,THRISSUR 680001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THRISSUR",
+            "district": "THRISSUR",
+            "ifsc": "ESMF0001361",
+            "office": "THRISSUR",
+            "phone": "0",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 207
+    },
+    {
+        "fields": {
+            "address": "IST FLOOR,OPP JILLA SAHAKARI BANK,SABJI MANDI ROAD,NAGOD,SATNA,MADHYA PRADESH 485446",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGOD",
+            "district": "SATNA",
+            "ifsc": "ESMF0001362",
+            "office": "NAGOD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 208
+    },
+    {
+        "fields": {
+            "address": "IST FLOOR,RAMAYAN SADAN,JABALPUR ROAD,LUGHARWADA P O,BHINJHARWADA,SEONI,MADHYA PRADESH 480661",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SEONI",
+            "district": "SEONI",
+            "ifsc": "ESMF0001363",
+            "office": "SEONI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 209
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,WARD NO 18,NEW BUS STAND ROAD,NEAR BADERIYA BHAVAN,SHAHDOL,MADHYA PRADESH 484001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SHAHDOL",
+            "district": "SHAHDO",
+            "ifsc": "ESMF0001364",
+            "office": "SHAHDOL",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 210
+    },
+    {
+        "fields": {
+            "address": "IST FLOOR,UPSTAIRS OF BANK OF INDIA,JABALPUR ROAD,NH7,NEAR MADHAV NAGAR GATE,KATNI,MADHYA PRADESH 483501",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KATNI",
+            "district": "KATNI",
+            "ifsc": "ESMF0001365",
+            "office": "KATNI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 211
+    },
+    {
+        "fields": {
+            "address": "AWASTHI COMPLEX,1ST FLOOR,NEAR CANARA BANK& LIC OFFICE,JH COLLEGE ROAD,BETUL,MADHYA PRADESH 460001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BETUL",
+            "district": "BETUL",
+            "ifsc": "ESMF0001366",
+            "office": "BETUL",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 212
+    },
+    {
+        "fields": {
+            "address": "H N 8 1ST FLOOR,NEAR DR KANIHYA LAL HOSPITAL,MAKRONIYA ROAD,SHANKARGHAR,SAGAR,MADHYA PRADESH,470001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "SAGAR",
+            "district": "SAGAR",
+            "ifsc": "ESMF0001367",
+            "office": "SAGAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 213
+    },
+    {
+        "fields": {
+            "address": "MANUJA COMPLEX,NEAR OLD BUS STAND,MAIN ROAD KURKHEDA,GADCHIROL DIST,MAHARASHTRA 441209",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KURKHEDA",
+            "district": "GADCHIROL",
+            "ifsc": "ESMF0001368",
+            "office": "KURKHEDA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 214
+    },
+    {
+        "fields": {
+            "address": "5 290,DESAI CHETTY STREET,NEAR BSNL OFFICE,KOVALAM,KANCHIPURAM,TAMIL NADU 442603",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KOVALAM",
+            "district": "KANCHIPURAM",
+            "ifsc": "ESMF0001369",
+            "office": "KOVALAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 215
+    },
+    {
+        "fields": {
+            "address": "GUMUEL COMPLEX,NEAR ZP SCHOOL,CHAMORSHI,GADCHIROLI DIST,MAHARASHTRA 442603",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "CHAMORSHI",
+            "district": "ACIOI",
+            "ifsc": "ESMF0001370",
+            "office": "CHAMORSHI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 216
+    },
+    {
+        "fields": {
+            "address": "NO 22,VASANTHNAGAR,DEEPAM COMPLEX,SINGANALLUR,COIMBATORE,TAMIL NADU 641005",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ONDI PUTHUR",
+            "district": "COIMBATORE",
+            "ifsc": "ESMF0001371",
+            "office": "ONDI PUTHUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 217
+    },
+    {
+        "fields": {
+            "address": "SUGUNA COMPLEX,OPP TO POST OFFICE,CHETTIYARPEATTAI,ANDIPATI,THENI,TAMIL NADU 625512",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "ANDIPATTI",
+            "district": "THENI",
+            "ifsc": "ESMF0001372",
+            "office": "ANDIPATTI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 218
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 13 28,IST FLOOR,ARUMUGANADAR COMPLEX,SALAIPUDUR,LEVINJIPURAM POST,TIRUNELVELI,TAMIL NADU 627114",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANYAKUMARI",
+            "district": "TIRUNELVELI",
+            "ifsc": "ESMF0001373",
+            "office": "KANYAKUMARI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 219
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 17 13 B,17 11D,SLAEM COMPLEX,OPPO NALAVAHVU CHURCH,NIHRAVILAI,KANYAKUMARI,TAMIL NADU 629176",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THOOTHUR",
+            "district": "KANYAKUMARI",
+            "ifsc": "ESMF0001374",
+            "office": "THOOTHUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 220
+    },
+    {
+        "fields": {
+            "address": "NO 20 C,KATTUR ROAD,MINJUR,THIRUVALLUR,TAMIL NADU 601203",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "MINJUR",
+            "district": "THIRUVALLUR",
+            "ifsc": "ESMF0001376",
+            "office": "MINJUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 221
+    },
+    {
+        "fields": {
+            "address": "NO 46,2ND FLOOR,ASP COMPLEX,OPPOSITE TO BUS STAND,KANGEYAM,TIRUPPUR,TAMIL NADU 638701",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANGEYAM",
+            "district": "TIRUPPUR",
+            "ifsc": "ESMF0001377",
+            "office": "KANGEYAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 222
+    },
+    {
+        "fields": {
+            "address": "ANGEL COMPLEX,THAKKALAI,METTUKADAI ROAD,PADMANABAPURAM MUNCIPALITY,KALKULAM TALUK,KANYAKUMARI,TAMIL NADU 629175",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THAKKALAI",
+            "district": "KANYAKUMARI",
+            "ifsc": "ESMF0001378",
+            "office": "THAKKALAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 223
+    },
+    {
+        "fields": {
+            "address": "RAVI COMPLEX,JEEVA NAGAR,THEVARAM ROAD,BODINAYAKANUR,THENI,TAMIL NADU 625513",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "BODINAYAKANUR",
+            "district": "THENI",
+            "ifsc": "ESMF0001379",
+            "office": "BODINAYAKANUR",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 224
+    },
+    {
+        "fields": {
+            "address": "NO 330 A,POLUR ROAD SELVA NAGAR,VENGIKAL,THRIVANNAMALAI,TAMIL NADU 606604",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "THIRUVANNAMALAI",
+            "district": "THRIVANNAMALAI",
+            "ifsc": "ESMF0001380",
+            "office": "THIRUVANNAMALAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 225
+    },
+    {
+        "fields": {
+            "address": "NO 15,PSK NAGAR,IST MAIN ROAD,IST FLOOR,SEVILIMEDU VILLAGE AND POST,KANCHIPURAM,TAMIL NADU 631501",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "KANCHIPURAM",
+            "district": "KANCHIPURAM",
+            "ifsc": "ESMF0001381",
+            "office": "KANCHIPURAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 226
+    },
+    {
+        "fields": {
+            "address": "SUBRAMANIYAM COMPLEX 129,MS ROAD,VADASERY JUN,NAGERCOIL,KANYAKUMARI 629001",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "NAGERCOIL",
+            "district": "KANYAKUMARI",
+            "ifsc": "ESMF0001382",
+            "office": "NAGERCOIL",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 227
+    },
+    {
+        "fields": {
+            "address": "MOSKERA HOUSE,NATEJEE ROAD NALHATI,RAMPURHAT,BIRBHUM,WEST BENGAL 731220",
+            "bank_name": "ESAF SMALL FINANCE BANK LIMITED",
+            "branch": "",
+            "city": "RAMPURHAT",
+            "district": "BIRBHUM",
+            "ifsc": "ESMF0001383",
+            "office": "RAMPURHAT",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 228
+    }
+]

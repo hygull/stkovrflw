@@ -1,0 +1,482 @@
+[
+    {
+        "fields": {
+            "address": "B H ROAD,TUMKUR 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000001",
+            "office": "RTGS-HO",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38068
+    },
+    {
+        "fields": {
+            "address": "J.C.ROAD,TUMKUR 572101",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000002",
+            "office": "J C ROAD BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38069
+    },
+    {
+        "fields": {
+            "address": "B.H.ROAD,TUMKUR 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000003",
+            "office": "S S PURAM BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38070
+    },
+    {
+        "fields": {
+            "address": "SIT MAIN ROAD,TUMKUR 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000004",
+            "office": "R N BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38071
+    },
+    {
+        "fields": {
+            "address": "SIRA ROAD,OPP.SBM,TUMKUR 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000005",
+            "office": "SDN BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38072
+    },
+    {
+        "fields": {
+            "address": "MAKAN ROAD,KAMADHENU BUILDING,TIPTUR 572201",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TIPTUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000006",
+            "office": "TIPTUR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38073
+    },
+    {
+        "fields": {
+            "address": "MANJUSHRI COMPLEX,DR.B.R.AMBEDKAR ROAD,SIRA 572137",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SIRA",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000007",
+            "office": "SIRA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38074
+    },
+    {
+        "fields": {
+            "address": "1ST CROSS,APMC YARD,TUMKUR 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0000008",
+            "office": "APMC BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38075
+    },
+    {
+        "fields": {
+            "address": "2ND CROSS,ESI ROAD,4TH BLOCK,RAJAJINAGAR,BENGALURU 560010",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000009",
+            "office": "RAJAJINAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38076
+    },
+    {
+        "fields": {
+            "address": "140,DEVARAJ URS ROAD,DEVRAJ MOHALLA,MYSORE 570001",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "TGMB0000010",
+            "office": "DEVARAJ URS ROAD BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38077
+    },
+    {
+        "fields": {
+            "address": "43,1ST MAIN,3RD BLOCK,3RD STAGE,BASAVESHWARANAGAR,BENGALURU 560079",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000011",
+            "office": "BASAVESHWAR NAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38078
+    },
+    {
+        "fields": {
+            "address": "232 BY 19,PAVITHRA SOUTH AVENUE,9TH MAIN,3RD BLOCK,JAYANAGAR,BENGALURU 560011",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000012",
+            "office": "JAYA NAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38079
+    },
+    {
+        "fields": {
+            "address": "421 BY N,KRISHNA TEMPLE ROAD,1ST STAGE,INDIRANAGAR,BENGALURU 560038",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000013",
+            "office": "INDIRANAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38080
+    },
+    {
+        "fields": {
+            "address": "544,3RD CROSS,3RD MAIN,2ND BLOCK,R.T.NAGAR,BENGALURU 560032",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000014",
+            "office": "R T NAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38081
+    },
+    {
+        "fields": {
+            "address": "SWANTHAL CENTRE,B.D.ROAD,CHITRADURGA 577501",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "CHITRADURGA",
+            "district": "CHITRADURGA",
+            "ifsc": "TGMB0000015",
+            "office": "CHITRADURGA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38082
+    },
+    {
+        "fields": {
+            "address": "MUDRA ARCHADE,MIG 27,KHB COLONY,NRUPATHUNGA ROAD,KUVEMPU NAGAR,MYSORE 570023",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "TGMB0000016",
+            "office": "KUVEMPUNAGAR MYSORE BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38083
+    },
+    {
+        "fields": {
+            "address": "805 AND 806,K G TOWERS B M ROAD,HASSAN 573201",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HASSAN",
+            "district": "HASSAN",
+            "ifsc": "TGMB0000017",
+            "office": "HASSAN BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38084
+    },
+    {
+        "fields": {
+            "address": "NO.671,7TH SECTOR,9TH MAIN,HSR LAYOUT BENGALURU 560102",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000018",
+            "office": "H S R LAYOUT BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38085
+    },
+    {
+        "fields": {
+            "address": "NO.17,KRISHNA GRAND,OUTER RING ROAD,MARATHAHALLI,BENGALURU 560037",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000019",
+            "office": "MARATHAHALLI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38086
+    },
+    {
+        "fields": {
+            "address": "726 BY A,24TH MAIN,J.P NAGAR,6TH PHASE,BANGALORE 560078",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "TGMB0000020",
+            "office": "J P NAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38087
+    },
+    {
+        "fields": {
+            "address": "685,A SECTOR,OPP SESHADRIPURAM P U COLLEGE,YELHANKA NEW TOWN,BANGALORE 560064",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000021",
+            "office": "YELAHANKA BRANCH",
+            "phone": "41499299",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38088
+    },
+    {
+        "fields": {
+            "address": "BHUVANESHWARI NAGAR, T-DASARAHALLI HESARAGHATTA MAIN ROAD, BENGALURU - 560057",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000022",
+            "office": "HESARAGHATTA MAIN ROAD BRANCH",
+            "phone": "32564129",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38089
+    },
+    {
+        "fields": {
+            "address": "NO 24, 6TH MAIN, 1ST STAGE, VIJAYANAGAR, MYSORE - 570017",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MYSORE",
+            "district": "MYSORE",
+            "ifsc": "TGMB0000023",
+            "office": "VIJANAGAR BRANCH",
+            "phone": "4269222",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38090
+    },
+    {
+        "fields": {
+            "address": "2ND CROSS WARD NO 19 ASHOKNAGAR MANDYA 571401",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "MANDYA",
+            "district": "MANDYA",
+            "ifsc": "TGMB0000024",
+            "office": "MANDYA",
+            "phone": "400156",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38091
+    },
+    {
+        "fields": {
+            "address": "NO 33, HMT MAIN ROAD, GOKULA FIRST STAGE, 2ND PHASE, MATHIKERE, BENGALURU - 560054",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000025",
+            "office": "MATHIKERE BRANCH",
+            "phone": "41160699",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38092
+    },
+    {
+        "fields": {
+            "address": "NO.788A, DAMODARAN ROAD, NEAR GANESHA TEMPLE, SAHAKARANAGAR, BENGALURU - 560092",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000026",
+            "office": "SAHAKARANAGAR BRANCH",
+            "phone": "42160022",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38093
+    },
+    {
+        "fields": {
+            "address": "TGMC BANK LTD., NO-1147, JAWAHARLALNEHRU ROAD, 3RD STAGE, BEML LAYOUT, WARD NO 160, RAJARAJESHWARINAGAR, BENGALURU-98",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "TGMB0000027",
+            "office": "RAJARAJESHWARI NAGAR",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38094
+    },
+    {
+        "fields": {
+            "address": "NO.1, ARKIS ARCADE, TILAK NAGAR MAIN ROAD, SHIVAMOGGA - 577201.",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "SHIVAMOGGA",
+            "district": "SHIVAMOGGA",
+            "ifsc": "TGMB0000028",
+            "office": "SHIVAMOGGA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38095
+    },
+    {
+        "fields": {
+            "address": "TGMC BANK LTD, WARD NO 109, CHICKPET MAIN ROAD, CHICKPET.",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "TGMB0000029",
+            "office": "BVK IYENGER ROAD",
+            "phone": "41134253",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38096
+    },
+    {
+        "fields": {
+            "address": "TGMC BANK LTD.,NO.2219/1842/1617/1210A, K R ROAD, WARD NO.4, HOSKOTE TOWN, BANGALORE RURAL - 562114",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "HOSKOTE",
+            "district": "BANGALORE RURL",
+            "ifsc": "TGMB0000030",
+            "office": "HOSKOTE BRANCH",
+            "phone": "29716668",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38097
+    },
+    {
+        "fields": {
+            "address": "TGMC BANK LTD., NO.403, BANASAWADI, WARD NO.27, SAI KRUPA, GROUND FLOOR, 5TH A MAIN, HRBR LAYOUT, 2ND BLOCK, KALYANA NAGAR, BANGALORE-560043",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "TGMB0000031",
+            "office": "HRBR LAYOUT BRANCH",
+            "phone": "43758795",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38098
+    },
+    {
+        "fields": {
+            "address": "B H ROAD, TUMKUR - 572103",
+            "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+            "branch": "",
+            "city": "TUMKUR",
+            "district": "TUMKUR",
+            "ifsc": "TGMB0099933",
+            "office": "MOBILE BANKING DIVISION-HEAD OFFICE",
+            "phone": "4021102",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 38099
+    }
+]

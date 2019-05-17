@@ -1,0 +1,617 @@
+[
+    {
+        "fields": {
+            "address": "SEVA, 117/119, NAVI PETH, JALGAON-425 001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000001",
+            "office": "RTGS-HO",
+            "phone": "2232175",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "MADHAV KUNJ,99,POLAN PETH, CTS.NO.1948 A, JALGAON \u252c\u00fb 425 001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000002",
+            "office": "DANA BAJAR",
+            "phone": "2236402",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "KRISHI UTPANNA BAZAR SAMITI, AJINTHA ROAD, JALGAON \u252c\u00fb 425003",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000003",
+            "office": "MARKET YARD  JALGAON",
+            "phone": "2210943",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "KESHAV KRIPA,CTS NO.2117/3, NAVI PETH, JALGAON \u252c\u00fb 425 001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000004",
+            "office": "STATION ROAD",
+            "phone": "2236521",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "BALWANT,GAT NO.432+492/1+568, NEAR OMKARESHWAR MANDIR, 50,JAY NAGAR, JALGAON \u252c\u00fb 425002",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000005",
+            "office": "OMKARESHWAR",
+            "phone": "2238138",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "CTS.NO.1461A, SHRI.DATTABARI BHAVAN,MAHARANAPRATAP CHOUK,NEAR SWASTIK CINEMA,, DHULE \u252c\u00fb 424 001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "JJSB0000006",
+            "office": "DHULE",
+            "phone": "232974",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD, OLD AGRA HIGHWAY, CTS NO.4493,GF+BASEMENT, DEOPUR, DHULE \u252c\u00fb 424 001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "DHULE",
+            "district": "DHULE",
+            "ifsc": "JJSB0000007",
+            "office": "DEOPUR",
+            "phone": "225693",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "INDIRA GANDHI CHOWK, MAIN ROAD,CTS NO.1860, SAVADA, TALUKA \u252c\u00fb RAVER, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 425502",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SAVADA",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000008",
+            "office": "SAVADA",
+            "phone": "222553",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "GPH NO. \u252c\u00fb 2501 & 2591, CTS NO. \u252c\u00fb 2583 & 2691, \u252c\u00f4SARLABAI MILAPCHAND LALWANI\u252c\u00f6 SHOPING COMPLEX, MAIN ROAD, BODWAD, DIST \u252c\u00fb JALGAON",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BODWAD",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000009",
+            "office": "BODWAD",
+            "phone": "275420",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "KINHIKAR VILLA,HOUSE NO.1/5711/572, VITTHAL MANDIR WARD, NEAR BAZARPETH POLICE STATION, BHUSAWAL, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 425201",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "BHUSAWAL",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000010",
+            "office": "BHUSAWAL",
+            "phone": "222101",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "T.P.NO.60/3/1, OPP.MUNICIPLE SHOPPING COMPLEX, AMALNER, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 425401",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AMALNER",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000011",
+            "office": "AMALNER",
+            "phone": "222990",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.U15-17,18,25,GAYATRI PLAZA,BHADGAON ROAD, NEHARU CHOUK SIGNAL POINT, CHALISGAON, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 424101",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHALISGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000012",
+            "office": "CHALISGAON",
+            "phone": "223904",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "GHAR NO.577/A, PARDESHI PURA, NANDURBAR \u252c\u00fb 425412",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NANDURBAR",
+            "district": "NANDURBAR",
+            "ifsc": "JJSB0000013",
+            "office": "NANDURBAR",
+            "phone": "223438",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "13,GANESH COLONY, SEVEN SQUARE ROAD,CTS NO.8021, JALGAON \u252c\u00fb 425 002",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000014",
+            "office": "GANESH COLONY",
+            "phone": "2252038",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "SEVA, 117/119,NAVI PETH, JALGAON \u252c\u00fb 425001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000015",
+            "office": "NAVI PETH",
+            "phone": "2223442",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "OPP. POST OFFICE, MAIN ROAD,CTS NO.2361/64, YAWAL, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 425301",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "YAWAL",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000016",
+            "office": "YAWAL",
+            "phone": "260066",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "BALAJI MARKET, HOUSE NO.2378, JAMNER, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 424206",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JAMNER",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000017",
+            "office": "JAMNER",
+            "phone": "233211",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD,BAZAR LANE, HOUSE NO.369,GROUND FLOOR, KURHA-KAKODA, TALUKA \u252c\u00fb MUKTAI NAGAR, DIST \u252c\u00fb JALGAON, PIN \u252c\u00fb 425306",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KURHA KAKODA",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000018",
+            "office": "KURHA KAKODA",
+            "phone": "232314",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "SHOP NO.3-6, MADHAV COMPLEX,NEAR ADARSHA SCHOOL, OLD AGRA ROAD, OPP CBS, NASIK \u252c\u00fb 422007",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "JJSB0000019",
+            "office": "NASIK",
+            "phone": "2504030",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "PARIJAT SANKUL, SHOP NO. 16 & 17, SUYOG COLONY, GIRNA TANK ROAD, JALGAON \u252c\u00fb 425002",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000020",
+            "office": "VIVEKANAD",
+            "phone": "2240537",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "CTS.NO.1262,SUSHILALBAI PANNALAL PAGARIYA NEAR SUBHASH DARWAJA MAIN ROAD,DHARANGAON-425105",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000021",
+            "office": "DHARANGAON",
+            "phone": "251122",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "OPP.GAVDEVI MANDIR,GOKHALE ROAD, 4,KRISHNAKALA BLDG.,NAUPADA, THANE (WEST) \u252c\u00fb 400602",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "JJSB0000022",
+            "office": "THANE",
+            "phone": "25382918",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "174,GROUD FLOOR, VARDHAMAN CHAMBERS, KAWASJI PATEL STREET, FORT, MUMBAI \u252c\u00fb 400001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "FORT",
+            "district": "FORT",
+            "ifsc": "JJSB0000023",
+            "office": "FORT",
+            "phone": "22851975",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "GULMANDI CHOUK, CTS.NO.5688,DIWAN DEVDI, AURANGABAD \u252c\u00fb 431001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JJSB0000024",
+            "office": "AURANGABAD",
+            "phone": "2346174",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "RAMRAJYA BLDG NO. 6, GROUND FLOOR, SHOP NO. 3, SAMARTH NAGAR, NASIK \u252c\u00fb 422 005",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "JJSB0000025",
+            "office": "BHOSALA MILITARY SCHOOL,NASIK",
+            "phone": "2341325",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "OPP. KELA HINDI HIGHSCHOOL,TULJAI COMPLEX,NANDURA ROAD ,KHAMGAON,TL-KHAMGAON,DIST-BULDHANA",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KHAMGAON",
+            "district": "BULDHANA",
+            "ifsc": "JJSB0000026",
+            "office": "KHAMGAON",
+            "phone": "255948",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "SERVE NO.35, SHRI COMPLEX 4, SHOP NO. 9A,B,11,12, SHOPING PREMISES CO-OPERATIVE SOCIETY LTD. GODREJ HILL ROAD, VILLAGE  GANDHARE, KHADAKPADA, KALYAN WEST  DIST-THANE",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "KALYAN",
+            "district": "KALYAN",
+            "ifsc": "JJSB0000027",
+            "office": "KALYAN",
+            "phone": "2230355",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "542,CHINTAMANI COMPLEX,MAIN ROAD PAROLA, TAL. PAROLA, DIST-JALGAON",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PAROLA",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000028",
+            "office": "PAROLA",
+            "phone": "224488",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "OPP,KHAREDIVIKRI SANGHA, DONDAICHA ROAD,TAL-SHAHADA. DIST-NANDURBAR \u252c\u00fb 425409",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHAHADA",
+            "district": "NANDURBAR",
+            "ifsc": "JJSB0000029",
+            "office": "SHAHADA",
+            "phone": "225699",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "167/A.2/26 PLOT NO..30,CHANDRASHOBHA BUILDING, SUVARNABAG COLONY, WARJE ROAD,KOTHRUD, PUNE-411038",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "JJSB0000030",
+            "office": "PUNE",
+            "phone": "25455382",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "GAT NO.510, DEVICHAND CHORIYA MARKET, SHOP NO,221-224 & 227-230, BURHANPUR ROAD, RAVER -425508",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "RAVER",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000031",
+            "office": "RAVER",
+            "phone": "250271",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.1025, SARVE NO.3120, RAJENDRA PRASAD ROAD, OPP-ARYA SAMAJ SCHOOL JALANA -431203",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALANA",
+            "district": "JALANA",
+            "ifsc": "JJSB0000032",
+            "office": "JALANA",
+            "phone": "233770",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR C T S NO 2378,2379 PATHAK GALLI,MAIN ROAD,CHOPDA",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "CHOPADA",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000033",
+            "office": "CHOPADA",
+            "phone": "222080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "27,GAURAV APPARTMENTS,C T S NO 3365 BY A,SHIVAJI CHOWK,JAMNER ROAD,PACHORA",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PACHORA",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000034",
+            "office": "PACHORA",
+            "phone": "243311",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "C SURVE NO 727,MARWADI GALLI,ERANDOL,DIST JALGAON",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "ERANDOL",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000035",
+            "office": "ERANDOL",
+            "phone": "246146",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1,2 AND 6,PEARL PALLADIUM SOCIETY,SURVEY NO.5/6,RAHATANIGAON,PIMPRI CHINCHWAD,PUNE",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "PIMPRI CHINCHWAD",
+            "district": "PUNE",
+            "ifsc": "JJSB0000036",
+            "office": "PIMPRI CHINCHWAD",
+            "phone": "9823314077",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SHIVSADAN,CTS NO.1602,NEAR ARVIND MEDICAL,NEHARU ROAD,SHIRPUR",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SHIRPUR",
+            "district": "DHULE",
+            "ifsc": "JJSB0000037",
+            "office": "SHIRPUR",
+            "phone": "9823314006",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "GAT NO.10/2,PLOT NO.17,DANDEKAR NAGAR,PIMPRALA ROAD,JALGAON-425001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000038",
+            "office": "PIMPRALA",
+            "phone": "2251177",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 585/2,HOUSE NO 65,SAGAR KUNJ,SANT KANWAR RAM CHOWK,SINDHI COLONY ROAD,JALGAON-425001",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "JJSB0000039",
+            "office": "SINDHI COLONY",
+            "phone": "2226336",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "5/283 TILAK NAGAR,AURANGABAD JALGAON HIGH WAY,SILLOD",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "SILLOD",
+            "district": "AURANGABAD",
+            "ifsc": "JJSB0000040",
+            "office": "SILLOD",
+            "phone": "223965",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "X309,SHOP NO 7/8,GROUND FLOOR,KRISHNA TOWER,BAJAJ NAGAR,MIDC,WALUJ",
+            "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "JJSB0000041",
+            "office": "WALUJ",
+            "phone": "7030925966",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    }
+]

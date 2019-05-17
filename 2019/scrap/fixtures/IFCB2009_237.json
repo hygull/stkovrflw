@@ -12,7 +12,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 145722
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 145723
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 145724
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 145725
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 145726
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 145727
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 145728
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 145729
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 145730
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 145731
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 145732
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 145733
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 145734
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 145735
     },
     {
         "fields": {
@@ -222,6 +222,6 @@
             "state": "HARYANA"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 145736
     }
 ]

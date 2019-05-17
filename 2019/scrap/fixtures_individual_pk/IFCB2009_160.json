@@ -1,0 +1,722 @@
+[
+    {
+        "fields": {
+            "address": "BANK ROAD,POST BOX NO 7, AHMEDNAGAR.414001,MAHARASHTRA",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMEDNAGAR",
+            "district": "AHMEDNAGAR",
+            "ifsc": "NUCB0000002",
+            "office": "AHMEDNAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SANGAMNER",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000101",
+            "office": "SANGAMNER",
+            "phone": "225385",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SHIVAJI CROSS ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SHRIRAMPUR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000102",
+            "office": "SHRIRAMPUR",
+            "phone": "222254",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "VAMBORI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000103",
+            "office": "VAMBORI",
+            "phone": "272522",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SHRIGONDA",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000104",
+            "office": "SHRIGONDA",
+            "phone": "222326",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SHEVGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000105",
+            "office": "SHEVGAON",
+            "phone": "222255",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "BELAPUR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000106",
+            "office": "BELAPUR",
+            "phone": "243421",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PATHARDI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000107",
+            "office": "PATHARDI",
+            "phone": "222334",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "NEWASA",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000108",
+            "office": "NEWASA",
+            "phone": "241238",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "JAMKHED",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000109",
+            "office": "JAMKHED",
+            "phone": "221028",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "MIRAJGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000110",
+            "office": "MIRAJGAON",
+            "phone": "263226",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AKOLA",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000111",
+            "office": "AKOLA",
+            "phone": "221243",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "RAJENDRA PRASAD ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "JALNA",
+            "district": "JALNA",
+            "ifsc": "NUCB0000112",
+            "office": "JALNA",
+            "phone": "233241",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "LAXMI TOWER CHOWK",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PARLI VAIJNATH",
+            "district": "BID",
+            "ifsc": "NUCB0000113",
+            "office": "PARLI VAIJNATH",
+            "phone": "222090",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SONAI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000115",
+            "office": "SONAI",
+            "phone": "231332",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "ASHWI BUDRUK",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000116",
+            "office": "ASHWI",
+            "phone": "241150",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "SARJEPURA",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000117",
+            "office": "SARJEPURA",
+            "phone": "2417818",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "NAGAR MANMAD ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "RAHATA",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000118",
+            "office": "RAHATA",
+            "phone": "242271",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KUKANE",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000119",
+            "office": "KUKANE",
+            "phone": "221238",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "MARKET YARD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000120",
+            "office": "MARKET YARD",
+            "phone": "2417819",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "AHMEDNAGAR",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000121",
+            "office": "CH KARANJA",
+            "phone": "2417820",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "NAGAR MANMAD ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "RAHURI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000122",
+            "office": "RAHURI",
+            "phone": "232293",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KASTHI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000123",
+            "office": "KASTHI",
+            "phone": "231627",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "NAGAR PUNE ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KEDGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000124",
+            "office": "KEDGAON",
+            "phone": "2417821",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000125",
+            "office": "BALAM TAKALI",
+            "phone": "240027",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KOLHAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000126",
+            "office": "KOLHAR",
+            "phone": "251688",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PARNER",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000127",
+            "office": "PARNER",
+            "phone": "221408",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "NAGAR MANMAD ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000128",
+            "office": "SAVEDI",
+            "phone": "2417822",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KHARDA",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000129",
+            "office": "KHARDA",
+            "phone": "240328",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "820 BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KARJAT",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000130",
+            "office": "KARJAT",
+            "phone": "222908",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KOLHAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000131",
+            "office": "SONGAON",
+            "phone": "275015",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "address": "GULTEKDI MARKET YARD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NUCB0000133",
+            "office": "GULTEKADI",
+            "phone": "24273691",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "address": "CENTRAL BANK ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000134",
+            "office": "MAIN BRANCH",
+            "phone": "2343641",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "address": "RATAN NIWAS,2349",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SHIRUR",
+            "district": "PUNE",
+            "ifsc": "NUCB0000135",
+            "office": "SHIRUR",
+            "phone": "224242",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "address": "1774,DEVKAR NIWAS",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KOPARGAON",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000136",
+            "office": "KOPARGAON",
+            "phone": "223003",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "address": "A WING MANTRI VILLA",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NUCB0000137",
+            "office": "SADASHIVPETH",
+            "phone": "24488125",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "address": "SAI NAGARI PATPUR",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SHIRDI",
+            "district": "AHMADNAGAR",
+            "ifsc": "NUCB0000138",
+            "office": "SHIRDI",
+            "phone": "255611",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "address": "1754",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "NUCB0000139",
+            "office": "NASIK",
+            "phone": "2232401",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO 471 NEAR SHANI LANE",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KARKAMLE",
+            "district": "SOLAPUR",
+            "ifsc": "NUCB0000140",
+            "office": "KARMALA",
+            "phone": "220072",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "address": "2930 BY 5,VIRAJ COMPLEX",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "NUCB0000141",
+            "office": "AURANGABAD",
+            "phone": "2353112",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "address": "H.NO.2382",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "CHAKAN",
+            "district": "PUNE",
+            "ifsc": "NUCB0000142",
+            "office": "CHAKAN",
+            "phone": "24907475",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "address": "Z HW E HV UL",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NUCB0000143",
+            "office": "CHANDANNAGAR",
+            "phone": "20261902",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "address": "CTS NO 790,SAIKAR PLAZA ANNASAHED",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "NUCB0000144",
+            "office": "PIMPRI CHINCHWAD",
+            "phone": "27610230",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "address": "MAIN ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "PATHARDI",
+            "district": "AHMEDNAGAR",
+            "ifsc": "NUCB0000145",
+            "office": "TAKLI MANUR",
+            "phone": "231180",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "address": "KADA DHAMANGAON ROAD",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "KADA",
+            "district": "BID",
+            "ifsc": "NUCB0000146",
+            "office": "KADA",
+            "phone": "239444",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "address": "SHRIKRUSHNA COMPLEX,CTS NO 1981 1987 TO 1993",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "DAUND",
+            "district": "PUNE",
+            "ifsc": "NUCB0000147",
+            "office": "DAUND",
+            "phone": "262946",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "address": "KAKADE PLAZA HP PETROL PUMP",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "JUNNAR",
+            "district": "PUNE",
+            "ifsc": "NUCB0000148",
+            "office": "AALEPHATA",
+            "phone": "263118",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "address": "ADISHAKTI NEAR VITHALESHWAR MANDIR",
+            "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
+            "branch": "",
+            "city": "SINNAR",
+            "district": "NASIK",
+            "ifsc": "NUCB0000149",
+            "office": "SINNER",
+            "phone": "220387",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 48
+    }
+]

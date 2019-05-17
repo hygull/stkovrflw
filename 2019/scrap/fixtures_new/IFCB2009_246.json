@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "1039,SOPANKAKA BHAVAN,SHUKRWAR PETH,TILAK ROAD,PUNE 411002",
+            "bank_name": "SANT SOPANKAKA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SANT0000001",
+            "office": "RTGS-HO",
+            "phone": "24444001",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 68979
+    },
+    {
+        "fields": {
+            "address": "CHH.SHIVAJI SHOPPING CENTER,1ST FLOOR,A/P - SASWAD,TAL PURANDAR,DISTRICT PUNE,PIN CODE 412 301",
+            "bank_name": "SANT SOPANKAKA SAHAKARI BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SANT0000002",
+            "office": "SASWAD",
+            "phone": "223899",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 68980
+    }
+]

@@ -1,0 +1,3962 @@
+[
+    {
+        "fields": {
+            "address": "IDFC BANK LTD.8TH FLOOR,BUILDING NO.1,AIROLI WEST GIGAPLEX,LANDMARKOPPOSITE IGATE,PLOT NO.IT5,MIDC KNOWLEDGE CORRIDOR,AIROLI,NAVI MUMBAI 400708",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010201",
+            "office": "INTERNET BANKINGCPU",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139590
+    },
+    {
+        "fields": {
+            "address": "8TH FLOOR NAMAN CHAMBERS C32 GBLOCK BANDRAKURLA COMPLEX BANDRA EASTMUMBAI 400051",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0010202",
+            "office": "TREASURY CPU",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139591
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD.7TH FLOOR,BUILDING NO.1,AIROLI WEST GIGAPLEX,LANDMARKOPPOSITE IGATE,PLOT NO.IT5,MIDC KNOWLEDGE CORRIDOR,AIROLI,NAVI MUMBAI 400708",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010204",
+            "office": "CMS HUB",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139592
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD.7TH FLOOR,BUILDING NO.1,AIROLI WEST GIGAPLEX,LANDMARKOPPOSITE IGATE,PLOT NO.IT5,MIDC KNOWLEDGE CORRIDOR,AIROLI,NAVI MUMBAI 400708",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010205",
+            "office": "TRADE FINANCE CPUTI",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139593
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD.7TH FLOOR,BUILDING NO.1,AIROLI WEST GIGAPLEX,LANDMARKOPPOSITE IGATE,PLOT NO.IT5,MIDC KNOWLEDGE CORRIDOR,AIROLI,NAVI MUMBAI 400708",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010206",
+            "office": "RURAL CPU NOVA",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139594
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD.8TH FLOOR,BUILDING NO.1,AIROLI WEST GIGAPLEX,LANDMARKOPPOSITE IGATE,PLOT NO.IT5,MIDC KNOWLEDGE CORRIDOR,AIROLI,NAVI MUMBAI 400708",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010207",
+            "office": "WHOLESALE CPUBSMART",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139595
+    },
+    {
+        "fields": {
+            "address": "RAMON HOUSE 69 HT PAREKH MARG CHURCHGATE MUMBAI 400002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0010209",
+            "office": "CLEARING HUB MUMBAI",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139596
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD. 8 FLOOR BUILDING NO. 1 AIROLI WEST GIGAPLEX LANDMARK OPPOSITE  IGATE PLOT NO. 5 IT-5 MIDC KNOWLEDGE PARK  CORRIDOR AIROLI NAVI MUMBAI",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010213",
+            "office": "ACCOUNTS PAYABLE HUB",
+            "phone": "71325499",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139597
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD, 7TH AND 8TH FLOORS, BUILDING NO 1, OPP IGATE, GIGAPLEX, MIDC KNOWLEDGE CORRIDOR 400708, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010216",
+            "office": "WHOLESALE LENDING OPERATIONS",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139598
+    },
+    {
+        "fields": {
+            "address": "IDFC BANK LTD, 7TH AND 8TH FLOORS, BUILDING NO 1, OPP IGATE, GIGAPLEX, MIDC KNOWLEDGE CORRIDOR 400708, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0010217",
+            "office": "RETAIL ASSETS OPERATIONS - FINNONE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139599
+    },
+    {
+        "fields": {
+            "address": "SOODH & BIRLATOWERS, 4TH FLOOR EAST TOWER & LGF WEST TOWER, BARAKHAMBA ROAD, NEW DELHI -110001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "IDFB0020101",
+            "office": "BARAKHAMBA ROAD",
+            "phone": "9810223345",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139600
+    },
+    {
+        "fields": {
+            "address": "BHALLA SADAN, 15, COMMUNITY CENTRE, NEW FRIENDS COLONY, NEW DELHI, 110025",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "IDFB0020102",
+            "office": "NEW FRIENDS COLONY BRANCH",
+            "phone": "9999100958",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139601
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, UNIT NO.102, DMALL BUILDING, NETAJI SUBHASH PLACE, PITAMPURA, DELHI,110034",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "IDFB0020105",
+            "office": "NSP-PITAMPURA BRANCH",
+            "phone": "7291989117",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139602
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR F- 102, F- 103 AT BHAGWATI PLAZA, MLU, PLOT NO. 12, SECTOR-5, DWARKA, NEW DELHI 110075",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DWARKA",
+            "district": "SOUTH WEST",
+            "ifsc": "IDFB0020106",
+            "office": "DWARKA BRANCH",
+            "phone": "4194332",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139603
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,E-49/12 OKHLA INDUSTRIAL AREA, PHASE-2,NEAR DTC BUS DEPOT,NEW DELHI 110020",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "OKHLA",
+            "district": "SOUTH EAST DELHI",
+            "ifsc": "IDFB0020107",
+            "office": "OKHLA BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139604
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR PLOT NO 7, BLOCK NO J2, RAJOURI GARDEN, NEW DELHI 110027, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJOURI GARDEN",
+            "district": "WEST DELHI",
+            "ifsc": "IDFB0020108",
+            "office": "RAJOURI GARDEN BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139605
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 2109 DESH BANDHU GUPTA ROAD, KAROL BAGH, NEW DELHI 110005, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "CENTRAL DELHI",
+            "ifsc": "IDFB0020109",
+            "office": "KAROL BAGH BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139606
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, M-72,GREATER KAILASH II, NEW DELHI 110048, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "SOUTH DELHI",
+            "ifsc": "IDFB0020111",
+            "office": "GREATER KAILASH II BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139607
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 283-A, MAIN ROAD, DEFENCE COLONY, NEW DELHI 110024, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DEFENCE COLONY",
+            "district": "SOUTH DELHI",
+            "ifsc": "IDFB0020112",
+            "office": "DEFENCE COLONY BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139608
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, P.N. NO. 2, NETAJI SUBHASH MARG, DARYAGANJ, NEW DELHI, 110002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DELHI NCR",
+            "district": "CENTRAL DELHI",
+            "ifsc": "IDFB0020123",
+            "office": "DARYAGANJ BRANCH",
+            "phone": "9990852886",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139609
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 18-19, BLOCK I-25, SECTOR 12, NOIDA - 201301",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "IDFB0020124",
+            "office": "NOIDA SECTOR TWELVE BRANCH",
+            "phone": "9136158189",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139610
+    },
+    {
+        "fields": {
+            "address": "G-2, A-23, MAIN AUROBINDO MARG, GREEN PARK, NEW DELHI - 110016",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GREEN PARK",
+            "district": "SOUTH DELHI",
+            "ifsc": "IDFB0020125",
+            "office": "GREEN PARK BRANCH",
+            "phone": "7291989118",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139611
+    },
+    {
+        "fields": {
+            "address": "UPPER GR FLOOR, PLOT NO 26, CLUB ROAD PUNJABI BAGH, NEW DELHI 110026, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNJABI BAGH",
+            "district": "WEST DELHI",
+            "ifsc": "IDFB0020126",
+            "office": "PUNJABI BAGH BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139612
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, F-26/16, SECTOR 7, ROHINI, NEW DELHI - 110085",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NORTH-WEST DELHI",
+            "ifsc": "IDFB0020127",
+            "office": "ROHINI BRANCH",
+            "phone": "7291989117",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139613
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, B-1/515 JANAKPURI, NEW DELHI - 110058",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JANAKPURI",
+            "district": "WEST DELHI",
+            "ifsc": "IDFB0020128",
+            "office": "JANAKPURI BRANCH",
+            "phone": "9205988246",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139614
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, UNIT NO 110-111, SPACE PLATINUM TOWER, SOHNA ROAD, GURGAON 122101, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "IDFB0020129",
+            "office": "GURGAON SOHNA ROAD BRANCH",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139615
+    },
+    {
+        "fields": {
+            "address": "UNIT NO.18-A, GR FLOOR, SPLENDER TRADE TOWER, GOLF COURSE EXT. ROAD, GURGAON 122102, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "IDFB0020132",
+            "office": "GURGAON GOLF COURSE EXTENSION ROAD BRANCH",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139616
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO. 23, SECTOR 12 A, DWARKA, NEW DELHI - 110078",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DELHI",
+            "district": "SOUTH-WEST DELHI",
+            "ifsc": "IDFB0020134",
+            "office": "DWARKA SECTOR TWELVE A BRANCH",
+            "phone": "7900100412",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139617
+    },
+    {
+        "fields": {
+            "address": "G-61 & G-62,SECTOR-18,DISTRICT - GAUTAM BUDDHA NAGAR - NOIDA UTTAR PRADESH - 201301",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "IDFB0020151",
+            "office": "NOIDA",
+            "phone": "9717772950",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139618
+    },
+    {
+        "fields": {
+            "address": "ONE HORIZON CENTRE, GF & PLAZA, GOLF COURSE ROAD, SECTOR-43, GURGAON, HARYANA-122003",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "IDFB0021001",
+            "office": "GURGAON  - GOLF COURSE ROAD BRANCH",
+            "phone": "8595357606",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139619
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 3A, MEGA CITY MALL, M.G. ROAD, GURGAON 122002, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON(M CORP. OG)",
+            "ifsc": "IDFB0021002",
+            "office": "GURGAON M.G. ROAD BRANCH",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139620
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, SCO 23, SECTOR 14,GURGAON 122001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "IDFB0021003",
+            "office": "GURGAON SECTOR FOURTEEN BRANCH",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139621
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, PLOT NO.39 CROSS MALL COMPLEX, MALL ROAD, AMRITSAR, 143001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AMRITSAR",
+            "district": "AMRITSAR",
+            "ifsc": "IDFB0021021",
+            "office": "AMRITSAR BRANCH",
+            "phone": "8454046150",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139622
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SCO 15 SAN PLAZA, FEROZE GANDHI MARKET ,LUDHIANA,141001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "IDFB0021171",
+            "office": "LUDHIANA BRANCH",
+            "phone": "9501083007",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139623
+    },
+    {
+        "fields": {
+            "address": "265-R, RAINBOW ROAD, MODEL TOWN, JALANDHAR, 144001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "IDFB0021191",
+            "office": "JALANDHAR BRANCH",
+            "phone": "8454046150",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139624
+    },
+    {
+        "fields": {
+            "address": "SCO NO. 169-170, GROUND FLOOR, SECTOR 8 C, MADHYA MARG, CHANDIGARH 160008",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "IDFB0021211",
+            "office": "CHANDIGARH BRANCH",
+            "phone": "9821196264",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139625
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,& SECOND FLOOR 59/3,RAIPUR ROAD,DEHRADUN,248001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DEHRADUN",
+            "district": "DEHRADUN",
+            "ifsc": "IDFB0021231",
+            "office": "DEHRADUN BRANCH",
+            "phone": "9717598233",
+            "state": "UTTARAKHAND"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139626
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,, HINDUSTAN TIMES HOUSE,25 ASHOK MARG, LUCKNOW, 226001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "IDFB0021251",
+            "office": "LUCKNOW BRANCH",
+            "phone": "8595357606",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139627
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 3/296 VISHAL KHAND, GOMTI NAGAR, LUCKNOW 226010, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "LUCKNOW",
+            "district": "LUCKNOW",
+            "ifsc": "IDFB0021252",
+            "office": "GOMTI NAGAR BRANCH",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139628
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PREMISES BEARING NUMBER- 17/3-B, MEGHDOOT HOTEL BUILDING, MALL ROAD, 208001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KANPUR",
+            "district": "KANPUR NAGAR",
+            "ifsc": "IDFB0021271",
+            "office": "KANPUR BRANCH",
+            "phone": "9648999910",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139629
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ASHOK BHAWAN BUILDING, 52/2 SANJAY PLACE, NEAR SHAHEED SMARAK, AGRA 282002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AGRA",
+            "district": "AGRA",
+            "ifsc": "IDFB0021291",
+            "office": "AGRA BRANCH",
+            "phone": "9821195461",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139630
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR SCO102-103, DWARKA COMPLEX, SECTOR 16, FARIDABAD, HARYANA 121002, TOLL-FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "IDFB0021311",
+            "office": "FARIDABAD SECTOR XVI BRANCH",
+            "phone": "0",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139631
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,PLOT NO.34,BLOCK H-1-A,SECTOR 63,NOIDA, DISTRICT GAUTAMBUDH NAGAR NOIDA UTTAR PRADESH 201301 TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NOIDA SECTOR SIXTY THREE",
+            "district": "GAUTAM BUDH NAGAR",
+            "ifsc": "IDFB0021331",
+            "office": "NOIDA SECTOR SIXTY THREE BRANCH",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139632
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, SCO. 63, Sector 11, Dist. Panchkula- 134109- Haryana",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "IDFB0021351",
+            "office": "PANCHKULA BRANCH",
+            "phone": "8968188484",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139633
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SCF NO. 19, PHASE 7, SAS NAGAR, MOHALI 160061, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MOHALI",
+            "district": "SAHIBZADA AJIT SINGH NAGAR",
+            "ifsc": "IDFB0021371",
+            "office": "MOHALI BRANCH",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139634
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, C-53 A, RAJ NAGAR DISTRICT CENTRE, GHAZIABAD 201001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "IDFB0021412",
+            "office": "RAJ NAGAR GHAZIABAD BRANCH",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139635
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR NAMAN CHAMBERS, C-32, G-BLOCK, BANDRA-KURLA COMPLEX, BANDRA EAST,MUMBAI 400051",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040101",
+            "office": "BKC-NAMAN CHAMBERS BRANCH",
+            "phone": "42423504",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139636
+    },
+    {
+        "fields": {
+            "address": "SANE GURUJI PREMISE CO-OP. SOCIETY LTD, BLOCK NO. 5, GROUND FLOOR, 386, VEER SAVARKA MARG, PRABHDEVI, MUMBAI - 400025",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040102",
+            "office": "PRABHDEVI BRANCH",
+            "phone": "43407802",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139637
+    },
+    {
+        "fields": {
+            "address": "GOODWILL EXCELLENCY, PLOT NO. 02, SECTOR - 17, VASHI, NAVI MUMBAI, 400705.",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NAVI MUMBAI",
+            "district": "THANE",
+            "ifsc": "IDFB0040103",
+            "office": "VASHI, SECTOR - SEVENTEEN BRANCH",
+            "phone": "27651137",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139638
+    },
+    {
+        "fields": {
+            "address": "GLAMCENT, GF & 1ST FLOOR, 350, CENTRAL AVENUE ROAD, CHEMBUR, MUMBAI, 400071",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040104",
+            "office": "CHEMBUR BRANCH",
+            "phone": "30066401",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139639
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, TIRUPATI APARTMENTS, BHULABHAI DESAI ROAD, MUMBAI, MAHARASHTRA, 400026",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040105",
+            "office": "BHULABHAI DESAI ROAD",
+            "phone": "71256012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139640
+    },
+    {
+        "fields": {
+            "address": "312, D N ROAD, FORT, MUMBAI, MAHARASHTRA, 400001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040106",
+            "office": "FORT BRANCH",
+            "phone": "43323866",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139641
+    },
+    {
+        "fields": {
+            "address": "GROUND & FIRST FLOOR,A-1,A WING,EVEREST CHAMBERS PREMISES CO-OPERATIVE SOCIETY LTD,MAROL NAKA,NEXT TO STAR TV BUILDING,ANDHERI EAST,400059",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040107",
+            "office": "ANDHERI EAST BRANCH",
+            "phone": "7045963901",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139642
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR & MEZZANINE FLOOR,SHOP NO 21,DOSTI IMPERIA BUILDING,GHODBUNDER ROAD THANE,400610",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0040108",
+            "office": "GHODBUNDER ROAD-THANE BRANCH",
+            "phone": "7506669797",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139643
+    },
+    {
+        "fields": {
+            "address": "RUNWAL GREENS BUILIDING,GOREGAON MULUND LINK ROAD, NEXT TO FORTIS HOSPITAL, MULUND WEST, MUMBAI 4000708 TOLLFREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MULUND",
+            "district": "MUMBAI",
+            "ifsc": "IDFB0040109",
+            "office": "MULUND BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139644
+    },
+    {
+        "fields": {
+            "address": "GROUND & FIRST FLOOR, UNIT NO 001 & 101, KONARK APARTMENT, THE GURJAR APARTMENT CHS LTD ROSHAN NAGAR, CHANDAVARKAR LANE, BORIVALI(WEST), MUMBAI 400092, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "IDFB0040111",
+            "office": "BORIVALI BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139645
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO 6 & 7, P.E.S.(NEW ENGLISH BUILDING), DR.RAMESH PRADHAN ROAD, OFF. RAM MARUTI CROSS ROAD, THANE WEST, THANE 400602, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0040112",
+            "office": "THANE BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139646
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, THE POINT, PLOT 253, 30TH ROAD, BANDRA WEST, MUMBAI 400050, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "IDFB0040113",
+            "office": "BANDRA WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139647
+    },
+    {
+        "fields": {
+            "address": "Ground Floor ,Unit no 3, Bhagat Grandeur, opp Infinity Mall, Malad west, Mumbai 400064, Toll free number 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "IDFB0040114",
+            "office": "MALAD BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139648
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SAI ICONIC, SHOP NO.1 PLOT NO.9, LOKHANDWALA ROAD, FOUR BUNGLOWS, ANDHERI WEST, MUMBAI 400053, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "IDFB0040115",
+            "office": "ANDHERI WEST BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139649
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 11 & 12, KRISHNA KAMAL CO-HOUSING SOCIETY, PLOT NO. 111-E/1, 111-F, 111-H, SECTOR-21, NERUL, MUMBAI - 400706",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "THANE",
+            "ifsc": "IDFB0040132",
+            "office": "NERUL BRANCH",
+            "phone": "7045689481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139650
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. 1 SAFFRON APARTMENT, SUHHIJIVAN CIRCLE I C COLONY, BORIVALI WEST, MUMBAI - 400103",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI SUBURBAN",
+            "ifsc": "IDFB0040133",
+            "office": "BORIVALI-IC COLONY BRANCH",
+            "phone": "7045689481",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139651
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 5A, MAITHILI PRIDE, BUILDING NO. 1 & 10, MHB COLONY, VARTAK NAGAR, POKHRAN RD. NO. 1, J K GRAMM, NEAR HP GODOWN, THANE. 400606. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "IDFB0040136",
+            "office": "VARTAK NAGAR - THANE BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139652
+    },
+    {
+        "fields": {
+            "address": "SUN SQUARE,T.P 20,BESIDES NEST,OFF C.G ROAD,AHMEDABAD 380006",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040301",
+            "office": "AHMEDABAD C.G. ROAD",
+            "phone": "7966216387",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139653
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR AND FIRST FLOOR, MONDEAL SQUARE, UNIT NO.D, PRAHLAD NAGAR, AHMEDABAD 380015, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PRAHLAD NAGAR",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040302",
+            "office": "PRAHLAD NAGAR BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139654
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, SHOP NO. 2,3,4,SHIVALIK-7 BUILDING, RAMBAUG CROSS ROAD, MANINAGAR, AHMEDABAD 380008",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD(M CORP.)",
+            "ifsc": "IDFB0040303",
+            "office": "MANINAGAR BRANCH",
+            "phone": "9168300022",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139655
+    },
+    {
+        "fields": {
+            "address": "GR FLOOR, SHOP NO.3, TRYKSHA DESIRE, NEAR KIRTIDHAM DERASAR, CHANDKHEDA, AHMEDABAD 382424, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHANDKHEDA",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040308",
+            "office": "CHANDKHEDA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139656
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, PUSHKAR INDUSTRIAL ESTATE - 2, SHOP NO. 155 TO 159A,96/1, OPP. MACONS PHASE - I ,GIDC,VATVA , AHMEDABAD - 382445 ,TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VATVA",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040309",
+            "office": "VATVA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139657
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 1, SIVANTA ONE, ELLIS BRIDGE, PALDI, AHMEDABAD, GUJARAT - 380007",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040311",
+            "office": "PALDI BRANCH",
+            "phone": "8511077880",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139658
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 14 & 15, ADVANCE BUSINESS PARK, BLOCK- A, OPP. SWAMINARAYAN TEMPLE, SHAHIBAUG, AHMEDABAD 380004, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040312",
+            "office": "SHAHIBAUG BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139659
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 27,28,29,30, UPPER GROUND FLOOR, MARUTI CENTRE, DRIVE-IN ROAD, NR HIMALAYA ROAD, GURUKUL, AHMEDABAD 380052, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040313",
+            "office": "DRIVE-IN ROAD BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139660
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. A13 & A14, GALAXY ARCADE, GALAXY ROAD, CHANDRESH SOCIETY, NARODA GIDC, AHMEDABAD, GUJARAT - 382330",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "IDFB0040314",
+            "office": "NARODA BRANCH",
+            "phone": "8511077880",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139661
+    },
+    {
+        "fields": {
+            "address": "First Floor, CG Complex, , Sardar Chowk, Opposite Sayaji Rao Statue,, Station Road, Petlad, District Anand, Gujarat - 388450, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PETLAD",
+            "district": "ANAND",
+            "ifsc": "IDFB0040351",
+            "office": "PETLAD BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139662
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, UNIT NO. 59-60-61, ASHOK VATIKA, BLOCK D, SAHKARI JIN ROAD, SABAR KANTHA DISTRICT, HIMMATNAGAR, GUJARAT - 383001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HIMMMATNAGAR",
+            "district": "SABAR KANTHA",
+            "ifsc": "IDFB0040371",
+            "office": "HIMMATNAGAR BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139663
+    },
+    {
+        "fields": {
+            "address": "First Floor, Unit No 1 2 3 4 AND 5, Shree Preet Complex, Nagar Road, Idar (City) Gujarat 383430, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "IDAR",
+            "district": "SABAR KANTHA",
+            "ifsc": "IDFB0040372",
+            "office": "IDAR BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139664
+    },
+    {
+        "fields": {
+            "address": "SHREEJI CHARAN COMPLEX SHOP 4 TO 11, OPP RELIANCE PETROL PUMP, BAYAD 383325, GUJARAT, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BAYAD",
+            "district": "SABAR KANTHA",
+            "ifsc": "IDFB0040374",
+            "office": "BAYAD BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139665
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 41 TO 46, SAPNA BAZAR, NEAR VRINDAVAN CHAR RASTA, AMBAHI HIGHWAY, KHERALU 384325, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHERALU",
+            "district": "MEHSANA",
+            "ifsc": "IDFB0040375",
+            "office": "KHERALU BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139666
+    },
+    {
+        "fields": {
+            "address": "Ground Floor ,Shop No. 24-25-26, , Shivam Complex, Nagalpur Highway Road, , Mehsana, Gujarat 384002, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MEHSANA",
+            "district": "MAHESANA",
+            "ifsc": "IDFB0040401",
+            "office": "MEHSANA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139667
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, B D COMPLEX, HANUMAN TEKRI, NEAR CHAUDHARY CHA FACTORY, DELHI HIGHWAY, DISTRICT BANAS KANTHA, PALANPUR 385001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PALANPUR",
+            "district": "BANAS KANTHA",
+            "ifsc": "IDFB0040421",
+            "office": "PALANPUR BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139668
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR WARD NO.10 BAZAAR MOHALLA VILLAGE SONKHEDA TEHSIL ITARSI DISTT. HOSHANGABAD MADHYA PRADESH461111, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SONKHEDA",
+            "district": "SONKHEDA",
+            "ifsc": "IDFB0041101",
+            "office": "SONKHEDA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139669
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR IN FRONT OF RNA SCHOOL SHOBHAPUR ROAD PIPARIYA DISTT. HOSHANGABAD MADHYA PRADESH461775, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PIPARIYA",
+            "district": "PIPARIYA",
+            "ifsc": "IDFB0041102",
+            "office": "PIPARIYA  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139670
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR BY PASS TIGADDA PIPARIYA ROAD BANKHEDI DISTT. HOSHANGABAD MADHYA PRADESH461990, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANKHEDI",
+            "district": "BANKHEDI",
+            "ifsc": "IDFB0041103",
+            "office": "BANKHEDI BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139671
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR MAIN ROADSEONI MALWA DISTT. HOSHANGABAD MADHYA PRADESH461990, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SEONI MALWA",
+            "district": "SEONI MALWA",
+            "ifsc": "IDFB0041105",
+            "office": "SEONI MALWA  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139672
+    },
+    {
+        "fields": {
+            "address": "36KA MAIN TIMARNI ROAD GRAM PAGDHAL 24 TEHSIL SEONI MALWA DISTT. HOSHANGABAD MADHYA PRADESH461223, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PAGDHAL",
+            "district": "PAGDHAL",
+            "ifsc": "IDFB0041106",
+            "office": "PAGDHAL BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139673
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR NEAR BUS STAND ITARSI ROAD VILLAGE DHARAMKUNDI HOSHNGABAD, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "IDFB0041107",
+            "office": "DHARMKUNDI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139674
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR , VILL. SANGAKHEDA KALAN, THEHSIL BABAI BADA KUAN, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SANGAKHEDA KALAN",
+            "district": "HOSHANGABAD",
+            "ifsc": "IDFB0041109",
+            "office": "SANGAKHEDA KALAN",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139675
+    },
+    {
+        "fields": {
+            "address": "GROUND AND FIRST FLOOR HARDA ROAD TIMARNI DISTT. HARDA MADHYA PRADESH461228, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "TIMURNI",
+            "district": "TIMURNI",
+            "ifsc": "IDFB0041111",
+            "office": "TIMURNI  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139676
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR ANAND NAGAR MEENAKSHI ROAD HOSHANGABAD MADHYA PRADESH461001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "IDFB0041112",
+            "office": "HOSHANGABAD BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139677
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR CHANDON ROAD GRAM POST MEHGWAN TEHSIL BANKHEDI DISTT. HOSHANGABAD MADHYA PRADESH461990, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MEHGWAN",
+            "district": "MEHGWAN",
+            "ifsc": "IDFB0041113",
+            "office": "MEHGWAN  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139678
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KHASRA NO. 133/11, OPP-GOVT. COLLEGE, KHATEGAON, DISTT. DEWAS, MADHYA PRADESH-455336, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHATEGAON",
+            "district": "DEWAS",
+            "ifsc": "IDFB0041171",
+            "office": "KHATEGAON",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139679
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, OLD AB ROAD, OPP-DHAMNOD CITY SCAN CENTRE, DHAMNOD, DISTT. DHAR, MADHYA PRADESH-454552, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DHAMNOD",
+            "district": "DHAR",
+            "ifsc": "IDFB0041181",
+            "office": "DHAMNOD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139680
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR HARDA ROAD VILLAGE UDA DISTT. HARDA MADHYA PRADESH461331, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "UDA",
+            "district": "UDA",
+            "ifsc": "IDFB0041201",
+            "office": "UDA  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139681
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR MAIN ROAD VILLAGE TAJPURA TEHSIL TIMARNI DISTT. HARDA MADHYA PRADESH461288, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "TAJPURA",
+            "district": "TAJPURA",
+            "ifsc": "IDFB0041202",
+            "office": "TAJPURA  BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139682
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR INDIRA GANDHI WARD WARD NO 10 GHANTAGHAR ROAD OPPJAIN DHARAMSHALA HARDA MADHYA PRADESH 461331, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HARDA",
+            "district": "HARDA",
+            "ifsc": "IDFB0041203",
+            "office": "HARDA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139683
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR KHANDWA ROAD OPPSBS SCHOOL WARD NO.11 CHIPAWADKHIRKIYA TEHSIL KHIRKIYA DISTRICT HARDA MADHYA PRADESH461441, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHIRKIAN",
+            "district": "KHIRKIAN",
+            "ifsc": "IDFB0041204",
+            "office": "KHIRKIAN BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139684
+    },
+    {
+        "fields": {
+            "address": "PLOT NOA-7  A-8, SURVEY NO. 29-2, VILLAGE MAGAJPURA, TEHSIL AND DISTRICT DHAR, MADHYA PRADESH - 454001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "IDFB0041221",
+            "office": "DHAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139685
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NEAR HDFC BANK MAIN ROAD, RAJGARH DIST DHAR MP - 454116, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJGARH",
+            "district": "DHAR",
+            "ifsc": "IDFB0041222",
+            "office": "RAJGARH DHAR",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139686
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VILLAGE MAKANI, MAHU-NEEMACH ROAD, P.H. NO. 45, TEHSIL BADNAWAR, DISTRICT DHAR, MP-456331, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MAKANI",
+            "district": "DHAR",
+            "ifsc": "IDFB0041223",
+            "office": "MAKANI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139687
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 58 MAHU NEEMACH ROAD PATEL NAGAR COLONY VILLAGE DEHARIYA SARAI, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "IDFB0041224",
+            "office": "DEHRIYA SARAI BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139688
+    },
+    {
+        "fields": {
+            "address": "MANDI BY PASS ROAD BADNAWAR, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BADNAWAR",
+            "district": "DHAR",
+            "ifsc": "IDFB0041225",
+            "office": "BADNAWAR BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139689
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MG ROAD SANWER, SONKATCH DISTT. DEWAS, MADHYA PRADESH - 455118, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SANWER",
+            "district": "DEWAS",
+            "ifsc": "IDFB0041241",
+            "office": "SANWER",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139690
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NEAR HP PETROL PUMP BETMA ROAD, TAKIPURA TEHSIL DEPALPUR, DISTRICT INDORE, MP - 453220, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "TAKIPURA",
+            "district": "INDORE",
+            "ifsc": "IDFB0041261",
+            "office": "TAKIPURA",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139691
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, H. NO. 969,VILLAGE BIJALPUR, TEHSHIL AND DISTRICT INDORE, MADHYA PRADESH - 452012, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "IDFB0041262",
+            "office": "INDORE - BIJALPUR BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139692
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR 1005 VILLAGE BUDHI BARLAI , SHIPRA, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "Budhi Barlai",
+            "district": "INDORE",
+            "ifsc": "IDFB0041263",
+            "office": "BUDHI BARLAI BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139693
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, COMMERCE HOUSE, UG-1, UG-1A, UG-2, UG-3, UG-3A,UG-3B,7 RACE COURSE ROAD, INDORE(M.P.) 452001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "IDFB0041264",
+            "office": "INDORE BRANCH",
+            "phone": "9426775487",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139694
+    },
+    {
+        "fields": {
+            "address": "Ground and Mezzanine Floor, Plot No 109-2, Kalidas Marg, station Road, Tehsil AND District Mandsaur , Mandsaur, MP 458001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MANDSAUR",
+            "district": "MANDSAUR",
+            "ifsc": "IDFB0041281",
+            "office": "MANDSAUR BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139695
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO. 1632 WAR NO.10 STATION ROAD CHHNERA NEW HARSUD DISTRICT KHANDWA MADHYA PRADESH450116, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHHANERA",
+            "district": "KHANDWA",
+            "ifsc": "IDFB0041301",
+            "office": "CHHANERA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139696
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR LANDMARK ONE MALL WARD NO.26 PLOT. NO.104 AND 105 PANDHANA ROAD KHANDWA MADHYA PRADESH450001,Toll Free 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHANDWA",
+            "district": "KHANDWA",
+            "ifsc": "IDFB0041302",
+            "office": "KHANDWA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139697
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR WARD NO.14 DIWAL ROAD NEAR CHURCH DISTT. KHANDWA MADHYA PRADESH450661, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PANDHANA",
+            "district": "KHANDWA",
+            "ifsc": "IDFB0041303",
+            "office": "PANDHANA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139698
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO 260/1/2, GROUND FLOOR, NAVALPURA MAHESHWAR ROAD, OPP- LAXMI NARAYAN COLONY, VILLAGE LADVI, TEHSIL MAHESHWAR, DISTT KHARGONE, MADHYA PRADESH-451221, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHARGONE",
+            "district": "KHARGONE",
+            "ifsc": "IDFB0041321",
+            "office": "IDFC BANK LTD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139699
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 411, INDORE ROAD, OPP-INDIAN OIL PETROL PUMP, SANAWAD, DISTT. KHARGONE, MADHYA PRADESH, - 451111, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SANAWAD",
+            "district": "KHARGONE",
+            "ifsc": "IDFB0041322",
+            "office": "SANAWAD",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139700
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,MG ROAD,GROUND FLOOR,MAIN ROAD, SIRLAI VILLAGE,TEHSIL BARWAH,DISTT. KHARGONE, MADHYA PRADESH - 451115, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SIRLAI",
+            "district": "KHARGONE",
+            "ifsc": "IDFB0041323",
+            "office": "SIRLAI",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139701
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO 24/5, GROUND AND UPPER GROUND, STREET NO.15, PLOT NO 10, OPP, BUS STAND, TOWN BHIKANGAON, TEHSIL BHIKANGAON, DIST KHARGONE, MADHYA PRADESH - 451331, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHIKANGAON",
+            "district": "KHARGONE",
+            "ifsc": "IDFB0041324",
+            "office": "BHIKANGAON",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139702
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. C-14 RADHA VALLABH MKT KHARGONE, DISTT. KHARGONE, MADHYA PRADESH - 451224, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KHARGONE",
+            "district": "KHARGONE",
+            "ifsc": "IDFB0041325",
+            "office": "KHARGONE",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139703
+    },
+    {
+        "fields": {
+            "address": "AMAR AVINASH CORPORATE CITY,3RD FLOOR,BUND GARDEN ROAD,PUNE 411001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "IDFB0041351",
+            "office": "PUNE BUND GARDEN ROAD",
+            "phone": "66483000",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139704
+    },
+    {
+        "fields": {
+            "address": "UPPER, GORUND & MEZZANINE FLOOR,, UNIT NO 01, S. NO-815, TANDALE HEIGHTS,, LAW COLLEGE ROAD, SHIVAJI NAGAR, 411004",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "IDFB0041352",
+            "office": "PUNE LAW COLLEGE ROAD BRANCH",
+            "phone": "9823989884",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139705
+    },
+    {
+        "fields": {
+            "address": "PARMAR HOUSE, GROUND & MEZZANINE FLOOR, 2413, GENERAL THIMAYYA ROAD, CAMP, PUNE 411001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE(CB)",
+            "ifsc": "IDFB0041353",
+            "office": "CAMP BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139706
+    },
+    {
+        "fields": {
+            "address": "G O SQUARE, GROUND FLOOR, SHOWROOM NO4 A,BUILDING NO A, WAKAD, PUNE 411057, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE (M CORP.)",
+            "ifsc": "IDFB0041354",
+            "office": "WAKAD BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139707
+    },
+    {
+        "fields": {
+            "address": "FIRST AND SECOND FLOOR, SHOP NO 101 AND 201, 97, VARHSA BUILDING, ANAND PARK, ITI ROAD, PUNE 411007, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AUNDH",
+            "district": "PUNE",
+            "ifsc": "IDFB0041355",
+            "office": "AUNDH BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139708
+    },
+    {
+        "fields": {
+            "address": "LOWER GROUND FLOOR ,UNIT NO. 19-20-21, BUILDING NO B, JEWEL OF PRIMPRI PREMISE CHS LTD, OPP PCMC OFFICE, ON OLD MUMBAI PUNE HIGHWAY, PIMPRI, PUNE 411018, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PIMPRI",
+            "district": "PUNE",
+            "ifsc": "IDFB0041356",
+            "office": "PIMPRI BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139709
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SHOP NO. 1, KEDARI LANDMARKS BUILDING, PLOT NO. 1, WANOWRIE, PUNE 411040, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE (M.CORP.)",
+            "ifsc": "IDFB0041357",
+            "office": "WANOWRIE BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139710
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, UNIT NO 1, NEAR BISHOP SCHOOL,S NO 206, FINAL PLOT NO 88, SUB-PLOT NO 3, RAMWADI, KALYANI NAGAR, YERWADA, PUNE 411006, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KALYANI NAGAR",
+            "district": "PUNE",
+            "ifsc": "IDFB0041358",
+            "office": "KALYANI NAGAR BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139711
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SOLITAIRE APARTMENT, S.NO 35, HISSA NO.6, CTS NO.1194, HINGANE BADRUK, KARVE NAGAR, TALUKA, HAVELI PUNE 411052, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KARVE NAGAR",
+            "district": "PUNE",
+            "ifsc": "IDFB0041359",
+            "office": "KARVE NAGAR BRANCH",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139712
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,6B,GOVIND GARDEN , OPPOSITE VIDYUT NAGAR , RAISEN ROAD ,BHOPAL, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "IDFB0041381",
+            "office": "BHOPAL RAISEN ROAD BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139713
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR E3/75,,ARERA COLONY,,NEAR NARMADA HOSPITAL, BHOPAL 462016",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "IDFB0041382",
+            "office": "BHOPAL ARERA COLONY BRANCH",
+            "phone": "9893651903",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139714
+    },
+    {
+        "fields": {
+            "address": "Ground floor, Khasra No. 686/1, , Ward No.7, Main Kurawar Road, , Kurawar, Tehsil Narsinghgarh, Distt. Rajgarh, Madhya Pradesh-465667, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KURAWAR",
+            "district": "RAJGARH",
+            "ifsc": "IDFB0041411",
+            "office": "KURAWAR BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139715
+    },
+    {
+        "fields": {
+            "address": "PLOT 14 NEAR JAIN MANDIR MANDIDEEP RAISEN, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MANDIDEEP",
+            "district": "RAISEN",
+            "ifsc": "IDFB0042101",
+            "office": "MANDIDEEP BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139716
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR PLOT NO 4,KHASRA NO 800/1,VILLAGE UGARIYAWAS,DUDU,TEHSHIL MAUZAMABAD,DISTT JAIPUR RAJASTHAN 303338, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "UGARIYAWAS",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042121",
+            "office": "UGARIYAWAS",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139717
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHIV MANDIR,MAIN CHOK,VILLAGE HARSOLI,TEHSIL KISHANGARH RENWAL,DISTRICT JAIPUR 303603, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HARSOLI",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042122",
+            "office": "HARSOLI BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139718
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, ADJACENT TO GOVT SCHOOL, VILLAGE MANGARH KHOKHAWALA,TEHSIL BASSI, DISTRICT JAIPUR,RAJASTHAN 303301, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MANGARH KHOKHAWALA",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042123",
+            "office": "MANGARH KHOKHAWALA BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139719
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,UNIT NO 2 AND FIRST FLOOR UNIT NO 1,SOHAN GRAM ORIEL SURVEY 1224 PLOT NO 7,COLLEGE ROAD,NEAR TULSI RESIDENCY,OPP AADHAR MARKET NADIAD,DIST KHEDA,GUJARAT 387001,TOLL FREE 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042124",
+            "office": "JAIPUR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139720
+    },
+    {
+        "fields": {
+            "address": "Upper Ground Floor, Mandolia , Complex, Plot no 112, Old Delhi , Road, Shahpura, Dist. Jaipur, Rajasthan - 303103, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHAHPURA",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042125",
+            "office": "SHAHPURA BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139721
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,VYAS PLAZA,WARD NO.17,KACHOLIA ROAD CHOMU,DISTT,,JAIPUR RAJASTHAN 303702",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHOMU",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042126",
+            "office": "CHOMU BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139722
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, G1 AND G2 AARCADE, K-12 MALVIYA MARG, C- SCHEME, JAIPUR",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042127",
+            "office": "JAIPUR C- SCHEME BRANCH",
+            "phone": "8875010436",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139723
+    },
+    {
+        "fields": {
+            "address": "Upper Ground Floor, 74, Shivraj Niketan, Gautam Marg, Vishali Nagar, Jaipur 302021 Rajasthan",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042128",
+            "office": "VAISHALI NAGAR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139724
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, UNIT NO. B-1, A-34, PRABHU MARG, TILAK NAGAR, JAIPUR 302004, TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJA PARK",
+            "district": "JAIPUR",
+            "ifsc": "IDFB0042129",
+            "office": "RAJA PARK-JAIPUR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139725
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 47, SUBHASH NAGAR COLONY, SAVER ROAD, NEAR DO TALAAB, UJJAIN, MP - 456010, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "UJJAIN",
+            "district": "UJJAIN",
+            "ifsc": "IDFB0042141",
+            "office": "UJJAIN BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139726
+    },
+    {
+        "fields": {
+            "address": "KHASRA NO, 32/5/2 UJJAIN ROAD, VILLAGE SEJAWATA, TEHSIL JAORA, DIST- RATLAM, MADHYA PRADESH - 457226, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SEJAWATA",
+            "district": "RATLAM",
+            "ifsc": "IDFB0042142",
+            "office": "SEJAWATA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139727
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,UNIT NO 2 AND FIRST FLOOR UNIT NO 1 ,SOHAN GRAM ORIEL SURVEY NO 1224 PLOT NO 7,COLLEGE ROAD,NEAR TULSI RESIDENCY,OPP AADHAR MARKET NADIAD,DIST KHEDA,GUJARAT 387001,TOLL FREE 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NADIAD",
+            "district": "KHEDA",
+            "ifsc": "IDFB0042161",
+            "office": "NADIAD BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139728
+    },
+    {
+        "fields": {
+            "address": "GR AND 1ST FLOOR,DWARKADHISH,,PLOT NO.551/15,NEAR DATA INN HOTEL,, SRINAGAR ROAD,AJMER,RAJASTHAN-305001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AJMER",
+            "district": "AJMER",
+            "ifsc": "IDFB0042181",
+            "office": "AJMER",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139729
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,KHASARA NO.1083/3,SHOP NO 6 TO 15,SANCHETI COLONY B,BIJAINAGAR,DISTT,AJMER,RAJASTHAN 305624",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BIJAINAGAR",
+            "district": "AJMER",
+            "ifsc": "IDFB0042182",
+            "office": "BIJAINAGAR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139730
+    },
+    {
+        "fields": {
+            "address": "Ground floor, 102 AND 103, , Freeganj, Motilal Nehru Marg, , Ratlam, Madhya Pradesh-457001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RATLAM",
+            "district": "RATLAM",
+            "ifsc": "IDFB0042201",
+            "office": "RATLAM BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139731
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Ocean Plaza, , Plot no 319-A, Jaipur Road, , Devipura, Sikar, Rajasthan 332001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SIKAR",
+            "district": "SIKAR",
+            "ifsc": "IDFB0042221",
+            "office": "SIKAR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139732
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, PLOT WITH PATLA N. 136,SITUATED AT WARD-11, MAHALAXMI COMPLEX, SIKAR BAZAR, NEAR MURLI MANOHAR MANDIR, SHRI MADHOPUR, DIST. SIKAR, RAJASTHAN 332715",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHRIMADHOPUR",
+            "district": "SIKAR",
+            "ifsc": "IDFB0042222",
+            "office": "SHRIMADHOPAR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139733
+    },
+    {
+        "fields": {
+            "address": "PREMISES NEAR HDFC AND PWD HOUSE,LADNUN ROAD,DIDWANA,NAGAUR,RAJASTHAN-341303,TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DIDWANA",
+            "district": "NAGAUR",
+            "ifsc": "IDFB0042223",
+            "office": "DIDWANA BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139734
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Khasra No 1215/1, Sri Swaminarayan Avenue, Bamroli Road, Godhra City, Panch Mahals District, Gujarat 389001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GODHRA",
+            "district": "PANCH MAHALS",
+            "ifsc": "IDFB0042241",
+            "office": "GODHRA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139735
+    },
+    {
+        "fields": {
+            "address": "Ground Floor R S No 109, Plot no 203, Purohit Complex Godhra Road (Moje Kasba), Halol District Panchmahal,Gujarat 389350, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HALOL",
+            "district": "PANCHMAHAL",
+            "ifsc": "IDFB0042242",
+            "office": "HALOL BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139736
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 61-SUBHASH NAGAR SOCIETY, RAM CHOWK, GHOD DOD ROAD, SURAT, 360005",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "IDFB0042261",
+            "office": "SURAT BRANCH",
+            "phone": "7045752054",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139737
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, SHREE THAKORBHAI MITHAIWALA MARKET, SURVEY NOS. 2190/A/1/A/1/1/28, WARD NO. 4, SAHARA DARWAJA, RING ROAD, SURAT 395002, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "IDFB0042262",
+            "office": "RING ROAD BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139738
+    },
+    {
+        "fields": {
+            "address": "MAHAVEER SHOPPING COMPLEX, NEAR DISTRICT COOPERATIVE BANK, KAMREJ KADODARA ROAD, KAMREJ-394180 SURAT, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KAMREJ",
+            "district": "SURAT",
+            "ifsc": "IDFB0042267",
+            "office": "KAMREJ BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139739
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHOP NO.2, SHANTA-MADHAV SANKUL,MICRO CIRCLE, TRIMBAK ROAD, NASHIK-422002, MAHARASHTRA",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NASHIK",
+            "district": "NASHIK",
+            "ifsc": "IDFB0042281",
+            "office": "NASHIK BRANCH",
+            "phone": "8554992543",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139740
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, Plot No 14A, Water Works Colony,Mann Nagar, Near Peeru Singh Circle, Jhunjhunu, Rajasthan, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JHUNJHUNU",
+            "district": "JHUNJHUNU",
+            "ifsc": "IDFB0042301",
+            "office": "JHUNJHUNU BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139741
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR,SHOP NO 8,9,10&11,B BLOCK,S K PLAZA,KHASRA NO.2030,PUR ROAD,BHILWARA,RAJASTHAN,311001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHILWARA",
+            "district": "BHILWARA",
+            "ifsc": "IDFB0042321",
+            "office": "BHILWARA BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139742
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,UNIT NO 1,2,3&4, A BLOCK,VASANT VILLA COMPLEX,GANDHINAGAR HIGHWAY,,MANSA 382845",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MANSA",
+            "district": "GANDHINAGAR",
+            "ifsc": "IDFB0042341",
+            "office": "MANSA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139743
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PARIVAR COMPLEX, KALOL, AHMEDABAD BYPASS ROAD, KALOL, 382721",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KALOL",
+            "district": "GANDHINAGAR",
+            "ifsc": "IDFB0042342",
+            "office": "KALOL BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139744
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT. 318, SECTOR 16, GH ROAD, GANDHINAGAR 382016",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GANDHINAGAR",
+            "district": "GANDHINAGAR",
+            "ifsc": "IDFB0042343",
+            "office": "GANDHINAGAR BRANCH",
+            "phone": "9825227623",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139745
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,DEVI ESTATE- DEEDA PATAN HIGHWAY, NEAR INCOME TAX OFFICE,TB3,CROSS ROAD,PATAN 384265",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PATAN",
+            "district": "GANDHINAGAR",
+            "ifsc": "IDFB0042361",
+            "office": "PATAN BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139746
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR SHOP NO 2& SECOND FLOOR, UNIT NO. 201, TOWER-A, SAHYOG ATRIUM, PLOT NO 23/24, HARIBHAKTI EXTENSION COLONY, O.P ROAD, VADODARA, 390007",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "IDFB0042381",
+            "office": "VADODARA BARANCH",
+            "phone": "8291884758",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139747
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR - A11, UMIYA NAGAR CHSL, MOJE PADRA, VADODRA PADRA ROAD, PADRA 391440",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PADRA",
+            "district": "VADODARA",
+            "ifsc": "IDFB0042382",
+            "office": "PADRA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139748
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR. OFFICE NO. 101, 102, 103 AND 104 SUN PLAZA 2, VADASAR TARSALI RING ROAD MAKARPURA, VADODARA, 390014, GUJARAT",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MAKARPURA",
+            "district": "VADODARA",
+            "ifsc": "IDFB0042383",
+            "office": "MAKARPURA BRANCH",
+            "phone": "9898563730",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139749
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SHOP NO. G-2, MILROC LAR MENEZES, SWAMI VIVEKANANDA ROAD, PANAJI, GOA, PIN CODE 403001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PANJIM",
+            "district": "NORTH GOA",
+            "ifsc": "IDFB0042401",
+            "office": "PANJIM BRANCH",
+            "phone": "9823280611",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139750
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR  FLOOR, JANKI PARK MAIN NROAD, OPP GONDHIA HOSPITAL, KALAWAD ROAD, RAJKOT, 395001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RAJKOT",
+            "ifsc": "IDFB0042421",
+            "office": "RAJKOT BRANCH",
+            "phone": "8291884223",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139751
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO 544-547/P, AJIT EMPORIUM,, VAPI SILVASSA MAIN ROAD, VAPI, 396191",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VALSAD",
+            "ifsc": "IDFB0042441",
+            "office": "VAPI BRANCH",
+            "phone": "7400065430",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139752
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO C-7, ROSHNI PLAZA, GIDC ROAD, BHARUCH DISTRICT, ANKLESHWAR, 393002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "ANKLESHWAR",
+            "district": "BHARUCH",
+            "ifsc": "IDFB0042461",
+            "office": "ANKLESHWAR BRANCH",
+            "phone": "8291854916",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139753
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT A, KASTURI PLAZA,,BOMBAY MOTOR CIRCLE ROAD, JODHPUR, 342001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JODHPUR",
+            "district": "JODHPUR",
+            "ifsc": "IDFB0042481",
+            "office": "JODHPUR BRANCH",
+            "phone": "9810223345",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139754
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,127/1,MAHARAJ BAG ROAD,OPPOSITE SBI PBB, RAMADAS,PETH, NAGPUR 440010",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "IDFB0042501",
+            "office": "NAGPUR BRANCH",
+            "phone": "9158484448",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139755
+    },
+    {
+        "fields": {
+            "address": "GROUND FLR, TVS BUILDING, WARD NO.14, NEAR WATER WORKS, VASNI MAFI,FATENAGAR, SANWAD,DISTRICT UDAIPUR, RAJASTHAN 313205,TOLL FREE NUMBER 1804194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "FATEHNAGAR",
+            "district": "UDAIPUR",
+            "ifsc": "IDFB0042562",
+            "office": "FATEHNAGAR BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139756
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PLOT NO. 08, MUNICIPAL DAKHLA NO. 140/10, SURVEY NO. 1/1, ANJAD NAKA, VILL. BARWANI, TEHSIL & DIST. BARWANI, MADHYA PRADESH 451551, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BARWANI",
+            "district": "BARWANI",
+            "ifsc": "IDFB0042701",
+            "office": "BARWANI BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139757
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, HOUSE 62, WARD NO 11, DHARMASHALA ROAD, AKODIA MANDI, AKODIA, DISTT SHAJAPUR, MADHYA PRADESH 465223, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AKODIA",
+            "district": "SHAJAPUR",
+            "ifsc": "IDFB0042721",
+            "office": "AKODIA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139758
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR, HOUSE NO 232, SURVEY NO. 144/3, NEAR VIVEKANAND COLONY, AGAR MALWA, CHHAWNI AGAR, DISTRICT AGAR (M.P.)465441, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AGAR MALWA",
+            "district": "AGAR MALWA",
+            "ifsc": "IDFB0042741",
+            "office": "AGAR MALWA BRANCH",
+            "phone": "0",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139759
+    },
+    {
+        "fields": {
+            "address": "SHOP NO - 5,6,7,8,14,15,16,17, M.G.ARCADE, MEGRAJ CROSS ROAD, MODASA BYPASS ROAD, MODASA - 383315, GUJARAT. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MODASA",
+            "district": "ARAVALLI",
+            "ifsc": "IDFB0042761",
+            "office": "MODASA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139760
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MM COMPLEX, PLOT NO 3-4-5, NEAR TVS CIRCLE, NATHDWARA ROAD,KANKROLI,DISTRICT RAJSAMAND RAJASTHAN 313324,TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJSAMAND",
+            "district": "RAJSAMAND",
+            "ifsc": "IDFB0042781",
+            "office": "RAJSAMAND BRANCH",
+            "phone": "0",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139761
+    },
+    {
+        "fields": {
+            "address": "CITY SURVEY NO 178/37/38, PLOT NO 15-16, OPP ALLAHABAD BANK, NEAR KOSIYA NAKA, MODASA HIGHWAY, DIST. MAHISAGAR LUNAWADA GUJARAT - 389230. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "LUNAWADA",
+            "district": "PANCHMAHAL",
+            "ifsc": "IDFB0042801",
+            "office": "LUNAWADA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139762
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 8, SUBASH NAGAR, BHILWARA ROAD NEAR COLLECTORS OFFICE, DISTRICT CHITTORGARH, RAJASTHAN 312001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHITTORGARH",
+            "district": "CHITTORGARH",
+            "ifsc": "IDFB0042821",
+            "office": "CHITTORGARH BRANCH",
+            "phone": "1800419433",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139763
+    },
+    {
+        "fields": {
+            "address": "GRD FLOOR, SHANTI PARK, SHOP NO 1 TO 4, OLD COLLECTOR BUNGALOW, NEAR SAYAJI GROUND, STATION ROAD, TAPI, VYARA 394650, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VYARA",
+            "district": "TAPI",
+            "ifsc": "IDFB0042841",
+            "office": "VYARA BRANCH",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139764
+    },
+    {
+        "fields": {
+            "address": "64B 1ST FLOOR BALLYGUNGE CIRCULAR ROAD KOLKATA 700019",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "IDFB0060101",
+            "office": "KOLKATA BALLYGUNGE CIRCULAR ROAD",
+            "phone": "66390700",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139765
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR & 6TH FLOOR,VISHNU CHAMBERS,,SITUATED AT J-4,BLOCK EP & GP,, SECTOR-V, BIDHAN NAGAR,KOLKATA-700091",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SALT LAKE- KOLKATA",
+            "district": "NORTH TWENTY FOUR PARGANAS",
+            "ifsc": "IDFB0060102",
+            "office": "SALT LAKE-KOLKATA BRANCH",
+            "phone": "1800419433",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139766
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, BHANDARI HOUSE, 16 NETAJI SUBHAS ROAD, DALHOUSIE, KOLKATA 700001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "IDFB0060103",
+            "office": "DALHOUSIE BRANCH",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139767
+    },
+    {
+        "fields": {
+            "address": "VN HARDWARE BUILDING, DEMESEINIONG,LAITHUMKRA,OPPOSITE NEEPCO OFFICE,EAST SHILLONG, MEGHALAYA 793011, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHILLONG",
+            "district": "EAST KHASI HILLS",
+            "ifsc": "IDFB0060201",
+            "office": "SHILLONG BRANCH",
+            "phone": "0",
+            "state": "MEGHALAYA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139768
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 130460, WARD NO. 13, TG ROAD, KRISHNA NAGAR, SHANKER CHOWMUHANI, AGARTALA TRIPURA (W) 799001, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "AGARTALA",
+            "district": "WEST TRIPURA",
+            "ifsc": "IDFB0060221",
+            "office": "AGARTALA BRANCH",
+            "phone": "0",
+            "state": "TRIPURA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139769
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, 96, KHARVEL NAGAR, JANPATH, BHUBANESWAR, ODISHA 751001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHUBANESWAR",
+            "district": "KHORDHA",
+            "ifsc": "IDFB0060241",
+            "office": "BHUBANESWAR BRANCH",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139770
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, AG PLAZA, G.S. ROAD, GUWAHATI, ASSAM 781005, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GUWAHATI",
+            "district": "KAMRUP METROPOLITAN",
+            "ifsc": "IDFB0060261",
+            "office": "GUWAHATI  BRANCH",
+            "phone": "0",
+            "state": "ASSAM"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139771
+    },
+    {
+        "fields": {
+            "address": "UPPER GROUND FLOOR,SHOP NO 14-15,G.V.MALL,BORING ROAD,PATNA BIHAR 800001 TOLL FREE NO-18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BORING ROAD",
+            "district": "PATNA",
+            "ifsc": "IDFB0060281",
+            "office": "BORING ROAD BRANCH",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139772
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, BINDAL TOWER, P.H. NO. 110, RIC, SHANKAR NAGAR, RAIPUR, CHHATTISGARH 492007, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "IDFB0060301",
+            "office": "RAIPUR BRANCH",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139773
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, D-59/1, A-2, RATHYATRA, VARANASI, UTTAR PRADESH 221010, TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VARANASI",
+            "district": "VARANASI",
+            "ifsc": "IDFB0060321",
+            "office": "VARANASI BRANCH",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139774
+    },
+    {
+        "fields": {
+            "address": "2ND FLOOR, ORIFLAME MALL(CITADEL BUILDING), MAIN ROAD AREA, RANCHI, JHARKHAND 834001, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RANCHI",
+            "district": "RANCHI",
+            "ifsc": "IDFB0060341",
+            "office": "RANCHI BRANCH",
+            "phone": "0",
+            "state": "JHARKHAND"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139775
+    },
+    {
+        "fields": {
+            "address": "H NO. 136 NEAR NAGAR PALIKA OFFICE, TARENGA ROAD, SHAKTIWARD, P O BHATAPARA, DIST. BALODA BAZAR, BHATAPARA, CHHATTISGARH - 493118. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BHATAPARA",
+            "district": "BALODABAZAR",
+            "ifsc": "IDFB0060461",
+            "office": "BHATAPARA BRANCH",
+            "phone": "0",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139776
+    },
+    {
+        "fields": {
+            "address": "DBS WESTMINISTER,108,R.K.SALAI,3RD FLOOR,CHENNAI 600 004",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080101",
+            "office": "CHENNAI R.K.SALAI",
+            "phone": "66145000",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139777
+    },
+    {
+        "fields": {
+            "address": "GF& 1 FLOOR TAHERA MANOR NUNGAMBAKKAM HIGH ROAD CHENNAI 600034",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080102",
+            "office": "NUNGAMBAKKAM BRANCH",
+            "phone": "9841775883",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139778
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, PREMISE NEW NO. 57, OLD NO.29, FIRST MAIN ROAD, OPP. BILLROTH HOSPITAL, R.A PURAM, CHENNAI 600028, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RA PURAM",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080103",
+            "office": "RA PURAM BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139779
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, DOOR NO.3, DASS INDIA TOWERS,SECOND LINE BEACH ROAD, PARRYS CORNER, CHENNAI 600001 TOLL-FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080104",
+            "office": "PARRYS CORNER BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139780
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, DOOR NO.9, 3RD AVENUE, INDIRA NAGAR, ADYAR, CHENNAI 600020, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "ADYAR",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080105",
+            "office": "ADYAR BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139781
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,TAMILVANNAN COMPLEX,BLOCK NO. AA 144, 3RD AVENUE, SHANTHI COLONY, ANNA NAGAR, CHENNAI 600040, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "ANNA NAGAR",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080106",
+            "office": "ANNA NAGAR BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139782
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, D SQUARE, 145/6A2, 6A3, EGATTUR, CHENNAI 603103, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "EGATTUR",
+            "district": "KANCHIPURAM",
+            "ifsc": "IDFB0080107",
+            "office": "EGATTUR BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139783
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NEW NO. 3, OLD NO.2, VENKATANARAYANA ROAD, DIAGONALLY OPP TO PANAGAL PARK, OPPOSITE TO T NAGAR SOCIAL CLUB, CHENNAI 600017, TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "T NAGAR",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080108",
+            "office": "T NAGAR BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139784
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, MAHALAXMI BUILDING, 46/43, 10TH AVENUE, ASHOK NAGAR, OPPOSITE INDUSIND BANK, NEXT TO TNSC BANK, CHENNAI - 600083",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080119",
+            "office": "ASHOK NAGAR BRANCH",
+            "phone": "9894013999",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139785
+    },
+    {
+        "fields": {
+            "address": "PLOT NO. 80, OLD DOOR NO. 73, NEW DOOR NO. 58, NEW AVADI ROAD, KILPAUK, CHENNAI - 600010",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080121",
+            "office": "KILPAUK BRANCH",
+            "phone": "9884303303",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139786
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, NO. 1, R.S NO. 1731/78, DR. RADHAKRISHNAN SALAI, IV STREET, OPPOSITE TO AURAS CORPORATE CENTRE, MYLAPORE, CHENNAI - 600004",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "IDFB0080122",
+            "office": "DR. RADHAKRISHNAN SALAI BRANCH",
+            "phone": "9894013999",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139787
+    },
+    {
+        "fields": {
+            "address": "RESIDENCY BUILDING PLOT NO 79 RESIDENCY ROAD RICHMOND TOWN BANGALORE",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE",
+            "ifsc": "IDFB0080151",
+            "office": "BANGALORE RESIDENCY ROAD",
+            "phone": "67943000",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139788
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ANUGOPAL PLAZA, NO 610,6TH BLOCK, 80 FEET ROAD, KORAMANGALA, BENGALURU 560095, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KORAMANGALA",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080152",
+            "office": "KORAMANGALA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139789
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ANMOL CARLSON COURT, FLAT NO. G-2, NEW KHATHA NO.180/614/G-02, WHITEFIELD MAIN ROAD,WHITE FIELD, OPP LOURDES CHURCH, BENGALURU 560066, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "WHITEFIELD",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080153",
+            "office": "WHITEFIELD BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139790
+    },
+    {
+        "fields": {
+            "address": "GROUND MEZZANINE FLOOR, SHANKARI HEIGHTS,103,15TH CROSS ROAD, BETWEEN SAMPIGE MARGOSA ROAD, MALLESWARAM, BENGALURU 560003, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MALLESWARAM",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080154",
+            "office": "MALLESWARAM BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139791
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 303/A, MEENAKSHI TOWERS, 100 FT ROAD, INDIRANAGAR, BENGALURU 560008, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "INDIRANAGAR",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080155",
+            "office": "INDIRANAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139792
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NEW NO.20, OLD NO.476, 9TH MAIN ROAD, 40TH CROSS, JAYANAGAR, 5TH BLOCK, OPP TO MAINLAND CHINA HOTEL, BENGALURU 560041, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JAYANAGAR",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080156",
+            "office": "JAYANAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139793
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, TRINITY COMPLEX, KALYAN NAGAR ORR, KAMMANAHALLI, BENGALURU 560043",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KAMMANAHALLI",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080157",
+            "office": "KALYAN NAGAR BRANCH",
+            "phone": "9902585585",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139794
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GRS TOWERS, SURVEY NUMBER 18/2A, SARJAPUR MAIN ROAD, BELLANDUR, BANGALORE 560102, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SARJAPURA ROAD",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080158",
+            "office": "SARJAPURA ROAD BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139795
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, BASAVA CHETANA, MATADAHALLI FURTHER EXTENSION, NO 172/1, MLA LAYOUT, R T NAGAR, BANGALORE 560032, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080167",
+            "office": "R T NAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139796
+    },
+    {
+        "fields": {
+            "address": "GR FLR, SHOP NO 3, OPP KOTAK BANK, CLEVELAND TOWN, PULIKESHI NAGAR, COLES ROAD, BANGALORE 560005",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080168",
+            "office": "FRAZER TOWN BRANCH",
+            "phone": "9148158621",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139797
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 1ST MAIN ROAD, 4TH BLOCK, SITE NO. 1016/39, MANI COMPLEX,RAJAJI NAGAR, DR. RAJKUMAR ROAD,BANGALORE - 560010,TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJAJINAGAR",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080169",
+            "office": "RAJAJINAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139798
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PREMISES NO. 77, PID NO. 55-445-77, HOSAKEREHALLI VILLAGE, 100 FEET RING ROAD, BANGALORE,560085, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080171",
+            "office": "BANASHANKARI THIRD STAGE BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139799
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SITE NO. 4 & 5TH, 27TH MAIN, 1ST SECTOR, HSR LAYOUT, BENGALURU - 560095",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080172",
+            "office": "HSR LAYOUT BRANCH",
+            "phone": "9148158621",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139800
+    },
+    {
+        "fields": {
+            "address": "GR FLR NO 8/3, PID NO. 49-6-8/3, BULL TEMPLE ROAD, BASAVANAGUDI, BANGALORE 560004",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "IDFB0080173",
+            "office": "BASAVANAGUDI BRANCH",
+            "phone": "9900525619",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139801
+    },
+    {
+        "fields": {
+            "address": "Ground floor ,Plot bearing no-83 and 84,Punnaiah Plaza, Road no 2 Banjara Hills, Near Jubilee Hills Check Post,Hyderabad,Telangana State, Pin code-500 033",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "IDFB0080201",
+            "office": "HYDERABAD JUBILEE TOWN",
+            "phone": "7400430739",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139802
+    },
+    {
+        "fields": {
+            "address": "JUBILEE TOWN, PLOT NO. 1130 A, , 3RD FLOOR, ROAD NO. 36, JUBILEE HILLS, HYDERABAD 500033",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "IDFB0080202",
+            "office": "HYDERABAD - BANJARA HILLS BRANCH",
+            "phone": "7400430739",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139803
+    },
+    {
+        "fields": {
+            "address": "LEGEND CRYSTAL, FIRST FLOOR, SHOP NO-1, 1-7-79 A&B, MANDALAY LANE, PG ROAD, SECUNDERABAD 500003",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "PARADISE SECUNDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "IDFB0080203",
+            "office": "PARADISE SECUNDERABAD BRANCH",
+            "phone": "8452812595",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139804
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 6-3-1089/F, RVR TOWERS, RAJ BHAVAN ROAD, SOMAJIGUDA, HYDERABAD 500082 TELANGANA, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SOMAJIGUDA",
+            "district": "HYDERABAD",
+            "ifsc": "IDFB0080204",
+            "office": "SOMAJIGUDA BRANCH",
+            "phone": "0",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139805
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,SURVEY NO. 92/1, 92/3 TO 18, GHMC NO. 337/123(P) & 124/1, VINAYAKNAGAR, GACHIBOWLI, HYDERABAD 500032 TELANGANA, TOLL FREE NO 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GACHIBOWLI",
+            "district": "RANGAREDDI",
+            "ifsc": "IDFB0080205",
+            "office": "GACHIBOWLI BRANCH",
+            "phone": "0",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139806
+    },
+    {
+        "fields": {
+            "address": "CHAVAN PLAZA, -1, R K COLONY,NEAR GOVT HOSPITAL,CHIKODI, BELGAVI DISTRICT, KARNATAKA- 591201, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHIKKODI",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080251",
+            "office": "CHIKKODI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139807
+    },
+    {
+        "fields": {
+            "address": "3195-B/ 3/1D, HOSPET GALLI, ANAND TALKIES ROAD, GOKAK, DIST-BELAGAVI, KARNATAKA-591307, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GOKAK",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080252",
+            "office": "GOKAK  BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139808
+    },
+    {
+        "fields": {
+            "address": "821/1069, PB ROAD, HONAGA, BELGAUM, KARNATAKA- 591156, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HONAGA",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080253",
+            "office": "HONAGA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139809
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO. 82/A, NAVI PETH PO, RAMDURGA TALUKA, BELGAUM DISTRICT, KARNATAKA- 591123, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAMDURGA",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080254",
+            "office": "RAMDURGA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139810
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 620, C/0 BALARAM FAKIRA MOTARI, BHAGYALAKSHMI NIVAS, GOKUL NAGAR, GOKAK ROAD, POST MUCHANDI, BELGAUM, 16 KARNATAKA - 590016, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUCHANDI",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080255",
+            "office": "MUCHANDI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139811
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, AADISHAKTI TOWERS, CTS NO.5650,SURVEY NO.236/2, KHANPUR ROAD, GOAVES,KARNATAKA STATE, 590003, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BELGAUM",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080256",
+            "office": "BELGAUM BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139812
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NO. 1224 B, PLOT NO. 4, ATHANI GOKAK ROAD, ATHANI- 591304, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "ATHANI",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080257",
+            "office": "ATHANI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139813
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,SHRI VEERABHADRESHWARA COMPLEX,10TH WARD,MYLARA BYPASS ROAD,HUVINA HADAGALI (TOWN),BELLARY DISTRICT 583219 KARNATAKA STATE,TOLL FREE NO 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BAILHONGAL",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080258",
+            "office": "BAILHONGAL BRANSH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139814
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, H. NO.95, N PRIDE, PINTO ROAD, DESAI CROSS, DHARWAD DISTRICT, HUBBALLI, KARNATAKA- 580020, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HUBBALLI",
+            "district": "DHARWAD",
+            "ifsc": "IDFB0080281",
+            "office": "HUBBALLI  BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139815
+    },
+    {
+        "fields": {
+            "address": "BETADUR POST KUNDGOL TQ DHARWAD DISTRICT KARNATAKA 581207, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BETADUR",
+            "district": "DHRWAD",
+            "ifsc": "IDFB0080282",
+            "office": "BETADUR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139816
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SURAJ ARCADE, JAYANAGAR, 1ST CROSS, SAPTHAPUR, DHARWAD -580001",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "IDFB0080283",
+            "office": "DHARWAD BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139817
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, VIDYANAGAR, A BLOCK, 3RD CROSS, HAVERI, PB ROAD, HAVERI - 581110, KARNATAKA STATE, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HAVERI",
+            "district": "HAVERI",
+            "ifsc": "IDFB0080301",
+            "office": "HAVERI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139818
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SIRSI SHIMOGA HIGHWAY ROAD, MAKARAVALI, HAVERI DISTRICT, KARNATAKA- 581110, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MAKARAVALI",
+            "district": "HAVERI",
+            "ifsc": "IDFB0080302",
+            "office": "MAKARVALI  BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139819
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, KURSAPUR COMPLEX, SHIGGAON, HAVERI DISTRICT, KARNATAKA - 581205, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHIGGAON",
+            "district": "HAVERI",
+            "ifsc": "IDFB0080303",
+            "office": "SHIGGAON BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139820
+    },
+    {
+        "fields": {
+            "address": "DEVI HEIGHTS, GROUND FLOOR, OPP KEB, PB ROAD, RANEBENNUR, HAVERI DISTRICT, KARNATAKA STATE, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RANEBENNUR",
+            "district": "HAVERI",
+            "ifsc": "IDFB0080304",
+            "office": "RANEBENNUR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139821
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, LASKARI COMPLEX, MAIGUR ROAD, BAGALKOT DISTRICT JAMKHANDI, KARNATAKA - 587301, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "JAMKHANDI",
+            "district": "BAGALKOTE",
+            "ifsc": "IDFB0080331",
+            "office": "JAMKHANDI BRANCH",
+            "phone": "9916874466",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139822
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,NO.4026A/149,YADAWAD ROAD,SIDRAMESHWAR NAGAR, OPP. PWD IB, MUDHOL, BAGALKOTE, KARNATAKA, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUDHOL",
+            "district": "BAGALKOTE",
+            "ifsc": "IDFB0080332",
+            "office": "MUDHOL BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139823
+    },
+    {
+        "fields": {
+            "address": "NO.942, WARD NO. 2, KUSHTAGI ROAD, TALUKA BADAMI, DIST- BAGALKOTE, KARNATAKA - 587114, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HOSUR",
+            "district": "BAGALKOTE",
+            "ifsc": "IDFB0080333",
+            "office": "HOSUR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139824
+    },
+    {
+        "fields": {
+            "address": "KM CENTRE, FIRST FLOOR, NO. 1650, CITY SURVEY NO. 8916/2, RABKAVI BANHATTI, PINCODE-587311, KARNATAKA STATE, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BANHATTI",
+            "district": "BAGALKOT",
+            "ifsc": "IDFB0080334",
+            "office": "BANHATTI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139825
+    },
+    {
+        "fields": {
+            "address": "DOOR NO 287, GROUND FLOOR, PI D NO. 1-5-2, GUDUR COMPLEX, WARD NO. 2, BILAGI TALUKA, DIST. BAGALKOT KARNATAKA - 587116. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BILAGI",
+            "district": "BAGALKOT",
+            "ifsc": "IDFB0080335",
+            "office": "BILAGI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139826
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, BASAVA COMPLEX, OPP HDFC BANK, HOSPET - HUBLI ROAD, HUDCO COLONY, KOPPAL, KARNATAKA - 583231, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KOPPAL",
+            "district": "KOPPAL",
+            "ifsc": "IDFB0080351",
+            "office": "KOPPAL BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139827
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, JULAI NAGAR, INDIRA CIRCLE, GANGAWATI, KARNATAKA - 583227, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GANGAWATI",
+            "district": "KOPPAL",
+            "ifsc": "IDFB0080352",
+            "office": "GANGAWATI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139828
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, ILLAHI COMPLEX, MA NO.5953, PLOT NO. 1 OF SY 104 MURUDI BHIMAJA CIRCLE, KOPPAL ROAD, KARNATAKA, 584121, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KUSHTAGI",
+            "district": "KOPPAL",
+            "ifsc": "IDFB0080353",
+            "office": "KUSHTAGI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139829
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NO. 4-1-27/2/1 TO 4-1-27/2/4, CHINIWAL COMPLEX, R G MAIN ROAD., KARATAGI, PINCODE - 583229. KARATAGI, KOPPAL DIST., KARNATAKA. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KARATAGI",
+            "district": "KOPAL",
+            "ifsc": "IDFB0080354",
+            "office": "KARATAGI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139830
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, BG ARCADE, NAGARAM PALEM MAIN ROAD, NEXT TO ALANKAR FUNCTION HALL, GUNTUR, ANDHRA PRADESH, 522004, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "GUNTUR",
+            "district": "GUNTUR",
+            "ifsc": "IDFB0080381",
+            "office": "GUNTUR BRANCH",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139831
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, MADHUSREE BUILDING, 61-3/1-12, SERVICE ROAD, NH-5, KRISHNA DISTRICT, BALAJI NAGAR, ANDHRA PRADESH, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VIJAYWADA",
+            "district": "KRISHNA",
+            "ifsc": "IDFB0080391",
+            "office": "VIJAYWADA BRANCH",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139832
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PUNNAIAH & VAJRAMMA COMPLEX, 59-6-17, KANCHUKOTA VARI STREET, RAMACHANDRANAGAR, VIJAYAWADA, AP STATE, PIN CODE 520008",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VIJAYAWADA GAYATRI",
+            "district": "VISHAKHAPATNAM",
+            "ifsc": "IDFB0080392",
+            "office": "VIJAYAWADA GAYATRI NAGAR BRANCH",
+            "phone": "9148158621",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139833
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 79-02-03, TILAK ROAD, PRASANTI ESTATES,V L PURAM, RAJAHMUNDRY, ANDHRAPRADESH-533103, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "RAJAHMUNDRY",
+            "district": "EAST GODAVARI",
+            "ifsc": "IDFB0080401",
+            "office": "RAJAHMUNDRY BRANCH",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139834
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 43-9-146 AND 147, TSN COLONY MAIN ROAD, DONDAPARTHY, VISHAKAPATNAM, ANDHRA PRADESH 530016, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VIZAG",
+            "district": "VISHAKAPATNAM",
+            "ifsc": "IDFB0080411",
+            "office": "VIZAG BRANCH",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139835
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, VINAY SHAKT, DABAGARDENS MAIN ROAD, VISAKHAPATNAM, ANDHRA PRADESH- 530002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "VISAKHAPATNAM",
+            "district": "KRISHNA",
+            "ifsc": "IDFB0080412",
+            "office": "VISAKHAPATNAM - DABA GARDEN BRANCH",
+            "phone": "9686193001",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139836
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, DOOR NO 1776 A85 AND A86, SIDDAVEERAPPA LAYOUT, SHAMANUR ROAD, DAVANGERE - 577004 KARNATAKA STATE, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "DAVANGERE",
+            "district": "DAVANGERE",
+            "ifsc": "IDFB0080431",
+            "office": "DAVANGERE BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139837
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, 1836/2-1766/2, Muddenahali Kagathur Road, Rajathdri Complex, Channagiri, Davangere District, Karnataka - 577213, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "CHANNAGIRI",
+            "district": "DAVANGERE",
+            "ifsc": "IDFB0080432",
+            "office": "CHANNAGIRI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139838
+    },
+    {
+        "fields": {
+            "address": "Ground Floor, \u252c\u00e1No 1013, Opp  New KSRTC Bus stand, Shikaripura Road, Honnali, Hirekal Mutt village, Davangere District, Pincode  577217 Karnataka, Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "Honalli",
+            "district": "DAVANGERE",
+            "ifsc": "IDFB0080433",
+            "office": "Honalli Branch",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139839
+    },
+    {
+        "fields": {
+            "address": "C 102 GROUND FLOOR, 11TH CROSS STREET, THILLAI NAGAR, TIRUCHIRAPPALLI 620018 , Toll Free No 1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "TIRUCHIRAPPALLI",
+            "district": "TIRUCHIRAPPALLI",
+            "ifsc": "IDFB0080451",
+            "office": "TIRUCHIRAPPALLI  BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139840
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,KHATA NO 1233-27-1547 & 1237-736-1546,BESIDES SURYA COMFORTS,3RD PARALLEL ROAD,DURGIGUDI,SHIMOGA 577201",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHIMOGA",
+            "district": "SHIMOGA",
+            "ifsc": "IDFB0080471",
+            "office": "SHIMOGA BRANCH",
+            "phone": "7625016871",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139841
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR , SITE NO. 1 , E KHATA NO 13-3-107A, SS ROAD, OPP KEB, SHIKARIPURA, SHIMOGA DISTRICT, PIN-577427",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SHIKARIPURA",
+            "district": "SHIMOGA",
+            "ifsc": "IDFB0080472",
+            "office": "SHIKARIPURA BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139842
+    },
+    {
+        "fields": {
+            "address": "Ground floor,ShriVeerabhadreshwara Complex,Door No460/38,460/39 AND 460/43,10th Ward,Mylara Bypass Road, Huvina Hadagali (Town), Bellary District\u252c\u00fb583219.Karnataka State,TollFree1800 419 8332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "HUVINAHADAGALI",
+            "district": "BELLARY",
+            "ifsc": "IDFB0080491",
+            "office": "HUVINAHADAGALI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139843
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR NO 1472, 1483/1 AND 1484, SRI LAXMI VARI ARCADE, NEAR APME YARD, WARD NO 4, HARAPANAHALLI ROAD, KOTTUR, BELLARI DISTRICT 583134",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "KOTTURU",
+            "district": "BELLARY",
+            "ifsc": "IDFB0080492",
+            "office": "KOTTURU BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139844
+    },
+    {
+        "fields": {
+            "address": "GROUND & MEZZANINE FLOOR, VANKAARATH TOWERS,NH BYPASS JUNCTION, PALARIVATTOM,COCHIN, KERALA STATE- 682024",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "ERNAKULAM",
+            "district": "ERNAKULAM",
+            "ifsc": "IDFB0080511",
+            "office": "ERNAKULAM BRANCH",
+            "phone": "9945865477",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139845
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR, A.M.I. MIDTOWN BUILDING,D.B.ROAD,, DOOR NO. 25A-2,RS PURAM,DB ROAD, COIMBATORE, 641002",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "IDFB0080531",
+            "office": "COIMBATORE BRANCH",
+            "phone": "7718885312",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139846
+    },
+    {
+        "fields": {
+            "address": "LOWER GROUND & FIRST FLOOR 340, MIG 80 FEET ROAD, ANNA NAGAR, MADURAI, 625020",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MADURAI",
+            "district": "MADURAI",
+            "ifsc": "IDFB0080551",
+            "office": "MADURAI BRANCH",
+            "phone": "9841775883",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139847
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 1ST BLOCK, JAYALAKSHMIPURAM, DEVRAJA MOHALLA, KALIDAS ROAD, MYSORE, PINCODE- 570002, KARNATAKA STATE",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MYSURU",
+            "district": "MYSORE",
+            "ifsc": "IDFB0080571",
+            "office": "MYSURU BRANCH",
+            "phone": "8095843999",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139848
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,DOOR NO 2 TO 8,MNJ COMPLEX,KALLIAPILLAI THOPPU,SKS HOSPITAL ROAD,OPP.PONNUSAMY KALYANA MANDAPAM,FAIRLANDS SALEM TAMILNADU 636004-TOLL FREE NO 18004198332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "IDFB0080591",
+            "office": "SALEM BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139849
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,LALBAGH TOWERS,BALLALBAGH CIRCLE,M.G ROAD,MANGALURU,KARNATAKA,575003",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MANGALURU",
+            "district": "MANGALURU",
+            "ifsc": "IDFB0080611",
+            "office": "MANGALURU BRANCH",
+            "phone": "9972997817",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139850
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR,CTS NO.3782,POST ROAD,SANKESHWAR,TALUKA.HUKKERI,DIST-BELAGAVI,PINCODE-591313,KARNATAKA,TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "SANKESHWAR",
+            "district": "BELGAUM",
+            "ifsc": "IDFB0080811",
+            "office": "SANKESHWAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139851
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, PUJARI COMPLEX, LAND SY. NO. 1132, RADHAKISHAN NAGAR, BASAVANA BAGEWADI. DIST. VIJAYAPUR, PINCODE 586203, KARNATAKA, TOLL FREE NUMBER 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "BASAVANA BAGEWADI",
+            "district": "BIJAPUR",
+            "ifsc": "IDFB0080831",
+            "office": "BASAVANA BAGEWADI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139852
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GHH ENCLAVE, TMC NO 1602/B/13, HESANUR CIRCLE, MUNDARGI KARNATAKA - 582118. TOLL FREE NO. 18004194332",
+            "bank_name": "IDFC FIRST BANK LTD",
+            "branch": "",
+            "city": "MUNDARGI",
+            "district": "GADAG",
+            "ifsc": "IDFB0080851",
+            "office": "MUNDARGI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 139853
+    }
+]

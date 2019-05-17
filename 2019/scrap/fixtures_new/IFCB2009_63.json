@@ -1,0 +1,32 @@
+[
+    {
+        "fields": {
+            "address": "19th Floor, Tower A, Peninsula Business Park,Ganpatrao Kadam marg,Lower Parel,Mumbai - 400013, India",
+            "bank_name": "SOCIETE GENERALE",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "SOGE0INBB01",
+            "office": "SOCI\u251c\u00ebT\u251c\u00eb G\u251c\u00ebN\u251c\u00ebRALE",
+            "phone": "400021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37104
+    },
+    {
+        "fields": {
+            "address": "Upper Ground Floor, Ambadeep Building , 14, Kasturba Gandhi Marg, New Delhi - 110001, India",
+            "bank_name": "SOCIETE GENERALE",
+            "branch": "",
+            "city": "DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "SOGE0INDL01",
+            "office": "SOCI\u251c\u00ebT\u251c\u00eb G\u251c\u00ebN\u251c\u00ebRALE",
+            "phone": "110001",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37105
+    }
+]

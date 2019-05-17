@@ -1,0 +1,17 @@
+[
+    {
+        "fields": {
+            "address": "101,RAHEJA CENTRE 1ST FLOOR,FREE PRESS JOURNAL ROAD,NARIMANPOINT MUMBAI 400021",
+            "bank_name": "SBM BANK INDIA LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MAHARASHTRA",
+            "ifsc": "STCB0000065",
+            "office": "RTGS-HO",
+            "phone": "43028826",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 137769
+    }
+]

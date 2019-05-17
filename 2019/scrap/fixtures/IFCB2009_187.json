@@ -12,7 +12,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 1
+        "pk": 108593
     },
     {
         "fields": {
@@ -27,7 +27,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 2
+        "pk": 108594
     },
     {
         "fields": {
@@ -42,7 +42,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 3
+        "pk": 108595
     },
     {
         "fields": {
@@ -57,7 +57,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 4
+        "pk": 108596
     },
     {
         "fields": {
@@ -72,7 +72,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 5
+        "pk": 108597
     },
     {
         "fields": {
@@ -87,7 +87,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 6
+        "pk": 108598
     },
     {
         "fields": {
@@ -102,7 +102,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 7
+        "pk": 108599
     },
     {
         "fields": {
@@ -117,7 +117,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 8
+        "pk": 108600
     },
     {
         "fields": {
@@ -132,7 +132,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 9
+        "pk": 108601
     },
     {
         "fields": {
@@ -147,7 +147,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 10
+        "pk": 108602
     },
     {
         "fields": {
@@ -162,7 +162,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 11
+        "pk": 108603
     },
     {
         "fields": {
@@ -177,7 +177,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 12
+        "pk": 108604
     },
     {
         "fields": {
@@ -192,7 +192,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 13
+        "pk": 108605
     },
     {
         "fields": {
@@ -207,7 +207,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 14
+        "pk": 108606
     },
     {
         "fields": {
@@ -222,7 +222,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 15
+        "pk": 108607
     },
     {
         "fields": {
@@ -237,7 +237,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 16
+        "pk": 108608
     },
     {
         "fields": {
@@ -252,7 +252,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 17
+        "pk": 108609
     },
     {
         "fields": {
@@ -267,7 +267,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 18
+        "pk": 108610
     },
     {
         "fields": {
@@ -282,7 +282,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 19
+        "pk": 108611
     },
     {
         "fields": {
@@ -297,7 +297,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 20
+        "pk": 108612
     },
     {
         "fields": {
@@ -312,7 +312,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 21
+        "pk": 108613
     },
     {
         "fields": {
@@ -327,7 +327,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 22
+        "pk": 108614
     },
     {
         "fields": {
@@ -342,7 +342,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 23
+        "pk": 108615
     },
     {
         "fields": {
@@ -357,7 +357,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 24
+        "pk": 108616
     },
     {
         "fields": {
@@ -372,7 +372,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 25
+        "pk": 108617
     },
     {
         "fields": {
@@ -387,7 +387,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 26
+        "pk": 108618
     },
     {
         "fields": {
@@ -402,7 +402,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 27
+        "pk": 108619
     },
     {
         "fields": {
@@ -417,7 +417,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 28
+        "pk": 108620
     },
     {
         "fields": {
@@ -432,7 +432,7 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 29
+        "pk": 108621
     },
     {
         "fields": {
@@ -447,7 +447,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 30
+        "pk": 108622
     },
     {
         "fields": {
@@ -462,7 +462,7 @@
             "state": "MADHYA PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 31
+        "pk": 108623
     },
     {
         "fields": {
@@ -477,6 +477,6 @@
             "state": "UTTAR PRADESH"
         },
         "model": "masterdata.ifsc",
-        "pk": 32
+        "pk": 108624
     }
 ]

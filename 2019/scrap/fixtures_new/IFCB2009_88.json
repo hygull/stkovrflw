@@ -1,0 +1,4712 @@
+[
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,1 ST LANE, SHAHUPURI, KOLHAPUR \u252c\u00fb 416 001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000001",
+            "office": "SHAHUPURI KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36790
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,LAXMI ROAD,NEAR KOLHAPUR MUNICIPAL CORPORATION, LAXMIPURI, KOLHAPUR-416002.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000002",
+            "office": "LAXMIPURI KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36791
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR C.S NO 1044,SUKH SHANTI HEIGHTS, COLLEGE CORNER,AMRAI ROAD, NORTH SHIVAJI NAGAR,SANGLI - 416416",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000003",
+            "office": "SANGLI MAIN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36792
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,HIGH SCHOOL ROAD,JAWAHAR CHOWK, SHIVRAJ COMPLEX,MIRAJ - 416410.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000004",
+            "office": "MIRAJ",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36793
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A.B.PATIL COMPLEX,SUBHASH ROAD, 9TH LANE, JAYSINGPUR-416101.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000005",
+            "office": "JAYSINGPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36794
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,R. S. NO.126,BAVDEKAR COMPLEX,NEAR BUS STAND, PETH VADAGAON,TAL. : HATKANGALE,KOLHAPUR - 416112",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000006",
+            "office": "PETHVADGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36795
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,1670/1 OPP. HUTATMA SMARAK,MAHAVEER NAGAR,MAIN ROAD HUPARI,KOLHAPUR - 416203",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000007",
+            "office": "HUPARI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36796
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MAIN ROAD A/P- RUKADI.TAL.:HATKANGLE, DIST.KOLHAPUR-416115",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000008",
+            "office": "RUKADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36797
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,7356, MAIN ROAD,ICHALKARANJI -TAL. HATKANANGALE, DIST .KOLHAPUR.416 115",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000009",
+            "office": "ICHALKARANJI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36798
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.6,7& 8,SIDHIVINAYAK APPARTMAENT, NEAR VIJAYRAJ HOTEL,TARABAI PARK,KOLHAPUR-416003",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000010",
+            "office": "TARABAI PARK KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36799
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO.88, BANK BUILDING,MARKET YARD,SANGLI 416 416.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000011",
+            "office": "MARKET YARD SANGLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36800
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NEAR NAGOBA KATTA, SHANTI SAGAR MARG, AT POST MHAISAL, TALUKA MIRAJ, DIST SANGLI \u252c\u00fb 416409",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000012",
+            "office": "MHAISAL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36801
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD.,JEWEL WORLD BUILDING,GROUND FLOOR,175,KALBADEVI ROAD,CORNER OF SHAIK MEMON STREET,MUMBAI - 400002.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000013",
+            "office": "GIRGAUM (KALBADEVI)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36802
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,DAKSHIN BHAG BHILWADI VIKAS SOCIETY BUILDING,BHILWADI \u252c\u00fb 416 303. TALUKA: PALUS, \u252c\u00e1DIST .: SANGLI.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000014",
+            "office": "BHILWADI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36803
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,249, E WARD, SOCIETY BUILDING, A/P: NANDRE \u252c\u00fb 416 423.TALUKA\u252c\u00e1 : MIRAJ, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000015",
+            "office": "NANDRE",
+            "phone": "2332473123",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36804
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 : SAMDOLI \u252c\u00fb 416 427.TALUKA\u252c\u00e1 :\u252c\u00e1 MIRAJ. DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000016",
+            "office": "SAMDOLI",
+            "phone": "2332482435",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36805
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,446, A/P : INGALI \u252c\u00fb 416 202.TALUKA\u252c\u00e1 :\u252c\u00e1 HATKANANGALE,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000017",
+            "office": "INGALI",
+            "phone": "2302359079",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36806
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :VASGADE,TALUKA : KARVEER,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000018",
+            "office": "VASAGADE",
+            "phone": "2312676146",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36807
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MAIN ROAD, GANDHINAGAR.TALUKA:\u252c\u00e1 KARVEER.DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR - 416 119.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000019",
+            "office": "GANDHINAGAR KOLHAPUR",
+            "phone": "2312610218",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36808
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,VITTHAL COMPLEX,9TH LANE, RAJARAMPURI, KOLHAPUR \u252c\u00fb 416 008.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000020",
+            "office": "RAJARAMPURI KOLHAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36809
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P :\u252c\u00e1 HALADI \u252c\u00fb 416 001.TALUKA : KARVEER,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000021",
+            "office": "HALADI",
+            "phone": "2312416640",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36810
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 : INAM DHAMANI,TAL.\u252c\u00e1 MIRAJ, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI\u252c\u00e1\u252c\u00e1 416 416",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000022",
+            "office": "INAM DHAMANI",
+            "phone": "2332302253",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36811
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P : ARJUNWAD \u252c\u00fb 416 120.TALUKA\u252c\u00e1 : SHIROL, DIST.\u252c\u00e1 : KOLHAPUR.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000023",
+            "office": "ARJUNWAD",
+            "phone": "2322232029",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36812
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR,BHARATI,CTS NO 3939/1,CLUB ROAD,BELGAUM - 590001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BELGAUM",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000024",
+            "office": "BELGAUM",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36813
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,H. NO.2127/28, DR.PARDESHI BLDG.ISLAMPUR \u252c\u00fb 415 409 TALUKA : WALVA, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000025",
+            "office": "ISLAMPUR",
+            "phone": "2342222163",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36814
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 RANGOLI,TALUKA : HATKANANGALE,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000026",
+            "office": "RANGOLI",
+            "phone": "2302495012",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36815
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GRAMSEVA SAHAKARI SANGH BLDG\u252c\u00e1\u252c\u00e1\u252c\u00e1\u252c\u00e1 SHAMNEWADI \u252c\u00fb 591 505,TAL.\u252c\u00e1 CHIKODI, DIST.:\u252c\u00e1 BELGAUM.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SHAMANEWADI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000027",
+            "office": "SHAMANEWADI",
+            "phone": "8338662046",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36816
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD.,C/O. SHRI BALBHEEM VIVIDH KARYAKARI SAHAKARI VIKAS SEVA SANSTHA, KHUPIRE ,TAL : KARVEER,DIST. : KOLHAPUR \u252c\u00fb 416205.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000028",
+            "office": "KHUPIRE",
+            "phone": "2312420270",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36817
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BAPU DONGALE BUILDING, MAIN ROAD,AT GHIOTAWADE,POST. KAULAV.TAL. RADHANAGRI, DIST. KOLHAPUR,GHOTAWADE - 416211",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000029",
+            "office": "GHOTAWADE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36818
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,C/O MR. DHANPAL J. KALLANAVAR,A/P  AKKIWAT,TAL.\u252c\u00e1 SHIROL, DIST.\u252c\u00e1 KOLHAPUR,PIN.\u252c\u00e1 -\u252c\u00e1 416 108",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000030",
+            "office": "AKKIWAT",
+            "phone": "2322238132",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36819
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD, ICC TRADE CENTRE, SHOP NO.5, GROUND FLOOR, SENAPATI BAPAT MARG, PUNE - 411 016",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000031",
+            "office": "ICC TRADE CENTRE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36820
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P : BURLI \u252c\u00fb 416 318. TAL. : PALUS, DIST. SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000032",
+            "office": "BURLI",
+            "phone": "2346220141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36821
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BAZAR PETH, SHEDBAL,TAL. : ATHANI,DIST. BELGAUM \u252c\u00fb 591 315",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SHEDBAL",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000033",
+            "office": "SHEDBAL",
+            "phone": "8339264612",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36822
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,379, A/P : SHIRGUPPI,TAL.\u252c\u00e1 :\u252c\u00e1 ATHANI,DIST. :\u252c\u00e1 BELGAUM \u252c\u00fb 591 242",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SHIRGUPPI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000034",
+            "office": "SHIRGUPPI",
+            "phone": "8339265426",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36823
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,529, SOCIETY BLDG. NO.2,A/P : AITAWADE BUDRUK.TAL. : WALWA, DIST. : SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000035",
+            "office": "AITAWADE BDRUK",
+            "phone": "2342253579",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36824
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P : NERLE- 415 406 TAL . : WALWA, DIST.\u252c\u00e1 : SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000036",
+            "office": "NERLE",
+            "phone": "2342278560",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36825
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,395/2,A/P\u252c\u00e1 :\u252c\u00e1 DUDHAGAON- 416 315.TALUKA\u252c\u00e1 :\u252c\u00e1 MIRAJ, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000037",
+            "office": "DUDHAGAON",
+            "phone": "2332486130",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36826
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,178, A/P : ANKALI.TALUKA : MIRAJ, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000038",
+            "office": "ANKALI SANGLI",
+            "phone": "2332422128",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36827
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,395, A/P :\u252c\u00e1 BELLAD-BAGEWADI.PIN CODE\u252c\u00e1 591 305,TAL. : HUKERI,\u252c\u00e1 DIST.\u252c\u00e1 :\u252c\u00e1 BELGAUM.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BELLAD BAGEWADI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000039",
+            "office": "BELLAD BAGEWADI",
+            "phone": "8333257029",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36828
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GRAMPANCHAYAT BUILDING, KABNUR,TALUKA : HATKANANGALE,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR,PIN. \u252c\u00fb 416 129",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000040",
+            "office": "KABNOOR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36829
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 BHOSE,TALUKA\u252c\u00e1 :\u252c\u00e1 MIRAJ, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI PIN \u252c\u00fb 416 422",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000041",
+            "office": "BHOSE",
+            "phone": "2332257222",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36830
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,53, GRAMPANCHAYAT BUILDING,A/P\u252c\u00e1 :\u252c\u00e1 HINGANGAON,TALUKA : KAVATHE-MAHANKAL,DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI\u252c\u00e1 -\u252c\u00e1 416 405",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000042",
+            "office": "HINGANGAON",
+            "phone": "2341226058",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36831
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MEHENDALE \u252c\u00fb KULKARNI BHAVAN,GAONBHAG,SANGLI \u252c\u00fb 416416.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000043",
+            "office": "GAON BHAG SANGLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36832
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,3195/B/2B NILAKANTH NILAYA, OPPOSITE COURT, HOSPET GALLI, GOKAK, DIST BELGAUM\u252c\u00fb 591307",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GOKAK",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000044",
+            "office": "GOKAK",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36833
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD.,SEEMA PRIDE SHOP NO.101 & 102,A/P-UCHAGAON,TAL-KARVEER,DIST-KOLHAPUR-416005",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000045",
+            "office": "UNCHAGAON",
+            "phone": "2312605682",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36834
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 ANKALI \u252c\u00fb 591 213.TAL.\u252c\u00e1 CHIKODI, DIST.\u252c\u00e1 :\u252c\u00e1 BELGAUM",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ANKALI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000046",
+            "office": "ANKALI (SHITOL)",
+            "phone": "8338254275",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36835
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,228, PADMARAJ BLDG, SAKHARWADI,PUNE-BANGALORE ROAD,NIPANI \u252c\u00fb 591 237.DIST. -\u252c\u00e1 BELGAUM (KARNATAKA)",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "NIPANI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000047",
+            "office": "NIPANI",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36836
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,C.T.S. NO.56/57, WARD NO.2,SAMARTH CENTRE,NEW MYDAR ONI,HUBLI \u252c\u00fb 580 028 (K.S.)",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HUBLI-DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "RATN0000048",
+            "office": "HUBLI",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36837
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P: BORPADALE.TALUKA :\u252c\u00e1 PANHALA, DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000049",
+            "office": "BORPADALE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36838
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NO-8,GROUND FLOOR,VEGA CENTER,SHANKARSETH ROAD,SWARGATE,PUNE-411042",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000050",
+            "office": "SWARGATE -PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36839
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 MADILAGE-416 505.TALUKA\u252c\u00e1 :\u252c\u00e1 AJARA, DIST. : KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000051",
+            "office": "MADILAGE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36840
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,199/A ASHIRWAD BUILDING ,OLD PUNE MUMBAI ROAD,CHINCHWAD - 411019",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000052",
+            "office": "CHINCHWAD PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36841
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHRI BUILDING, 295, SHANTILAL MODI ROAD, OPP. SINDHI COLONY,NEAR MAYUR TALKIES,IRANI WADI,KANDIWALI (W), MUMBAI \u252c\u00fb 400 067.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000053",
+            "office": "KANDIWALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36842
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 BHADVAN,TALUKA :\u252c\u00e1 AJARA,DIST.\u252c\u00e1 :\u252c\u00e1 KOLHAPUR \u252c\u00fb 416 505.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000054",
+            "office": "BHADVAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36843
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A/P\u252c\u00e1 :\u252c\u00e1 VISAPUR \u252c\u00fb 416 314.TALUKA:\u252c\u00e1 TASGAON, DIST.\u252c\u00e1 :\u252c\u00e1 SANGLI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000055",
+            "office": "VISAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36844
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,\u252c\u00e6KABADI MANSION\u252c\u00c6, KOSMOS CLUB ROAD,BEHIND COURT,DHARWAD \u252c\u00fb 580 001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HUBLI-DHARWAD",
+            "district": "DHARWAD",
+            "ifsc": "RATN0000056",
+            "office": "DHARWAD",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36845
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,197, 6TH CROSS, GANDHINAGAR, BANGALORE \u252c\u00fb 560 009.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000057",
+            "office": "BANGALORE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36846
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,LAXMI MARKET, POKHRAN ROAD NO.1, NEAR VARTAK NAGAR, THANE (W)",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000058",
+            "office": "VARTAKNAGAR THANE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36847
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHANTILAL SHAHA (PANDARKAR) BUILDING,MAHAVIR PATH, BARAMATI \u252c\u00fb 413 102.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000059",
+            "office": "BARAMATI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36848
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,125, A, MURARAJI PETH,SOLAPUR \u252c\u00fb 413 001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "RATN0000060",
+            "office": "SOLAPUR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36849
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,VASANT ARCADE, BEHIND POLICE STATION, COMBA, MARGOA-403601.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MARGAO",
+            "district": "SOUTH GOA",
+            "ifsc": "RATN0000061",
+            "office": "MARGAO",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36850
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.2-6, SHROFF ARCADE, SODAWALA LANE, NEAR PRABODHAN THACKREY NATYAGRAHA,BORIVALI (W),MUMBAI \u252c\u00fb 400 092.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000062",
+            "office": "BORIWALI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36851
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,R.S. NO.2258/4A,MAHAVEER PATH,AKLUJ \u252c\u00fb 413 101.TAL. \u252c\u00fb MALSHIRAS, DIST. SOLAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SOLAPUR",
+            "district": "SOLAPUR",
+            "ifsc": "RATN0000063",
+            "office": "AKLUJ",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36852
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SADALGE BUILDING, ATHANI ROAD, HARUGERI, TALUKA RAIBAG, DIST BELGAUM - 591220",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HARUGERI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000064",
+            "office": "HARUGERI",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36853
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,C/G - 8,9,10,13 & 14,MALLINATH COMPLEX,OPP. SUJATA FLATS,SHAHIBAUG,AHMEDABAD - 380004.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "RATN0000065",
+            "office": "AHMEDABAD",
+            "phone": "0",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36854
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NIKUNJ SIGNATURE,AMBADI ROAD,VASAI (WEST) - 401202.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000066",
+            "office": "VASAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36855
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BLOCK NO.102 & 103, FIRST FLOOR,INDRAPRASTHA BUILDING, TAPAL NAKA,URAN ROAD,PANVEL\u252c\u00e1 - 410 206.DIST. RAIGAD",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "RAIGAD",
+            "district": "RAIGAD",
+            "ifsc": "RATN0000067",
+            "office": "PANVEL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36856
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NO.006, GROUND FLOOR,GALAXY ARCADE, 10 M.G. ROAD,VILE PARLE (EAST), MUMBAI \u252c\u00fb 400 057.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000068",
+            "office": "VILE PARLE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36857
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.1A, GROUND FLOOR,RIDDHI PARK,SHARANPUR ROAD,NASIK \u252c\u00fb 422 002.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "NASIK",
+            "district": "NASIK",
+            "ifsc": "RATN0000069",
+            "office": "NASHIK",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36858
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,DHANNUR HOUSE,15,SIR P M ROAD, FORT,MUMBAI-400001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000070",
+            "office": "MUMBAI - FORT",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36859
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,17 A/53, GROUND FLOOR,W.E.A. KAROL BAGH,(OPP. JESSARAM HOSPITAL),GURADWAR ROAD,NEW DELHI \u252c\u00fb 110 005.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000071",
+            "office": "NEW DELHI",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36860
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,718/1, SUBHASH ROAD,MANDI PETH,DAVANGERE \u252c\u00fb 577 001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DAVANGERE",
+            "district": "DAVANGERE",
+            "ifsc": "RATN0000072",
+            "office": "DAVANGERE",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36861
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MILLENNIUM PARK, PLOT NO.17,SECTOR 25, NERUL, NAVI MUMBAI.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000073",
+            "office": "NERUL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36862
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,1565-A, SIDDHESHWAR CHOWK, A/P : TASGAON. DIST. SANGLI.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "RATN0000074",
+            "office": "TASGAON",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36863
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,DR. DADA VAIDYA CHOWK, MAIN ROAD,PONDA (GOA)-403 401.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PONDA",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000075",
+            "office": "PONDA",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36864
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.126-127, FORT LIZA COMPLEX,CENTRAL AVENUE ROAD, KALYANINGAR, PUNE \u252c\u00fb 411 006.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000076",
+            "office": "KALYANINAGAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36865
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.S1, MAPUSA TRADE CENTRE,MARODA, MAPUSA,GOA-403 507.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MAPUSA",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000077",
+            "office": "MAPUSA",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36866
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SURYA KOTI BUILDING, SURYA CO-OP. HOUSING SOCIETY LTD. PLOT NO.16, SECTOR 19, KHARGHAR, NAVI MUMBAI - 410 210. TAL.PANVEL, DIST. RAIGAD.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "RAIGAD",
+            "district": "RAIGAD",
+            "ifsc": "RATN0000078",
+            "office": "KHARGHAR",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36867
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,JANAKI PLAZA,PLOT NO.472/A & 478/2A,KOLHAPUR NAKA, SHANIWAR PETH,KARAD \u252c\u00fb 415 110.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SATARA",
+            "district": "SATARA",
+            "ifsc": "RATN0000079",
+            "office": "KARAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36868
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,UNIT NO.1,2 & 7, ROSHAN AVENUE,SILVASSA-VAPI ROAD, SILVASSA \u252c\u00fb 396 230.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SILVASA",
+            "district": "DADRA&NAGAR HAVELI",
+            "ifsc": "RATN0000080",
+            "office": "SILVASSA(U.T.)",
+            "phone": "0",
+            "state": "DADRA AND NAGAR HAVELI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36869
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,\u252c\u00e6ATIM TARA\u252c\u00c6, GROUND FLOOR,SUBHASH ROAD, VISHNUNAGAR,DOMBIVALI (W) \u252c\u00fb 421 202.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000081",
+            "office": "DOMBIVALI(WEST)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36870
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.G-10 & 11,NIZAMAR CENTRE,GROUND FLOOR, DR. ATMARAM ROAD,PANAJI, GOA - 403 001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PANAJI",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000082",
+            "office": "PANAJIM",
+            "phone": "0",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36871
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BUILDING NO.1, SHREE RAM SANKUL,SHOP NO.1,2,3,4, ACHOLE ROAD,OPP. AAKANSHA COMMERCIAL COMPLEX, NALASOPARA (E).\u252c\u00e1DIST. THANE \u252c\u00fb 401 209.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000083",
+            "office": "NALASOPARA",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36872
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BINDU TOWER, SHOP NO.2,3, 13 & 14,C.T.S. NO.2989, OPP. K.D.M.C. VEG. MARKET,SANTOSHI MATA ROAD, KALYAN (W) \u252c\u00fb 421 301.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000084",
+            "office": "KALYAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36873
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.1 & 2, GROUND FLOOR, MOHITE PARADISE, WING NO.\u252c\u00c6C\u252c\u00c6,CTS NO.16/3, 16/4, ANAND NAGAR, SINHGAD ROAD,PUNE \u252c\u00fb 411 051.\u252c\u00e1",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000085",
+            "office": "SINGHGAD ROAD PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36874
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD, \u252c\u00e6C\u252c\u00c6 WING, ANMOL PRIDE, C.T.S. NO.270,BANER, PUNE \u252c\u00fb 411 045.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000086",
+            "office": "BANER PUNE",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36875
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SUMANT CHHAYA, PURANDAREWADI, NEAR RAILWAY STATION & TALATHI OFFICE,\u252c\u00e1VIRAR (EAST) \u252c\u00fb 410 303. DIST. THANE.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000087",
+            "office": "VIRAR(EAST)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36876
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,TOWER 2, 3RD FLOOR, ONE INDIABULLS CENTRE,SENAPATI BAPAT MARG,LOWER PAREL,MUMBAI \u252c\u00fb 400 013.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000088",
+            "office": "PAREL",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36877
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD. GR FLOOR, SHANKESHWAR ARCADE, RAM GANESH GADKARI PATH, RAM MARUTI CROSS ROAD, THANE(W) - 400602.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000089",
+            "office": "THANE (WEST) RAM MARUTI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36878
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD. 1ST FLOOR, JAYKUL ARCADE, MANPADA ROAD, NEAR GAONDEVI MANDIR, DOMBIVALI (E) - 421201.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000090",
+            "office": "DOMBIVALI(EAST)",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36879
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD. 631 3RD BLOCK 3RD CROSS, 100 FEET ROAD, NR. BDA COMPLEX, KORAMANGALA, BANGALORE - 560034.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000091",
+            "office": "KORAMANGALA",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36880
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR , SHOP NO.5 & 6,GAT NO.461, TUKARAM MARKET,MEGA CENTRE , PUNE \u252c\u00fb NASIK ROAD,MEDANKARWADI \u252c\u00fb 410 501",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000092",
+            "office": "CHAKAN",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36881
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD. UNIT NO. 1 TO 6, GR FLOOR, RIPPLEZ MALL, PLOT NO 6A, SECTOR NO 7, AIROLI, NAVI MUMBAI - 400701.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000093",
+            "office": "AIROLI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36882
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MORE BUILDING, CTS NO.215,B WARD, MALKAPUR, TAL \u252c\u00fb SHAHUWADIDIST \u252c\u00fb KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000094",
+            "office": "MALKAPUR",
+            "phone": "2312653720",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36883
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO.09,\u252c\u00e1 R.S.NO.1012,A WARD, SADASHIV JADHAV HOUSING SOCIETY, RADHANAGRI ROAD, KOLHAPUR \u252c\u00fb 416 012",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000095",
+            "office": "SANE GURUJI VASAHAT KOLHAPUR",
+            "phone": "2312653720",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36884
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,AMEYA COMPLEX,C S NO.3611, 3612, 3613BRAHMAPURI, KAGAL, DIST \u252c\u00fb KOLHAPUR \u252c\u00fb 416 126",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000096",
+            "office": "KAGAL",
+            "phone": "2312653720",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36885
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,UNITED MOTORS PVT LTD;GHODBANDAR ROAD,NEAR RUNWAL ESTATE, THANE (W) \u252c\u00fb 400 601",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000097",
+            "office": "R MALL THANE",
+            "phone": "2225853975",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36886
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,OMERGA BRANCH,MANE HOSPITAL BUILDING NO 20/21,WARD NO 13, MAIN ROAD,OMERGA 413 606 ,DIST - OSMANABAD",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "OSMANABAD",
+            "district": "OSMANABAD",
+            "ifsc": "RATN0000098",
+            "office": "OMERGA",
+            "phone": "2475250080",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36887
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,123, B, BHAU SMRUTI, NEAR PLAY GROUD,KURUNDWAD - 416 106,TAL SHIROL, DIST KOLHAPUR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000099",
+            "office": "KURUNDWAD",
+            "phone": "2322244159",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36888
+    },
+    {
+        "fields": {
+            "address": "7,RAHIMTULLAH HOUSE, HOMJI STREET, HORNIMAN CIRCLE, FORT MUMBAI 400001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "FORT MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN00000FT",
+            "office": "FORT MUMBAI",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36889
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,UNIT NO. 14 & 15, GROUND FLOOR,DLF CAPITOL POINT,BABA KHARAG SINGH MARG,NEW DELHI \u252c\u00fb 110 001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000100",
+            "office": "DLF CAPITOL-NEW DELHI",
+            "phone": "9810211851",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36890
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,KHATA NO 1762 / 66,WARD NO 4,D CROSS MAIN ROAD,DOD BALLARPUR,KARNATAKA - 561203",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DODDABALLAPUR",
+            "district": "BANGALORE RURAL",
+            "ifsc": "RATN0000101",
+            "office": "DOD BALLARPUR",
+            "phone": "9900576962",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36891
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,ARTI CHS LTD,PLOT 29, SECTOR 2,VASHI, NAVI MUMBAI,MAHARASHTRA - 400 705",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000102",
+            "office": "VASHI, NAVI MUMBAI",
+            "phone": "2243020600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36892
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NISARGAPRATIKSHA APARTMENT,OLD KATRAP ROAD,BADLAPUR (EAST),TALUKA AMBERNATH , DISTRICT THANE,MAHARASHTRA,PINCODE \u252c\u00fb 421503",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000103",
+            "office": "BADLAPUR",
+            "phone": "2243020600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36893
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,AG TOWER, PLOT NO.303,N-3, CIDCO, AURANGABAD - 431001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AURANGABAD",
+            "district": "AURANGABAD",
+            "ifsc": "RATN0000104",
+            "office": "AURANGABAD",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36894
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,THE SWAGAT PALACE ,B 294 / 295 A,RIICO CHOWK MAIN ROAD BHIWADI,BHIWADI. DIST- ALWAR,RAJASTHAN - 301019",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "RATN0000105",
+            "office": "BHIWADI (SWAGAT HOTEL )",
+            "phone": "9810979311",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36895
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,A4, BHAGAT SINGH COLONY,ALWAR BYPASS,BHIWADI,RAJASTHAN - 301019",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "RATN0000106",
+            "office": "BHIWADI ( EX -HERO HONDA)",
+            "phone": "9810979311",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36896
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,BUILDING NO 2 -A AMEYA PARK,NAVAPUR ROAD,BOISAR-WEST - 401501",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "THANE",
+            "district": "THANE",
+            "ifsc": "RATN0000107",
+            "office": "BOISAR",
+            "phone": "8692920004",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36897
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR, TWIN TOWER,SHOWROOM 4,SAHARA DARWAJA,SURAT - 395002.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "RATN0000108",
+            "office": "SURAT",
+            "phone": "9825300735",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36898
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MAHADEV FURNITURE HOUSE,NEAR AMBEJOGAI PATPEDHI,SAVEDI ROAD, AHMEDNAGAR - 414003",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "RATN0000109",
+            "office": "AHMEDNAGAR",
+            "phone": "9823065600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36899
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,KATHA NO 169 / 1789 /1736 / & 170 / 1781 / 1737 NORTH LAYOUT 1ST STAGE, B M ROAD RAMNAGARAM - 562159",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "RAMANAGARAM",
+            "district": "BANGALORE RURAL",
+            "ifsc": "RATN0000110",
+            "office": "RAMNAGARA",
+            "phone": "9899733770",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36900
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SECTOR 961,NAGAR MANMAD HIGHWAY, SHIRDI,TAL- RAHATA, DIST- AHAMEDNAGAR - 423109",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AHMADNAGAR",
+            "district": "AHMADNAGAR",
+            "ifsc": "RATN0000111",
+            "office": "SHIRDI",
+            "phone": "9923866451",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36901
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,D NO, 6-3-865, GROUND FLOOR,MY HOME JUPALLY,OPP GREEN PARK,GREEN LANDS,AMEERPET,HYDERABAD - 500016",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HYDERABAD",
+            "district": "HYDERABAD",
+            "ifsc": "RATN0000112",
+            "office": "HYDERABAD",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36902
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,HMH PLAZA, OLD DOOR NO. 105, NEW DOOR NO. 56, G N CHETTY ROAD, T NAGAR, CHENNAI - 600 017",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000113",
+            "office": "CHENNAI",
+            "phone": "9900576962",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36903
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,P-7, SECTOR-18,NOIDA,UTTAR PRADESH - 201301",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GAUTAM BUDDHA NAGAR",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "RATN0000114",
+            "office": "NOIDA",
+            "phone": "9999359610",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36904
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,ADITYA BUILDING, GROUND FLOOR,WARD NO -5, DELHI  ALWAR ROAD,OPP BUS STAND, DIST GURGAON,SOHNA \u252c\u00fb 122103.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SOHNA",
+            "district": "GURGAON",
+            "ifsc": "RATN0000115",
+            "office": "SOHNA",
+            "phone": "9871115450",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36905
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,ABW TOWER, AT IFFCO CHOWK,VILLAGE SUKHRAULI,NH-8, GURGAON,HARYANA - 122002",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "RATN0000116",
+            "office": "GURGAON",
+            "phone": "9899733770",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36906
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO 1,GROUND FLOOR,SECTOR A,INDRA NAGAR,WARD NO 12,MANDIDEEP - 462046.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "RAISEN",
+            "district": "RAISEN",
+            "ifsc": "RATN0000117",
+            "office": "MANDIDEEP",
+            "phone": "7869105253",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36907
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PANCHLINGESHWAR CROSS, MAIN ROAD,MUNAVALLI,KARNATAKA - 591117",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MANOLI",
+            "district": "BELGAUM",
+            "ifsc": "RATN0000118",
+            "office": "MUNAVALLI",
+            "phone": "9481658492",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36908
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,1ST FLOOR, RAI MARKET, SHRI SAI CENTER POINT,NEHROO WARD, STATION ROAD, KHURAI SAGAR,KHURAI - 470117",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SAGAR",
+            "district": "SAGAR",
+            "ifsc": "RATN0000119",
+            "office": "KHURAI",
+            "phone": "8109156059",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36909
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,D NO: 231/2, PLOT NO: 87, PADMAVATHIPURAM,TIRUCHANOOR ROAD,TIRUPATHI - 517502",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "TIRUPATI",
+            "district": "CHITTOOR",
+            "ifsc": "RATN0000120",
+            "office": "TIRUPATHI",
+            "phone": "0",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36910
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NO.163/2A,NEAR LIONS SCHOOL,BAGALKOT - 587101",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BAGALKOT",
+            "district": "BAGALKOTE",
+            "ifsc": "RATN0000121",
+            "office": "BAGALKOT",
+            "phone": "9901794037",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36911
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,DOOR NO : 117/41, I FLOOR,K.S.A.R.ROAD,NELLIKUPPAM,CUDALLORE DISTRICT,NELLIKUPPAM - 607105",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CUDDALORE",
+            "district": "CUDDALORE",
+            "ifsc": "RATN0000122",
+            "office": "NELLIKUPPAM",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36912
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MURLI TOWER, CEMENT ROAD, PIPARIYA,DIST-HOSANGABAD,PIPARIYA - 461775",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "RATN0000123",
+            "office": "PIPARIYA",
+            "phone": "9826224484",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36913
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,NO.4026/3/D/6,NEAR RANNA CIRCLE,MUDHOL,DISTRICT BAGALKOT-KARNATAKA-587313",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MUDHOL",
+            "district": "BAGALKOTE",
+            "ifsc": "RATN0000124",
+            "office": "MUDHOL",
+            "phone": "9901794037",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36914
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,5/215, RAJAN NAGAR,OPP TO WEEKLY MARKET, K K PUDUR,POST AVINASHI,AVINASHI - 641654",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "RATN0000125",
+            "office": "AVINASHI",
+            "phone": "9176699612",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36915
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GR.FLOOR, SAHARA MARKET,VAPI SILVASSA ROAD,VAPI - 396195",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "VAPI",
+            "district": "VALSAD",
+            "ifsc": "RATN0000126",
+            "office": "VAPI",
+            "phone": "9879603358",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36916
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GUT NO 111, PLOT NO 5 & 6,JALGAON AURANGABAD ROAD,CHINCHOLI VILLAGE JALGAON DISTRICT,CHINCHOLI - 425003",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "JALGAON",
+            "district": "JALGAON",
+            "ifsc": "RATN0000127",
+            "office": "CHINCHOLI",
+            "phone": "9986442373",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36917
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,9/A,9/B,10,10/A,10/B,DIAMOND PLAZA,OPP.ARTS AND COMMERCE COLLEGE,THOL ROAD,KADI-382715",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KADI",
+            "district": "MAHESANA",
+            "ifsc": "RATN0000128",
+            "office": "KADI",
+            "phone": "9974091651",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36918
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GR.FLOOR,GRAMPANCHAYAT BUILDING,INCHAGERI VILLAGE,INDI TALUK,BIJAPUR DIST.,INCHAGERI - 586117",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "INDI",
+            "district": "BIJAPUR",
+            "ifsc": "RATN0000129",
+            "office": "INCHAGERI",
+            "phone": "9901794037",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36919
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,758.7.8,GR.FLOOR, OPP.PARAS MOTORS MFG.CO.,NR.PAKAS HOTEL, SOMNATH,DAMAN - 396210",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DAMAN",
+            "district": "DAMAN",
+            "ifsc": "RATN0000130",
+            "office": "DAMAN",
+            "phone": "0",
+            "state": "DAMAN AND DIU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36920
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP. U/1-2, EMPIRE PLAZA, STATION ROAD,BARDOLI - 394601",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BARDOLI",
+            "district": "SURAT",
+            "ifsc": "RATN0000131",
+            "office": "BARDOLI",
+            "phone": "9825184148",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36921
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,9-10, KIRAN COMPLEX,NEAR GAYATRI MANDIR,HIGHWAY ROAD,DEESA - 385535",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DEESA",
+            "district": "BANAS KANTHA",
+            "ifsc": "RATN0000132",
+            "office": "DEESA",
+            "phone": "9727075599",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36922
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,7/8 UMIYA NAGAR,BELOW POST OFFICE,PADRA - 391440.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PADRA",
+            "district": "VADODARA",
+            "ifsc": "RATN0000133",
+            "office": "PADRA",
+            "phone": "8128873453",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36923
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,OPP UNJHA PHARMACY,STATION ROAD,UNJHA - 384170",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "UNJHA",
+            "district": "PATAN",
+            "ifsc": "RATN0000134",
+            "office": "UNJHA",
+            "phone": "9825803540",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36924
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,DOOR NO 2/43,1ST FLOOR,PERAVARAM VILLAGE AND GRAM PANCHAYAT,MAIN ROAD,ATREYAPURAM MANDAL,EAST GODAVARI DI,PERAVARAM - 533235",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ATREYAPURAM",
+            "district": "EAST GODAVARI",
+            "ifsc": "RATN0000135",
+            "office": "PERAVARAM",
+            "phone": "8978967320",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36925
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO. 7,8,9,10 GROUND FLOOR, SIMPLEX CHAMBERS, PHASE 2 CALANGUTE, CALANGUTE BARDEZ, GOA-402516",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CALANGUTE",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000136",
+            "office": "CALANGUTE",
+            "phone": "9823442373",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36926
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,HOUSE NO. 456, NEAR CHODANKAR NURSIGN HOME, ALTO PORVORIM, BARDEZ, GOAD \u252c\u00fb 403521.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PORVORIM",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000137",
+            "office": "POROVORIM",
+            "phone": "9823442373",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36927
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GRAND SAPPHIRE INFRATECH PVT. LTD,NIKUNJ CITY, VILLAGE JAINPUWAS,NH-8, TAHSIL- BEHROR, DIST.- ALWAR,JAINPURWAS - 301701",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ALWAR",
+            "district": "ALWAR",
+            "ifsc": "RATN0000138",
+            "office": "JAINPURAWAS",
+            "phone": "9811136358",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36928
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR, SURVEY NO.283/2, GRAM CHAKH KAMED, TEHSIL GATHIYA, DISTRICT UJJAIN, MADYA PRADESH 456006",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DEWAS",
+            "district": "DEWAS",
+            "ifsc": "RATN0000139",
+            "office": "CHAKH KAMED",
+            "phone": "9811136358",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36929
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GRD. FLOOR,389, VILLAGE KAMTOON, JJ ROAD,TEHSIL: BARELI, DIST: RAISEN,KAMTOON - 464668",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "RAISEN",
+            "district": "RAISEN",
+            "ifsc": "RATN0000140",
+            "office": "KAMATOON",
+            "phone": "9811136358",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36930
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR, M-6 HAUZ KHAS, NEW DELHI - 110016",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000141",
+            "office": "HAUZ KHAS, NEW DELHI",
+            "phone": "9920074414",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36931
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,J-13/52, BASEMENT & GROUND FLOOR, RAJOURI GARDEN,NEW DELHI - 110027",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000142",
+            "office": "RAJOURI GARDEN, NEW DELHI",
+            "phone": "9920074414",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36932
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANKLTD,CHITRAKUT COMPLEX, OPP HDFC BANK,NR PASHABHAI PARK,RACECOURSE ROAD,VADODARA - 390007",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "VADODARA",
+            "district": "VADODARA",
+            "ifsc": "RATN0000143",
+            "office": "VADODARA",
+            "phone": "9920074414",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36933
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,MAXIMUS COMMERCIAL COMPLEX, LIGHT HOUSE HILL ROAD, MANGALORE - 575001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MANGALORE",
+            "district": "DAKSHIN KANNAD",
+            "ifsc": "RATN0000144",
+            "office": "MANGALORE",
+            "phone": "9920074414",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36934
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GF-1, PARSVNATH PLAZA -II,NEELGIRI COMMERCIAL COMPLEX,DELHI ROAD, MORADABAD-244001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MORADABAD",
+            "district": "MORADABAD",
+            "ifsc": "RATN0000145",
+            "office": "MORADABAD",
+            "phone": "9920074414",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36935
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOWROOM #1 196/7(PART), OPP. N.K. TOWER,G T ROAD, PANIPAT - 132103",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PANIPAT",
+            "district": "PANIPAT",
+            "ifsc": "RATN0000146",
+            "office": "PANIPAT",
+            "phone": "9920074414",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36936
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,103/105 SRIRAM NAGAR,SARADHA COLLEGE ROAD,SALEM - 636 016",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SALEM",
+            "district": "SALEM",
+            "ifsc": "RATN0000147",
+            "office": "SALEM",
+            "phone": "9920074414",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36937
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR, PLOT NO. 99, L ROAD, BHUPALPURA, VERMA CIRCLE, OPP. COLLECTOR BUNGALOW, UDAIPUR - 313001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "UDAIPUR",
+            "district": "UDAIPUR",
+            "ifsc": "RATN0000148",
+            "office": "UDAIPUR",
+            "phone": "9920074414",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36938
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,GROUND FLOOR, KHASRA NO. 416/1, ASHTA- 466116",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SEHORE",
+            "district": "SEHORE",
+            "ifsc": "RATN0000149",
+            "office": "ASHTA",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36939
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,WARD NO.12, GROUND FLOOR, STATION ROAD, GANJ BASODA- 464221",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "VIDISHA",
+            "district": "VIDISHA",
+            "ifsc": "RATN0000150",
+            "office": "GANJ BASODA",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36940
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP  NUMBER BEARING 21-22, KASHI BAGH, DHAR-454001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DHAR",
+            "district": "DHAR",
+            "ifsc": "RATN0000151",
+            "office": "DHAR",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36941
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO.2, AKANKSHA COMPLEX GROUND FLOOR, FRONT RIGHT SIDE PORTION, ZONE-1, M.P NAGAR , BHOPAL- 462011",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BHOPAL",
+            "district": "BHOPAL",
+            "ifsc": "RATN0000152",
+            "office": "BHOPAL",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36942
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO.100/1/1, THAKUR COLONY, MAIN ROAD,, SEONI MALWA PIN CODE- 461223",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "RATN0000153",
+            "office": "SEONI MALWA",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36943
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT NO.34/1, AL AZIZ TOWER, BABAI PIPARYA ROAD, ANAND NAGAR, , HOSHANGABAD -461001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "HOSHANGABAD",
+            "district": "HOSHANGABAD",
+            "ifsc": "RATN0000154",
+            "office": "HOSHANGABAD",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36944
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,OFFICE NO./A, GROUND FLOOR, MITTAL COURT, 224 NARIMAN POINT, MUMBAI-400021",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000155",
+            "office": "MUMBAI - NARIMAN POINT",
+            "phone": "9833666862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36945
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,G-13, G-14, G-15 & G-17 PRESTIGE TOWERS,99 & 100 RESIDENCY ROAD, BANGALORE \u252c\u00fb 560025",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000156",
+            "office": "BANGALORE-PRESTIGE TOWERS",
+            "phone": "9833666862",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36946
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,11 MOLEDINA ROAD,NEAR NAAZ BAKERY, EAST STREET FACING, PUNE-411001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000157",
+            "office": "PUNE-CAMP",
+            "phone": "9833666862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36947
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,VIVA COMPLEX, OPP. PARIMAL GARDEN, ELLISBRIDGE, AHMEDBAD - 380006",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMADABAD",
+            "ifsc": "RATN0000158",
+            "office": "AHMEDABAD VIVA COMPLEX",
+            "phone": "9558824663",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36948
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, GHANSHYAM CHAMBERS, PLOT NO. B12, LINK ROAD, OPP. CITI MALL, ANDHERI WEST, MUMBAI 400053",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000159",
+            "office": "ANDHERI",
+            "phone": "9833666862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36949
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,KHASRA NO.174.21,174.23 PATWARI HALKA NO.72,MAKRONIA,MADHYA PRADESH 470001.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SAGAR",
+            "district": "SAGAR",
+            "ifsc": "RATN0000160",
+            "office": "MAKRONIA",
+            "phone": "231488",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36950
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,FIRST FLOOR,THAPAR HOUSE,25 BARBOURNE ROAD,KOLKATTA \u252c\u00fb 700001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000161",
+            "office": "KOLKATA-THAPAR HOUSE",
+            "phone": "9833666862",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36951
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO. 13, A WING, CITILAND COMPLEX, BORGAON VILLAGE, AMRAVATI-444709",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AMRAVATI",
+            "district": "AMRAVATI",
+            "ifsc": "RATN0000162",
+            "office": "BORGAON-AMRAVATI",
+            "phone": "9833666862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36952
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,3,4,5, ADITYA ENCLAVE, CENTRAL BAZAR ROAD, RAMDAS PETH, NAGPUR-440010",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "NAGPUR",
+            "district": "NAGPUR",
+            "ifsc": "RATN0000163",
+            "office": "NAGPUR",
+            "phone": "9823442373",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36953
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,SHOP NO.3, GROUND FLOOR, THE GRACE, PLOT NO. 1&2, KIBE COMPOUND, INDORE-452001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "INDORE",
+            "district": "INDORE",
+            "ifsc": "RATN0000164",
+            "office": "INDORE",
+            "phone": "9833666862",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36954
+    },
+    {
+        "fields": {
+            "address": "DOOR NO.1 93,KOVVADA PANCHAYAT,KAKINADA RURAL MANDAL,EAST GODAVARI DIST,KAKINADA 533006",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KAKINADA",
+            "district": "EAST GODAVARI",
+            "ifsc": "RATN0000165",
+            "office": "KAKINADA",
+            "phone": "43020600",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36955
+    },
+    {
+        "fields": {
+            "address": "DOOR NO.6 48A,SURVEY NO.333,LALUPURAM VILLAGE,GUNTUR RURAL MANDAL,GUNTUR DIST,GUNTUR 522017",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GUNTUR",
+            "district": "GUNTUR",
+            "ifsc": "RATN0000166",
+            "office": "GUNTUR",
+            "phone": "43020600",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36956
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD, GROUND FLOOR, HORIZON BUILDING, 57 JAWAHAR LAL NEHRU ROAD, KOLKATA 700 071",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000167",
+            "office": "JL NEHRU ROAD KOLKATA",
+            "phone": "224302060",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36957
+    },
+    {
+        "fields": {
+            "address": "SURVEY NO.596 BY 2A,N.H 7,BYE PASS ROAD,NANJAI PUGALUR,KARUR TALUK AND DISTRICT,KARUR 639113",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KARUR",
+            "district": "KARUR",
+            "ifsc": "RATN0000168",
+            "office": "KARUR",
+            "phone": "43020600",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36958
+    },
+    {
+        "fields": {
+            "address": "SASHA COMP,MANNACHANALLUR RD,VENGANGUDI VILL,SAMAYAPURAM PO,TIRUCHIRAPALLI 621112",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "TIRUCHIRAPPALLI",
+            "district": "TIRUCHIRAPALLI",
+            "ifsc": "RATN0000169",
+            "office": "TIRUCHIRAPPALLI",
+            "phone": "43020600",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36959
+    },
+    {
+        "fields": {
+            "address": "RANGANATHA VELLALAR COMP,THANJAVUR RD,ALADIKKUMULAI,PATTUKKOTAI,THANJAVUR DIST,THANJAVUR 614615",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PATTUKOTTAI",
+            "district": "THANJAVUR",
+            "ifsc": "RATN0000170",
+            "office": "PATTUKOTTAI",
+            "phone": "43020600",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36960
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD R.G CHAMBERS 726 AVINASHI ROAD TAMILNADU 641018",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "RATN0000171",
+            "office": "COIMBATORE",
+            "phone": "43020600",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36961
+    },
+    {
+        "fields": {
+            "address": "B BY H.SARHAD DAIRY,BHUJ KHAVDA HIGHWAY,NR.BIRIYANDAYARA BUS STAND,BHUJ 370510",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "BHUJ",
+            "district": "KACHCHH",
+            "ifsc": "RATN0000172",
+            "office": "BHUJ",
+            "phone": "43020600",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36962
+    },
+    {
+        "fields": {
+            "address": "UMIYA NIVAS,MAIN BAZAR,VILLAGE KHAMBHALA,TALUKA PADDHARI,RAJKOT 360110",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "PADDHARI",
+            "district": "RAJKOT",
+            "ifsc": "RATN0000173",
+            "office": "PADDHARI",
+            "phone": "43020600",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36963
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD GROUND FLOOR BLOCK NO 41 4 SANJAY PLACE SHOP NO 5 6 7 8 AND BASEMENT FLOOR",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "AGRA",
+            "district": "AGRA",
+            "ifsc": "RATN0000174",
+            "office": "AGRA",
+            "phone": "43020600",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36964
+    },
+    {
+        "fields": {
+            "address": "PLOT NO.2,SUKHSHANTI COLONY,BHILWARA ROAD,OPPOSITE SUB JAIL CHITTORGARH 312001,RAJASTHAN",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHITTORGARH",
+            "district": "CHITTAURGARH",
+            "ifsc": "RATN0000175",
+            "office": "CHITTORGARH",
+            "phone": "43020600",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36965
+    },
+    {
+        "fields": {
+            "address": "GRAM MOHANPURA,KHASRA NO.374 BY 264,PART C 1,GROUND FLOOR,AJMER 305801",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MOHANPURA",
+            "district": "JAIPUR",
+            "ifsc": "RATN0000176",
+            "office": "MOHANPURA",
+            "phone": "43020600",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36966
+    },
+    {
+        "fields": {
+            "address": "PATTA NO.7,VILLAGE SEENTA,TEHSIL TALERA,DISTRICT BUNDHI PIN CODE 323021,RAJASTHAN",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "TALERA",
+            "district": "BUNDI",
+            "ifsc": "RATN0000177",
+            "office": "TALERA",
+            "phone": "43020600",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36967
+    },
+    {
+        "fields": {
+            "address": "HOUSE NO.12 BY 1,WADACHA WADA,SHIRGAON,ASSONORA,GOA 403 503",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "ASSONORA",
+            "district": "NORTH GOA",
+            "ifsc": "RATN0000178",
+            "office": "ASSONORA",
+            "phone": "43020600",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36968
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD HOUSE NO 110 MARGA VADDA NETRAVALI SANGUEM GOA 403704",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "SANGUEM",
+            "district": "SOUTH GOA",
+            "ifsc": "RATN0000179",
+            "office": "NETRAVALI",
+            "phone": "43020600",
+            "state": "GOA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36969
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD 1ST FLOOR RASHMI TOWER NO 1 VALLUVARKOTTAM HIGH ROAD CHENNAI 600034",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000180",
+            "office": "NUNGAMBAKKAM",
+            "phone": "43020600",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36970
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD, SHOP NO 7,8,9, ASHOK VATIKA BLOCK NO A GROUND FLOOR SAHKARI JIN ROAD HIMAT NAGAR GUJARAT",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GUJARAT",
+            "district": "SABAR KANTHA",
+            "ifsc": "RATN0000181",
+            "office": "HIMAT NAGAR",
+            "phone": "43020600",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36971
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD 23 BASANT LOK MARKET COMMUNITY CENTRE VASANT VIHAR NEW DELHI 110057",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000182",
+            "office": "VASANT VIHAR",
+            "phone": "43020600",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36972
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,SHOP NO 1&2,FRIST FLOOR ATIMIYA ENCLAVE,VELETVA CROSS ROAD,NADIAD PETLAD ROAD,VELETVA,NADIAD TALUK,KHEDA DISTRICT,GUJARAT-388440",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "NADIAD",
+            "district": "KHEDA",
+            "ifsc": "RATN0000183",
+            "office": "VELETVA",
+            "phone": "1238040",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36973
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,PLOT N0-399,GOKHALE ROAD  SOUTH ,OPP BMC SCHOOL,DADAR WEST MUMBAI-400028",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000184",
+            "office": "DADAR-MUMBAI",
+            "phone": "43020600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36974
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD GROUND FLOOR NIBHAV BUILDING NO11 LB ROAD ADYAR CHENNAI 600020",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000185",
+            "office": "ADYAR",
+            "phone": "40288161",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36975
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD FIRST FLOOR DASS INDIA TOWER DOOR NO 3 SECOND LINE BACH CHENNAI 600 001",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000186",
+            "office": "PARRYS CORNER",
+            "phone": "40288161",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36976
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD FIRST FLOOR OLD NO AB 134 AND AB 106 AND 108 4TH AVENUE SHANTI COLONY ANNA NAGAR CHENNAI 600 040",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000187",
+            "office": "ANNA NAGAR",
+            "phone": "40288161",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36977
+    },
+    {
+        "fields": {
+            "address": "SHOP NO. 13 AND 13A, ZEST BUSINESS SPACES, M G ROAD, GHATKOPAR EAST, MUMBAI 400077.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000188",
+            "office": "GHATKOPAR EAST",
+            "phone": "25011752",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36978
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD 450 454 KUCHA BRIJ NATH CHANDNI CHOWK DELHI 110006",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000189",
+            "office": "CHANDNI CHOWK",
+            "phone": "45028843",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36979
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED 4TH KAPIL VIHAR PITAMPURA DELHI 110034",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000190",
+            "office": "PITAMPURA",
+            "phone": "45028843",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36980
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED., SCO NO. 101, SECTOR-16, SHOP NO. G-01 TO G-05 AND G-09 TO G-10, FARIDABAD, HARYANA-121002.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "FARIDABAD",
+            "district": "FARIDABAD",
+            "ifsc": "RATN0000191",
+            "office": "FARIDABAD, HARYANA",
+            "phone": "1800123804",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36981
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., GROUND FLOOR, SHOP NO. 2, BALAJI BUSINESS PARK, CTS NO. 785, MAROL, ANDHERI EAST, MUMBAI 400059.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GREATOR BOMBAY",
+            "district": "GREATOR BOMBAY",
+            "ifsc": "RATN0000192",
+            "office": "ANDHERI MAROL BR",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36982
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., GROUND FLOOR, 190/194, LOKMANYA TILAK NAGAR, SARDAR GRIHA, CRAWFORD MARKET, MUMBAI 400002.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000193",
+            "office": "CRAWFORD MARKET",
+            "phone": "61156300",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36983
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., 6, SHANKAR VIHAR, VIKAS MARG, NEW DELHI 110092.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000194",
+            "office": "VIKAS MARG - DELHI",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36984
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., N 15 24TH MAIN, J P NAGAR, 1ST PHASE, BANGALORE - 560078.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000195",
+            "office": "J P NAGAR - BANGALORE",
+            "phone": "1800123804",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36985
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., 9/3A, GARIAHAT ROAD, GROUND FLOOR, KOLKATA - 700019.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000196",
+            "office": "GARIAHAT - KOLKATA",
+            "phone": "61156300",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36986
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., 19, BASAK STREET, (KALAKAR STREET), KOLKATA - 700007.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000197",
+            "office": "KALAKAR STREET - KOLKATA",
+            "phone": "61156300",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36987
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD GROUND FLOOR SADAR BAZAR PLOT NO 4 5332 SADAR THANA ROAD DELHI 110006",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000198",
+            "office": "RBL BANK LTD",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36988
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD, GR FLOOR SHOP NO 3 AND 5 1ST FLOOR 3 4 AND 5 RAHEJA EXTENSION M G ROAD RAIPUR CHHATTISSGARH 492001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "RAIPUR",
+            "district": "RAIPUR",
+            "ifsc": "RATN0000199",
+            "office": "RBL BANK LTD",
+            "phone": "1800123804",
+            "state": "CHHATTISGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36989
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 121 A SATHY ERODE HIGHWAYS ARIYAPPAMPALAYAM SATHYAMANGALAM TK ERODE DT SATHYAMANGALAM, TAMIL NADU 638402",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SATHYAMANGALAM",
+            "district": "ERODE",
+            "ifsc": "RATN0000200",
+            "office": "RBL BANK LTD",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36990
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 2 139 SREE MAHALAKSHMI AMMAN COMPLEX RASAKAPALAYAM PULIAMPATTI PO POLLACHI TK POLLACHI TAMIL NADU 642002",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "POLLACHI",
+            "district": "COIMBATORE",
+            "ifsc": "RATN0000201",
+            "office": "RBL BANK LTD",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36991
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SCO 135-136 SECTOR 9-C MADHYA MARG,CHANDIGARH",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "RATN0000202",
+            "office": "CHANDIGARH",
+            "phone": "1800123804",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36992
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SCO NO 18-19C CANAL COLONY GREEN PARK AVENUE PAKHOWAL ROAD LUDHIANA -141001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "LUDHIANA",
+            "district": "LUDHIANA",
+            "ifsc": "RATN0000203",
+            "office": "LUDHIANA",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36993
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR H 1A/28  SECTOR 63 NOIDA-201301",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDDHA NAGAR",
+            "ifsc": "RATN0000204",
+            "office": "NOIDA",
+            "phone": "1800123804",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36994
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED, NO.73,S S AVENUE BY PASSROAD,MELKRISHNAPURAM,AMBUR-635802",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "AMBUR",
+            "district": "VELLORE",
+            "ifsc": "RATN0000205",
+            "office": "AMBUR-VELLORE",
+            "phone": "8001238040",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36995
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED, NO.98, VAKIL NEW STREET, MADURAI - 625001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MADURAI",
+            "district": "MADURAI",
+            "ifsc": "RATN0000206",
+            "office": "MADURAI - TAMIL NADU",
+            "phone": "8001238040",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36996
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED,546,CMH ROAD,INDIRANAGAR,BANGALORE - 560038",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000207",
+            "office": "INDIRA NAGAR BANGALORE",
+            "phone": "8001238040",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36997
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED NO 10B GROUND FLOOR SURVEY NO 1051 AND 1060 MANJEERA MAJESTIC COMMERCIAL MALL KUKATPALLY 500072",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KUKATPALLY",
+            "district": "RANGAREDDY",
+            "ifsc": "RATN0000208",
+            "office": "KUKATPALLY",
+            "phone": "8001238040",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36998
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR MSR BLOCK KRISHE SAPPHIRE SURVAY NO 88, HITECH CITY MAIN ROAD,MADHAPUR,HYDERABAD-500081",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MADHAPUR",
+            "district": "RANGAREDDY",
+            "ifsc": "RATN0000209",
+            "office": "MADHAPUR",
+            "phone": "8001238040",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 36999
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED, KOMARLA PLAZA, NO 141,3RD MAIN,MARGOSA ROAD,MALLESWARAM,BANGALORE - 560003",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BANGALORE",
+            "district": "BANGALORE URBAN",
+            "ifsc": "RATN0000210",
+            "office": "MALLESWARAM",
+            "phone": "8001238040",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37000
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED,SHOP NO 3 GREENFIELD, S V ROAD,SANTACRUZ WEST MUMBAI - 400054",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000211",
+            "office": "SANTACRUZ WEST",
+            "phone": "8001238040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37001
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED,SHOP 21 TO 25 GR FLR,IRASIA CHS,BEVERLY PARK,NR KANAKIA POLICE STN MIRA ROAD,THANE -401107",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MIRA BHAYANDAR",
+            "district": "THANE",
+            "ifsc": "RATN0000212",
+            "office": "MIRA ROAD",
+            "phone": "8001238040",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37002
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED,SHOP NO 1, GROUND FLOOR,SILVER SQUARE,BHAGWAN DAS ROAD ,JAIPUR - 302001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "RATN0000213",
+            "office": "JAIPUR",
+            "phone": "8001238040",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37003
+    },
+    {
+        "fields": {
+            "address": "RBL Bank Limited,UPPER GROUND FLOOR AT 183 JAGRITI ENCLAVE, DELHI  110092",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000214",
+            "office": "JAGRITIENCLAVE",
+            "phone": "1238040",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37004
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SHUBHAM BLDG 523/2/1 &523//2/2,M.G ROAD CHOWRASTA BUDGE BUDGE ROAD KOLKATA",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000215",
+            "office": "BUDGE BUDGE KOLKATA",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37005
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SHOP NO 16-17 SIMPLEX KHUSHAANGAN 82 VIJAYARWADI S V ROAD MALAD WEST MUMBAI-400064",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000216",
+            "office": "MALAD WEST",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37006
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED M 2 GROUND FLOOR AND BASEMENT GREATER KAILASH PART 2 NEW DELHI 110048",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000217",
+            "office": "GREATER KAILASH PART II",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37007
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED UNIT NO TGF 4 AND 5 GROUND FLOOR OCUS TECHNOPOLIS GOLF COURSE ROAD SECTOR 54 GURGAON HARYANA 122003",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GURGAON",
+            "district": "GURGAON",
+            "ifsc": "RATN0000218",
+            "office": "OCUS TECHNOPOLIS  GURGAON",
+            "phone": "1800123804",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37008
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED 47 1 4 BHUVANESHWARI PLAZA DIAMOND PARK MAIN ROAD DWARAKANAGAR VISAKHAPATNAM 530016",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "VISAKHAPATNAM",
+            "district": "VISAKHAPATNAM",
+            "ifsc": "RATN0000219",
+            "office": "VISAKHAPATNAM",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37009
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND AND FIRST FLOOR PALAL ARCADE NEXT TO BATA SHOW ROOM M G  ROAD DIST ERNAKULAM TAL KANAYANUR VILLAGE KARITHALA COCHIN 682016",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "COCHIN",
+            "district": "COCHIN",
+            "ifsc": "RATN0000220",
+            "office": "COCHIN",
+            "phone": "1800123804",
+            "state": "KERALA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37010
+    },
+    {
+        "fields": {
+            "address": "RBL BANL LIMITED 49 A MANALKATTU THOTTAM ELLAKADAI KAGAM ERODE TAMIL NADU PIN CODE 638109",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KAGAM ERODE",
+            "district": "KAGAM ERODE",
+            "ifsc": "RATN0000221",
+            "office": "KAGAM ERODE",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37011
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SHOP NO 7 AND 8 FIRST FLOOR SAKAL AVENUE KAMALPUR TAL PRANTIJ DIST SABARKANTHA GUJARAT 383205",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KAMALPUR",
+            "district": "SABARKANTHA",
+            "ifsc": "RATN0000222",
+            "office": "KAMALPUR BRANCH",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37012
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SHOP NO 16 AND 17 GROUND FLOOR SANSKRUTI COMPLEX NR SHUYOG PETROL PUMP MALPUR ROAD KHALIKPUR DIST ARAVALI GUJARAT 383315",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KHALIKPUR",
+            "district": "ARAVALI",
+            "ifsc": "RATN0000223",
+            "office": "KHALIKPUR BRANCH",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37013
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED NO 135 A P H ROAD MADURAVOYAL CHENNAI 600095",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MADURAVOYAL",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000224",
+            "office": "MADURAVOYAL CHENNAI",
+            "phone": "1800213804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37014
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED FLAT NO 101 AND 102 SHREYA APARTMENTS 1ST FLOOR T N MUKHERJEE ROAD LICHUBAGAN OPP RAMSITA MANDIR DANKUNI HOOGLY PIN 712311",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DANKUNI",
+            "district": "HOOGLY",
+            "ifsc": "RATN0000225",
+            "office": "DANKUNI BRANCH",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37015
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD SHOP NO 8 AND 9 GROUND FLOOR ORCHID CENTRE SOUTH BHOPAL MOUJE BOPAL TALUKA DASKROI AHMEDABAD 380058",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "RATN0000226",
+            "office": "SOUTH BOPAL AHMEDBAD",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37016
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED C BLOCK SHOP NO 1 TO 5 MAYUR NAGAR OPP LORDS PLAZA OLD N H NO 08 VILLAGE PIRAMAN TAL ANKLESHWAR DIST BHARUCH 393002",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BHARUCH",
+            "district": "BHARUCH",
+            "ifsc": "RATN0000227",
+            "office": "ANKLESHWAR",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37017
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR D 21 CALIBRE MARKET RAJPURA PIN CODE 140401",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PATIALA",
+            "district": "CHANDIGARH HQ",
+            "ifsc": "RATN0000228",
+            "office": "RAJPURA BRANCH",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37018
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR CITY CENTRE TOWER 338 GURU HARGOBIND NAGAR PHAGWARA PINCODE 144401",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PHAGWARA",
+            "district": "KAPURTHALA",
+            "ifsc": "RATN0000229",
+            "office": "PHAGWARA KAPURTHALA",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37019
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED VILLAGE NANASA P H NO 21 TEHSIL KANNOD DISTRICT MADHYA PRADESH PINCODE 455336",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "NANASA",
+            "district": "DEWAS",
+            "ifsc": "RATN0000230",
+            "office": "NANASA BRANCH",
+            "phone": "1800123804",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37020
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GRAM PANCHAYAT DIST DEWAS MADHYA PRADESH PINCODE 455332",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BAWARIKHEDA",
+            "district": "BAWARIKHEDA",
+            "ifsc": "RATN0000231",
+            "office": "BAWARIKHEDA BRANCH",
+            "phone": "1800123804",
+            "state": "MADHYA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37021
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED R S NO 58 3 PLOT NO 6 NR GALAXY PETROL PUMP NATIONAL HIGHWAY 27 VILLAGE BHOJPARA TALAKU GONDAL DISTRICT RAJKOT PINCODE 360311",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GONDAL",
+            "district": "GONDAL",
+            "ifsc": "RATN0000232",
+            "office": "BHOJPARA BRANCH",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37022
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED SCO 1 AND 2 GROUND FLOOR ORBIT APARTMENTS VIP ROAD ZIRAKPUR DISTRICT MOHALI 140603",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MOHALI",
+            "district": "MOHALI",
+            "ifsc": "RATN0000233",
+            "office": "ZIRAKPUR BRANCH",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37023
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR NERA ANJANI HANUMAN MANDIR AT POST HAROTA TEHSIL CHOMU DISTRICT JAIPUR RAJASTHAN PIN CODE 303705",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "CHOMU",
+            "district": "CHOMU",
+            "ifsc": "RATN0000234",
+            "office": "HAROTACHOMU",
+            "phone": "1800123804",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37024
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED GROUND FLOOR MURRABA NO 42 AND 26 SHOP NO 18 21 CHAK 7 Z TEHSIL AND DIST SRIGANGANAGAR RAJASTHAN PIN CODE 335001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SRIGANGANAGAR",
+            "district": "SRIGANGANAGAR",
+            "ifsc": "RATN0000235",
+            "office": "CHAK Z  SRIGANGANAGAR",
+            "phone": "1800123804",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37025
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED B 7 20 S KALYANI BESIDES BERI HONDA SHOWROOM P O KALYANI DIST NADIA PIN 741235",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KALYANI",
+            "district": "KALYANI",
+            "ifsc": "RATN0000236",
+            "office": "KALYANI BRANCH",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37026
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED NILKANTH ESTATE PLOT NO 154 155 GROUND FLOOR SHOP NO 3 NANA BAZAR OPPOSITE UNIVERSITY GIRLS HOSTEL VALLABHVIDYA NAGAR 388120",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "VALLABHVIDYA NAGAR",
+            "district": "AHMEDABAD",
+            "ifsc": "RATN0000237",
+            "office": "VV NAGAR",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37027
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD.,VASAI COMPLEX, ROYAKOTTA ROAD, KRISHNAGIRI, TAMILNADU 635001.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KRISHNAGIRI",
+            "district": "KRISHNAGIRI",
+            "ifsc": "RATN0000238",
+            "office": "KRISHNAGIRI BRANCH",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37028
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., NO. 127/2, NEAR OM SAKTHI KOVIL, KACHIRAYAPALAYAM MAIN ROAD, KATTUKOTTAI, SADAIYAMPATTU VILL., SOMANDARKUDI POST, KALLAKURICHI, TAMILNADU 606213.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KALLAKURICHI",
+            "district": "KALLAKURICHI",
+            "ifsc": "RATN0000239",
+            "office": "SADAIYAMPATTU BRANCH, KALLAKURICHI",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37029
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD., PLOT NO. XI 16, BLOCK EP AND GP, SECTOR V, SALT LAKE CITY, KOLKATA - 700091.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOL",
+            "ifsc": "RATN0000240",
+            "office": "SALT LAKE BRANCH",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37030
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD. D. NO. 40-5-1, TIKKLE ROAD, OPP DV MANOR, VIJAYAWADA 520010",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "VIJAYAWADA",
+            "district": "KRISHNA",
+            "ifsc": "RATN0000241",
+            "office": "VIJAYAWADA",
+            "phone": "1800123804",
+            "state": "ANDHRA PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37031
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD GROUND FLOOR PIPLI,LADWA ROAD VILLAGE SIRSAMA, TAHSHIL THANESAR KURUKSHETRA,HARYANA",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SIRSAMA",
+            "district": "KURUKSHETRA",
+            "ifsc": "RATN0000242",
+            "office": "SIRSAMA BRANCH",
+            "phone": "1800123804",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37032
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD. GROUND FLOOR, BUSINESS PARK, OPP TVS JIV RAJANI SHOW ROOM, KALAWAD ROAD, RAJKOT 360001.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "RAJKOT",
+            "district": "RJKOT",
+            "ifsc": "RATN0000243",
+            "office": "RAJKOT BRANCH",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37033
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD. GROUND FLOOR, SHOP NO.1, SAFAL PEGASUS, PRAHLAD NAGAR, AHMEDABAD 380015.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "RATN0000244",
+            "office": "PRAHLAD NAGAR",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37034
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD. UNIT NO.1, GROUND FLOOR, OXFORD CENTRE, 62/63 C RAMASWAMY ROAD, ALWARPET, CHENNAI 600018.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000245",
+            "office": "R A PURAM -  CHENNAI",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37035
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED,187,GROUND FLOOR CHITTRANJAN AVENUE,FORMERLY 11 AND 12 PRABHATI GHOSH LANE POLICE STATION GIRISH PARK WARD NO 25,KOLKATA 700007",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000246",
+            "office": "GIRISH PARK BRANCH",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37036
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, GROUND FLOOR, EMAAR MGF PALM SQUARE, GOLF COURSE EXTN ROAD, SECTOR-66 GURUGRAM, GURGAON, 122102",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GURUGRAM",
+            "district": "GURUGRAM",
+            "ifsc": "RATN0000247",
+            "office": "PALM SQUARE GOLF, COURSE EXTEN",
+            "phone": "1800123804",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37037
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, UNIT NO G1 AND G-2, GROUND FLOOR, SIMLIM SQUARE PREMISES CO-OP, SOC, LTD, LAMINGTON ROAD, GRANT ROAD EAST, MUMBAI-400007",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000248",
+            "office": "LAMINGTON ROAD BRANCH",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37038
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, 37, SATHYA MAIN ROAD, SIVANANDHAPURAM, SARAVANAMPATTI, TAMILNADU, COIMBATORE- 641035.",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "COIMBATORE",
+            "district": "COIMBATORE",
+            "ifsc": "RATN0000249",
+            "office": "SARAVANAMPATTI",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37039
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, D-33, RAJ NAGAR DISTRICT CENTRE RDC, GHAZIABAD-201002",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GHAZIABAD",
+            "district": "GHAZIABAD",
+            "ifsc": "RATN0000250",
+            "office": "RDC GHAZIABAD",
+            "phone": "1800123804",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37040
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LIMITED, GROUND FLOOR, 265 R, MODEL TOWN, JALANDHAR-144003",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "JALANDHAR",
+            "district": "JALANDHAR",
+            "ifsc": "RATN0000251",
+            "office": "MODEL TOWN JALANDHAR",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37041
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, UNIT NO. 2 AND 3, GROUND FLOOR, KALA KUNG BUILDING, PLOT NO.710, LINKING ROAD, KHAR WEST, MUMBAI-400052",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000252",
+            "office": "BANDRA WEST BRANCH",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37042
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, PLOT NO.4189/6275/2/SURVEY NO.125, GROUND FLOOR OPP SADANA THEATRE, N H ROAD, KND COMPLEX, HOSKOTE TOWN, BENGALURU- 5621114",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "RATN0000253",
+            "office": "HOSKOTE",
+            "phone": "1800123804",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37043
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, GROUND FLOOR, SS ARCADE, 257, 14TH MAIN, HSR SECTOR, 7, BENGALURU-560102",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "RATN0000254",
+            "office": "HSR LAYOUT",
+            "phone": "1800123804",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37044
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, SHOP NO.3, SPARSH, JAI HIND CHAR RASTA, MANI NAGAR, AHMEDABAD-380008",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "AHMEDABAD",
+            "district": "AHMEDABAD",
+            "ifsc": "RATN0000255",
+            "office": "MANINAGAR",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37045
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,DOOR NO.180,BANGALA STREET,ERODE MAIN ROAD,TIRUCHENGODE-637211",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "TIRUCHENGODE",
+            "district": "TIRUCHENGODE",
+            "ifsc": "RATN0000256",
+            "office": "TIRUCHENGODE",
+            "phone": "1800123804",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37046
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND FLOOR & BASEMENT FLOOR,L-96,LAJPAT NAGAR-II,NEW DELHI-110024",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000257",
+            "office": "LAJPAT NAGAR",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37047
+    },
+    {
+        "fields": {
+            "address": "RBL BANL LTD,GROUND FLOOR,G 28 TO G 31,MERCANTILE APARTMENT,DR.C.P.GIDWANI ROAD,NEAR GURUKRUPA HALL,CHEMUBUR,MUMBAI-400074",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000258",
+            "office": "CG ROAD BRANCH CHEMBUR",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37048
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND AND FIRST FLOOR 128 B BIDHAN SARANI KOLKATA 700004",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATA",
+            "district": "KOLKATA",
+            "ifsc": "RATN0000259",
+            "office": "SHYAMBAZAR",
+            "phone": "1800123804",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37049
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,50,GROUND FLOOR,M.G.ROAD,SECUNDERABAD-500003",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SECUNDERABAD",
+            "district": "SECUNDERABAD",
+            "ifsc": "RATN0000260",
+            "office": "SECUNDERABAD BRANCH",
+            "phone": "1800123804",
+            "state": "TELANGANA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37050
+    },
+    {
+        "fields": {
+            "address": "RBL BANL LTD,SHOP NO.3,BHAVANI TOWER,SURVEY NO.61/13,ANANTH NAGAR MAIN ROAD,HUSKUR GATE,ELCETRONIC CITY,BANGALORE-560100",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BENGALURU",
+            "ifsc": "RATN0000261",
+            "office": "BOMMASANDRA,BANGALORE BRANCH",
+            "phone": "1800123804",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37051
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND FLOOR,SHOP NO.6&7,PARIJAT APARTMENT,SHIVTEERTH NAGAR,KOTHRUD,PUNE-411038",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000262",
+            "office": "KOTHRUD PUNE BRANCH",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37052
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND FLOOR,SCO NO.36,BEANT SINGH AMAN NAGAR,BELA ROAD,ROPAR,PUNJAB-140001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "ROPAR",
+            "district": "ROPAR",
+            "ifsc": "RATN0000263",
+            "office": "ROPAR",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37053
+    },
+    {
+        "fields": {
+            "address": "RBL BANL LTD,GROUND FLOOR,PLOT NO 416,SECTOR 3,BLOCK C,OPPOSITE HDFC BANK,MANDI GOBINDGARH-147301",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MANDI GOBINDGARH",
+            "district": "MANDI GOBINDGARH",
+            "ifsc": "RATN0000264",
+            "office": "MANDI GOBINDGARH",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37054
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND FLOOR,SCO 830,NAC MANIMAJRA,CHANDIGARH-160101",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MANIMAJRA",
+            "district": "MANIMAJRA",
+            "ifsc": "RATN0000265",
+            "office": "MANIMAJRA",
+            "phone": "1800123804",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37055
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,PART GROUND FLOOR,PLOT NO.12B/58,DWARKA,NEW DELHI-110075",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000266",
+            "office": "DWARKA",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37056
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,43,JYOTI PARK SOCIETY,SURAT-KAMREJ ROAD,KAMREJ,DIST SURAT GUJARAT-394185",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SURAT",
+            "district": "SURAT",
+            "ifsc": "RATN0000267",
+            "office": "KAMREJ",
+            "phone": "1800123804",
+            "state": "GUJARAT"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37057
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, DLF COLONY BANKING LANE, GROUND FLOOR, SCO NO.13, DLF BANKING LANE, TRIPURI, PATIALA-147001, PUNJAB",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PATIALA",
+            "district": "PATIALA",
+            "ifsc": "RATN0000268",
+            "office": "TRIPURI PATIALA",
+            "phone": "1800123804",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37058
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,GROUND FLOOR,39 WEST AVENUE ROAD,PUNJABI BAGH, NEW DELHI-110026",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "RATN0000269",
+            "office": "PUNJABI BAGH",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37059
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, GROUND FLOOR, B-1/511, JANAKPURI, NEW DELHI-110058",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "NEW DELHI",
+            "district": "NEW DELHI",
+            "ifsc": "RATN0000270",
+            "office": "JANAKPURI",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37060
+    },
+    {
+        "fields": {
+            "address": "SHOP NO JA0028 AND JA0029 DLF TOWER A JASOLA NEW DELHI 110025",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000271",
+            "office": "JASOLA",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37061
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, GROUND FLOOR, B-11 GUJRANWALA, MODEL TOWN, NEW DELHI -110009",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000272",
+            "office": "GUJRAWALA, MODEL TOWN",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37062
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, GROUND FLOOR HIG-16, JAYDEV VIHAR, BHUBANESHWAR ODISHA-751013",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BHUBANESHWAR",
+            "district": "KHORDHA",
+            "ifsc": "RATN0000273",
+            "office": "BHUBANESHWAR BRANCH",
+            "phone": "1800123804",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37063
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD GRAM PANCHAYAT BHAWAN INFRONT OF KRISHI UPAJ MANDI MAIN ROAD VILLAGE HIRAPUR BLOCK MAKADI DIST KONDAGAON HIRAPUR CHHATTISGARH 494226",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KONDAGAON",
+            "district": "KONDAGAON",
+            "ifsc": "RATN0000274",
+            "office": "HIRAPUR",
+            "phone": "1800123804",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37064
+    },
+    {
+        "fields": {
+            "address": "SHOP NO C GROUND FLOOR PLOT NO C1 C BLOCK VAIBHAV COMPLEX GAUTAM MARG VAISHALI NAGAR JAIPUR 302021",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "JAIPUR",
+            "district": "JAIPUR",
+            "ifsc": "RATN0000275",
+            "office": "VAISHALI NAGAR JAIPUR",
+            "phone": "1800123804",
+            "state": "RAJASTHAN"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37065
+    },
+    {
+        "fields": {
+            "address": "LEVEL1, BLOCK B KHASRAN NO. 159 TO 165, THE MALL,SHIMLA, HIMACHAL PRADESH 171001",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "ifsc": "RATN0000277",
+            "office": "SHIMLA BRANCH",
+            "phone": "0",
+            "state": "HIMACHAL PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37066
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 5, GROUND FLOOR, ALFA PREMIO , NEAR DATTA MANDIR, OPP KHALSA DAIRY, VIMAN NAGAR, PUNE 4011014",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000278",
+            "office": "RBL",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37067
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR FARENA CORPORATE PARK SR NO 135 AND 136 HISSA NO 1A 2 MAGARPATTA ROAD HADAPSAR PUNE 411028",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000279",
+            "office": "MAGARPATTA ROAD",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37068
+    },
+    {
+        "fields": {
+            "address": "FIRST FLOOR PREMISES NO 51,BANKIM MUKHERJEE SARANI, WARD NO 81,41F BLOCK-C, NEW ALIPORE, KOLKATA-700053",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "KOLKATTA",
+            "district": "KOLKATTA",
+            "ifsc": "RATN0000280",
+            "office": "NEW ALIPORE",
+            "phone": "0",
+            "state": "WEST BENGAL"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37069
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 214 BLOCK J, SAKET, NEW DELHI 110017",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000281",
+            "office": "SAKET",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37070
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO 02 VARSHA AVENUE PLOT NO 104 CTS NO 1132  1133  ANAND PARK AUNDH PUNE 41107",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000283",
+            "office": "AUNDH",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37071
+    },
+    {
+        "fields": {
+            "address": "SAMRUDDHI PLOT NO 157 18TH ROAD NEAR AMBEDKAR GARDEN CHEMBUR EAST MUMBAI 400071",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000284",
+            "office": "AMBEDKAR GARDEN CHEMBUR EAST",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37072
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 3 GROUND FLOOR SMRUTI APARTMENTS MAHALAXMI MANDIR MARG CUMBALA HILL MUMBAI 400026",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000285",
+            "office": "CUMBALA HILL",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37073
+    },
+    {
+        "fields": {
+            "address": "230 MOUN ROAD NEAR SALES TAX OFFICE MAZGAON MUMBAI 400010",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000286",
+            "office": "MAZGAON",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37074
+    },
+    {
+        "fields": {
+            "address": "SHOP NO 6 AND 7 ANAND VAIBHAV CHS LTD N C KELKAR ROAD GROUND FLOOR OPP SHREE SHIVAJI NATYA MANDIR NEXT TO PLAZA CINEMA DADAR WEST MUMBAI 400028",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0000287",
+            "office": "DADAR WEST",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37075
+    },
+    {
+        "fields": {
+            "address": "108, GROUND FLOOR, 100 FT. RING ROAD, BSK 3RD STAGE, KATHRIGUPPE,BANGALORE-560085",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE",
+            "ifsc": "RATN0000288",
+            "office": "BANASHANKARI BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37076
+    },
+    {
+        "fields": {
+            "address": "SURAKSHA DE VENETIAN, NO.605, AECS LAYOUT,KUNDALAHALLI, BROOK FIELD, BANGALORE-560037",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE",
+            "ifsc": "RATN0000289",
+            "office": "BROOKEFIELDS BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37077
+    },
+    {
+        "fields": {
+            "address": "SHANTI TOWER,257/18, 10TH CROSS ROAD, 1ST N BLOCK, WARD NO 14 RAJAJI NAGAR, BANGALORE-560010",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "BENGALURU",
+            "district": "BANGALORE",
+            "ifsc": "RATN0000290",
+            "office": "RAJAJINAGAR BRANCH",
+            "phone": "0",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37078
+    },
+    {
+        "fields": {
+            "address": "SHOWROOM NO 1C GROUND FLOOR GO SQUARE MALL NEXT TO CROMA HINJEWADI WAKAD ROAD WAKAD PUNE 411057",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "RATN0000291",
+            "office": "WAKAD",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37079
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR E 10 DEFENCE COLONY NEW DELEHI 110024",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000292",
+            "office": "DEFENCE COLONY",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37080
+    },
+    {
+        "fields": {
+            "address": "B376 MEERA BAGH PASCHIM VIHAR NEW DELHI 110087",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000294",
+            "office": "MEERA BAGH PASCHIM VIHAR BRANCH",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37081
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR F43 KIRTI NAGAR NEW DELHI 110015",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000295",
+            "office": "KIRTI NAGAR BRANCH",
+            "phone": "1800123804",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37082
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 2/3619 FAIZ BAZAR, DARIYAGANJ, NEW DELHI - 110002",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000296",
+            "office": "DARIYAGANJ",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37083
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SCF 116, 3B2, MOHALI-160059",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MOHALI",
+            "district": "MOHALI",
+            "ifsc": "RATN0000297",
+            "office": "MOHALI",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37084
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, SCO 15, SECTOR 11, PANCHKULA-134109",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "RATN0000298",
+            "office": "PANCHKULA",
+            "phone": "0",
+            "state": "PUNJAB"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37085
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, S.C.O NO 329, SECTOR 35B, CHANDIGARH-160035",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "RATN0000299",
+            "office": "CHANDIGARH",
+            "phone": "0",
+            "state": "CHANDIGARH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37086
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, 11TH NRD TOWER, 100 FT ROAD, 1ST AVENUE ASHOK NAGAR, CHENNAI - 600083",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "ifsc": "RATN0000300",
+            "office": "ASHOK NAGAR BRANCH",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37087
+    },
+    {
+        "fields": {
+            "address": "GROUND A, SPACE NO 1,2,3,4, TWIN TOWER,SOUTH GANDHI MAIDAN, PATNA -800003",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "PATNA",
+            "district": "PATNA",
+            "ifsc": "RATN0000301",
+            "office": "GANDHI MAIDAN BRANCH",
+            "phone": "0",
+            "state": "BIHAR"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37088
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, C-126, NARAINA INDUSTRIAL AREA, PHASE-1, NEW DELHI-110028",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000302",
+            "office": "NARAINA BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37089
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR, B 258, SECTOR -50, NOIDA -201301",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "NOIDA",
+            "district": "GAUTAM BUDH NAGAR",
+            "ifsc": "RATN0000303",
+            "office": "NOIDA SECTOR",
+            "phone": "0",
+            "state": "UTTAR PRADESH"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37090
+    },
+    {
+        "fields": {
+            "address": "1ST FLOOR, 145, EAST COAST ROAD, NEELANGARAI,KANCHEEPURAM SHOLINGANALLUR-600115",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SHOLINGANALLUR",
+            "district": "SHOLINANALLUR",
+            "ifsc": "RATN0000304",
+            "office": "NEELANGARAI",
+            "phone": "0",
+            "state": "TAMIL NADU"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37091
+    },
+    {
+        "fields": {
+            "address": "PLOT NO 1253/2117, GROUND FLOOR, CHORADA MAIN ROAD, JAJPUR ROAD, ODISHA 755109",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "JAJPUR",
+            "district": "JAJPUR",
+            "ifsc": "RATN0000308",
+            "office": "JAJPUR ROAD BRANCH",
+            "phone": "0",
+            "state": "ODISHA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37092
+    },
+    {
+        "fields": {
+            "address": "A-13,FRONT PORTION & GROUND FLOOR, KAILASH COLONY NEW DELHI 10048",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000314",
+            "office": "KAILASH COLONY BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37093
+    },
+    {
+        "fields": {
+            "address": "GROUND FLOOR,4/3 ROOP NAGAR, KAMLA NAGAR, NEW DELHI 110007",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "DELHI",
+            "district": "DELHI",
+            "ifsc": "RATN0000315",
+            "office": "KAMLA NAGAR BRANCH",
+            "phone": "0",
+            "state": "DELHI"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37094
+    },
+    {
+        "fields": {
+            "address": "ONE INDIA BULLS CENTRE, 841 6TH FLOOR, TOWER B WING, LOWER PAREL",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000990",
+            "office": "CORPORATE OFFICE",
+            "phone": "2243020600",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37095
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD SERVICE BRANCH 19 J B HOUSE, R D STREET , FORT MUMBAI",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000991",
+            "office": "SERVICE BRANCH MUMBAI",
+            "phone": "2222655820",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37096
+    },
+    {
+        "fields": {
+            "address": "ONE INDIABULLS CENTRE, TOWER 2, 6TH FLOOR,841 SENAPATI BAPAT MARG, LOWER PAREL (W), MUMBAI 400 013.",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0000992",
+            "office": "CORPORATE OFFICE ( IB BRANCH )",
+            "phone": "0",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37097
+    },
+    {
+        "fields": {
+            "address": "MAHAVEER, SHRI SHAHU MARKET YARD, KOLHAPUR. PIN 416005",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN0000999",
+            "office": "HEAD OFFICE",
+            "phone": "2312650981",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37098
+    },
+    {
+        "fields": {
+            "address": "C S NO1170-A,9TH LANE SHUBHASH ROAD,JAYSINGPUR,TAL-SHIROL,DIST-KOLHAPUR-416101",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "SHIROLI",
+            "district": "KOLHAPUR",
+            "ifsc": "RATN00YDCBL",
+            "office": "YADRAV COOPERATIVE BANK LTD",
+            "phone": "982265555",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37099
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD, NATIONAL OPERATING CENTRE, 9TH FLOOR, TECHNI PLEX COMPLEX, NEAR OFF VEER SAVARKAR FLYOVER, GOREGAON WEST, MUMBAI -400062",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "GREATE BOMBAY",
+            "district": "nan",
+            "ifsc": "RATN0CCIMPS",
+            "office": "NOC GOREGAON",
+            "phone": "262278700",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37100
+    },
+    {
+        "fields": {
+            "address": "THE RATNAKAR BANK LTD,9TH FLOOR, TECHNIPLEX-I, OFF VEER SAVARKAR FLYOVER, GOREGAON WEST, MUMBAI - 400 062",
+            "bank_name": "RBL Bank Limited",
+            "branch": "",
+            "city": "GREATER BOMBAY",
+            "district": "GREATER BOMBAY",
+            "ifsc": "RATN0CRCARD",
+            "office": "NOC-GOREGAON",
+            "phone": "9833666862",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37101
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,6TH FLOOR,TOWER 2B,ONE INDIA BULLS,LOWER PAREL",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0VAAPIS",
+            "office": "CORPORATE OFFICE",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37102
+    },
+    {
+        "fields": {
+            "address": "RBL BANK LTD,6TH FLOOR,TOWER 2B,ONE INDIA BULLS,LOWER PAREL",
+            "bank_name": "RBL BANK LIMITED",
+            "branch": "",
+            "city": "MUMBAI",
+            "district": "MUMBAI",
+            "ifsc": "RATN0VAOXGN",
+            "office": "CORPORATE OFFICE",
+            "phone": "1800123804",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifscnew",
+        "pk": 37103
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "fields": {
+            "address": "517,A/1,E WARD,TARARANI CHOWK",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000001",
+            "office": "RTGS-HO",
+            "phone": "2536940",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "1517,C,LAXMIPURI,KOLHAPUR-416002",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000002",
+            "office": "LAXMIPURI",
+            "phone": "2641143",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "601,BAJAR PETH GADHINGLAJ-416501",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "GADHINGLAJ",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000003",
+            "office": "GADHINGLAJ",
+            "phone": "222218",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "HUPARI RENDAL ROAD-416203",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "RENDAL",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000004",
+            "office": "RENDAL",
+            "phone": "2450133",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "8032,WARD 10,HULGESHWARI ROAD ICHALKARANJI-416115",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "ICHALKARANJI",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000005",
+            "office": "ICHALKARANJI",
+            "phone": "2432129",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "LNO-05,SHAHU MARKET YARD KOLHAPUR-416005",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000006",
+            "office": "MARKET YARD ,KOLHAPUR",
+            "phone": "2651522",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "227,C WARD,BAZAR PETH,RASHIVADE-416224",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "RASHIVADE",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000007",
+            "office": "RASHIVADE",
+            "phone": "240142",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "604,BAZAR PETH,HALKARNI-416506",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "HALKARNI",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000008",
+            "office": "HALKARNI",
+            "phone": "264141",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "1084,9TH LANE,JAYSINGPUR-416101",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "JAYSINGPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000009",
+            "office": "JAYSINGPUR",
+            "phone": "225628",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "517,A/1,E WARD,TARARANI CHOWK",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000010",
+            "office": "TARARANI CHOWK,KOLHAPUR",
+            "phone": "2537329",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "1229,E WARD KOLHAPUR-416506",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000011",
+            "office": "BAGAL CHOWK KOLHAPUR",
+            "phone": "2525497",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "247/2,R K NAGAR,KOLHAPUR-416007",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000012",
+            "office": "R K NAGAR ,KOLHAPUR",
+            "phone": "2638274",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "1036,D WARD,SHANIWAR PETH,1ST FLOOR,NEAR CORPORATION,KOLHAPUR-416002",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000013",
+            "office": "MANDAI,KOLHAPUR",
+            "phone": "2540906",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "VIRAJ CITY KAGAL,NEAR BHUYEKAR PETROL PUMP,KAGAL-416216",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KAGAL",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000014",
+            "office": "KAGAL",
+            "phone": "244021",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "H NO-667,OPP CORPORATION BUILD,TAL-HATKALANGALE,KOLHAPUR-416112",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "PETH VADGAON",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000015",
+            "office": "PETH VADGAON",
+            "phone": "2471432",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "address": "KHOKALE BUILDING,TANAJI CHOWK,GANPATI PETH SANGALI-416410",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "SVSH0000016",
+            "office": "GANAPATI PETH,SANGLI",
+            "phone": "2324230",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "address": "1-A/12,2 BANAJI COMPLEX,1ST FLOOR D WARD,OPP KISHOR CO.M ROAD-KOLAHPUR-416002",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000017",
+            "office": "MAHADWAR ROAD,KOLHAPUR",
+            "phone": "2540608",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "address": "VASANT MARKET YARD,NEAR DRAKSH BHAVAN,SANGALI-416416",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "SANGLI",
+            "district": "SANGLI",
+            "ifsc": "SVSH0000018",
+            "office": "VASANT MARKET YARD,SANGLI",
+            "phone": "2670668",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "address": "BAZAR PETH,GANDHINAGAR TAL-KARVIR,KOLHAPUR-416116",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000019",
+            "office": "GANDHINAGAR,KOLHAPUR",
+            "phone": "2610991",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "address": "1159,BAZAR PETH,MAIN ROAD,KALE-416205",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KALE",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000020",
+            "office": "KALE",
+            "phone": "232425",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "address": "SAYAJI BUSINESS CENTRE,NEAR S T STAND,OPP.BARDESKAR PETROL PUMP,KOLHAPUR-416209",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "GARGOTI",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000021",
+            "office": "GARGOTI",
+            "phone": "220942",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "address": "OFFICE UNIT NO-3,MALKAPUR PRIDE BUILDING,1ST FLOOR,MALKAPUR,TAL - SHAHUWADI,KOLHAPUR",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "MALKAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000022",
+            "office": "MALKAPUR",
+            "phone": "2240003",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "address": "AGREE PRODUCT MKT.COMMITEE,GULTEKADI,SHRI CH.SHIVAJI MARKET GALA NO-1,3,1ST FLOOR,PUNE-37",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "PUNE",
+            "district": "PUNE",
+            "ifsc": "SVSH0000023",
+            "office": "PUNE",
+            "phone": "24272605",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "address": "BASURI BUILDING,VITA ROAD,TASGAON-416312",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "TASGAON",
+            "district": "SANGLI",
+            "ifsc": "SVSH0000024",
+            "office": "TASGAON",
+            "phone": "241741",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "address": "1031/1,NEAR SAI MANDIR,MAIN ROAD KALAMBA,KOLHAPUR-416007",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000025",
+            "office": "KALAMBA,KOLHAPUR",
+            "phone": "2326247",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "address": "SRI,BALASAEB JUBILI,LIBRARY,LAXMI MARKET,KISAN CHOWK MIRAJ-416412",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "MIRAJ",
+            "district": "SANGLI",
+            "ifsc": "SVSH0000026",
+            "office": "MIRAJ",
+            "phone": "2227560",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "address": "SANEGURUJI KSHIHSHAK GRUH NIRAMAN SANSTHA LTD,PL NO 27,RADHANAGARI ROAD,SANEGURUJI VASAHAT-416012",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "KOLHAPUR",
+            "district": "KOLHAPUR",
+            "ifsc": "SVSH0000027",
+            "office": "SANEGURUJI,KOLHAPUR",
+            "phone": "2324918",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "address": "F1,C1,C WING SECTOR NO.10,SUNGRACE APARTMENT OF ASSOCIATION,MAIN ROAD VASHI,NAVI MUMBAI-400703",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "VASHI,NAVI MUMBAI",
+            "district": "NAVI MUMBAI",
+            "ifsc": "SVSH0000028",
+            "office": "VASHI,NAVI MUMBAI",
+            "phone": "27891112",
+            "state": "MAHARASHTRA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "address": "SHOP NO-12-2-15,MANCHAL BUILDING,GUNJ ROAD,NEAR GUNJ MARKET RAICHUR-584102",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "RAICHUR",
+            "district": "RAICHUR",
+            "ifsc": "SVSH0000029",
+            "office": "RAICHUR",
+            "phone": "235915",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "address": "MUNCIPAL HOUSE NO-743/52,ID-11-2-501-16B,RANI CHANNAMA CIRCLE,ASHOKNAGAR NIPANI-591237",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "NIPANI",
+            "district": "BELGAVI",
+            "ifsc": "SVSH0000030",
+            "office": "NIPANI",
+            "phone": "223145",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "address": "AT-/C.S.NO.3481,VILA TOWER,SAMADEVI GALLI,BELGAVI",
+            "bank_name": "Shri Veershaiv Co Op Bank Ltd",
+            "branch": "",
+            "city": "BELGAVI",
+            "district": "BELGAVI",
+            "ifsc": "SVSH0000031",
+            "office": "BELGAVI",
+            "phone": "2425111",
+            "state": "KARNATAKA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 31
+    }
+]

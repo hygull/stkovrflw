@@ -1,0 +1,227 @@
+[
+    {
+        "fields": {
+            "address": "SCO 78-80, BANK SQUARE, SECTOR-17B",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000002",
+            "office": "SECTOR-SEVENTEEN B CHANDIGARH",
+            "phone": "2709667",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "SCO -04, SECTOR -15 CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000003",
+            "office": "SECTOR -FIFTEEN CHANDIGARH",
+            "phone": "2771315",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "SCO -147, SECTOR-28D, CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000004",
+            "office": "SECTOR-TWENTY EIGHT D CHANDIGARH",
+            "phone": "2651634",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "SCO -10 (F.F.) SECTOR-20, CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000005",
+            "office": "SECTOR-TWENTY CHANDIGARH",
+            "phone": "2706557",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "SCO 40, SECTOR-19 CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000006",
+            "office": "SECTOR-NINETEEN CHANDIGARH",
+            "phone": "2773077",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "SCO 68, SECTOR-32C CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000007",
+            "office": "SECTOR-THIRTY TWO CHANDIGARH",
+            "phone": "2660672",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "SCO 360, SECTOR-44D CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000008",
+            "office": "SECTOR-FOURTY FOUR CHANDIGARH",
+            "phone": "2609540",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "SCO 48, SECTOR-4 PANCHKULA",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "HARC0000009",
+            "office": "SECTOR-FOUR PANCHKULA",
+            "phone": "2566406",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "address": "SAHAKARITA BHAWAN, SECTOR-2 PANCHKULA",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "HARC0000010",
+            "office": "SECTOR-TWO PANCHKULA",
+            "phone": "2560178",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "address": "SCF 94, SECTOR-11, PANCHKULA",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "HARC0000011",
+            "office": "SECTOR-ELEVEN PANCHKULA",
+            "phone": "2566365",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "address": "SCF 20, SECTOR-15 PANCHULA",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "HARC0000012",
+            "office": "SECTOR-FIFTEEN PANCHKULA",
+            "phone": "2594405",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "address": "SCF 221, MOTOR MKT.MANI MAJRA CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000013",
+            "office": "MANIMAJRA",
+            "phone": "2739319",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "address": "HARYANA CIVIL SECRETARIAT, CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000014",
+            "office": "HCS CHANDIGARH",
+            "phone": "2741604",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "address": "NEW SECRETARIAT, SECTOR-17 CHANDIGARH",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "CHANDIGARH",
+            "district": "CHANDIGARH",
+            "ifsc": "HARC0000015",
+            "office": "EXT COUNTER SECTOR-SEVENTEEN CHANDIGARH",
+            "phone": "2713908",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "address": "HSAMB, SECTOR-6, C-6, MANDI BHAWAN PANCHKULA",
+            "bank_name": "HARYANA STATE COOPERATIVE BANK",
+            "branch": "",
+            "city": "PANCHKULA",
+            "district": "PANCHKULA",
+            "ifsc": "HARC0000016",
+            "office": "EXT COUNTER SECTOR-SIX PANCHKULA",
+            "phone": "2563934",
+            "state": "HARYANA"
+        },
+        "model": "masterdata.ifsc",
+        "pk": 15
+    }
+]

@@ -3,7 +3,6 @@
 TypeError: catching classes that do not inherit from BaseException is not allowed
 ```
 
-
 ```python
 try:
 	requests.get(url)

@@ -42,3 +42,30 @@ SyntaxError: Unexpected token null
 'String'
 > 
 ```
+
+
+```javascript
+> key = "declared_value_currency"
+'declared_value_currency'
+> 
+> key.split('-')
+[ 'declared_value_currency' ]
+> 
+> key.split('_')
+[ 'declared', 'value', 'currency' ]
+> 
+> key.replace('_', ' ')
+'declared value_currency'
+> 
+> key.replace(/_/g, ' ')
+'declared value currency'
+> 
+> key.replace(/_/g, ' ').toUpperCase()
+'DECLARED VALUE CURRENCY'
+> 
+> "public_key".replace(/_/g, ' ').toUpperCase()
+'PUBLIC KEY'
+> 'sequence_id'.replace(/_/g, ' ').toUpperCase()
+'SEQUENCE ID'
+> 
+```

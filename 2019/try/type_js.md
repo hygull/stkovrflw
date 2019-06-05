@@ -1,8 +1,6 @@
 ### Checking type of varibale in JavaScript
 
 ```javascript
-Last login: Wed Jun  5 16:25:52 on ttys002
-no%                                                                                      ➜  src git:(master) ✗ node
 > o = {}
 {}
 > p = null

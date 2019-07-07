@@ -1,5 +1,5 @@
 # New answer
-# https://stackoverflow.com/questions/56921596/how-to-get-the-values-of-a-dictionary-using-key-path?noredirect=1#comment100386785_56921596
+# https://stackoverflow.com/questions/56921596/how-to-get-the-values-of-a-dictionary-using-key-path
 def find_in_input_json(element, input_json):
 	values = {} # Output dictionary with key in dict1: matched value
 

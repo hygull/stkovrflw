@@ -1,5 +1,5 @@
 # Old answer 
-# https://stackoverflow.com/questions/56921596/how-to-get-the-values-of-a-dictionary-using-key-path?noredirect=1#comment100386785_56921596
+# https://stackoverflow.com/questions/56921596/how-to-get-the-values-of-a-dictionary-using-key-path
 def find_in_input_json(element, input_json):
     # Fetch element keys value
     element = element['file']["element"] # '/Users/hygull/Desktop/Python3/file1/output'

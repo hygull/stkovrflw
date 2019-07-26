@@ -84,7 +84,7 @@ And below just works fine using **requests**.
 >>> 
 ```
 
-### Fix
+### Fix (MAC OS X users)
 
 > **Note:** Visit https://stackoverflow.com/a/42334357/6615163, it's execellent and worded for me.
 

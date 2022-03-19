@@ -1,4 +1,4 @@
-# findall() example
+# re.findall() example
 
 ```python
 In [9]: import re                                                                                             
